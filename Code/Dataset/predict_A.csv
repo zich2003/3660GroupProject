@@ -1,0 +1,1491 @@
+BMI,PhysicalHealth,MentalHealth,SleepTime,SmokingStatus,Stroke,PhysicalActivity,AlcoholDrinking,Asthma,Diabetes,KidneyDisease,Skin_Cancer,HavingCVD,GENDER,Age_Range,Index,BMI_Class,_LEVEL_,pred_prob
+27.37,0 days,0 days,8,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Male,71-75,1,OVER-FAT,Yes,0.6920060867
+17.14,1-7 days,1-7 days,9,Yes,Yes,No,No,No,No,No,No,Yes,Female,>= 80,2,OVER-THIN,Yes,0.8270116829
+26.63,>28 days,0 days,6,Yes,No,No,No,No,No,No,No,Yes,Male,71-75,3,OVER-FAT,Yes,0.76185609
+27.59,0 days,0 days,5,No,No,No,No,No,No,No,No,Yes,Female,>= 80,4,OVER-FAT,Yes,0.6316586966
+24.14,0 days,0 days,8,Yes,No,Yes,No,No,No,No,Yes,Yes,Male,>= 80,5,OVER-FAT,Yes,0.7485319635
+31.85,>28 days,>28 days,4,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Male,61-65,6,OBESITY,Yes,0.9466109117
+28.34,8-14 days,1-7 days,13,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Female,56-60,7,OBESITY,Yes,0.8229584428
+18.9,0 days,0 days,7,No,No,Yes,No,No,No,No,Yes,Yes,Female,76-80,8,NORMAL,Yes,0.470486433
+29.53,0 days,0 days,7,No,No,Yes,No,No,Yes,No,No,Yes,Male,66-70,9,OBESITY,Yes,0.5651184809
+25.1,1-7 days,0 days,6,Yes,No,Yes,No,No,No,No,Yes,Yes,Male,66-70,10,OVER-FAT,Yes,0.6233883652
+30.08,15-21 days,>28 days,6,Yes,No,No,No,No,No,No,Yes,Yes,Male,56-60,11,OBESITY,Yes,0.6334053718
+34.67,1-7 days,1-7 days,6,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Female,71-75,12,OBESITY,Yes,0.721134133
+34.7,0 days,0 days,6,Yes,No,Yes,No,No,No,No,No,Yes,Male,61-65,13,OBESITY,Yes,0.7035577668
+27.12,0 days,0 days,7,No,No,Yes,No,No,No,No,No,Yes,Male,>= 80,14,OVER-FAT,Yes,0.7065076022
+29.29,0 days,0 days,6,No,No,Yes,No,No,No,No,No,Yes,Female,51-55,15,OBESITY,Yes,0.3215762594
+39.05,0 days,0 days,8,No,No,No,No,Yes,Yes,Yes,No,Yes,Male,56-60,16,OBESITY,Yes,0.5671363346
+28.89,0 days,0 days,7,No,No,Yes,No,No,Yes,No,Yes,Yes,Male,>= 80,17,OBESITY,Yes,0.7533200454
+31.89,15-21 days,0 days,9,No,No,No,No,No,Yes,No,No,Yes,Female,66-70,18,OBESITY,Yes,0.5138089029
+36.49,0 days,0 days,11,Yes,Yes,No,No,No,Yes,No,No,Yes,Male,61-65,19,OBESITY,Yes,0.9999990139
+35.15,15-21 days,15-21 days,5,Yes,No,Yes,No,Yes,No,No,No,Yes,Female,71-75,20,OBESITY,Yes,0.8233314996
+43.27,>28 days,0 days,12,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Male,71-75,21,OBESITY,Yes,0.8034599071
+22.92,15-21 days,1-7 days,6,No,No,Yes,No,No,No,No,No,Yes,Female,>= 80,22,NORMAL,Yes,0.5539782047
+26.63,0 days,0 days,5,Yes,No,Yes,No,No,Yes,No,No,Yes,Male,76-80,23,OVER-FAT,Yes,0.8116370549
+23.63,1-7 days,0 days,7,No,No,Yes,No,No,Yes,No,No,Yes,Female,76-80,24,NORMAL,Yes,0.470486433
+23.57,0 days,0 days,6,Yes,No,Yes,No,No,No,No,No,Yes,Female,56-60,25,NORMAL,Yes,0.1969532097
+26.86,0 days,0 days,8,No,No,Yes,No,Yes,No,No,No,Yes,Female,76-80,26,OVER-FAT,Yes,0.704917952
+26.76,>28 days,>28 days,5,No,No,No,No,Yes,No,No,No,Yes,Female,61-65,27,OVER-FAT,Yes,0.6755796903
+32.32,>28 days,22-28 days,6,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Male,61-65,28,OBESITY,Yes,0.9781357108
+40.27,>28 days,15-21 days,7,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Female,61-65,29,OBESITY,Yes,0.6616039702
+21.02,0 days,>28 days,8,Yes,No,Yes,No,No,No,Yes,No,Yes,Male,76-80,30,NORMAL,Yes,0.8029113011
+50.85,15-21 days,1-7 days,3,Yes,No,No,Yes,Yes,No,No,No,Yes,Female,51-55,31,OBESITY,Yes,0.4041363011
+33.83,1-7 days,1-7 days,5,No,No,Yes,No,No,Yes,No,No,Yes,Female,56-60,32,OBESITY,Yes,0.2906857415
+31,0 days,1-7 days,10,Yes,No,Yes,No,No,No,No,No,Yes,Female,>= 80,33,OBESITY,Yes,0.7962892545
+43.43,8-14 days,>28 days,4,No,No,No,No,No,Yes,Yes,No,Yes,Female,66-70,34,OBESITY,Yes,0.8230640914
+25.84,1-7 days,0 days,9,Yes,No,Yes,No,No,Yes,No,No,Yes,Male,61-65,36,OVER-FAT,Yes,0.6674799527
+32.64,1-7 days,1-7 days,6,No,Yes,Yes,No,No,No,No,Yes,Yes,Male,66-70,37,OBESITY,Yes,0.9054261197
+23.42,1-7 days,0 days,7,No,No,Yes,No,No,No,No,No,Yes,Male,71-75,38,NORMAL,Yes,0.5693144398
+32.49,0 days,0 days,8,No,No,No,No,No,No,No,No,Yes,Female,<= 40,39,OBESITY,Yes,0.0564530144
+22.5,>28 days,>28 days,5,No,Yes,Yes,No,No,Yes,No,Yes,Yes,Female,76-80,40,NORMAL,Yes,0.9059516639
+29.95,0 days,0 days,7,Yes,No,No,No,No,No,No,No,Yes,Female,71-75,41,OBESITY,Yes,0.5195065059
+32.44,0 days,0 days,3,No,Yes,Yes,No,Yes,No,No,No,Yes,Male,61-65,42,OBESITY,Yes,0.9318389824
+29.95,0 days,0 days,9,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Female,76-80,44,OBESITY,Yes,0.8095001721
+36.85,15-21 days,>28 days,7,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Male,56-60,45,OBESITY,Yes,0.8740826695
+26.63,0 days,0 days,6,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Female,56-60,46,OVER-FAT,Yes,0.6012118392
+25.54,0 days,0 days,7,Yes,No,Yes,No,No,No,No,No,Yes,Male,66-70,47,OVER-FAT,Yes,0.5060111136
+23.75,1-7 days,0 days,8,No,No,Yes,No,No,No,No,Yes,Yes,Male,76-80,48,NORMAL,Yes,0.7184826744
+28.32,8-14 days,8-14 days,6,Yes,No,Yes,No,No,No,No,No,Yes,Female,66-70,49,OBESITY,Yes,0.5488654738
+39.87,22-28 days,0 days,7,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Male,>= 80,50,OBESITY,Yes,0.8403362328
+28.7,>28 days,>28 days,7,Yes,No,Yes,No,No,No,No,No,Yes,Male,71-75,51,OBESITY,Yes,0.7862987649
+21.63,0 days,0 days,7,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Female,>= 80,52,NORMAL,Yes,0.7712413671
+40.29,0 days,1-7 days,7,Yes,No,Yes,No,No,No,No,No,Yes,Female,66-70,53,OBESITY,Yes,0.3631939398
+20.8,>28 days,0 days,4,Yes,Yes,No,No,No,No,No,No,Yes,Male,>= 80,54,NORMAL,Yes,0.9760751713
+30.04,0 days,0 days,8,Yes,No,Yes,No,No,No,No,No,Yes,Female,>= 80,55,OBESITY,Yes,0.6191379138
+31.89,0 days,0 days,8,No,No,No,No,No,Yes,No,Yes,Yes,Female,>= 80,56,OBESITY,Yes,0.6391472122
+30.79,1-7 days,22-28 days,6,No,No,Yes,No,No,No,No,No,Yes,Female,76-80,57,OBESITY,Yes,0.859618081
+38.26,0 days,0 days,8,No,No,Yes,No,No,Yes,No,No,Yes,Male,56-60,58,OBESITY,Yes,0.431886933
+27.34,0 days,0 days,7,No,No,No,No,No,No,Yes,No,Yes,Female,>= 80,59,OVER-FAT,Yes,0.5303209395
+25.8,0 days,0 days,5,No,No,Yes,No,No,No,No,No,Yes,Male,66-70,60,OVER-FAT,Yes,0.6087240793
+29.16,0 days,1-7 days,8,Yes,No,Yes,No,Yes,No,No,No,Yes,Male,66-70,61,OBESITY,Yes,0.7215514955
+37.3,0 days,0 days,7,No,No,Yes,No,Yes,Yes,No,No,Yes,Male,56-60,62,OBESITY,Yes,0.4930222307
+19.79,0 days,0 days,5,Yes,No,Yes,No,No,No,No,Yes,Yes,Male,76-80,63,NORMAL,Yes,0.7581453686
+38.35,>28 days,8-14 days,8,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Male,61-65,64,OBESITY,Yes,0.9495926811
+29.05,0 days,0 days,7,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Male,>= 80,65,OBESITY,Yes,0.9557557693
+27.98,>28 days,0 days,5,No,No,No,No,No,No,No,No,Yes,Female,>= 80,66,OVER-FAT,Yes,0.6316586966
+29.29,0 days,0 days,10,Yes,No,Yes,No,No,No,No,No,Yes,Male,71-75,67,OBESITY,Yes,0.8705091583
+30.81,0 days,0 days,7,No,No,Yes,No,Yes,No,No,No,Yes,Male,66-70,68,OBESITY,Yes,0.6727218056
+29.18,0 days,0 days,5,Yes,Yes,Yes,No,No,No,No,No,Yes,Female,76-80,69,OBESITY,Yes,0.9132195371
+31.09,0 days,0 days,6,No,No,Yes,No,No,No,No,No,Yes,Female,71-75,70,OBESITY,Yes,0.6159046236
+37.6,1-7 days,>28 days,6,Yes,No,No,Yes,No,Yes,No,No,Yes,Male,56-60,71,OBESITY,Yes,0.6334053718
+27.78,>28 days,0 days,5,Yes,No,Yes,No,No,No,Yes,No,Yes,Male,41-45,73,OVER-FAT,Yes,0.2364215105
+26.54,1-7 days,1-7 days,9,No,No,Yes,No,No,Yes,No,No,Yes,Male,61-65,74,OVER-FAT,Yes,0.6717570487
+28.34,0 days,1-7 days,7,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Female,>= 80,75,OBESITY,Yes,0.8570164975
+25.06,>28 days,0 days,6,Yes,No,Yes,No,No,No,No,No,Yes,Male,76-80,76,OVER-FAT,Yes,0.8209336223
+25.66,>28 days,1-7 days,8,No,No,No,No,No,Yes,No,Yes,Yes,Male,61-65,77,OVER-FAT,Yes,0.613937807
+24.39,>28 days,0 days,4,No,No,Yes,No,No,No,No,No,Yes,Male,<= 40,78,OVER-FAT,Yes,0.2799461862
+35.51,0 days,0 days,8,No,No,Yes,No,Yes,Yes,No,No,Yes,Female,66-70,79,OBESITY,Yes,0.5224882284
+27.47,0 days,0 days,9,Yes,No,No,No,No,No,No,No,Yes,Female,71-75,80,OVER-FAT,Yes,0.5963998848
+25.1,1-7 days,0 days,7,Yes,No,Yes,No,Yes,No,No,No,Yes,Male,71-75,81,OVER-FAT,Yes,0.7418791507
+21.52,0 days,0 days,10,No,No,Yes,No,No,No,No,Yes,Yes,Male,>= 80,82,NORMAL,Yes,0.8362642672
+24.55,0 days,1-7 days,7,Yes,No,Yes,No,No,No,No,Yes,Yes,Male,61-65,83,OVER-FAT,Yes,0.5413566368
+30.66,1-7 days,>28 days,11,No,No,Yes,No,No,No,No,No,Yes,Female,76-80,84,OBESITY,Yes,0.9999971466
+25.1,0 days,0 days,9,Yes,No,Yes,No,No,No,No,No,Yes,Female,76-80,85,OVER-FAT,Yes,0.6792418821
+27.46,0 days,15-21 days,7,Yes,No,No,No,No,No,No,No,Yes,Female,66-70,86,OVER-FAT,Yes,0.4843357013
+24.72,0 days,0 days,8,No,No,Yes,No,No,No,Yes,No,Yes,Female,61-65,87,OVER-FAT,Yes,0.3812995794
+25.06,1-7 days,0 days,7,Yes,No,Yes,No,No,No,No,Yes,Yes,Male,61-65,88,OVER-FAT,Yes,0.5365526389
+42.31,0 days,15-21 days,6,Yes,No,Yes,No,No,No,No,No,Yes,Male,41-45,89,OBESITY,Yes,0.4496328511
+24.21,1-7 days,0 days,8,No,No,No,No,No,No,No,No,Yes,Female,>= 80,90,OVER-FAT,Yes,0.582671176
+22.81,0 days,0 days,8,No,No,Yes,No,No,No,No,No,Yes,Male,71-75,91,NORMAL,Yes,0.6204292164
+28.7,1-7 days,0 days,10,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Male,>= 80,92,OBESITY,Yes,0.8990534581
+22.6,>28 days,0 days,8,No,No,Yes,No,No,No,No,No,Yes,Male,>= 80,93,NORMAL,Yes,0.684094665
+33.28,0 days,0 days,7,No,No,Yes,No,Yes,Yes,No,No,Yes,Female,66-70,94,OBESITY,Yes,0.4694625178
+24.96,0 days,0 days,9,Yes,No,No,No,No,No,No,No,Yes,Female,>= 80,95,OVER-FAT,Yes,0.6618994011
+25.79,0 days,0 days,8,No,No,Yes,No,No,No,No,No,Yes,Female,71-75,96,OVER-FAT,Yes,0.4916735845
+20.6,1-7 days,0 days,7,No,Yes,Yes,No,No,Yes,No,No,Yes,Female,76-80,97,NORMAL,Yes,0.7989312209
+26.19,>28 days,>28 days,8,No,No,No,No,No,Yes,Yes,No,Yes,Male,61-65,98,OVER-FAT,Yes,0.7134510457
+33.59,0 days,0 days,7,No,No,Yes,No,No,No,No,No,Yes,Female,61-65,99,OBESITY,Yes,0.3873570474
+26.45,0 days,0 days,8,No,No,Yes,No,Yes,No,No,No,Yes,Male,>= 80,100,OVER-FAT,Yes,0.8248209232
+23.09,1-7 days,0 days,9,No,No,Yes,No,No,Yes,No,No,Yes,Male,51-55,101,NORMAL,Yes,0.4038746013
+24.96,0 days,0 days,6,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Female,>= 80,102,OVER-FAT,Yes,0.8821955633
+28.7,0 days,0 days,7,Yes,No,Yes,No,No,Yes,No,No,Yes,Male,71-75,103,OBESITY,Yes,0.6974354059
+37.62,8-14 days,8-14 days,8,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Male,61-65,104,OBESITY,Yes,0.9453250276
+25.09,15-21 days,1-7 days,8,Yes,No,Yes,No,No,No,Yes,No,Yes,Male,71-75,105,OVER-FAT,Yes,0.6961113382
+43.85,1-7 days,>28 days,6,No,No,No,No,No,No,No,No,Yes,Male,71-75,106,OBESITY,Yes,0.8662778397
+23.89,0 days,1-7 days,8,No,No,Yes,No,No,No,No,No,Yes,Female,>= 80,107,NORMAL,Yes,0.4872936701
+37.12,15-21 days,0 days,6,No,Yes,No,No,No,No,Yes,No,Yes,Female,76-80,108,OBESITY,Yes,0.9242379386
+25.77,1-7 days,0 days,6,Yes,No,Yes,Yes,No,No,No,No,Yes,Male,61-65,109,OVER-FAT,Yes,0.6516685133
+37.12,>28 days,0 days,6,Yes,No,No,No,Yes,Yes,No,No,Yes,Female,61-65,110,OBESITY,Yes,0.6377952589
+22.6,1-7 days,1-7 days,6,Yes,No,Yes,No,No,No,No,No,Yes,Female,<= 40,111,NORMAL,Yes,0.0402661566
+41.96,1-7 days,15-21 days,10,No,Yes,No,No,No,No,No,No,Yes,Female,51-55,112,OBESITY,Yes,0.8906916694
+26.15,0 days,0 days,6,No,No,Yes,No,No,No,No,No,Yes,Female,51-55,113,OVER-FAT,Yes,0.2720089988
+27.46,>28 days,>28 days,7,No,Yes,Yes,No,No,Yes,No,No,Yes,Female,66-70,114,OVER-FAT,Yes,0.758904789
+25.04,0 days,0 days,6,Yes,No,Yes,No,No,No,No,No,Yes,Male,>= 80,115,OVER-FAT,Yes,0.7954981998
+23.99,0 days,1-7 days,8,Yes,No,Yes,No,No,No,No,No,Yes,Male,46-50,116,NORMAL,Yes,0.1170153412
+23.91,0 days,0 days,8,Yes,No,No,No,No,No,No,Yes,Yes,Female,>= 80,117,NORMAL,Yes,0.5039009818
+24,22-28 days,0 days,6,No,Yes,No,No,No,No,No,Yes,Yes,Female,>= 80,118,NORMAL,Yes,0.855822464
+28.29,>28 days,1-7 days,8,Yes,No,No,No,No,Yes,Yes,No,Yes,Female,76-80,119,OBESITY,Yes,0.6803307273
+25.83,15-21 days,1-7 days,10,Yes,No,Yes,No,No,No,No,Yes,Yes,Female,46-50,120,OVER-FAT,Yes,0.1560858326
+25.34,1-7 days,0 days,7,Yes,No,Yes,No,No,No,No,No,Yes,Male,71-75,121,OVER-FAT,Yes,0.6450152066
+25.09,0 days,0 days,7,No,Yes,Yes,No,No,No,No,No,Yes,Male,66-70,122,OVER-FAT,Yes,0.8208129623
+31.57,1-7 days,0 days,7,No,No,Yes,No,No,Yes,No,Yes,Yes,Male,76-80,123,OBESITY,Yes,0.7825675958
+31.95,0 days,1-7 days,10,Yes,No,No,No,No,No,No,Yes,Yes,Male,>= 80,124,OBESITY,Yes,0.9082005491
+31.93,1-7 days,0 days,7,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Male,76-80,125,OBESITY,Yes,0.7825675958
+27.05,0 days,0 days,6,No,No,No,No,No,No,No,No,Yes,Male,76-80,126,OVER-FAT,Yes,0.833197426
+25.06,>28 days,0 days,10,No,Yes,Yes,No,No,No,No,No,Yes,Female,71-75,127,OVER-FAT,Yes,0.9107273152
+25.54,1-7 days,0 days,8,Yes,No,Yes,No,No,No,No,No,Yes,Female,66-70,128,OVER-FAT,Yes,0.3528666698
+33.89,0 days,1-7 days,6,Yes,No,No,No,Yes,No,No,No,Yes,Female,56-60,129,OBESITY,Yes,0.4290521796
+27.98,1-7 days,0 days,7,Yes,No,No,No,Yes,No,No,No,Yes,Male,>= 80,130,OVER-FAT,Yes,0.8057794603
+49.92,15-21 days,15-21 days,4,Yes,No,No,No,Yes,Yes,No,No,Yes,Male,66-70,131,OBESITY,Yes,0.9544059939
+28.06,1-7 days,1-7 days,6,Yes,No,No,No,No,No,No,No,Yes,Male,76-80,132,OBESITY,Yes,0.8659610344
+25.82,15-21 days,0 days,7,Yes,No,Yes,No,Yes,No,No,No,Yes,Male,>= 80,133,OVER-FAT,Yes,0.7920030394
+34.54,1-7 days,0 days,7,Yes,No,No,No,Yes,No,No,No,Yes,Female,76-80,134,OBESITY,Yes,0.7275449932
+33.28,0 days,0 days,6,Yes,No,No,No,No,No,No,No,Yes,Female,71-75,135,OBESITY,Yes,0.6359839174
+27.89,1-7 days,0 days,7,No,No,No,No,No,No,No,No,Yes,Female,66-70,136,OVER-FAT,Yes,0.3245358987
+35.44,15-21 days,15-21 days,7,Yes,Yes,No,No,No,No,No,No,Yes,Male,56-60,137,OBESITY,Yes,0.8541399202
+27.26,1-7 days,0 days,5,Yes,No,Yes,No,No,No,No,Yes,Yes,Male,71-75,138,OVER-FAT,Yes,0.7340181006
+32.28,0 days,0 days,8,No,No,No,No,No,No,No,No,Yes,Male,76-80,139,OBESITY,Yes,0.8290319618
+33.38,0 days,0 days,8,No,No,No,No,No,Yes,No,No,Yes,Male,66-70,140,OBESITY,Yes,0.636464475
+27.17,0 days,0 days,10,Yes,No,No,No,No,No,Yes,No,Yes,Male,76-80,141,OVER-FAT,Yes,0.9001509681
+26.58,0 days,0 days,6,Yes,No,Yes,No,No,No,No,No,Yes,Female,76-80,142,OVER-FAT,Yes,0.6637079462
+25.18,1-7 days,0 days,8,Yes,No,No,No,No,Yes,No,No,Yes,Male,71-75,143,OVER-FAT,Yes,0.7099803748
+25.61,1-7 days,0 days,7,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Female,71-75,144,OVER-FAT,Yes,0.5530335184
+34,0 days,0 days,8,Yes,No,Yes,No,No,Yes,No,No,Yes,Male,66-70,145,OBESITY,Yes,0.6163957004
+23.52,0 days,0 days,8,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Male,76-80,146,NORMAL,Yes,0.9194403369
+25.1,8-14 days,0 days,6,Yes,No,No,No,No,Yes,Yes,No,Yes,Male,71-75,147,OVER-FAT,Yes,0.76185609
+27.81,>28 days,>28 days,8,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Male,>= 80,148,OVER-FAT,Yes,0.9711065093
+26.57,0 days,0 days,6,Yes,No,Yes,No,Yes,No,No,No,Yes,Female,71-75,149,OVER-FAT,Yes,0.66659942
+37.42,0 days,0 days,8,No,No,No,No,No,No,No,No,Yes,Female,51-55,150,OBESITY,Yes,0.283258132
+25.84,0 days,0 days,7,No,Yes,Yes,No,No,No,No,No,Yes,Male,>= 80,151,OVER-FAT,Yes,0.9150022482
+21.86,0 days,0 days,7,Yes,No,Yes,No,Yes,No,No,No,Yes,Female,71-75,152,NORMAL,Yes,0.4737219098
+29.95,0 days,0 days,8,No,No,Yes,No,No,No,No,Yes,Yes,Female,>= 80,153,OBESITY,Yes,0.6191379138
+26.63,0 days,15-21 days,6,No,No,Yes,No,No,No,No,No,Yes,Female,46-50,154,OVER-FAT,Yes,0.1642286369
+40.18,>28 days,1-7 days,9,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Male,51-55,155,OBESITY,Yes,0.6557941134
+25.09,0 days,0 days,8,No,No,Yes,No,No,No,No,No,Yes,Female,>= 80,156,OVER-FAT,Yes,0.5616779047
+18.46,>28 days,8-14 days,4,Yes,Yes,No,No,No,Yes,No,No,Yes,Female,66-70,157,OVER-THIN,Yes,0.8810298221
+29.98,0 days,0 days,7,Yes,No,Yes,Yes,No,No,No,No,Yes,Male,66-70,158,OBESITY,Yes,0.5651184809
+36.62,1-7 days,>28 days,5,Yes,Yes,No,No,No,No,No,No,Yes,Male,51-55,159,OBESITY,Yes,0.8894877425
+22.67,>28 days,>28 days,5,No,No,No,No,No,No,No,No,Yes,Female,66-70,160,NORMAL,Yes,0.4586946259
+24.21,0 days,0 days,6,Yes,Yes,Yes,No,No,No,No,No,Yes,Male,76-80,161,OVER-FAT,Yes,0.953491933
+21.11,0 days,0 days,8,Yes,No,Yes,No,Yes,No,No,No,Yes,Male,71-75,162,NORMAL,Yes,0.7211010927
+35.24,>28 days,1-7 days,7,Yes,No,No,No,No,No,No,No,Yes,Male,66-70,163,OBESITY,Yes,0.5907506252
+23.96,0 days,8-14 days,12,Yes,No,No,No,No,No,No,No,Yes,Female,66-70,164,NORMAL,Yes,0.4336593247
+32.19,0 days,0 days,9,Yes,No,Yes,No,No,No,No,No,Yes,Male,71-75,165,OBESITY,Yes,0.7998652611
+33.45,>28 days,>28 days,6,No,Yes,No,No,No,Yes,No,No,Yes,Female,56-60,166,OBESITY,Yes,0.768853716
+24.21,0 days,0 days,6,Yes,No,Yes,No,No,No,No,No,Yes,Female,76-80,167,OVER-FAT,Yes,0.6637079462
+37.11,0 days,0 days,8,No,No,Yes,No,Yes,No,No,No,Yes,Female,41-45,168,OBESITY,Yes,0.1788235989
+29.53,>28 days,8-14 days,5,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Male,71-75,169,OBESITY,Yes,0.9708704673
+25.85,0 days,0 days,9,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Male,>= 80,171,OVER-FAT,Yes,0.8067173243
+27.12,0 days,1-7 days,6,No,No,Yes,No,No,No,No,No,Yes,Male,76-80,172,OVER-FAT,Yes,0.8237580643
+29.26,>28 days,>28 days,5,Yes,No,No,No,No,No,No,Yes,Yes,Female,61-65,173,OBESITY,Yes,0.6254832052
+25.09,0 days,0 days,8,Yes,No,Yes,No,No,Yes,No,No,Yes,Male,71-75,174,OVER-FAT,Yes,0.6920060867
+21.46,0 days,0 days,8,Yes,No,Yes,No,No,Yes,No,No,Yes,Female,71-75,175,NORMAL,Yes,0.4130301055
+31.01,0 days,1-7 days,10,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Male,61-65,176,OBESITY,Yes,0.8735406858
+31.19,1-7 days,1-7 days,7,No,No,Yes,No,No,No,No,No,Yes,Male,56-60,177,OBESITY,Yes,0.3852936435
+20.6,0 days,0 days,6,Yes,No,No,No,No,No,No,Yes,Yes,Female,76-80,178,NORMAL,Yes,0.6100427506
+25.1,0 days,0 days,6,Yes,No,Yes,No,No,No,No,No,Yes,Male,61-65,179,OVER-FAT,Yes,0.6516685133
+25.69,0 days,0 days,8,No,No,Yes,No,No,No,No,No,Yes,Female,>= 80,180,OVER-FAT,Yes,0.5616779047
+29.86,1-7 days,15-21 days,6,Yes,No,No,No,Yes,No,No,No,Yes,Male,<= 40,181,OBESITY,Yes,0.3596382638
+35.31,>28 days,>28 days,5,No,Yes,No,No,No,Yes,No,No,Yes,Male,>= 80,182,OBESITY,Yes,0.9730260995
+31.4,0 days,0 days,8,Yes,No,Yes,No,No,No,No,No,Yes,Male,76-80,183,OBESITY,Yes,0.8165293393
+33.52,>28 days,22-28 days,15,No,Yes,Yes,No,No,No,No,No,Yes,Male,>= 80,184,OBESITY,Yes,0.9782113946
+26.54,0 days,0 days,5,Yes,No,Yes,No,No,Yes,No,No,Yes,Male,66-70,185,OVER-FAT,Yes,0.6087240793
+27.46,8-14 days,1-7 days,8,No,No,Yes,No,No,No,No,Yes,Yes,Male,76-80,186,OVER-FAT,Yes,0.7814993621
+21.63,0 days,0 days,8,Yes,No,No,No,No,No,Yes,No,Yes,Male,56-60,187,NORMAL,Yes,0.3220333231
+26.52,1-7 days,>28 days,6,Yes,No,No,No,No,No,No,No,Yes,Female,>= 80,188,OVER-FAT,Yes,0.7444038644
+31.17,>28 days,>28 days,7,Yes,No,Yes,No,No,No,No,Yes,Yes,Male,71-75,189,OBESITY,Yes,0.7862987649
+31,0 days,0 days,8,No,Yes,Yes,No,No,No,No,No,Yes,Female,>= 80,190,OBESITY,Yes,0.879076117
+33.64,22-28 days,>28 days,4,No,No,No,No,No,Yes,No,No,Yes,Female,71-75,191,OBESITY,Yes,0.8919098857
+44.05,15-21 days,15-21 days,3,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Male,61-65,192,OBESITY,Yes,0.9667982539
+33.05,0 days,0 days,8,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Male,>= 80,193,OBESITY,Yes,0.9639138649
+35.62,1-7 days,8-14 days,7,Yes,No,No,No,No,No,No,No,Yes,Male,61-65,194,OBESITY,Yes,0.6829153062
+19.53,0 days,0 days,8,No,Yes,No,No,No,No,No,No,Yes,Female,>= 80,195,NORMAL,Yes,0.8195680499
+38.96,8-14 days,0 days,7,No,No,Yes,No,Yes,Yes,No,No,Yes,Female,51-55,196,OBESITY,Yes,0.3169362794
+26.54,0 days,0 days,10,Yes,No,Yes,No,No,No,No,No,Yes,Male,>= 80,197,OVER-FAT,Yes,0.8753195805
+27.27,0 days,0 days,9,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Female,71-75,198,OVER-FAT,Yes,0.682063774
+19.77,8-14 days,8-14 days,8,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Female,76-80,199,NORMAL,Yes,0.5965628834
+28.7,1-7 days,8-14 days,7,Yes,No,Yes,No,No,No,No,No,Yes,Male,71-75,200,OBESITY,Yes,0.7562363795
+28.21,0 days,0 days,7,No,No,Yes,No,No,No,No,No,Yes,Male,71-75,201,OBESITY,Yes,0.6974354059
+31.32,1-7 days,0 days,7,Yes,No,Yes,No,Yes,No,No,No,Yes,Male,66-70,202,OBESITY,Yes,0.6727218056
+20.37,0 days,0 days,8,Yes,Yes,Yes,No,No,No,No,No,Yes,Male,>= 80,203,NORMAL,Yes,0.9064019407
+27.2,0 days,0 days,8,No,No,Yes,No,No,No,No,No,Yes,Male,71-75,204,OVER-FAT,Yes,0.6920060867
+23.75,0 days,0 days,6,Yes,No,Yes,No,No,No,No,Yes,Yes,Male,76-80,205,NORMAL,Yes,0.7693316859
+27.26,1-7 days,0 days,7,Yes,No,Yes,No,No,No,No,No,Yes,Male,61-65,206,OVER-FAT,Yes,0.5365526389
+17.71,0 days,0 days,5,Yes,Yes,Yes,No,No,No,No,No,Yes,Female,51-55,207,OVER-THIN,Yes,0.4568661167
+39.16,>28 days,0 days,10,Yes,No,No,No,No,Yes,No,No,Yes,Female,61-65,208,OBESITY,Yes,0.6676757666
+32.1,8-14 days,0 days,10,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Male,71-75,209,OBESITY,Yes,0.8705091583
+27.81,1-7 days,0 days,9,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Female,76-80,210,OVER-FAT,Yes,0.7700953219
+29.76,0 days,0 days,6,No,No,No,No,No,Yes,No,No,Yes,Female,71-75,211,OBESITY,Yes,0.6359839174
+49.55,22-28 days,22-28 days,6,No,No,No,No,Yes,No,Yes,No,Yes,Female,61-65,212,OBESITY,Yes,0.8115557363
+29.95,0 days,0 days,6,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Female,66-70,213,OBESITY,Yes,0.5884611377
+33.28,8-14 days,0 days,6,No,No,Yes,No,No,Yes,No,No,Yes,Female,56-60,214,OBESITY,Yes,0.2995616073
+23.78,15-21 days,0 days,7,No,No,Yes,No,No,No,No,No,Yes,Female,>= 80,215,NORMAL,Yes,0.4298445157
+23.06,0 days,0 days,7,Yes,No,Yes,No,No,No,No,No,Yes,Male,71-75,216,NORMAL,Yes,0.5693144398
+31.87,0 days,0 days,7,Yes,No,Yes,No,No,No,No,No,Yes,Male,41-45,217,OBESITY,Yes,0.2054799164
+24.39,8-14 days,0 days,9,Yes,No,Yes,No,No,No,No,Yes,Yes,Male,>= 80,218,OVER-FAT,Yes,0.8067173243
+32.61,0 days,0 days,6,No,No,Yes,No,No,No,No,No,Yes,Female,71-75,219,OBESITY,Yes,0.6159046236
+25.09,0 days,0 days,7,No,Yes,Yes,No,No,No,No,Yes,Yes,Male,76-80,220,OVER-FAT,Yes,0.9269391728
+27.22,0 days,0 days,8,No,No,Yes,No,No,No,No,No,Yes,Male,>= 80,221,OVER-FAT,Yes,0.7485319635
+38.01,0 days,1-7 days,6,No,No,No,No,No,Yes,No,No,Yes,Male,61-65,222,OBESITY,Yes,0.7250009089
+31.19,0 days,0 days,8,Yes,No,Yes,No,No,Yes,No,No,Yes,Male,71-75,223,OBESITY,Yes,0.7402812571
+26.61,8-14 days,>28 days,8,No,No,Yes,Yes,No,No,No,Yes,Yes,Male,71-75,224,OVER-FAT,Yes,0.7819655323
+30.11,15-21 days,0 days,6,No,Yes,No,No,Yes,Yes,No,No,Yes,Female,76-80,225,OBESITY,Yes,0.9507307819
+24.13,0 days,0 days,9,Yes,No,Yes,No,No,No,No,No,Yes,Male,>= 80,226,OVER-FAT,Yes,0.8067173243
+20.81,0 days,0 days,6,Yes,Yes,Yes,No,No,No,No,No,Yes,Male,51-55,227,NORMAL,Yes,0.7384726344
+25.11,15-21 days,0 days,6,Yes,No,No,No,No,No,No,No,Yes,Male,61-65,228,OVER-FAT,Yes,0.6708772599
+23.44,1-7 days,0 days,8,No,No,No,No,No,No,No,No,Yes,Female,>= 80,229,NORMAL,Yes,0.5039009818
+28.59,0 days,1-7 days,4,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Female,76-80,230,OBESITY,Yes,0.8830766821
+36.62,>28 days,0 days,8,No,No,No,Yes,No,Yes,No,No,Yes,Male,51-55,231,OBESITY,Yes,0.4786296076
+29.37,8-14 days,0 days,6,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Male,76-80,232,OBESITY,Yes,0.9659142404
+21.79,>28 days,1-7 days,13,Yes,No,No,No,No,No,No,No,Yes,Female,61-65,233,NORMAL,Yes,0.4737596729
+20.98,>28 days,0 days,6,Yes,Yes,Yes,No,No,No,No,No,Yes,Female,71-75,234,NORMAL,Yes,0.8043898251
+21.79,0 days,1-7 days,8,Yes,No,Yes,No,No,No,No,Yes,Yes,Female,>= 80,235,NORMAL,Yes,0.4872936701
+28.8,0 days,0 days,8,Yes,No,Yes,No,No,Yes,No,No,Yes,Male,61-65,236,OBESITY,Yes,0.644901832
+25.84,1-7 days,0 days,8,No,No,Yes,Yes,No,No,No,No,Yes,Female,56-60,237,OVER-FAT,Yes,0.2050710427
+27.12,0 days,0 days,5,Yes,Yes,Yes,No,No,No,No,No,Yes,Male,66-70,238,OVER-FAT,Yes,0.8743270484
+29.41,>28 days,1-7 days,6,Yes,No,Yes,No,Yes,No,No,No,Yes,Male,51-55,240,OBESITY,Yes,0.6397269296
+23.05,0 days,0 days,5,No,No,Yes,No,No,No,No,No,Yes,Female,76-80,241,NORMAL,Yes,0.5743728022
+26.3,0 days,0 days,7,Yes,No,Yes,No,No,Yes,No,No,Yes,Male,>= 80,242,OVER-FAT,Yes,0.7065076022
+23.11,0 days,8-14 days,8,Yes,Yes,Yes,No,No,No,No,No,Yes,Male,<= 40,243,NORMAL,Yes,0.3056810719
+38.62,0 days,0 days,6,Yes,No,Yes,No,No,No,No,No,Yes,Female,51-55,244,OBESITY,Yes,0.3215762594
+24.03,1-7 days,0 days,7,No,No,Yes,No,No,No,Yes,No,Yes,Female,>= 80,245,OVER-FAT,Yes,0.508913744
+35.62,0 days,0 days,8,Yes,No,Yes,No,No,No,Yes,No,Yes,Male,76-80,246,OBESITY,Yes,0.8165293393
+31,0 days,0 days,8,Yes,No,Yes,No,No,No,No,No,Yes,Male,66-70,247,OBESITY,Yes,0.6163957004
+25.82,0 days,0 days,7,No,No,Yes,No,No,No,No,No,Yes,Male,66-70,248,OVER-FAT,Yes,0.5060111136
+27.44,>28 days,15-21 days,4,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Female,56-60,249,OVER-FAT,Yes,0.9324019282
+27.26,0 days,0 days,9,Yes,No,Yes,No,No,No,No,No,Yes,Male,66-70,250,OVER-FAT,Yes,0.6397739031
+36.61,8-14 days,1-7 days,8,No,No,Yes,No,No,Yes,Yes,No,Yes,Female,61-65,251,OBESITY,Yes,0.4435452203
+25.91,0 days,0 days,7,No,No,Yes,No,No,No,No,No,Yes,Male,41-45,252,OVER-FAT,Yes,0.1693408298
+32.49,0 days,1-7 days,9,No,No,Yes,No,No,No,No,No,Yes,Female,56-60,253,OBESITY,Yes,0.3187276754
+30.04,0 days,0 days,8,Yes,No,No,No,No,Yes,No,No,Yes,Male,>= 80,254,OBESITY,Yes,0.8044728846
+33.64,0 days,1-7 days,6,No,No,No,No,Yes,No,Yes,Yes,Yes,Female,71-75,255,OBESITY,Yes,0.7380519974
+45.91,0 days,0 days,9,No,No,Yes,No,No,Yes,No,No,Yes,Male,71-75,256,OBESITY,Yes,0.7998652611
+33.23,1-7 days,0 days,8,Yes,No,No,No,No,No,No,No,Yes,Male,76-80,257,OBESITY,Yes,0.8290319618
+40.18,0 days,0 days,7,No,No,No,No,No,No,No,No,Yes,Male,66-70,258,OBESITY,Yes,0.5860684065
+24.75,1-7 days,0 days,8,Yes,No,Yes,No,No,Yes,No,No,Yes,Male,51-55,259,OVER-FAT,Yes,0.3990982406
+27.44,8-14 days,1-7 days,8,Yes,No,Yes,No,No,No,No,No,Yes,Male,61-65,260,OVER-FAT,Yes,0.593419867
+27.46,0 days,0 days,8,Yes,No,No,No,No,No,No,Yes,Yes,Male,76-80,261,OVER-FAT,Yes,0.7926323037
+30.9,22-28 days,15-21 days,4,Yes,No,Yes,No,No,No,No,Yes,Yes,Female,66-70,262,OBESITY,Yes,0.839451938
+33.91,0 days,1-7 days,10,Yes,No,Yes,No,Yes,No,No,No,Yes,Male,<= 40,263,OBESITY,Yes,0.3266760068
+44.94,1-7 days,0 days,7,Yes,No,No,No,No,No,No,No,Yes,Male,61-65,264,OBESITY,Yes,0.6154221083
+34.33,>28 days,0 days,10,No,No,Yes,No,No,Yes,No,No,Yes,Female,56-60,265,OBESITY,Yes,0.4356235873
+29.41,>28 days,0 days,6,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Male,61-65,266,OBESITY,Yes,0.7035577668
+31,1-7 days,0 days,7,No,No,Yes,No,No,No,Yes,No,Yes,Female,66-70,267,OBESITY,Yes,0.3587343439
+26.63,0 days,0 days,6,Yes,Yes,No,No,No,Yes,No,No,Yes,Male,61-65,268,OVER-FAT,Yes,0.9011416941
+26.58,>28 days,>28 days,5,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Male,66-70,269,OVER-FAT,Yes,0.9173909415
+25.97,0 days,0 days,8,Yes,No,Yes,No,No,Yes,No,No,Yes,Male,56-60,270,OVER-FAT,Yes,0.3747077367
+25.82,1-7 days,0 days,8,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Female,>= 80,271,OVER-FAT,Yes,0.8514215211
+21.16,0 days,8-14 days,5,Yes,No,Yes,No,Yes,No,No,No,Yes,Female,61-65,272,NORMAL,Yes,0.5396689548
+28.73,0 days,0 days,8,No,No,Yes,No,Yes,No,Yes,No,Yes,Male,76-80,273,OBESITY,Yes,0.8756174736
+25.11,0 days,0 days,8,No,No,Yes,No,No,No,No,No,Yes,Male,71-75,274,OVER-FAT,Yes,0.6920060867
+31.87,>28 days,0 days,6,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Male,76-80,275,OBESITY,Yes,0.9019570632
+23.91,>28 days,>28 days,7,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Female,51-55,276,NORMAL,Yes,0.2116739508
+25.8,>28 days,0 days,8,No,No,Yes,No,No,No,No,No,Yes,Male,>= 80,277,OVER-FAT,Yes,0.7485319635
+32.71,0 days,1-7 days,8,Yes,No,Yes,No,No,Yes,No,No,Yes,Male,66-70,278,OBESITY,Yes,0.620956739
+21.83,0 days,0 days,7,No,No,Yes,No,No,No,No,Yes,Yes,Male,61-65,279,NORMAL,Yes,0.4571869844
+27.8,>28 days,>28 days,3,No,No,No,No,No,No,No,Yes,Yes,Male,56-60,280,OVER-FAT,Yes,0.525863979
+27.12,>28 days,0 days,9,Yes,No,No,Yes,No,No,No,Yes,Yes,Male,76-80,281,OVER-FAT,Yes,0.8427571564
+20.22,0 days,0 days,9,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Male,>= 80,283,NORMAL,Yes,0.9314062906
+24.21,>28 days,0 days,10,Yes,No,No,No,No,No,No,Yes,Yes,Female,71-75,284,OVER-FAT,Yes,0.713102975
+30.68,>28 days,0 days,7,Yes,No,No,No,No,No,No,No,Yes,Male,>= 80,285,OBESITY,Yes,0.7689110164
+27.46,0 days,0 days,8,No,No,No,No,No,No,No,No,Yes,Male,>= 80,286,OVER-FAT,Yes,0.7643308843
+20.78,1-7 days,1-7 days,8,No,No,Yes,No,No,No,No,No,Yes,Female,>= 80,287,NORMAL,Yes,0.4872936701
+30.34,0 days,0 days,6,Yes,No,No,No,No,No,No,No,Yes,Male,76-80,288,OBESITY,Yes,0.863701027
+29.65,0 days,15-21 days,4,Yes,No,Yes,No,Yes,No,No,No,Yes,Male,61-65,289,OBESITY,Yes,0.9559746223
+27.8,0 days,0 days,6,Yes,No,Yes,Yes,No,Yes,No,No,Yes,Male,76-80,290,OVER-FAT,Yes,0.8209336223
+24.96,0 days,0 days,9,No,No,Yes,No,No,No,No,No,Yes,Male,76-80,291,OVER-FAT,Yes,0.8310536938
+51.72,>28 days,>28 days,12,No,No,No,No,Yes,Yes,No,No,Yes,Female,71-75,292,OBESITY,Yes,0.8162942623
+24.83,0 days,0 days,6,Yes,No,Yes,No,No,No,No,No,Yes,Male,51-55,293,OVER-FAT,Yes,0.4646515519
+31.75,1-7 days,1-7 days,5,No,Yes,Yes,No,No,No,No,No,Yes,Female,61-65,294,OBESITY,Yes,0.8140621201
+38.01,1-7 days,0 days,7,Yes,No,Yes,Yes,No,No,No,No,Yes,Female,66-70,295,OBESITY,Yes,0.3587343439
+29.87,>28 days,15-21 days,9,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Female,76-80,296,OBESITY,Yes,0.8925533501
+25.69,0 days,0 days,8,Yes,No,Yes,No,No,Yes,No,No,Yes,Female,76-80,297,OVER-FAT,Yes,0.6016316814
+40.74,0 days,15-21 days,8,Yes,No,No,No,Yes,Yes,No,No,Yes,Female,51-55,298,OBESITY,Yes,0.5499648152
+36.26,1-7 days,0 days,6,No,No,Yes,No,No,No,No,No,Yes,Male,41-45,299,OBESITY,Yes,0.2947384479
+30.12,0 days,0 days,6,No,No,No,No,Yes,No,No,No,Yes,Male,76-80,300,OBESITY,Yes,0.9092849634
+32.5,0 days,0 days,7,No,No,No,No,Yes,No,No,No,Yes,Male,61-65,301,OBESITY,Yes,0.7168158491
+26.58,>28 days,8-14 days,6,Yes,No,Yes,No,Yes,No,No,No,Yes,Male,71-75,302,OVER-FAT,Yes,0.8620840056
+25.84,>28 days,15-21 days,6,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Male,51-55,303,OVER-FAT,Yes,0.9289617509
+32.08,0 days,1-7 days,7,Yes,No,Yes,No,Yes,No,No,No,Yes,Male,<= 40,304,OBESITY,Yes,0.1426306035
+29.85,1-7 days,0 days,6,Yes,No,Yes,No,Yes,No,No,No,Yes,Male,51-55,305,OBESITY,Yes,0.6352590851
+32.32,>28 days,0 days,6,Yes,No,No,No,No,No,No,No,Yes,Female,56-60,306,OBESITY,Yes,0.3178625083
+21.09,0 days,0 days,7,Yes,No,Yes,No,Yes,No,No,No,Yes,Female,56-60,307,NORMAL,Yes,0.1935982645
+25.06,1-7 days,0 days,8,Yes,Yes,Yes,No,No,No,No,No,Yes,Female,66-70,308,OVER-FAT,Yes,0.7091702174
+25.06,0 days,0 days,7,Yes,No,No,No,No,No,No,Yes,Yes,Male,>= 80,309,OVER-FAT,Yes,0.7239731635
+24.03,0 days,0 days,7,Yes,No,Yes,No,No,No,No,No,Yes,Female,71-75,310,OVER-FAT,Yes,0.4389007423
+16.14,0 days,0 days,6,Yes,No,Yes,No,No,No,No,No,Yes,Female,76-80,311,OVER-THIN,Yes,0.513879907
+35.87,0 days,22-28 days,6,No,No,No,No,No,Yes,Yes,No,Yes,Male,71-75,312,OBESITY,Yes,0.9084738849
+25.69,1-7 days,1-7 days,8,No,Yes,Yes,No,No,No,No,Yes,Yes,Female,>= 80,313,OVER-FAT,Yes,0.8538506848
+26.45,15-21 days,0 days,8,Yes,No,Yes,No,No,No,No,No,Yes,Female,66-70,314,OVER-FAT,Yes,0.3528666698
+31.93,8-14 days,1-7 days,8,Yes,No,No,No,No,No,No,No,Yes,Female,71-75,315,OBESITY,Yes,0.5768156777
+31.38,0 days,0 days,8,Yes,No,Yes,No,No,Yes,No,No,Yes,Male,71-75,316,OBESITY,Yes,0.7402812571
+23.91,0 days,0 days,8,Yes,Yes,Yes,No,No,No,No,No,Yes,Male,76-80,317,NORMAL,Yes,0.9194403369
+37.12,15-21 days,8-14 days,10,Yes,No,Yes,No,No,Yes,No,No,Yes,Male,76-80,318,OBESITY,Yes,0.9338928744
+31.19,22-28 days,>28 days,4,Yes,No,Yes,Yes,No,No,No,No,Yes,Male,>= 80,319,OBESITY,Yes,0.958858753
+28.22,0 days,0 days,8,Yes,No,Yes,No,No,Yes,No,No,Yes,Female,46-50,320,OBESITY,Yes,0.0889033412
+27.48,0 days,0 days,6,Yes,No,Yes,No,No,No,No,No,Yes,Male,41-45,321,OVER-FAT,Yes,0.2477969654
+29.65,0 days,0 days,9,No,Yes,Yes,No,No,No,Yes,No,Yes,Male,61-65,322,OBESITY,Yes,0.919275584
+24.39,1-7 days,0 days,8,Yes,No,No,No,No,Yes,No,No,Yes,Male,61-65,323,OVER-FAT,Yes,0.609345444
+29.05,22-28 days,0 days,6,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Male,51-55,324,OBESITY,Yes,0.6352590851
+27.8,0 days,0 days,9,Yes,No,Yes,No,No,Yes,No,No,Yes,Male,61-65,325,OVER-FAT,Yes,0.6674799527
+50.7,0 days,0 days,3,Yes,Yes,No,No,No,No,No,No,Yes,Female,76-80,326,OBESITY,Yes,0.9085437618
+29.76,0 days,0 days,8,No,No,Yes,No,No,No,No,No,Yes,Male,61-65,327,OBESITY,Yes,0.644901832
+30.41,1-7 days,0 days,7,Yes,No,Yes,No,No,Yes,No,No,Yes,Male,76-80,328,OBESITY,Yes,0.7825675958
+23.01,1-7 days,>28 days,6,Yes,No,Yes,No,No,No,No,No,Yes,Male,56-60,329,NORMAL,Yes,0.4762726974
+23.06,0 days,0 days,9,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Male,>= 80,330,NORMAL,Yes,0.8276744957
+33.65,1-7 days,15-21 days,12,Yes,No,Yes,No,No,No,No,No,Yes,Female,71-75,331,OBESITY,Yes,0.7594724686
+28.97,>28 days,0 days,5,Yes,No,Yes,No,No,No,No,No,Yes,Male,66-70,332,OBESITY,Yes,0.6637092972
+34.46,0 days,1-7 days,7,Yes,No,Yes,Yes,No,No,No,No,Yes,Female,56-60,333,OBESITY,Yes,0.2124931356
+22.46,0 days,0 days,7,Yes,No,Yes,No,No,No,No,No,Yes,Male,56-60,334,NORMAL,Yes,0.260661564
+23.71,1-7 days,0 days,5,Yes,No,Yes,No,Yes,No,No,No,Yes,Male,<= 40,335,NORMAL,Yes,0.1244336547
+22.38,0 days,>28 days,4,Yes,No,Yes,No,No,No,No,No,Yes,Male,<= 40,336,NORMAL,Yes,0.3110467725
+26.58,0 days,0 days,5,Yes,No,Yes,No,No,Yes,No,No,Yes,Male,71-75,337,OVER-FAT,Yes,0.7340181006
+21.61,0 days,0 days,8,Yes,No,Yes,No,No,No,No,No,Yes,Female,>= 80,338,NORMAL,Yes,0.4824647543
+31.01,0 days,0 days,10,No,No,Yes,No,No,Yes,Yes,No,Yes,Male,61-65,339,OBESITY,Yes,0.8107270132
+26.15,0 days,0 days,9,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Female,>= 80,340,OVER-FAT,Yes,0.8974852129
+42.97,>28 days,>28 days,6,Yes,Yes,No,No,No,No,No,No,Yes,Female,56-60,341,OBESITY,Yes,0.768853716
+28.57,0 days,0 days,9,Yes,No,Yes,No,No,No,No,No,Yes,Male,71-75,342,OBESITY,Yes,0.7998652611
+26.63,0 days,1-7 days,8,No,No,No,No,No,No,No,Yes,Yes,Female,>= 80,343,OVER-FAT,Yes,0.5873647666
+35.62,0 days,0 days,8,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Male,71-75,344,OBESITY,Yes,0.7402812571
+28.62,0 days,8-14 days,7,Yes,No,Yes,No,No,Yes,No,No,Yes,Male,46-50,345,OBESITY,Yes,0.1978872613
+28.25,1-7 days,0 days,7,No,No,Yes,No,No,No,No,No,Yes,Male,61-65,346,OBESITY,Yes,0.5949310062
+30.8,0 days,0 days,9,No,No,Yes,No,No,Yes,No,No,Yes,Female,>= 80,347,OBESITY,Yes,0.6950661748
+24.89,1-7 days,0 days,6,No,No,Yes,No,No,No,No,No,Yes,Male,71-75,348,OVER-FAT,Yes,0.7459464078
+25.4,0 days,0 days,7,Yes,Yes,Yes,No,No,No,No,No,Yes,Male,76-80,349,OVER-FAT,Yes,0.9269391728
+58.42,>28 days,>28 days,12,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Male,66-70,350,OBESITY,Yes,0.7714957377
+38.74,>28 days,0 days,5,No,No,No,No,No,Yes,No,No,Yes,Male,51-55,351,OBESITY,Yes,0.5299782556
+33.1,22-28 days,22-28 days,4,Yes,No,No,No,Yes,No,No,No,Yes,Male,71-75,352,OBESITY,Yes,0.9789273856
+30.9,0 days,0 days,5,No,No,Yes,No,No,No,No,No,Yes,Male,66-70,353,OBESITY,Yes,0.6637092972
+29.53,0 days,0 days,6,No,No,Yes,Yes,No,No,No,No,Yes,Male,41-45,354,OBESITY,Yes,0.2947384479
+41.01,15-21 days,>28 days,8,Yes,No,No,No,No,No,Yes,No,Yes,Female,76-80,355,OBESITY,Yes,0.7691648299
+20.67,0 days,0 days,8,No,No,Yes,No,Yes,No,No,Yes,Yes,Male,>= 80,356,NORMAL,Yes,0.7740308505
+25.83,0 days,1-7 days,7,Yes,No,Yes,No,No,No,No,No,Yes,Male,66-70,357,OVER-FAT,Yes,0.5108430768
+35.15,0 days,0 days,7,Yes,No,No,No,No,No,No,No,Yes,Male,56-60,358,OBESITY,Yes,0.4011445481
+32.55,0 days,0 days,7,No,No,Yes,No,No,Yes,No,No,Yes,Male,71-75,359,OBESITY,Yes,0.6974354059
+29.23,0 days,15-21 days,5,Yes,No,Yes,No,No,Yes,No,No,Yes,Female,61-65,360,OBESITY,Yes,0.6524434769
+34.96,1-7 days,0 days,5,No,No,No,No,No,No,No,No,Yes,Female,>= 80,361,OBESITY,Yes,0.685088293
+38.77,>28 days,0 days,8,No,No,No,No,Yes,Yes,No,No,Yes,Female,66-70,362,OBESITY,Yes,0.5438340922
+30.17,0 days,15-21 days,5,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Male,61-65,363,OBESITY,Yes,0.9512207046
+20.3,0 days,1-7 days,7,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Female,66-70,364,NORMAL,Yes,0.5939287731
+28.7,0 days,0 days,6,Yes,No,Yes,No,No,Yes,No,No,Yes,Male,66-70,365,OBESITY,Yes,0.677404937
+26.73,0 days,0 days,7,Yes,No,No,No,No,No,No,No,Yes,Male,66-70,366,OVER-FAT,Yes,0.5274273446
+25.33,0 days,1-7 days,7,Yes,No,No,No,No,No,No,No,Yes,Female,66-70,367,OVER-FAT,Yes,0.3287883329
+22.31,22-28 days,8-14 days,8,Yes,No,Yes,No,No,No,No,No,Yes,Female,51-55,368,NORMAL,Yes,0.2187182046
+23.67,8-14 days,>28 days,4,Yes,Yes,No,No,Yes,No,No,No,Yes,Male,51-55,369,NORMAL,Yes,0.9583057346
+25.06,15-21 days,22-28 days,6,No,No,No,No,Yes,No,No,No,Yes,Female,76-80,370,OVER-FAT,Yes,0.8926920434
+19.97,0 days,0 days,7,No,No,Yes,No,No,Yes,No,No,Yes,Female,71-75,371,NORMAL,Yes,0.3626758728
+17.33,15-21 days,0 days,4,Yes,Yes,No,Yes,No,No,No,No,Yes,Male,46-50,372,OVER-THIN,Yes,0.6432386694
+29.09,>28 days,0 days,5,No,No,Yes,No,No,Yes,Yes,No,Yes,Male,66-70,373,OBESITY,Yes,0.6637092972
+26.61,1-7 days,0 days,8,Yes,No,No,No,No,No,No,No,Yes,Male,>= 80,374,OVER-FAT,Yes,0.7643308843
+17.97,0 days,0 days,8,Yes,No,Yes,No,No,No,No,Yes,Yes,Female,76-80,375,OVER-THIN,Yes,0.4471828081
+23.63,0 days,0 days,8,Yes,No,Yes,No,No,No,No,No,Yes,Male,76-80,376,NORMAL,Yes,0.7184826744
+30.68,0 days,0 days,7,No,No,Yes,No,No,No,No,No,Yes,Male,66-70,377,OBESITY,Yes,0.5651184809
+34.18,1-7 days,0 days,8,No,Yes,No,No,Yes,Yes,No,No,Yes,Female,71-75,378,OBESITY,Yes,0.9043707328
+28.19,15-21 days,>28 days,8,No,Yes,Yes,No,Yes,No,No,No,Yes,Male,<= 40,379,OBESITY,Yes,0.5902100537
+27.46,1-7 days,8-14 days,7,No,No,Yes,No,No,No,No,No,Yes,Female,71-75,380,OVER-FAT,Yes,0.5128510108
+38.69,0 days,0 days,4,No,No,Yes,No,No,No,No,No,Yes,Male,46-50,381,OBESITY,Yes,0.4670726805
+25.24,0 days,0 days,5,No,No,Yes,No,No,No,No,No,Yes,Female,71-75,382,OVER-FAT,Yes,0.5429642731
+23.06,0 days,0 days,7,No,No,Yes,No,No,No,No,No,Yes,Male,61-65,383,NORMAL,Yes,0.4571869844
+28.25,0 days,0 days,8,No,No,Yes,No,No,No,No,No,Yes,Male,66-70,384,OBESITY,Yes,0.6163957004
+39.48,>28 days,1-7 days,6,No,No,No,No,No,No,No,Yes,Yes,Female,71-75,385,OBESITY,Yes,0.6404479084
+32.89,0 days,8-14 days,6,No,Yes,No,No,Yes,No,No,No,Yes,Female,51-55,386,OBESITY,Yes,0.8309893946
+34.7,>28 days,0 days,8,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Female,66-70,387,OBESITY,Yes,0.4088924313
+29.12,1-7 days,1-7 days,7,No,No,Yes,No,No,Yes,No,No,Yes,Female,61-65,388,OBESITY,Yes,0.3919549796
+31.19,>28 days,1-7 days,7,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Male,71-75,389,OBESITY,Yes,0.7014995061
+25.06,0 days,0 days,8,No,No,Yes,No,No,No,No,No,Yes,Female,66-70,390,OVER-FAT,Yes,0.3528666698
+25.99,0 days,0 days,8,Yes,No,Yes,No,No,No,No,No,Yes,Male,76-80,391,OVER-FAT,Yes,0.7781800494
+23.87,0 days,0 days,6,No,No,No,No,No,No,No,No,Yes,Male,>= 80,392,NORMAL,Yes,0.7551039349
+29.29,8-14 days,8-14 days,3,No,Yes,No,No,Yes,No,No,No,Yes,Female,<= 40,393,OBESITY,Yes,0.3773963456
+23.06,0 days,>28 days,6,Yes,No,Yes,Yes,No,No,No,No,Yes,Male,51-55,394,NORMAL,Yes,0.5019670906
+31.89,8-14 days,1-7 days,8,No,No,No,No,No,No,No,No,Yes,Female,<= 40,395,OBESITY,Yes,0.0574917086
+31.18,1-7 days,0 days,8,Yes,No,Yes,No,No,Yes,No,No,Yes,Female,>= 80,396,OBESITY,Yes,0.6191379138
+22.21,0 days,0 days,8,No,No,Yes,No,No,No,No,Yes,Yes,Male,66-70,397,NORMAL,Yes,0.4795656628
+42.07,8-14 days,1-7 days,4,No,No,No,No,No,No,Yes,No,Yes,Female,66-70,398,OBESITY,Yes,0.7481815415
+23.71,0 days,0 days,8,Yes,No,Yes,No,No,No,No,No,Yes,Male,76-80,399,NORMAL,Yes,0.7184826744
+29.76,0 days,0 days,8,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Male,71-75,400,OBESITY,Yes,0.7402812571
+28.7,0 days,1-7 days,7,Yes,No,Yes,No,No,No,No,No,Yes,Male,61-65,401,OBESITY,Yes,0.5995814686
+23.75,1-7 days,0 days,8,No,No,Yes,No,No,No,No,Yes,Yes,Male,>= 80,402,NORMAL,Yes,0.684094665
+25.4,0 days,0 days,6,Yes,No,Yes,No,No,No,No,Yes,Yes,Female,71-75,403,OVER-FAT,Yes,0.5583048125
+29.76,>28 days,0 days,5,Yes,No,No,No,No,Yes,No,No,Yes,Female,61-65,404,OBESITY,Yes,0.5113093352
+29.95,1-7 days,0 days,10,Yes,No,Yes,No,No,Yes,No,No,Yes,Male,71-75,405,OBESITY,Yes,0.8705091583
+23.59,1-7 days,0 days,7,No,No,Yes,No,No,No,No,Yes,Yes,Female,76-80,406,NORMAL,Yes,0.470486433
+56.15,>28 days,0 days,6,No,No,No,No,No,Yes,No,No,Yes,Male,51-55,407,OBESITY,Yes,0.5453897236
+23.56,0 days,0 days,8,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Male,>= 80,408,NORMAL,Yes,0.684094665
+34.7,0 days,0 days,7,No,No,Yes,No,No,No,No,No,Yes,Male,61-65,409,OBESITY,Yes,0.5949310062
+24.86,>28 days,1-7 days,6,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Female,66-70,410,OVER-FAT,Yes,0.5347003164
+20.92,0 days,0 days,8,No,No,Yes,No,No,No,No,No,Yes,Male,71-75,411,NORMAL,Yes,0.6204292164
+26.63,>28 days,>28 days,9,Yes,No,No,No,No,No,Yes,No,Yes,Female,71-75,412,OVER-FAT,Yes,0.7022697239
+30.54,0 days,0 days,6,Yes,No,Yes,No,No,No,No,No,Yes,Male,56-60,413,OBESITY,Yes,0.4983592945
+34.97,0 days,0 days,7,No,No,Yes,No,No,No,No,Yes,Yes,Male,61-65,414,OBESITY,Yes,0.5949310062
+25.06,0 days,0 days,8,No,No,Yes,No,No,No,No,No,Yes,Male,56-60,415,OVER-FAT,Yes,0.3747077367
+43.05,0 days,0 days,5,Yes,No,No,No,No,No,No,No,Yes,Male,61-65,416,OBESITY,Yes,0.708491424
+29.99,0 days,0 days,7,No,No,Yes,No,Yes,No,No,No,Yes,Male,76-80,417,OBESITY,Yes,0.8505920082
+24.05,0 days,0 days,10,Yes,No,Yes,No,No,No,Yes,No,Yes,Male,61-65,418,OVER-FAT,Yes,0.7715043032
+47.72,>28 days,>28 days,4,No,No,No,No,No,No,Yes,No,Yes,Female,41-45,419,OBESITY,Yes,0.4807332328
+35.43,0 days,0 days,8,No,Yes,Yes,No,No,No,Yes,No,Yes,Female,61-65,420,OBESITY,Yes,0.7775939737
+28.29,0 days,0 days,6,Yes,No,Yes,No,No,No,No,Yes,Yes,Female,>= 80,421,OBESITY,Yes,0.6799374814
+38.67,0 days,0 days,8,No,No,Yes,No,No,No,No,Yes,Yes,Male,>= 80,422,OBESITY,Yes,0.7906278671
+28.34,0 days,0 days,4,Yes,No,No,No,No,No,No,No,Yes,Female,<= 40,423,OBESITY,Yes,0.1878773755
+28.15,0 days,0 days,7,No,No,Yes,No,No,No,No,No,Yes,Female,56-60,424,OBESITY,Yes,0.2092758558
+28.7,0 days,0 days,8,Yes,No,Yes,No,No,No,No,No,Yes,Male,61-65,425,OBESITY,Yes,0.644901832
+27.44,>28 days,1-7 days,8,No,No,No,No,No,Yes,Yes,No,Yes,Female,71-75,426,OVER-FAT,Yes,0.5179419827
+23.99,1-7 days,1-7 days,6,No,No,Yes,No,No,No,No,No,Yes,Male,>= 80,427,NORMAL,Yes,0.7426104651
+40.35,0 days,0 days,7,Yes,No,No,No,No,No,No,No,Yes,Female,71-75,428,OBESITY,Yes,0.5195065059
+28.29,1-7 days,0 days,7,Yes,Yes,No,No,No,No,No,Yes,Yes,Male,>= 80,429,OBESITY,Yes,0.9370261656
+24.8,0 days,0 days,6,No,No,No,No,No,No,No,No,Yes,Female,76-80,430,OVER-FAT,Yes,0.6825761669
+33.78,15-21 days,0 days,5,No,No,Yes,No,No,No,No,No,Yes,Female,51-55,431,OBESITY,Yes,0.3082016029
+26.63,15-21 days,0 days,8,Yes,No,No,No,No,No,No,Yes,Yes,Female,>= 80,432,OVER-FAT,Yes,0.582671176
+23.63,0 days,1-7 days,12,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Female,76-80,433,NORMAL,Yes,0.5958766563
+22.46,0 days,0 days,8,No,No,Yes,No,No,Yes,No,No,Yes,Female,51-55,434,NORMAL,Yes,0.1721890747
+29.53,0 days,0 days,15,No,No,No,No,No,No,No,No,Yes,Female,76-80,435,OBESITY,Yes,0.6941133105
+26.63,15-21 days,8-14 days,8,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Male,71-75,436,OVER-FAT,Yes,0.9311425605
+26.57,1-7 days,1-7 days,9,Yes,No,Yes,No,No,No,No,No,Yes,Female,<= 40,437,OVER-FAT,Yes,0.0582732171
+22.46,15-21 days,1-7 days,6,No,No,No,No,Yes,Yes,No,No,Yes,Female,76-80,438,NORMAL,Yes,0.7161380555
+35.8,0 days,0 days,7,Yes,No,No,No,No,Yes,No,No,Yes,Male,56-60,439,OBESITY,Yes,0.4011445481
+23.78,15-21 days,0 days,9,Yes,No,Yes,No,No,No,No,No,Yes,Female,61-65,440,NORMAL,Yes,0.38599976
+31.57,>28 days,0 days,7,Yes,No,No,No,No,No,No,No,Yes,Male,>= 80,441,OBESITY,Yes,0.7689110164
+23.3,0 days,15-21 days,6,Yes,No,Yes,No,Yes,No,No,No,Yes,Female,<= 40,442,NORMAL,Yes,0.1128862561
+24.39,0 days,0 days,7,No,No,Yes,No,No,No,No,No,Yes,Male,66-70,443,OVER-FAT,Yes,0.5060111136
+17.56,1-7 days,0 days,8,No,Yes,Yes,No,No,No,No,No,Yes,Female,>= 80,444,OVER-THIN,Yes,0.7542604891
+25.39,1-7 days,1-7 days,7,No,No,Yes,No,No,No,No,Yes,Yes,Female,>= 80,445,OVER-FAT,Yes,0.5137445987
+30.79,0 days,22-28 days,8,No,No,Yes,No,No,No,No,No,Yes,Male,61-65,446,OBESITY,Yes,0.8162353588
+22.31,1-7 days,1-7 days,7,Yes,No,Yes,No,No,No,No,Yes,Yes,Male,>= 80,447,NORMAL,Yes,0.6409917956
+29.41,1-7 days,0 days,8,Yes,No,Yes,No,No,No,No,Yes,Yes,Male,41-45,448,OBESITY,Yes,0.2423067428
+31.32,>28 days,>28 days,6,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Male,51-55,449,OBESITY,Yes,0.7518050314
+41.05,0 days,0 days,8,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Female,71-75,450,OBESITY,Yes,0.9043707328
+51.21,0 days,0 days,8,No,No,No,No,Yes,No,No,No,Yes,Female,66-70,451,OBESITY,Yes,0.5438340922
+33.38,1-7 days,0 days,7,Yes,Yes,No,No,No,Yes,No,No,Yes,Male,76-80,452,OBESITY,Yes,0.9460524524
+25.15,8-14 days,8-14 days,4,Yes,No,No,No,Yes,No,No,Yes,Yes,Female,61-65,453,OVER-FAT,Yes,0.8467990868
+22.15,1-7 days,1-7 days,8,Yes,No,Yes,No,No,Yes,No,No,Yes,Male,56-60,454,NORMAL,Yes,0.307702234
+29.87,22-28 days,22-28 days,7,No,Yes,Yes,No,No,No,No,No,Yes,Female,76-80,455,OBESITY,Yes,0.9442772546
+37.59,0 days,0 days,8,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Male,66-70,457,OBESITY,Yes,0.8778361805
+25.1,>28 days,0 days,8,Yes,No,No,No,No,No,No,No,Yes,Male,66-70,458,OVER-FAT,Yes,0.5798445791
+27.44,>28 days,>28 days,10,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Female,46-50,459,OVER-FAT,Yes,0.5642635991
+25.1,0 days,0 days,7,Yes,No,No,No,No,No,No,No,Yes,Male,66-70,460,OVER-FAT,Yes,0.5274273446
+30.11,>28 days,8-14 days,6,No,No,No,No,Yes,No,No,No,Yes,Female,71-75,461,OBESITY,Yes,0.7881107114
+33.15,>28 days,0 days,10,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Male,>= 80,462,OBESITY,Yes,0.9755070221
+17.16,0 days,0 days,9,Yes,No,No,No,No,No,No,No,Yes,Female,>= 80,463,OVER-THIN,Yes,0.5118582197
+25.83,0 days,0 days,8,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Male,>= 80,464,OVER-FAT,Yes,0.7485319635
+36.59,0 days,0 days,12,Yes,No,No,No,No,Yes,No,No,Yes,Male,76-80,465,OBESITY,Yes,0.864553682
+25.33,0 days,0 days,7,No,No,Yes,No,No,No,No,No,Yes,Male,51-55,466,OVER-FAT,Yes,0.3494313639
+40.24,>28 days,0 days,3,Yes,No,Yes,No,No,Yes,No,No,Yes,Female,76-80,467,OBESITY,Yes,0.6709288209
+24.81,0 days,0 days,7,Yes,No,Yes,No,No,Yes,No,No,Yes,Male,66-70,468,OVER-FAT,Yes,0.5060111136
+35.24,8-14 days,0 days,8,No,No,Yes,No,No,No,Yes,No,Yes,Male,61-65,469,OBESITY,Yes,0.644901832
+30.41,0 days,0 days,8,Yes,No,No,No,Yes,No,No,No,Yes,Male,71-75,470,OBESITY,Yes,0.8308642033
+37.88,0 days,0 days,8,Yes,No,No,No,No,Yes,No,No,Yes,Male,76-80,471,OBESITY,Yes,0.8290319618
+23.57,0 days,0 days,8,No,No,Yes,No,No,No,No,No,Yes,Female,71-75,472,NORMAL,Yes,0.4130301055
+41.6,>28 days,0 days,8,Yes,No,No,No,No,No,No,No,Yes,Male,61-65,473,OBESITY,Yes,0.6642914989
+34.58,1-7 days,0 days,10,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Male,66-70,474,OBESITY,Yes,0.7912232713
+34.3,0 days,0 days,7,Yes,No,Yes,No,No,No,No,No,Yes,Male,66-70,475,OBESITY,Yes,0.5651184809
+31.89,>28 days,0 days,6,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Female,61-65,476,OBESITY,Yes,0.6377952589
+25.69,1-7 days,0 days,8,No,No,Yes,No,Yes,No,No,No,Yes,Male,61-65,477,OVER-FAT,Yes,0.6936729322
+32.28,0 days,>28 days,8,Yes,No,Yes,No,No,No,No,No,Yes,Female,51-55,478,OBESITY,Yes,0.3666795146
+33.67,0 days,0 days,6,Yes,No,No,No,No,Yes,Yes,No,Yes,Male,76-80,479,OBESITY,Yes,0.863701027
+25.5,0 days,0 days,8,Yes,Yes,Yes,No,No,No,No,No,Yes,Male,>= 80,480,OVER-FAT,Yes,0.9301254193
+19.08,0 days,0 days,8,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Female,76-80,481,NORMAL,Yes,0.8859984498
+26.63,0 days,0 days,9,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Male,>= 80,482,OVER-FAT,Yes,0.8067173243
+27.34,>28 days,0 days,5,Yes,Yes,No,No,No,No,No,Yes,Yes,Male,71-75,483,OVER-FAT,Yes,0.9307777976
+31.93,>28 days,0 days,5,Yes,No,No,No,No,Yes,No,No,Yes,Male,66-70,484,OBESITY,Yes,0.6825774784
+29.57,0 days,1-7 days,5,Yes,No,No,No,Yes,No,No,No,Yes,Male,46-50,485,OBESITY,Yes,0.3284909818
+29.29,0 days,0 days,8,Yes,No,Yes,No,Yes,No,No,No,Yes,Male,71-75,486,OBESITY,Yes,0.81846623
+24.11,0 days,0 days,8,Yes,No,Yes,No,No,No,No,No,Yes,Male,>= 80,487,OVER-FAT,Yes,0.7485319635
+40.45,1-7 days,1-7 days,5,Yes,Yes,Yes,No,No,No,No,No,Yes,Male,46-50,488,OBESITY,Yes,0.5593360498
+26.5,0 days,0 days,8,No,No,Yes,No,No,No,No,No,Yes,Male,>= 80,489,OVER-FAT,Yes,0.7485319635
+22.15,1-7 days,1-7 days,6,No,No,Yes,No,No,No,No,No,Yes,Male,51-55,490,NORMAL,Yes,0.3916359225
+18.6,0 days,0 days,6,Yes,No,No,No,No,No,No,No,Yes,Female,>= 80,491,NORMAL,Yes,0.5703300895
+25.11,0 days,0 days,9,No,No,Yes,No,No,No,No,No,Yes,Male,66-70,492,OVER-FAT,Yes,0.6397739031
+36.31,1-7 days,0 days,5,No,No,Yes,No,No,Yes,Yes,No,Yes,Male,66-70,493,OBESITY,Yes,0.6637092972
+22.86,0 days,0 days,8,No,No,No,No,Yes,No,No,Yes,Yes,Female,76-80,494,NORMAL,Yes,0.6544047313
+24.41,15-21 days,15-21 days,6,Yes,No,No,No,No,No,No,No,Yes,Female,76-80,495,OVER-FAT,Yes,0.8078286233
+25.83,0 days,0 days,8,No,No,Yes,No,No,No,No,No,Yes,Male,61-65,496,OVER-FAT,Yes,0.5887469274
+29.05,1-7 days,0 days,8,No,No,Yes,No,No,No,Yes,Yes,Yes,Male,71-75,497,OBESITY,Yes,0.7402812571
+33.05,0 days,1-7 days,8,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Male,51-55,498,OBESITY,Yes,0.5760515657
+25.83,0 days,0 days,8,No,No,Yes,No,No,No,No,No,Yes,Male,66-70,499,OVER-FAT,Yes,0.5588167805
+23.67,0 days,0 days,6,No,No,Yes,No,No,No,No,Yes,Yes,Male,>= 80,500,NORMAL,Yes,0.7388977588
+29.29,>28 days,15-21 days,8,Yes,Yes,Yes,No,No,No,No,No,Yes,Female,>= 80,501,OBESITY,Yes,0.9342593338
+29.84,0 days,1-7 days,7,Yes,Yes,Yes,No,No,No,No,No,Yes,Male,61-65,502,OBESITY,Yes,0.8700658394
+34.58,22-28 days,8-14 days,5,Yes,Yes,No,No,No,Yes,No,No,Yes,Male,76-80,503,OBESITY,Yes,0.9728600168
+25.84,0 days,0 days,9,Yes,No,Yes,No,No,No,No,No,Yes,Male,>= 80,504,OVER-FAT,Yes,0.8067173243
+37.61,0 days,>28 days,6,No,No,Yes,No,Yes,No,No,No,Yes,Female,41-45,505,OBESITY,Yes,0.3123616176
+24.21,0 days,1-7 days,8,Yes,No,Yes,No,No,No,No,Yes,Yes,Female,>= 80,506,OVER-FAT,Yes,0.5664319138
+29.99,15-21 days,1-7 days,9,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Male,66-70,507,OBESITY,Yes,0.911287054
+33.96,0 days,0 days,7,No,No,Yes,No,No,Yes,No,No,Yes,Male,71-75,508,OBESITY,Yes,0.6974354059
+26.85,0 days,0 days,8,Yes,No,Yes,No,No,Yes,No,No,Yes,Male,71-75,509,OVER-FAT,Yes,0.6920060867
+34.44,1-7 days,0 days,9,Yes,Yes,No,Yes,No,No,No,No,Yes,Female,71-75,510,OBESITY,Yes,0.8934258617
+25.83,0 days,0 days,9,No,No,Yes,No,No,No,No,Yes,Yes,Male,>= 80,511,OVER-FAT,Yes,0.8067173243
+31.38,0 days,1-7 days,6,No,No,Yes,No,No,No,No,No,Yes,Male,51-55,512,OBESITY,Yes,0.5288727439
+48.42,15-21 days,1-7 days,4,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Female,61-65,513,OBESITY,Yes,0.9596021615
+21.77,8-14 days,0 days,5,Yes,Yes,Yes,No,No,No,No,No,Yes,Male,56-60,514,NORMAL,Yes,0.7054096759
+33.28,0 days,0 days,9,Yes,No,No,No,No,Yes,No,No,Yes,Male,>= 80,515,OBESITY,Yes,0.8522690748
+19.84,0 days,0 days,9,No,Yes,Yes,No,No,Yes,No,Yes,Yes,Female,71-75,516,NORMAL,Yes,0.8152344469
+32.62,15-21 days,15-21 days,6,No,No,No,No,No,No,No,No,Yes,Female,56-60,517,OBESITY,Yes,0.4766953568
+25.69,0 days,0 days,7,No,No,Yes,No,No,No,No,No,Yes,Female,61-65,518,OVER-FAT,Yes,0.3326216188
+31.62,0 days,0 days,10,No,No,No,No,Yes,No,No,No,Yes,Female,76-80,519,OBESITY,Yes,0.8862055696
+24.33,0 days,0 days,7,Yes,No,Yes,No,No,Yes,No,No,Yes,Male,>= 80,520,OVER-FAT,Yes,0.7065076022
+15.41,15-21 days,0 days,6,No,No,Yes,No,Yes,No,No,No,Yes,Male,<= 40,521,OVER-THIN,Yes,0.1001752222
+21.52,0 days,0 days,8,Yes,No,Yes,No,No,No,No,No,Yes,Male,61-65,522,NORMAL,Yes,0.5101594385
+31.96,0 days,0 days,5,No,No,No,No,No,Yes,No,No,Yes,Female,61-65,523,OBESITY,Yes,0.5113093352
+24.27,0 days,1-7 days,8,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Male,76-80,524,OVER-FAT,Yes,0.941157432
+26.88,0 days,0 days,9,Yes,No,Yes,No,No,No,No,No,Yes,Male,71-75,525,OVER-FAT,Yes,0.7590606213
+27.37,0 days,0 days,6,Yes,No,Yes,No,No,No,No,No,Yes,Male,46-50,526,OVER-FAT,Yes,0.1892949103
+39.16,0 days,1-7 days,6,Yes,No,Yes,No,No,Yes,No,No,Yes,Male,61-65,527,OBESITY,Yes,0.7075741111
+28.5,1-7 days,1-7 days,6,Yes,No,Yes,No,No,No,Yes,No,Yes,Male,>= 80,528,OBESITY,Yes,0.8341931585
+26.5,0 days,1-7 days,5,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Male,46-50,529,OVER-FAT,Yes,0.6128033192
+31.57,15-21 days,0 days,5,Yes,No,No,No,No,No,No,No,Yes,Male,71-75,530,OBESITY,Yes,0.7922918096
+28.59,0 days,0 days,6,No,No,Yes,No,No,Yes,No,No,Yes,Male,61-65,531,OBESITY,Yes,0.7035577668
+37.21,0 days,0 days,8,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Male,>= 80,532,OBESITY,Yes,0.856592702
+28.29,1-7 days,0 days,8,Yes,No,No,No,No,No,No,No,Yes,Male,66-70,533,OBESITY,Yes,0.636464475
+32.55,0 days,0 days,8,Yes,No,No,No,No,No,No,Yes,Yes,Male,>= 80,534,OBESITY,Yes,0.8044728846
+27.07,8-14 days,0 days,8,No,Yes,No,No,No,Yes,No,No,Yes,Female,76-80,535,OVER-FAT,Yes,0.8803619217
+26.51,0 days,0 days,4,No,No,No,No,No,No,No,No,Yes,Male,51-55,536,OVER-FAT,Yes,0.7367075809
+27.8,15-21 days,0 days,8,No,No,Yes,No,No,Yes,No,No,Yes,Male,66-70,537,OVER-FAT,Yes,0.5588167805
+31.09,>28 days,0 days,9,Yes,Yes,No,No,No,Yes,No,No,Yes,Female,>= 80,538,OBESITY,Yes,0.9173978678
+36.4,15-21 days,8-14 days,6,Yes,No,No,No,Yes,No,No,No,Yes,Female,41-45,539,OBESITY,Yes,0.2944371229
+24.33,>28 days,0 days,8,Yes,No,Yes,No,No,Yes,No,No,Yes,Female,71-75,540,OVER-FAT,Yes,0.4916735845
+25.69,0 days,>28 days,6,Yes,No,No,No,No,No,No,No,Yes,Female,71-75,541,OVER-FAT,Yes,0.6873376554
+48.82,>28 days,0 days,4,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Female,>= 80,542,OBESITY,Yes,0.908613818
+22.15,>28 days,0 days,8,Yes,No,Yes,No,No,No,No,No,Yes,Male,71-75,543,NORMAL,Yes,0.6204292164
+25.83,15-21 days,>28 days,4,Yes,No,No,No,No,Yes,No,No,Yes,Female,51-55,544,OVER-FAT,Yes,0.6578539091
+28.5,0 days,0 days,8,No,No,Yes,No,No,No,No,Yes,Yes,Male,66-70,545,OBESITY,Yes,0.6163957004
+27.37,15-21 days,0 days,8,No,No,Yes,No,No,No,No,Yes,Yes,Male,>= 80,546,OVER-FAT,Yes,0.7485319635
+29.53,1-7 days,1-7 days,8,No,No,Yes,No,No,No,No,No,Yes,Male,<= 40,547,OBESITY,Yes,0.1150815475
+27.22,>28 days,8-14 days,4,Yes,No,Yes,No,No,Yes,No,No,Yes,Male,56-60,548,OVER-FAT,Yes,0.7571914236
+39.8,0 days,1-7 days,7,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Male,61-65,549,OBESITY,Yes,0.7031370144
+25.84,0 days,0 days,8,Yes,No,Yes,No,No,No,No,Yes,Yes,Male,76-80,550,OVER-FAT,Yes,0.7781800494
+22.24,1-7 days,0 days,6,Yes,No,Yes,No,No,No,No,Yes,Yes,Male,76-80,551,NORMAL,Yes,0.7693316859
+25.1,1-7 days,0 days,7,Yes,No,No,No,No,No,No,No,Yes,Male,>= 80,552,OVER-FAT,Yes,0.7239731635
+33.29,>28 days,0 days,6,Yes,No,Yes,No,No,Yes,No,No,Yes,Male,71-75,553,OBESITY,Yes,0.7883527542
+25.36,0 days,0 days,7,No,No,Yes,No,No,No,No,No,Yes,Male,76-80,554,OVER-FAT,Yes,0.7393853037
+23.17,0 days,0 days,8,Yes,No,Yes,No,No,No,No,No,Yes,Female,>= 80,555,NORMAL,Yes,0.4824647543
+20.8,>28 days,>28 days,6,No,Yes,No,No,No,No,No,No,Yes,Female,<= 40,556,NORMAL,Yes,0.2424595766
+23.73,8-14 days,0 days,8,Yes,No,No,No,No,No,No,No,Yes,Male,66-70,557,NORMAL,Yes,0.5009977744
+24.33,0 days,0 days,8,Yes,No,Yes,No,No,No,No,Yes,Yes,Male,>= 80,558,OVER-FAT,Yes,0.7485319635
+25.06,>28 days,8-14 days,5,Yes,No,No,Yes,No,No,Yes,No,Yes,Female,56-60,559,OVER-FAT,Yes,0.3172385149
+39.38,0 days,0 days,10,Yes,No,Yes,No,No,No,No,No,Yes,Female,>= 80,560,OBESITY,Yes,0.793135147
+20.51,>28 days,0 days,4,Yes,No,No,No,No,No,Yes,No,Yes,Female,61-65,561,NORMAL,Yes,0.6538417936
+36.9,1-7 days,0 days,9,No,No,No,No,No,Yes,Yes,No,Yes,Female,61-65,562,OBESITY,Yes,0.5443024913
+28.89,1-7 days,0 days,8,No,No,Yes,No,No,No,No,No,Yes,Male,61-65,563,OBESITY,Yes,0.644901832
+29.84,8-14 days,1-7 days,7,Yes,No,Yes,No,No,No,No,No,Yes,Male,>= 80,564,OBESITY,Yes,0.756895148
+36.35,0 days,0 days,7,Yes,No,Yes,No,No,No,No,No,Yes,Male,76-80,565,OBESITY,Yes,0.7825675958
+22.81,0 days,0 days,8,Yes,No,Yes,No,No,No,Yes,No,Yes,Male,>= 80,566,NORMAL,Yes,0.684094665
+27.41,0 days,1-7 days,7,Yes,No,Yes,No,Yes,No,No,No,Yes,Male,66-70,567,OVER-FAT,Yes,0.6229148118
+20.12,0 days,0 days,8,No,No,Yes,No,No,No,No,No,Yes,Female,71-75,568,NORMAL,Yes,0.4130301055
+26.54,0 days,0 days,8,No,No,Yes,No,No,No,No,No,Yes,Male,76-80,569,OVER-FAT,Yes,0.7781800494
+33.48,>28 days,0 days,12,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Female,76-80,570,OBESITY,Yes,0.9247448855
+29.35,0 days,0 days,8,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Male,76-80,571,OBESITY,Yes,0.8165293393
+22.86,8-14 days,0 days,7,Yes,No,Yes,Yes,No,No,No,No,Yes,Female,61-65,572,NORMAL,Yes,0.2661009153
+29.81,>28 days,>28 days,6,No,No,Yes,No,No,No,No,No,Yes,Female,66-70,573,OBESITY,Yes,0.5906590859
+28.29,0 days,15-21 days,6,No,No,Yes,No,No,No,No,No,Yes,Male,71-75,574,OBESITY,Yes,0.8792504102
+20.19,>28 days,>28 days,4,Yes,No,No,No,No,No,No,No,Yes,Female,>= 80,575,NORMAL,Yes,0.8624301816
+28.41,0 days,0 days,6,No,No,No,No,No,Yes,No,No,Yes,Male,76-80,576,OBESITY,Yes,0.863701027
+32.55,0 days,0 days,9,Yes,No,Yes,No,No,No,No,No,Yes,Male,76-80,577,OBESITY,Yes,0.8618843393
+33.2,0 days,0 days,8,Yes,No,Yes,No,Yes,No,No,No,Yes,Female,41-45,578,OBESITY,Yes,0.1788235989
+30.9,0 days,15-21 days,7,Yes,No,Yes,No,Yes,No,No,No,Yes,Female,66-70,579,OBESITY,Yes,0.6336770225
+26.63,>28 days,>28 days,10,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Male,51-55,580,OVER-FAT,Yes,0.9179094338
+27.97,0 days,0 days,7,Yes,No,Yes,No,No,No,No,Yes,Yes,Male,61-65,581,OVER-FAT,Yes,0.5365526389
+33.96,22-28 days,0 days,8,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Male,<= 40,582,OBESITY,Yes,0.167893796
+30.9,0 days,0 days,9,No,No,Yes,No,No,Yes,No,No,Yes,Female,66-70,583,OBESITY,Yes,0.4923695068
+34.87,>28 days,>28 days,10,Yes,Yes,No,Yes,No,No,No,No,Yes,Male,56-60,584,OBESITY,Yes,0.9330877289
+33.66,0 days,0 days,6,No,No,No,No,No,Yes,No,No,Yes,Female,71-75,585,OBESITY,Yes,0.6359839174
+25.75,0 days,0 days,8,No,No,Yes,No,No,No,No,No,Yes,Male,>= 80,586,OVER-FAT,Yes,0.7485319635
+34.72,0 days,1-7 days,8,No,No,Yes,No,No,No,No,No,Yes,Male,61-65,587,OBESITY,Yes,0.6493167636
+33.79,>28 days,>28 days,3,No,No,No,No,No,Yes,No,No,Yes,Female,51-55,588,OBESITY,Yes,0.4016703794
+27.46,1-7 days,1-7 days,6,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Female,>= 80,589,OVER-FAT,Yes,0.7297710648
+32.12,22-28 days,15-21 days,5,Yes,No,Yes,No,No,Yes,No,No,Yes,Female,66-70,590,OBESITY,Yes,0.6241899624
+18.62,0 days,>28 days,9,Yes,No,Yes,Yes,No,No,No,No,Yes,Male,<= 40,592,NORMAL,Yes,0.1406883915
+33.54,22-28 days,15-21 days,5,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Female,66-70,593,OBESITY,Yes,0.9275415289
+35.35,0 days,8-14 days,9,Yes,No,Yes,Yes,No,No,No,No,Yes,Female,41-45,594,OBESITY,Yes,0.2062243526
+38.26,0 days,0 days,10,Yes,No,Yes,No,No,Yes,No,No,Yes,Male,71-75,595,OBESITY,Yes,0.8705091583
+34.06,1-7 days,0 days,7,Yes,No,No,No,No,Yes,No,No,Yes,Male,71-75,596,OBESITY,Yes,0.7152232348
+35.43,0 days,0 days,6,No,No,No,No,No,No,No,Yes,Yes,Female,61-65,597,OBESITY,Yes,0.526786367
+28.7,0 days,>28 days,8,Yes,No,Yes,No,No,No,No,No,Yes,Male,71-75,598,OBESITY,Yes,0.8198119087
+34.33,>28 days,>28 days,4,Yes,Yes,No,No,No,Yes,No,No,Yes,Female,61-65,599,OBESITY,Yes,0.9592029241
+25.61,1-7 days,1-7 days,8,Yes,No,No,No,No,No,No,No,Yes,Female,61-65,600,OVER-FAT,Yes,0.4063853996
+25.1,>28 days,0 days,7,Yes,No,Yes,No,No,Yes,No,No,Yes,Male,76-80,601,OVER-FAT,Yes,0.7393853037
+25.1,15-21 days,1-7 days,7,Yes,Yes,Yes,No,No,No,No,No,Yes,Male,66-70,602,OVER-FAT,Yes,0.8236388986
+26.61,0 days,0 days,8,Yes,No,No,No,Yes,Yes,No,No,Yes,Male,71-75,603,OVER-FAT,Yes,0.7947580615
+35.31,0 days,0 days,6,Yes,No,No,No,No,Yes,No,No,Yes,Male,51-55,604,OBESITY,Yes,0.5453897236
+26.58,0 days,0 days,7,Yes,No,Yes,No,No,No,No,No,Yes,Male,61-65,605,OVER-FAT,Yes,0.5365526389
+29.53,1-7 days,0 days,7,No,No,Yes,No,No,Yes,No,No,Yes,Male,61-65,606,OBESITY,Yes,0.5949310062
+26.96,0 days,>28 days,4,Yes,No,Yes,No,No,No,No,No,Yes,Male,46-50,607,OVER-FAT,Yes,0.5244371209
+27.99,>28 days,0 days,5,Yes,No,Yes,No,No,Yes,No,No,Yes,Male,76-80,608,OVER-FAT,Yes,0.8116370549
+20.98,0 days,1-7 days,9,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Male,71-75,609,NORMAL,Yes,0.7002997131
+30.27,0 days,0 days,6,No,No,Yes,No,No,No,No,Yes,Yes,Male,66-70,610,OBESITY,Yes,0.677404937
+42.6,1-7 days,0 days,8,No,No,Yes,No,Yes,No,No,No,Yes,Female,71-75,611,OBESITY,Yes,0.6599714448
+31.9,8-14 days,15-21 days,6,Yes,No,No,No,No,Yes,No,No,Yes,Female,71-75,612,OBESITY,Yes,0.7735211369
+31.09,1-7 days,1-7 days,7,No,No,Yes,No,Yes,No,No,No,Yes,Female,76-80,613,OBESITY,Yes,0.7141777664
+36.94,15-21 days,0 days,8,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Male,71-75,614,OBESITY,Yes,0.9272537831
+26.45,0 days,0 days,8,No,No,Yes,No,No,No,No,No,Yes,Male,61-65,615,OVER-FAT,Yes,0.5887469274
+25.1,1-7 days,0 days,7,No,No,Yes,No,Yes,No,Yes,No,Yes,Male,61-65,616,OVER-FAT,Yes,0.6468065657
+27.44,0 days,0 days,10,No,No,Yes,No,No,No,No,No,Yes,Female,71-75,617,OVER-FAT,Yes,0.6952391417
+33.96,0 days,0 days,7,No,No,Yes,No,No,No,No,No,Yes,Female,71-75,618,OBESITY,Yes,0.4980729198
+24.28,>28 days,1-7 days,6,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Female,61-65,619,OVER-FAT,Yes,0.8531182712
+31.28,1-7 days,1-7 days,6,No,No,Yes,No,No,No,No,No,Yes,Female,61-65,620,OBESITY,Yes,0.5102004945
+43.4,1-7 days,1-7 days,8,No,No,Yes,No,No,No,No,No,Yes,Male,51-55,621,OBESITY,Yes,0.4620794101
+28.89,1-7 days,1-7 days,4,No,Yes,No,No,No,Yes,No,No,Yes,Female,76-80,622,OBESITY,Yes,0.9735446998
+24.33,0 days,0 days,8,Yes,No,Yes,No,No,No,No,No,Yes,Female,66-70,623,OVER-FAT,Yes,0.3528666698
+26.63,0 days,0 days,6,No,No,Yes,No,No,No,No,No,Yes,Male,66-70,624,OVER-FAT,Yes,0.6233883652
+29.21,0 days,0 days,8,No,Yes,Yes,No,Yes,No,No,No,Yes,Female,>= 80,625,OBESITY,Yes,0.9199943112
+29.1,0 days,0 days,8,No,No,No,No,Yes,Yes,Yes,No,Yes,Female,>= 80,626,OBESITY,Yes,0.7369593708
+20.18,>28 days,1-7 days,8,Yes,No,Yes,No,No,No,No,No,Yes,Female,61-65,627,NORMAL,Yes,0.313706697
+35.15,1-7 days,1-7 days,8,Yes,No,No,No,No,Yes,No,No,Yes,Female,>= 80,628,OBESITY,Yes,0.6435941504
+24.21,0 days,0 days,9,Yes,No,No,Yes,No,No,No,No,Yes,Male,66-70,629,OVER-FAT,Yes,0.6592956466
+36.02,0 days,0 days,3,Yes,No,Yes,No,No,No,No,No,Yes,Male,71-75,630,OBESITY,Yes,0.7520611089
+16.5,0 days,0 days,7,No,No,Yes,No,No,No,No,Yes,Yes,Male,71-75,631,OVER-THIN,Yes,0.4932180693
+37.93,1-7 days,1-7 days,8,No,No,Yes,No,No,No,No,No,Yes,Female,<= 40,632,OBESITY,Yes,0.0530165252
+29.53,1-7 days,0 days,6,Yes,No,Yes,No,Yes,No,No,No,Yes,Male,71-75,633,OBESITY,Yes,0.8549028391
+22.45,0 days,1-7 days,8,Yes,No,Yes,No,No,Yes,No,No,Yes,Male,71-75,634,NORMAL,Yes,0.6249714755
+30.38,0 days,0 days,6,Yes,No,No,No,No,Yes,No,No,Yes,Female,66-70,635,OBESITY,Yes,0.4962055477
+30.18,0 days,15-21 days,8,No,No,No,No,No,No,No,No,Yes,Female,71-75,636,OBESITY,Yes,0.723263453
+26.61,0 days,0 days,4,No,No,No,No,No,Yes,No,No,Yes,Female,71-75,637,OVER-FAT,Yes,0.8029509402
+35.26,0 days,0 days,8,Yes,No,Yes,No,Yes,No,No,No,Yes,Male,76-80,638,OBESITY,Yes,0.8756174736
+34.44,0 days,0 days,8,No,No,Yes,No,No,No,No,No,Yes,Male,71-75,639,OBESITY,Yes,0.7402812571
+27.59,0 days,1-7 days,8,No,No,No,No,No,Yes,Yes,No,Yes,Female,76-80,640,OVER-FAT,Yes,0.6265339671
+30.54,0 days,0 days,6,Yes,No,Yes,No,No,No,No,Yes,Yes,Male,71-75,641,OBESITY,Yes,0.7883527542
+22.92,0 days,1-7 days,6,Yes,No,Yes,No,Yes,No,No,No,Yes,Male,46-50,642,NORMAL,Yes,0.2150331218
+34.44,0 days,0 days,8,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Male,66-70,643,OBESITY,Yes,0.8778361805
+28.97,8-14 days,1-7 days,8,Yes,No,No,No,No,No,No,No,Yes,Male,51-55,644,OBESITY,Yes,0.4834559958
+33.45,0 days,>28 days,7,Yes,No,Yes,No,No,No,No,No,Yes,Male,<= 40,645,OBESITY,Yes,0.1413817147
+31.89,>28 days,>28 days,6,Yes,Yes,No,No,Yes,No,No,No,Yes,Female,61-65,646,OBESITY,Yes,0.9263050921
+38.25,>28 days,8-14 days,8,No,No,No,No,Yes,Yes,No,No,Yes,Female,71-75,647,OBESITY,Yes,0.7400023697
+36.58,15-21 days,15-21 days,7,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Male,76-80,648,OBESITY,Yes,0.8755576493
+28.89,0 days,0 days,9,Yes,No,No,Yes,No,No,No,No,Yes,Male,>= 80,649,OBESITY,Yes,0.8522690748
+22.74,1-7 days,0 days,8,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Female,56-60,650,NORMAL,Yes,0.5703644967
+29.53,0 days,0 days,6,Yes,No,Yes,No,No,No,No,No,Yes,Male,76-80,651,OBESITY,Yes,0.8532850238
+29.24,1-7 days,1-7 days,6,No,No,Yes,No,No,No,No,No,Yes,Male,56-60,652,OBESITY,Yes,0.5031926191
+28.19,>28 days,8-14 days,7,Yes,No,No,No,No,Yes,No,Yes,Yes,Male,66-70,653,OBESITY,Yes,0.6558322123
+25.84,0 days,0 days,8,No,No,Yes,No,No,Yes,No,No,Yes,Male,71-75,654,OVER-FAT,Yes,0.6920060867
+20.98,0 days,0 days,8,Yes,No,Yes,No,No,No,No,No,Yes,Female,76-80,655,NORMAL,Yes,0.5235136747
+19.74,1-7 days,>28 days,5,No,No,No,No,No,Yes,Yes,No,Yes,Female,71-75,656,NORMAL,Yes,0.6005013325
+27.5,>28 days,0 days,8,Yes,No,No,No,No,No,No,No,Yes,Male,76-80,657,OVER-FAT,Yes,0.7926323037
+28.19,8-14 days,0 days,7,No,No,Yes,No,No,No,No,No,Yes,Male,56-60,658,OBESITY,Yes,0.3807249252
+30.27,0 days,0 days,7,No,No,Yes,No,No,No,No,Yes,Yes,Male,66-70,659,OBESITY,Yes,0.5651184809
+30.41,0 days,0 days,8,Yes,No,Yes,No,No,Yes,No,No,Yes,Male,66-70,660,OBESITY,Yes,0.6163957004
+33.84,0 days,0 days,10,No,No,No,No,No,No,No,Yes,Yes,Female,>= 80,661,OBESITY,Yes,0.8068548704
+33.67,0 days,>28 days,10,Yes,No,No,No,No,No,No,No,Yes,Female,51-55,662,OBESITY,Yes,0.5980442746
+34.72,15-21 days,1-7 days,4,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Female,71-75,663,OBESITY,Yes,0.8844104883
+30.72,0 days,0 days,6,Yes,Yes,Yes,No,No,No,No,No,Yes,Male,51-55,664,OBESITY,Yes,0.831192948
+26.39,0 days,0 days,9,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Male,71-75,665,OVER-FAT,Yes,0.7743974268
+34.95,>28 days,0 days,6,Yes,No,No,No,Yes,No,No,No,Yes,Male,71-75,666,OBESITY,Yes,0.8652221276
+33.25,8-14 days,0 days,6,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Female,>= 80,667,OBESITY,Yes,0.9047629559
+22.67,0 days,1-7 days,7,Yes,No,Yes,No,No,No,No,No,Yes,Female,76-80,668,NORMAL,Yes,0.4753055661
+19.53,>28 days,1-7 days,3,Yes,No,No,No,No,No,Yes,No,Yes,Male,71-75,669,NORMAL,Yes,0.6589643222
+23.3,1-7 days,0 days,8,Yes,No,No,No,Yes,Yes,No,No,Yes,Female,56-60,670,NORMAL,Yes,0.2443997903
+35.3,15-21 days,1-7 days,6,No,No,No,No,Yes,Yes,Yes,No,Yes,Female,66-70,671,OBESITY,Yes,0.6136580355
+29.76,>28 days,0 days,8,Yes,No,Yes,No,No,No,No,No,Yes,Male,76-80,672,OBESITY,Yes,0.8165293393
+24.65,1-7 days,1-7 days,6,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Male,>= 80,673,OVER-FAT,Yes,0.7986254253
+19.53,0 days,0 days,7,No,No,Yes,No,No,No,No,Yes,Yes,Female,>= 80,674,NORMAL,Yes,0.4298445157
+28.63,1-7 days,0 days,6,No,Yes,Yes,No,No,No,Yes,No,Yes,Female,>= 80,675,OBESITY,Yes,0.9047629559
+31.09,>28 days,8-14 days,6,Yes,No,No,No,No,No,No,No,Yes,Female,56-60,676,OBESITY,Yes,0.3854278274
+33.29,15-21 days,15-21 days,9,No,No,No,No,No,No,Yes,No,Yes,Male,66-70,677,OBESITY,Yes,0.8275552935
+31.95,0 days,0 days,7,Yes,No,Yes,No,No,No,No,Yes,Yes,Male,66-70,678,OBESITY,Yes,0.5651184809
+32.49,0 days,0 days,7,Yes,No,Yes,No,No,Yes,No,No,Yes,Male,76-80,679,OBESITY,Yes,0.7825675958
+23.3,0 days,0 days,6,Yes,No,Yes,No,No,No,No,No,Yes,Female,71-75,680,NORMAL,Yes,0.4790474633
+23.49,15-21 days,8-14 days,4,No,No,Yes,No,Yes,No,No,No,Yes,Female,66-70,681,NORMAL,Yes,0.7655529614
+38.37,>28 days,15-21 days,6,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Female,61-65,682,OBESITY,Yes,0.9390006707
+23.67,0 days,0 days,7,No,No,Yes,No,No,Yes,No,No,Yes,Male,76-80,683,NORMAL,Yes,0.6736261562
+22.6,1-7 days,0 days,7,Yes,No,Yes,No,No,No,No,No,Yes,Female,71-75,684,NORMAL,Yes,0.3626758728
+19.53,0 days,1-7 days,9,No,No,Yes,No,No,Yes,Yes,No,Yes,Female,71-75,685,NORMAL,Yes,0.5014754961
+25.07,1-7 days,0 days,6,No,No,Yes,No,No,No,No,No,Yes,Male,76-80,686,OVER-FAT,Yes,0.8209336223
+28.98,0 days,0 days,7,No,No,Yes,No,No,Yes,No,No,Yes,Male,71-75,687,OBESITY,Yes,0.6974354059
+31.85,15-21 days,15-21 days,7,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Male,61-65,688,OBESITY,Yes,0.8195458654
+26.29,0 days,0 days,8,No,No,No,No,No,No,No,No,Yes,Female,>= 80,689,OVER-FAT,Yes,0.582671176
+25.19,8-14 days,1-7 days,10,No,No,Yes,No,No,Yes,No,No,Yes,Female,>= 80,690,OVER-FAT,Yes,0.7549788604
+33.45,0 days,>28 days,6,No,No,Yes,No,No,No,No,No,Yes,Male,51-55,691,OBESITY,Yes,0.6373611193
+31.01,0 days,0 days,8,No,No,Yes,No,No,Yes,No,No,Yes,Male,71-75,692,OBESITY,Yes,0.7402812571
+21.47,15-21 days,22-28 days,6,Yes,No,Yes,No,No,Yes,No,No,Yes,Male,66-70,693,NORMAL,Yes,0.7465231235
+31,0 days,15-21 days,6,No,No,Yes,No,No,No,No,No,Yes,Female,<= 40,694,OBESITY,Yes,0.1230249309
+32.77,>28 days,>28 days,6,No,Yes,No,No,Yes,No,No,Yes,Yes,Female,61-65,695,OBESITY,Yes,0.9263050921
+26.39,0 days,0 days,9,No,No,Yes,No,No,Yes,No,No,Yes,Male,71-75,696,OVER-FAT,Yes,0.7590606213
+25.18,>28 days,>28 days,8,Yes,No,Yes,No,No,No,No,Yes,Yes,Female,61-65,697,OVER-FAT,Yes,0.4959018306
+25.11,>28 days,>28 days,6,No,No,Yes,No,No,No,Yes,Yes,Yes,Male,>= 80,698,OVER-FAT,Yes,0.8612886545
+28.13,>28 days,0 days,7,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Male,76-80,699,OBESITY,Yes,0.8505920082
+33.45,0 days,0 days,7,No,Yes,No,No,Yes,No,No,No,Yes,Male,>= 80,700,OBESITY,Yes,0.9592443528
+30.27,0 days,0 days,10,No,No,Yes,No,No,Yes,No,Yes,Yes,Male,71-75,701,OBESITY,Yes,0.8705091583
+29.21,15-21 days,0 days,7,Yes,No,No,No,No,Yes,No,Yes,Yes,Male,66-70,702,OBESITY,Yes,0.5860684065
+33.28,>28 days,0 days,8,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Male,56-60,703,OBESITY,Yes,0.7727075013
+25.79,0 days,0 days,8,Yes,Yes,No,No,No,No,No,No,Yes,Female,76-80,704,OVER-FAT,Yes,0.8803619217
+42.83,1-7 days,15-21 days,8,No,No,No,No,No,No,No,No,Yes,Female,<= 40,705,OBESITY,Yes,0.1047139129
+26.63,0 days,0 days,8,No,No,Yes,No,No,No,No,No,Yes,Female,>= 80,706,OVER-FAT,Yes,0.5616779047
+30.23,0 days,0 days,9,No,Yes,Yes,No,Yes,No,No,No,Yes,Female,66-70,707,OBESITY,Yes,0.8727898858
+45.32,>28 days,>28 days,8,No,No,Yes,No,No,Yes,No,No,Yes,Female,56-60,708,OBESITY,Yes,0.3431388833
+26.63,0 days,0 days,8,No,No,Yes,No,No,No,No,No,Yes,Male,61-65,709,OVER-FAT,Yes,0.5887469274
+44.85,>28 days,1-7 days,9,Yes,No,Yes,No,No,No,Yes,No,Yes,Female,66-70,710,OBESITY,Yes,0.4972023174
+23.43,1-7 days,0 days,5,No,No,Yes,No,No,No,No,Yes,Yes,Female,>= 80,711,NORMAL,Yes,0.5338035905
+27.41,0 days,0 days,8,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Male,>= 80,712,OVER-FAT,Yes,0.7485319635
+48.82,0 days,0 days,6,No,No,Yes,No,No,No,No,No,Yes,Male,66-70,713,OBESITY,Yes,0.677404937
+35.15,1-7 days,1-7 days,7,No,Yes,No,No,No,Yes,Yes,No,Yes,Female,66-70,714,OBESITY,Yes,0.7353747004
+25.1,1-7 days,1-7 days,7,Yes,No,Yes,No,Yes,No,No,No,Yes,Male,51-55,715,OVER-FAT,Yes,0.4641499705
+59.37,0 days,0 days,8,Yes,No,Yes,No,No,No,No,No,Yes,Male,41-45,716,OBESITY,Yes,0.2423067428
+24.37,0 days,0 days,7,No,No,Yes,No,No,No,No,No,Yes,Male,61-65,717,OVER-FAT,Yes,0.5365526389
+28.32,15-21 days,22-28 days,12,Yes,No,Yes,No,No,Yes,No,No,Yes,Female,61-65,718,OBESITY,Yes,0.7156691368
+19.9,>28 days,0 days,7,No,No,Yes,No,No,No,No,No,Yes,Male,>= 80,719,NORMAL,Yes,0.6365307249
+28.06,0 days,0 days,8,No,No,Yes,No,No,No,No,No,Yes,Male,61-65,720,OBESITY,Yes,0.644901832
+32.61,0 days,0 days,10,No,Yes,No,No,Yes,Yes,No,No,Yes,Female,71-75,721,OBESITY,Yes,0.9570902115
+38.41,1-7 days,0 days,4,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Female,76-80,722,OBESITY,Yes,0.9706985714
+39.16,0 days,0 days,7,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Male,61-65,723,OBESITY,Yes,0.6990856454
+28.48,0 days,0 days,8,No,Yes,Yes,No,No,Yes,No,No,Yes,Male,76-80,724,OBESITY,Yes,0.9521580225
+31.46,1-7 days,0 days,7,Yes,No,No,No,No,No,No,No,Yes,Male,>= 80,725,OBESITY,Yes,0.7689110164
+43.05,22-28 days,1-7 days,7,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Male,66-70,726,OBESITY,Yes,0.8555875237
+18.56,1-7 days,0 days,6,No,No,Yes,No,No,No,No,Yes,Yes,Female,>= 80,727,NORMAL,Yes,0.5491963204
+28.29,0 days,0 days,8,Yes,No,Yes,No,No,Yes,No,No,Yes,Female,61-65,728,OBESITY,Yes,0.4387788159
+29.3,0 days,0 days,8,No,No,No,No,No,No,No,No,Yes,Male,61-65,729,OBESITY,Yes,0.6642914989
+28.25,0 days,0 days,7,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Male,76-80,730,OBESITY,Yes,0.9415035349
+29.53,1-7 days,0 days,6,No,No,Yes,No,No,No,No,No,Yes,Male,61-65,731,OBESITY,Yes,0.7035577668
+27.44,0 days,0 days,7,No,No,Yes,No,No,No,Yes,No,Yes,Female,51-55,732,OVER-FAT,Yes,0.1878009046
+31.01,1-7 days,0 days,9,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Male,76-80,733,OBESITY,Yes,0.9654053533
+33.33,8-14 days,0 days,8,No,No,No,No,No,No,No,Yes,Yes,Female,>= 80,734,OBESITY,Yes,0.6391472122
+26.45,0 days,0 days,7,Yes,No,Yes,No,No,No,No,No,Yes,Male,76-80,735,OVER-FAT,Yes,0.7393853037
+20.67,0 days,0 days,8,Yes,No,Yes,No,No,No,Yes,No,Yes,Male,76-80,736,NORMAL,Yes,0.7184826744
+36.02,>28 days,0 days,4,Yes,No,No,No,No,No,No,No,Yes,Male,56-60,737,OBESITY,Yes,0.7620575047
+24.05,0 days,1-7 days,9,No,Yes,Yes,No,No,No,No,No,Yes,Female,71-75,738,OVER-FAT,Yes,0.8607898573
+35.15,>28 days,1-7 days,6,No,No,Yes,No,Yes,No,No,Yes,Yes,Female,66-70,739,OBESITY,Yes,0.5931350805
+27.44,>28 days,1-7 days,6,No,Yes,No,No,No,Yes,No,No,Yes,Female,76-80,740,OVER-FAT,Yes,0.907441583
+27.89,>28 days,1-7 days,7,Yes,Yes,No,No,No,Yes,No,No,Yes,Male,>= 80,741,OVER-FAT,Yes,0.9228282168
+28.79,>28 days,0 days,8,Yes,No,No,No,Yes,No,No,No,Yes,Male,76-80,742,OBESITY,Yes,0.8846622975
+25.68,0 days,0 days,6,No,No,Yes,Yes,No,No,No,No,Yes,Male,56-60,743,OVER-FAT,Yes,0.439182864
+23.72,1-7 days,0 days,8,Yes,No,Yes,No,No,No,No,Yes,Yes,Male,71-75,744,NORMAL,Yes,0.6204292164
+24.28,0 days,0 days,8,No,No,Yes,No,No,No,No,No,Yes,Male,>= 80,745,OVER-FAT,Yes,0.7485319635
+32.55,15-21 days,0 days,7,Yes,No,Yes,No,No,Yes,No,No,Yes,Male,61-65,746,OBESITY,Yes,0.5949310062
+20.66,1-7 days,15-21 days,7,Yes,No,No,No,No,No,No,No,Yes,Female,66-70,747,NORMAL,Yes,0.4059286533
+44.1,8-14 days,0 days,7,Yes,No,Yes,No,No,No,No,No,Yes,Male,56-60,748,OBESITY,Yes,0.3807249252
+23.63,0 days,0 days,7,Yes,No,Yes,No,No,No,No,No,Yes,Male,71-75,749,NORMAL,Yes,0.5693144398
+29.38,1-7 days,1-7 days,8,No,No,Yes,No,Yes,No,No,No,Yes,Male,<= 40,750,OBESITY,Yes,0.1706121604
+24.25,0 days,1-7 days,6,No,No,Yes,Yes,No,No,No,No,No,Male,46-50,751,OVER-FAT,Yes,0.1922797106
+22.6,0 days,15-21 days,4,No,No,Yes,No,Yes,No,No,No,No,Female,<= 40,752,NORMAL,Yes,0.2735250788
+22.67,0 days,0 days,5,Yes,No,Yes,No,No,No,No,No,No,Female,76-80,753,NORMAL,Yes,0.5743728022
+34.44,1-7 days,1-7 days,8,Yes,No,No,No,Yes,No,No,No,No,Male,41-45,754,OBESITY,Yes,0.3597597296
+20.8,0 days,>28 days,6,No,No,Yes,No,No,No,No,No,No,Female,<= 40,755,NORMAL,Yes,0.0616392636
+24.72,1-7 days,0 days,10,No,No,Yes,Yes,No,No,No,No,No,Female,66-70,756,OVER-FAT,Yes,0.5625641611
+22.46,0 days,0 days,8,No,No,Yes,No,No,No,No,No,No,Female,66-70,757,NORMAL,Yes,0.2840202445
+20.6,0 days,8-14 days,6,No,No,Yes,No,No,No,No,No,No,Female,51-55,758,NORMAL,Yes,0.2678500676
+34.97,0 days,>28 days,10,No,No,Yes,No,Yes,No,No,No,No,Female,<= 40,759,OBESITY,Yes,0.246424798
+28.89,1-7 days,1-7 days,7,Yes,No,Yes,No,No,No,No,No,No,Male,41-45,760,OBESITY,Yes,0.2086542387
+41.63,0 days,1-7 days,10,No,No,Yes,Yes,No,Yes,No,No,No,Female,41-45,761,OBESITY,Yes,0.2487057469
+31.75,>28 days,0 days,6,Yes,No,No,No,No,No,No,No,No,Male,66-70,762,OBESITY,Yes,0.6958568258
+24.03,0 days,0 days,9,Yes,No,No,No,Yes,No,No,No,No,Female,41-45,763,OVER-FAT,Yes,0.2077636349
+18.3,0 days,0 days,7,Yes,No,Yes,No,No,No,No,No,No,Female,61-65,764,OVER-THIN,Yes,0.2107051921
+21.03,1-7 days,1-7 days,8,No,No,Yes,No,No,No,No,No,No,Female,41-45,765,NORMAL,Yes,0.0744938208
+33.38,0 days,0 days,5,No,No,Yes,No,No,No,No,No,No,Male,46-50,766,OBESITY,Yes,0.2177741322
+25.39,1-7 days,1-7 days,8,No,No,Yes,No,No,No,No,No,No,Female,41-45,767,OVER-FAT,Yes,0.0996176343
+32.28,0 days,1-7 days,7,No,No,Yes,No,No,No,No,No,No,Female,56-60,768,OBESITY,Yes,0.2124931356
+26.78,1-7 days,0 days,8,Yes,No,Yes,No,No,No,No,No,No,Male,56-60,769,OVER-FAT,Yes,0.3747077367
+23.75,8-14 days,15-21 days,8,Yes,No,Yes,No,No,No,No,No,No,Male,<= 40,770,NORMAL,Yes,0.1251080821
+23.06,0 days,0 days,8,No,No,Yes,No,No,No,No,Yes,No,Male,66-70,771,NORMAL,Yes,0.4795656628
+27.67,0 days,0 days,9,No,No,Yes,No,No,No,No,No,No,Female,51-55,772,OVER-FAT,Yes,0.2861767461
+25.75,0 days,0 days,6,No,No,Yes,No,No,No,No,No,No,Female,56-60,773,OVER-FAT,Yes,0.2521265774
+25.69,1-7 days,22-28 days,4,No,No,Yes,No,Yes,No,No,No,No,Female,66-70,774,OVER-FAT,Yes,0.8907880657
+28.12,0 days,0 days,7,No,No,Yes,No,No,No,No,No,No,Male,56-60,775,OBESITY,Yes,0.3807249252
+27.41,0 days,0 days,6,Yes,No,Yes,No,Yes,No,No,No,No,Female,46-50,776,OVER-FAT,Yes,0.1371859239
+26.31,0 days,0 days,8,Yes,No,No,No,No,No,No,No,No,Male,61-65,777,OVER-FAT,Yes,0.609345444
+18.4,0 days,0 days,6,No,No,Yes,No,No,No,No,Yes,No,Female,71-75,778,OVER-THIN,Yes,0.4037068826
+26.61,0 days,1-7 days,7,No,No,Yes,No,No,No,No,No,No,Female,61-65,779,OVER-FAT,Yes,0.3369271533
+37.59,>28 days,>28 days,3,No,No,Yes,No,Yes,No,No,No,No,Male,46-50,780,OBESITY,Yes,0.3785119318
+23.62,0 days,1-7 days,8,Yes,No,Yes,No,No,No,No,No,No,Female,61-65,781,NORMAL,Yes,0.313706697
+32.69,0 days,0 days,7,Yes,No,No,No,No,No,No,No,No,Female,76-80,782,OBESITY,Yes,0.6279991839
+27.71,0 days,0 days,8,Yes,No,Yes,No,No,No,No,No,No,Male,76-80,783,OVER-FAT,Yes,0.7781800494
+26.63,0 days,0 days,7,No,No,Yes,No,No,No,No,No,No,Female,41-45,784,OVER-FAT,Yes,0.0806810342
+22.92,0 days,1-7 days,7,No,No,Yes,No,No,No,No,No,No,Female,<= 40,785,NORMAL,Yes,0.0253066858
+25.69,0 days,0 days,8,Yes,No,No,No,No,No,No,No,No,Female,61-65,786,OVER-FAT,Yes,0.4017300293
+33.07,>28 days,0 days,5,Yes,No,No,No,No,No,Yes,No,No,Female,56-60,787,OBESITY,Yes,0.3045729673
+39.87,0 days,1-7 days,8,No,No,Yes,No,Yes,No,No,No,No,Male,<= 40,788,OBESITY,Yes,0.1706121604
+28.06,0 days,0 days,9,Yes,No,Yes,No,No,No,No,No,No,Female,41-45,789,OBESITY,Yes,0.1618026632
+25.82,0 days,0 days,7,No,No,Yes,Yes,No,No,No,No,No,Female,<= 40,790,OVER-FAT,Yes,0.0338217766
+27.37,0 days,1-7 days,5,No,No,Yes,No,No,No,No,No,No,Female,<= 40,791,OVER-FAT,Yes,0.0514168526
+27.06,0 days,0 days,7,Yes,No,Yes,No,No,No,No,Yes,No,Male,>= 80,792,OVER-FAT,Yes,0.7065076022
+30.34,0 days,1-7 days,6,No,No,Yes,No,Yes,No,No,No,No,Male,<= 40,793,OBESITY,Yes,0.2118681613
+25.61,0 days,1-7 days,6,Yes,No,No,No,No,No,No,No,No,Female,46-50,794,OVER-FAT,Yes,0.1004428072
+25.34,1-7 days,0 days,5,No,No,Yes,No,No,No,No,No,No,Female,41-45,795,OVER-FAT,Yes,0.1176138346
+28.17,0 days,0 days,7,No,No,Yes,No,No,No,No,No,No,Female,51-55,796,OBESITY,Yes,0.2268038984
+22.89,0 days,1-7 days,8,Yes,No,Yes,No,No,No,No,No,No,Male,>= 80,797,NORMAL,Yes,0.688257863
+29.26,1-7 days,1-7 days,7,No,No,No,No,No,No,No,No,No,Female,<= 40,798,OBESITY,Yes,0.0470110885
+26.39,0 days,0 days,8,Yes,No,Yes,No,No,No,No,No,No,Male,41-45,799,OVER-FAT,Yes,0.2013319527
+20.55,0 days,1-7 days,6,Yes,No,Yes,No,No,No,No,No,No,Female,51-55,800,NORMAL,Yes,0.2169950718
+32.22,0 days,0 days,8,No,No,No,No,No,No,No,No,No,Female,61-65,801,OBESITY,Yes,0.459999257
+31.32,0 days,0 days,8,Yes,No,Yes,No,No,No,No,No,No,Female,66-70,802,OBESITY,Yes,0.4088924313
+24.21,0 days,0 days,7,No,No,Yes,Yes,No,No,No,No,No,Female,51-55,803,OVER-FAT,Yes,0.1878009046
+20.8,0 days,0 days,7,No,No,Yes,Yes,Yes,No,No,No,No,Female,<= 40,804,NORMAL,Yes,0.0387230246
+31.17,0 days,0 days,6,No,No,No,Yes,No,No,No,Yes,No,Male,76-80,805,OBESITY,Yes,0.863701027
+26.63,0 days,1-7 days,8,No,No,Yes,No,No,No,No,No,No,Female,41-45,806,OVER-FAT,Yes,0.0996176343
+27.1,>28 days,>28 days,6,Yes,No,Yes,No,No,No,No,No,No,Female,<= 40,807,OVER-FAT,Yes,0.0828156764
+27.46,0 days,0 days,7,No,No,Yes,No,No,No,No,Yes,No,Female,51-55,808,OVER-FAT,Yes,0.1878009046
+33,0 days,0 days,7,No,No,Yes,No,No,No,No,No,No,Female,61-65,809,OBESITY,Yes,0.3873570474
+39.48,1-7 days,15-21 days,10,Yes,No,Yes,No,No,No,No,No,No,Female,<= 40,810,OBESITY,Yes,0.2020310787
+19.39,0 days,0 days,8,Yes,No,No,No,No,No,No,No,No,Female,>= 80,811,NORMAL,Yes,0.5039009818
+33.91,1-7 days,1-7 days,8,No,No,Yes,No,No,Yes,No,No,No,Male,51-55,812,OBESITY,Yes,0.4620794101
+31.19,1-7 days,0 days,7,Yes,No,Yes,No,No,No,No,No,No,Male,<= 40,813,OBESITY,Yes,0.0935106628
+28.76,0 days,1-7 days,7,No,No,Yes,No,No,No,No,No,No,Male,51-55,814,OBESITY,Yes,0.4099214814
+38.62,0 days,>28 days,8,No,No,Yes,No,No,No,No,No,No,Female,56-60,815,OBESITY,Yes,0.3431388833
+32.49,0 days,0 days,8,Yes,No,Yes,No,No,No,No,No,No,Male,71-75,816,OBESITY,Yes,0.7402812571
+19.67,0 days,8-14 days,6,Yes,No,Yes,Yes,No,Yes,No,No,No,Male,41-45,817,NORMAL,Yes,0.2438842097
+36.61,0 days,0 days,7,No,No,Yes,No,No,No,No,No,No,Female,56-60,818,OBESITY,Yes,0.2092758558
+19.14,0 days,1-7 days,9,No,No,No,No,No,No,No,No,No,Female,>= 80,819,NORMAL,Yes,0.5921738536
+18.24,0 days,8-14 days,5,Yes,No,No,No,No,No,No,Yes,No,Female,66-70,820,OVER-THIN,Yes,0.344707427
+20.03,0 days,0 days,8,Yes,No,Yes,Yes,No,No,No,No,No,Female,46-50,821,NORMAL,Yes,0.052992343
+29.29,0 days,1-7 days,9,Yes,Yes,Yes,No,No,No,Yes,No,No,Female,71-75,822,OBESITY,Yes,0.886932307
+30.9,0 days,0 days,8,No,No,Yes,No,No,No,No,No,No,Female,71-75,823,OBESITY,Yes,0.5509741492
+24.68,0 days,15-21 days,8,No,No,Yes,No,No,No,No,No,No,Male,<= 40,824,OVER-FAT,Yes,0.164272217
+29.82,0 days,0 days,8,No,No,Yes,No,No,No,No,No,No,Male,<= 40,825,OBESITY,Yes,0.1131272714
+22.15,>28 days,1-7 days,8,No,No,No,No,No,No,No,No,No,Female,>= 80,826,NORMAL,Yes,0.5087335465
+25.42,0 days,0 days,7,No,No,Yes,No,No,No,No,No,No,Male,<= 40,827,OVER-FAT,Yes,0.0752004379
+28.59,0 days,0 days,7,No,No,Yes,No,No,No,No,Yes,No,Male,66-70,828,OBESITY,Yes,0.5651184809
+23.03,0 days,0 days,8,No,No,Yes,No,No,No,No,No,No,Female,71-75,829,NORMAL,Yes,0.4130301055
+23.4,0 days,0 days,7,No,No,Yes,No,No,No,No,No,No,Female,61-65,830,NORMAL,Yes,0.2661009153
+25.73,0 days,0 days,7,No,No,Yes,No,Yes,No,No,No,No,Male,41-45,831,OVER-FAT,Yes,0.2438389159
+22.5,0 days,15-21 days,7,Yes,No,Yes,No,No,No,No,No,No,Male,<= 40,832,NORMAL,Yes,0.103656782
+29.53,0 days,0 days,6,Yes,No,Yes,No,No,No,No,No,No,Male,41-45,833,OBESITY,Yes,0.2947384479
+26.58,0 days,1-7 days,7,No,No,Yes,No,No,No,No,No,No,Male,<= 40,834,OVER-FAT,Yes,0.0765560838
+15.34,0 days,0 days,13,Yes,No,No,No,No,No,No,No,No,Male,71-75,835,OVER-THIN,Yes,0.7032818843
+32.55,0 days,0 days,9,Yes,No,Yes,No,No,Yes,No,No,No,Male,71-75,836,OBESITY,Yes,0.7998652611
+18.52,1-7 days,0 days,6,No,No,Yes,No,No,No,No,No,No,Female,56-60,837,NORMAL,Yes,0.1969532097
+32.28,0 days,1-7 days,4,No,No,Yes,No,No,No,No,No,No,Female,<= 40,838,OBESITY,Yes,0.1779494511
+21.52,0 days,1-7 days,8,No,No,Yes,No,No,No,No,No,No,Male,<= 40,839,NORMAL,Yes,0.0694017879
+22.05,>28 days,0 days,7,Yes,No,No,No,No,No,No,Yes,No,Male,66-70,840,NORMAL,Yes,0.4481063708
+29.53,>28 days,>28 days,3,No,No,Yes,No,No,Yes,No,No,No,Male,56-60,841,OBESITY,Yes,0.5635766297
+17.71,0 days,1-7 days,8,Yes,No,Yes,No,No,No,No,No,No,Female,76-80,842,OVER-THIN,Yes,0.4519669845
+25.02,0 days,15-21 days,7,No,No,Yes,No,No,No,No,No,No,Female,<= 40,843,OVER-FAT,Yes,0.0640488451
+29.65,8-14 days,8-14 days,5,No,No,Yes,No,Yes,No,No,No,No,Male,<= 40,844,OBESITY,Yes,0.2501152209
+31.75,0 days,0 days,6,No,No,Yes,No,No,Yes,Yes,No,No,Female,66-70,845,OBESITY,Yes,0.474783386
+41.37,0 days,0 days,7,No,No,Yes,No,No,No,No,No,No,Male,<= 40,846,OBESITY,Yes,0.0935106628
+20.67,0 days,0 days,6,No,No,Yes,No,No,No,No,No,No,Female,<= 40,847,NORMAL,Yes,0.0395256228
+21.93,0 days,0 days,7,No,No,Yes,No,No,No,No,No,No,Male,<= 40,848,NORMAL,Yes,0.0558527026
+32.55,0 days,0 days,6,Yes,No,Yes,Yes,No,No,No,No,No,Male,46-50,849,OBESITY,Yes,0.2285208828
+25.06,1-7 days,1-7 days,9,No,No,Yes,No,No,No,No,No,No,Male,>= 80,850,OVER-FAT,Yes,0.809714026
+24.37,0 days,0 days,9,No,No,Yes,No,No,No,No,Yes,No,Female,66-70,851,OVER-FAT,Yes,0.4332899862
+34.17,0 days,0 days,9,Yes,No,Yes,No,No,No,No,No,No,Male,66-70,852,OBESITY,Yes,0.6925992182
+24.55,1-7 days,0 days,8,Yes,No,Yes,Yes,No,No,No,No,No,Female,71-75,854,OVER-FAT,Yes,0.4916735845
+21.46,0 days,8-14 days,6,No,No,Yes,No,No,No,No,No,No,Female,56-60,855,NORMAL,Yes,0.2481680115
+23.49,0 days,8-14 days,5,No,No,Yes,No,No,No,No,No,No,Male,56-60,856,NORMAL,Yes,0.4188279766
+26.15,>28 days,0 days,7,Yes,No,No,No,No,No,No,No,No,Male,66-70,857,OVER-FAT,Yes,0.5274273446
+22.71,0 days,0 days,8,No,No,Yes,No,No,No,No,No,No,Female,71-75,858,NORMAL,Yes,0.4130301055
+24.96,22-28 days,1-7 days,6,No,No,No,No,No,No,No,Yes,No,Female,>= 80,859,OVER-FAT,Yes,0.650372241
+33.45,0 days,>28 days,6,No,No,Yes,Yes,No,No,No,No,No,Male,<= 40,860,OBESITY,Yes,0.2101616276
+25.82,0 days,>28 days,8,Yes,No,No,No,No,No,No,No,No,Female,<= 40,861,OVER-FAT,Yes,0.0700116194
+27.32,0 days,0 days,7,Yes,No,Yes,No,No,No,No,No,No,Male,41-45,862,OVER-FAT,Yes,0.1693408298
+20.8,0 days,8-14 days,8,Yes,Yes,Yes,No,No,No,No,Yes,No,Female,61-65,863,NORMAL,Yes,0.7296168024
+24.89,0 days,1-7 days,5,No,No,Yes,No,No,No,No,No,No,Female,>= 80,864,OVER-FAT,Yes,0.6160696192
+25.06,0 days,1-7 days,9,No,No,Yes,No,No,No,No,No,No,Female,71-75,865,OVER-FAT,Yes,0.5803100504
+23.24,0 days,1-7 days,7,No,No,Yes,No,No,No,No,No,No,Male,76-80,866,NORMAL,Yes,0.6778623497
+34.17,1-7 days,1-7 days,5,No,No,Yes,No,No,No,No,No,No,Male,76-80,867,OBESITY,Yes,0.8478623081
+29.23,0 days,0 days,8,No,No,Yes,No,No,No,No,No,No,Female,66-70,868,OBESITY,Yes,0.4088924313
+35.43,0 days,0 days,6,Yes,No,No,No,No,No,No,Yes,No,Female,71-75,869,OBESITY,Yes,0.6359839174
+18.01,0 days,0 days,7,Yes,No,Yes,No,No,No,No,No,No,Female,66-70,870,OVER-THIN,Yes,0.1910647988
+26.61,>28 days,>28 days,4,Yes,No,No,No,Yes,No,No,No,No,Female,71-75,871,OVER-FAT,Yes,0.9114155976
+18.31,0 days,0 days,7,Yes,No,Yes,No,No,No,No,No,No,Male,46-50,872,OVER-THIN,Yes,0.0718351073
+30.71,1-7 days,15-21 days,9,Yes,No,No,No,Yes,No,No,No,No,Male,51-55,873,OBESITY,Yes,0.7992115094
+38.62,1-7 days,>28 days,7,No,No,Yes,No,No,No,No,No,No,Female,<= 40,874,OBESITY,Yes,0.0661936531
+27.44,0 days,0 days,7,No,No,Yes,No,No,Yes,No,No,No,Female,66-70,875,OVER-FAT,Yes,0.3060231481
+32.28,0 days,0 days,7,No,No,Yes,No,No,No,No,No,No,Female,66-70,876,OBESITY,Yes,0.3587343439
+23.4,1-7 days,1-7 days,7,No,No,No,No,No,Yes,No,No,No,Female,66-70,877,NORMAL,Yes,0.262732445
+23.3,0 days,0 days,8,No,No,Yes,Yes,No,No,No,Yes,No,Female,66-70,878,NORMAL,Yes,0.2840202445
+21.86,>28 days,1-7 days,10,No,No,Yes,No,No,No,No,No,No,Male,<= 40,879,NORMAL,Yes,0.1495826978
+20.8,0 days,0 days,7,No,No,Yes,No,No,No,No,No,No,Female,46-50,880,NORMAL,Yes,0.0432942709
+23.11,0 days,0 days,6,No,No,Yes,No,No,No,No,No,No,Male,<= 40,881,NORMAL,Yes,0.0872523704
+15.81,0 days,0 days,8,No,No,Yes,No,No,No,No,No,No,Female,<= 40,882,OVER-THIN,Yes,0.0226594987
+30.23,1-7 days,0 days,5,No,No,Yes,No,No,No,No,No,No,Female,66-70,883,OBESITY,Yes,0.4593511117
+26.31,0 days,0 days,7,No,No,Yes,No,No,No,No,Yes,No,Female,56-60,884,OVER-FAT,Yes,0.1726141963
+31.57,0 days,0 days,8,Yes,No,Yes,No,No,No,No,No,No,Male,71-75,885,OBESITY,Yes,0.7402812571
+28.9,0 days,0 days,8,Yes,No,No,No,No,No,No,No,No,Female,76-80,886,OBESITY,Yes,0.676111484
+33.23,0 days,0 days,7,No,No,Yes,No,No,Yes,No,No,No,Male,46-50,887,OBESITY,Yes,0.1549109478
+26.58,0 days,0 days,8,Yes,No,Yes,No,No,No,No,No,No,Male,61-65,888,OVER-FAT,Yes,0.5887469274
+40.45,8-14 days,1-7 days,7,No,No,No,No,No,No,No,No,No,Male,66-70,889,OBESITY,Yes,0.5907506252
+26.5,0 days,1-7 days,6,No,No,Yes,No,No,No,No,No,No,Male,<= 40,890,OVER-FAT,Yes,0.1181385475
+24.33,1-7 days,8-14 days,6,No,No,Yes,No,Yes,No,No,No,No,Female,<= 40,891,OVER-FAT,Yes,0.1074809318
+26.63,1-7 days,1-7 days,7,Yes,Yes,Yes,No,Yes,No,No,No,No,Female,71-75,892,OVER-FAT,Yes,0.8494236749
+39.8,0 days,0 days,7,No,No,Yes,No,No,No,No,No,No,Male,<= 40,893,OBESITY,Yes,0.0935106628
+21.59,0 days,0 days,6,Yes,No,Yes,No,No,No,No,Yes,No,Female,71-75,894,NORMAL,Yes,0.4790474633
+37.93,1-7 days,>28 days,4,No,No,No,No,Yes,Yes,No,No,No,Female,41-45,895,OBESITY,Yes,0.5942238121
+25.82,0 days,1-7 days,3,No,No,Yes,No,Yes,No,No,No,No,Female,66-70,896,OVER-FAT,Yes,0.4834149203
+20.09,0 days,1-7 days,6,Yes,No,Yes,No,No,No,No,No,No,Male,<= 40,897,NORMAL,Yes,0.0888044151
+20.18,0 days,0 days,6,Yes,No,Yes,Yes,No,No,No,No,No,Female,66-70,898,NORMAL,Yes,0.3414110122
+29.38,0 days,0 days,7,No,No,No,No,No,No,Yes,No,No,Male,41-45,899,OBESITY,Yes,0.2198370941
+29.41,0 days,1-7 days,5,Yes,No,Yes,No,No,No,No,No,No,Male,<= 40,900,OBESITY,Yes,0.1377311149
+35.7,>28 days,0 days,6,No,No,Yes,No,No,Yes,No,No,No,Male,66-70,901,OBESITY,Yes,0.677404937
+28.34,0 days,0 days,6,Yes,No,Yes,No,No,No,No,No,No,Female,56-60,902,OBESITY,Yes,0.2995616073
+29.95,0 days,0 days,5,No,No,Yes,No,No,No,No,No,No,Male,56-60,903,OBESITY,Yes,0.4828652283
+24.33,1-7 days,1-7 days,6,No,No,Yes,No,No,No,No,No,No,Female,<= 40,904,OVER-FAT,Yes,0.0545264316
+23.43,0 days,0 days,6,Yes,No,No,No,Yes,Yes,No,No,No,Female,66-70,905,NORMAL,Yes,0.4718600067
+25.82,0 days,0 days,8,No,No,No,No,No,No,No,No,No,Female,>= 80,906,OVER-FAT,Yes,0.582671176
+25.1,0 days,1-7 days,6,No,No,Yes,No,No,No,No,No,No,Male,<= 40,907,OVER-FAT,Yes,0.1181385475
+26.61,1-7 days,1-7 days,7,No,No,Yes,No,No,No,No,No,No,Female,<= 40,908,OVER-FAT,Yes,0.0344592798
+30.41,22-28 days,0 days,8,Yes,No,Yes,No,No,No,No,No,No,Male,61-65,909,OBESITY,Yes,0.644901832
+29.86,0 days,0 days,8,No,No,Yes,No,No,Yes,No,No,No,Female,>= 80,910,OBESITY,Yes,0.6191379138
+30.68,0 days,>28 days,7,Yes,No,Yes,No,Yes,No,No,No,No,Male,71-75,911,OBESITY,Yes,0.8533745814
+32.96,>28 days,15-21 days,5,No,No,No,No,No,No,No,No,No,Female,<= 40,912,OBESITY,Yes,0.1256126366
+28.89,0 days,0 days,5,No,No,No,No,No,No,No,No,No,Female,51-55,913,OBESITY,Yes,0.3267840826
+34.95,0 days,8-14 days,7,No,No,Yes,No,Yes,No,No,No,No,Female,56-60,914,OBESITY,Yes,0.3603843237
+28.13,0 days,1-7 days,6,No,No,Yes,No,No,No,No,No,No,Female,<= 40,915,OBESITY,Yes,0.0681739142
+38.44,0 days,0 days,7,No,No,No,No,No,No,No,No,No,Female,46-50,916,OBESITY,Yes,0.0791726933
+31.63,0 days,0 days,7,Yes,No,No,Yes,No,No,No,No,No,Female,46-50,917,OBESITY,Yes,0.0791726933
+33.75,1-7 days,1-7 days,7,Yes,No,Yes,No,No,No,No,No,No,Male,<= 40,918,OBESITY,Yes,0.0951624235
+32.28,0 days,0 days,7,No,No,Yes,No,No,No,No,No,No,Female,71-75,919,OBESITY,Yes,0.4980729198
+38.02,1-7 days,1-7 days,6,No,No,Yes,No,No,No,No,No,No,Female,<= 40,920,OBESITY,Yes,0.0681739142
+27.25,0 days,0 days,8,No,No,Yes,No,No,No,No,No,No,Male,76-80,921,OVER-FAT,Yes,0.7781800494
+50.22,0 days,8-14 days,6,No,No,No,No,Yes,No,No,No,No,Male,<= 40,922,OBESITY,Yes,0.2788404243
+25.75,>28 days,15-21 days,6,No,No,No,No,No,No,No,Yes,No,Female,51-55,923,OVER-FAT,Yes,0.443158441
+23.49,0 days,0 days,7,No,No,Yes,Yes,Yes,No,No,Yes,No,Female,41-45,924,NORMAL,Yes,0.0917281532
+29.26,0 days,0 days,7,No,No,Yes,No,No,No,No,No,No,Female,56-60,925,OBESITY,Yes,0.2092758558
+30.68,1-7 days,>28 days,5,No,No,Yes,No,Yes,Yes,No,Yes,No,Male,56-60,926,OBESITY,Yes,0.7021665887
+23.57,0 days,0 days,8,No,No,Yes,No,No,No,No,No,No,Male,<= 40,927,NORMAL,Yes,0.0681634781
+28.59,0 days,>28 days,6,No,No,Yes,No,No,No,No,No,No,Male,46-50,928,OBESITY,Yes,0.3210306832
+31.09,0 days,0 days,6,Yes,No,No,No,No,No,No,No,No,Female,<= 40,929,OBESITY,Yes,0.0725176568
+23.78,0 days,0 days,8,Yes,No,Yes,No,No,No,No,No,No,Female,46-50,930,NORMAL,Yes,0.052992343
+19.39,0 days,0 days,7,No,No,No,No,No,No,No,No,No,Female,51-55,931,NORMAL,Yes,0.154892381
+25.69,0 days,0 days,8,Yes,No,No,No,No,No,No,No,No,Female,71-75,932,OVER-FAT,Yes,0.513113308
+24.41,0 days,0 days,8,No,No,Yes,No,No,No,No,No,No,Male,61-65,933,OVER-FAT,Yes,0.5887469274
+29.26,0 days,0 days,7,No,No,Yes,No,No,No,No,No,No,Female,51-55,934,OBESITY,Yes,0.2268038984
+27.26,0 days,1-7 days,7,No,No,Yes,No,No,No,No,No,No,Male,<= 40,935,OVER-FAT,Yes,0.0765560838
+40.45,0 days,0 days,8,Yes,No,Yes,No,Yes,No,No,No,No,Male,<= 40,936,OBESITY,Yes,0.167893796
+32.36,1-7 days,8-14 days,7,No,No,Yes,No,Yes,No,No,No,No,Male,<= 40,937,OBESITY,Yes,0.180065415
+23.88,0 days,0 days,7,No,No,Yes,No,No,No,No,No,No,Male,46-50,938,NORMAL,Yes,0.0951209485
+20.6,0 days,0 days,6,No,No,Yes,No,No,No,No,No,No,Female,51-55,939,NORMAL,Yes,0.213728129
+18.89,0 days,0 days,9,No,No,Yes,No,No,No,No,No,No,Female,61-65,940,NORMAL,Yes,0.38599976
+29.18,0 days,0 days,8,Yes,No,No,No,No,No,No,Yes,No,Female,>= 80,941,OBESITY,Yes,0.6391472122
+56.64,>28 days,0 days,7,No,No,Yes,No,Yes,No,No,No,No,Female,61-65,942,OBESITY,Yes,0.5000310251
+36.58,1-7 days,1-7 days,8,No,Yes,Yes,No,No,Yes,No,No,No,Female,66-70,943,OBESITY,Yes,0.7592564044
+21.93,0 days,0 days,6,Yes,No,Yes,No,No,No,No,No,No,Male,51-55,944,NORMAL,Yes,0.3870393507
+36.16,>28 days,8-14 days,7,Yes,Yes,No,No,No,Yes,No,No,No,Male,<= 40,945,OBESITY,Yes,0.4035077862
+23.12,0 days,0 days,6,Yes,No,Yes,Yes,No,No,No,Yes,No,Male,46-50,946,NORMAL,Yes,0.1452016056
+22.96,0 days,0 days,7,Yes,No,No,No,No,Yes,No,No,No,Male,61-65,947,NORMAL,Yes,0.4785385849
+29.76,1-7 days,0 days,8,Yes,No,Yes,No,No,No,No,Yes,No,Male,56-60,948,OBESITY,Yes,0.431886933
+28.89,0 days,0 days,8,No,No,No,No,No,No,No,No,No,Male,<= 40,949,OBESITY,Yes,0.1220226619
+27.25,0 days,0 days,7,No,No,Yes,No,No,No,No,No,No,Female,61-65,950,OVER-FAT,Yes,0.3326216188
+25.09,1-7 days,0 days,8,Yes,No,No,No,No,No,No,No,No,Female,51-55,951,OVER-FAT,Yes,0.2375292591
+26.54,8-14 days,0 days,10,Yes,Yes,Yes,No,No,No,Yes,No,No,Male,>= 80,952,OVER-FAT,Yes,0.9691312206
+30.27,1-7 days,0 days,7,Yes,No,Yes,No,No,No,No,No,No,Male,61-65,953,OBESITY,Yes,0.5949310062
+28.7,0 days,>28 days,5,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Male,>= 80,954,OBESITY,Yes,0.9706811433
+29.29,0 days,0 days,7,No,No,Yes,No,No,No,No,No,No,Female,71-75,955,OBESITY,Yes,0.4980729198
+33.84,0 days,0 days,8,Yes,No,Yes,No,No,No,No,No,No,Female,<= 40,956,OBESITY,Yes,0.0520542181
+16.63,0 days,0 days,5,No,No,Yes,No,No,No,No,Yes,No,Female,71-75,957,OVER-THIN,Yes,0.3888743339
+22.67,0 days,0 days,8,No,No,Yes,No,No,No,No,No,No,Female,61-65,958,NORMAL,Yes,0.3095593625
+30.13,0 days,>28 days,8,Yes,No,Yes,No,Yes,No,No,No,No,Male,56-60,959,OBESITY,Yes,0.6574713027
+26.69,1-7 days,1-7 days,4,No,No,No,No,Yes,No,No,No,No,Female,<= 40,960,OVER-FAT,Yes,0.2272534868
+22.24,0 days,1-7 days,6,No,No,Yes,No,No,No,No,No,No,Male,51-55,961,NORMAL,Yes,0.3916359225
+22.56,0 days,1-7 days,6,No,No,Yes,No,No,No,No,No,No,Male,<= 40,962,NORMAL,Yes,0.0888044151
+25.68,0 days,1-7 days,9,No,No,Yes,Yes,No,No,No,No,No,Male,41-45,963,OVER-FAT,Yes,0.2649036704
+24.33,0 days,0 days,8,No,No,Yes,No,No,No,No,No,No,Female,<= 40,964,OVER-FAT,Yes,0.0414899964
+22.32,1-7 days,0 days,10,No,No,Yes,No,No,No,No,No,No,Male,46-50,965,NORMAL,Yes,0.2346390716
+31.66,0 days,0 days,7,No,No,Yes,No,No,No,No,No,No,Male,51-55,966,OBESITY,Yes,0.4052532574
+24.75,0 days,0 days,7,No,No,No,No,No,No,No,No,No,Female,56-60,967,OVER-FAT,Yes,0.1852103061
+35.87,1-7 days,1-7 days,8,Yes,No,Yes,No,No,Yes,No,No,No,Male,61-65,968,OBESITY,Yes,0.6493167636
+28.25,1-7 days,15-21 days,6,No,No,Yes,No,No,No,No,No,No,Male,<= 40,969,OBESITY,Yes,0.2457761458
+30.18,0 days,0 days,10,No,No,Yes,No,Yes,Yes,No,No,No,Female,51-55,970,OBESITY,Yes,0.5750451426
+26.32,>28 days,>28 days,6,Yes,No,No,No,No,No,No,No,No,Male,46-50,971,OVER-FAT,Yes,0.2888077795
+21.46,1-7 days,1-7 days,9,No,No,Yes,No,No,No,No,No,No,Female,<= 40,972,NORMAL,Yes,0.0430776929
+23.78,0 days,1-7 days,8,Yes,No,Yes,No,No,No,No,No,No,Female,71-75,973,NORMAL,Yes,0.4177249934
+30.83,0 days,0 days,8,No,No,Yes,No,No,No,No,No,No,Male,<= 40,974,OBESITY,Yes,0.1131272714
+14.88,0 days,0 days,8,No,No,Yes,No,Yes,No,No,No,No,Female,<= 40,975,OVER-THIN,Yes,0.0353762841
+26.04,0 days,0 days,7,Yes,No,Yes,No,No,No,No,Yes,No,Female,>= 80,976,OVER-FAT,Yes,0.508913744
+26.95,0 days,0 days,9,Yes,No,Yes,No,No,No,No,No,No,Male,<= 40,977,OVER-FAT,Yes,0.1235663627
+28.13,0 days,0 days,5,No,No,Yes,No,No,No,No,No,No,Male,66-70,978,OBESITY,Yes,0.6637092972
+29.95,0 days,0 days,8,Yes,No,Yes,No,No,No,No,No,No,Female,51-55,979,OBESITY,Yes,0.2661721559
+27.37,0 days,0 days,7,Yes,No,Yes,No,No,No,Yes,No,No,Male,76-80,980,OVER-FAT,Yes,0.7393853037
+46.81,0 days,0 days,7,No,No,No,No,No,No,No,No,No,Male,41-45,981,OBESITY,Yes,0.2198370941
+22.26,1-7 days,0 days,7,No,No,Yes,No,No,No,No,No,No,Female,>= 80,982,NORMAL,Yes,0.4298445157
+24.03,1-7 days,8-14 days,7,No,No,Yes,No,No,No,No,No,No,Female,41-45,983,OVER-FAT,Yes,0.1056382597
+27.55,1-7 days,1-7 days,8,No,No,Yes,Yes,No,No,No,No,No,Male,51-55,984,OVER-FAT,Yes,0.4037436946
+22.86,1-7 days,0 days,8,No,No,Yes,No,No,No,No,No,No,Female,56-60,985,NORMAL,Yes,0.1580192108
+36.58,0 days,0 days,6,No,No,Yes,No,Yes,No,No,No,No,Female,66-70,986,OBESITY,Yes,0.5884611377
+29.03,0 days,0 days,7,No,No,Yes,No,No,No,No,No,No,Male,56-60,987,OBESITY,Yes,0.3807249252
+21.97,0 days,8-14 days,9,No,No,Yes,No,No,No,No,No,No,Female,<= 40,988,NORMAL,Yes,0.0560933236
+18.3,0 days,0 days,8,No,No,Yes,No,No,No,No,No,No,Female,<= 40,989,OVER-THIN,Yes,0.0226594987
+30.13,0 days,0 days,7,No,No,Yes,No,No,No,No,No,No,Male,56-60,990,OBESITY,Yes,0.3807249252
+27.44,0 days,0 days,8,No,No,Yes,No,No,No,No,No,No,Female,<= 40,991,OVER-FAT,Yes,0.0414899964
+25.85,0 days,0 days,8,No,No,Yes,No,No,No,No,No,No,Male,<= 40,992,OVER-FAT,Yes,0.0913630758
+15.83,0 days,0 days,8,Yes,No,Yes,No,No,Yes,Yes,No,No,Male,41-45,993,OVER-THIN,Yes,0.118959691
+30.27,1-7 days,15-21 days,7,Yes,No,Yes,No,No,No,No,No,No,Female,<= 40,994,OBESITY,Yes,0.0798783439
+25.04,0 days,0 days,6,Yes,No,Yes,No,No,No,No,No,No,Male,51-55,995,OVER-FAT,Yes,0.4646515519
+27.07,0 days,0 days,7,No,No,Yes,No,No,No,No,No,No,Female,56-60,996,OVER-FAT,Yes,0.1726141963
+17.16,0 days,0 days,8,No,No,Yes,No,No,No,No,Yes,No,Female,>= 80,997,OVER-THIN,Yes,0.4070066207
+25.18,1-7 days,0 days,7,No,No,Yes,No,No,Yes,No,No,No,Male,76-80,998,OVER-FAT,Yes,0.7393853037
+25.1,0 days,0 days,5,No,No,Yes,No,No,No,No,No,No,Male,<= 40,999,OVER-FAT,Yes,0.1099244064
+30.34,>28 days,0 days,3,Yes,No,No,No,No,No,No,No,No,Male,76-80,1000,OBESITY,Yes,0.8376691193
+27.12,1-7 days,0 days,7,Yes,No,Yes,No,No,No,No,No,No,Female,61-65,1001,OVER-FAT,Yes,0.3326216188
+27.99,0 days,0 days,8,No,No,Yes,No,No,No,No,No,No,Female,61-65,1002,OVER-FAT,Yes,0.3812995794
+32.98,0 days,0 days,6,No,No,No,No,No,No,No,No,No,Male,46-50,1003,OBESITY,Yes,0.2439935712
+29.37,0 days,1-7 days,7,No,No,Yes,No,No,No,No,No,No,Male,51-55,1004,OBESITY,Yes,0.4099214814
+40.35,>28 days,1-7 days,8,Yes,No,Yes,Yes,No,No,No,No,No,Female,61-65,1005,OBESITY,Yes,0.4435452203
+23.15,0 days,0 days,6,Yes,No,Yes,No,No,No,No,No,No,Female,56-60,1006,NORMAL,Yes,0.1969532097
+30.04,0 days,0 days,6,Yes,No,No,No,No,No,No,No,No,Female,>= 80,1007,OBESITY,Yes,0.6983090271
+23.06,0 days,0 days,8,Yes,No,No,No,No,No,No,No,No,Male,51-55,1008,NORMAL,Yes,0.3448862671
+21.38,0 days,0 days,8,No,No,Yes,No,No,No,No,No,No,Male,<= 40,1009,NORMAL,Yes,0.0681634781
+30.23,1-7 days,15-21 days,6,Yes,No,Yes,Yes,Yes,No,No,No,No,Female,<= 40,1010,OBESITY,Yes,0.1816018944
+22.92,0 days,0 days,10,No,No,Yes,No,No,No,No,No,No,Male,<= 40,1011,NORMAL,Yes,0.1471399532
+31.75,0 days,0 days,8,Yes,No,Yes,No,Yes,No,No,No,No,Female,<= 40,1012,OBESITY,Yes,0.0799187167
+32.77,1-7 days,15-21 days,6,No,No,Yes,No,No,No,No,No,No,Female,<= 40,1013,OBESITY,Yes,0.1230249309
+32.37,0 days,0 days,9,No,No,No,Yes,No,No,No,No,No,Female,71-75,1014,OBESITY,Yes,0.6521272566
+25.5,0 days,0 days,8,No,No,Yes,No,No,No,No,Yes,No,Male,61-65,1015,OVER-FAT,Yes,0.5887469274
+21.79,0 days,0 days,8,No,No,Yes,No,No,No,No,No,No,Female,<= 40,1016,NORMAL,Yes,0.030529046
+24.13,0 days,0 days,9,No,No,No,No,No,Yes,No,No,No,Female,>= 80,1017,OVER-FAT,Yes,0.6618994011
+25.83,0 days,0 days,7,No,No,Yes,No,No,No,No,No,No,Male,71-75,1018,OVER-FAT,Yes,0.6450152066
+34.87,0 days,>28 days,9,Yes,No,Yes,No,No,No,No,No,No,Male,71-75,1019,OBESITY,Yes,0.864490109
+20.8,0 days,0 days,8,Yes,No,Yes,No,No,No,No,Yes,No,Female,66-70,1020,NORMAL,Yes,0.2840202445
+34.11,0 days,0 days,7,No,No,Yes,No,No,No,No,No,No,Female,51-55,1021,OBESITY,Yes,0.2268038984
+31,0 days,0 days,9,Yes,No,Yes,No,Yes,Yes,No,No,No,Male,66-70,1022,OBESITY,Yes,0.7808897019
+23.78,1-7 days,0 days,8,No,No,Yes,No,No,No,No,No,No,Female,>= 80,1023,NORMAL,Yes,0.4824647543
+29.09,0 days,0 days,6,No,No,Yes,No,No,Yes,No,No,No,Male,61-65,1024,OBESITY,Yes,0.7035577668
+20.8,0 days,0 days,6,No,No,Yes,No,Yes,No,No,No,No,Female,61-65,1025,NORMAL,Yes,0.4810024505
+23.91,0 days,1-7 days,8,No,No,Yes,No,No,No,No,No,No,Female,<= 40,1026,NORMAL,Yes,0.0311064831
+27.6,0 days,0 days,8,Yes,No,Yes,No,No,No,No,No,No,Male,66-70,1027,OVER-FAT,Yes,0.5588167805
+30.81,1-7 days,0 days,8,No,No,Yes,No,No,No,No,No,No,Male,41-45,1028,OBESITY,Yes,0.2423067428
+35.51,1-7 days,1-7 days,7,No,No,Yes,No,No,No,No,No,No,Female,<= 40,1029,OBESITY,Yes,0.0433142299
+24.37,0 days,1-7 days,7,Yes,No,Yes,No,Yes,No,No,No,No,Male,76-80,1030,OVER-FAT,Yes,0.8206369946
+41.6,0 days,8-14 days,7,No,No,Yes,No,No,Yes,No,No,No,Female,66-70,1031,OBESITY,Yes,0.4295170641
+31.75,0 days,1-7 days,7,No,No,Yes,No,No,No,No,No,No,Male,<= 40,1032,OBESITY,Yes,0.0951624235
+27.46,>28 days,1-7 days,8,Yes,No,No,No,Yes,No,No,No,No,Male,71-75,1033,OVER-FAT,Yes,0.7978937296
+31.32,15-21 days,1-7 days,3,Yes,No,Yes,No,No,No,No,No,No,Female,<= 40,1034,OBESITY,Yes,0.0562277955
+18.24,0 days,0 days,5,Yes,No,Yes,No,No,No,No,No,No,Male,<= 40,1035,OVER-THIN,Yes,0.0620450139
+28.29,0 days,0 days,6,No,No,Yes,No,No,No,No,Yes,No,Male,56-60,1036,OBESITY,Yes,0.4983592945
+27.44,0 days,0 days,6,Yes,No,Yes,No,No,No,No,Yes,No,Female,76-80,1037,OVER-FAT,Yes,0.6637079462
+23.8,0 days,0 days,7,Yes,No,No,No,No,No,No,No,No,Male,<= 40,1038,NORMAL,Yes,0.0605519828
+25.77,0 days,1-7 days,7,No,No,Yes,No,No,No,No,No,No,Male,<= 40,1039,OVER-FAT,Yes,0.0765560838
+32.28,0 days,0 days,7,No,No,No,No,No,No,No,No,No,Female,41-45,1040,OBESITY,Yes,0.108182738
+21.52,0 days,0 days,9,No,No,No,No,No,No,No,No,No,Male,<= 40,1041,NORMAL,Yes,0.100520649
+39.05,0 days,0 days,6,No,No,Yes,No,No,No,No,No,No,Male,51-55,1042,OBESITY,Yes,0.5240529467
+21.48,0 days,0 days,6,No,No,No,No,Yes,No,No,No,No,Female,<= 40,1043,NORMAL,Yes,0.0662270315
+31.93,0 days,1-7 days,6,No,No,No,No,No,No,No,No,No,Male,<= 40,1044,OBESITY,Yes,0.1562384301
+24.89,0 days,1-7 days,7,No,No,Yes,Yes,No,No,No,No,No,Female,56-60,1045,OVER-FAT,Yes,0.175392879
+21.3,0 days,0 days,8,No,No,Yes,No,Yes,No,No,No,No,Female,46-50,1046,NORMAL,Yes,0.0813159404
+24.41,0 days,0 days,12,Yes,No,Yes,No,No,No,No,No,No,Male,51-55,1047,OVER-FAT,Yes,0.4664584694
+29.05,0 days,>28 days,7,Yes,No,No,No,No,No,No,No,No,Female,66-70,1048,OBESITY,Yes,0.4931392037
+25.83,0 days,0 days,7,No,No,Yes,No,No,No,No,No,No,Male,<= 40,1049,OVER-FAT,Yes,0.0752004379
+34.97,0 days,0 days,8,No,No,No,No,No,No,No,No,No,Female,61-65,1050,OBESITY,Yes,0.459999257
+25.24,0 days,0 days,6,Yes,No,Yes,No,Yes,No,No,Yes,No,Male,>= 80,1051,OVER-FAT,Yes,0.8601999101
+28.48,15-21 days,1-7 days,7,No,No,Yes,No,No,No,No,Yes,No,Male,51-55,1052,OBESITY,Yes,0.4099214814
+29.12,0 days,0 days,7,No,No,Yes,No,No,No,No,No,No,Female,71-75,1053,OBESITY,Yes,0.4980729198
+24.37,1-7 days,15-21 days,8,No,No,No,No,No,No,No,No,No,Female,<= 40,1054,OVER-FAT,Yes,0.0844142732
+27.4,0 days,0 days,8,No,No,Yes,No,No,No,No,No,No,Female,<= 40,1055,OVER-FAT,Yes,0.0414899964
+28.7,0 days,>28 days,8,Yes,No,Yes,No,No,No,No,No,No,Female,<= 40,1056,OBESITY,Yes,0.0805891763
+41.35,0 days,1-7 days,7,No,No,Yes,No,No,No,No,No,No,Male,<= 40,1057,OBESITY,Yes,0.0951624235
+54.52,>28 days,0 days,8,Yes,No,Yes,No,No,No,No,No,No,Male,41-45,1058,OBESITY,Yes,0.2423067428
+37.12,0 days,15-21 days,8,No,No,Yes,No,No,No,No,No,No,Female,<= 40,1059,OBESITY,Yes,0.0969410012
+27.98,0 days,1-7 days,7,No,No,Yes,No,Yes,No,No,No,No,Female,66-70,1060,OVER-FAT,Yes,0.4155945582
+25.69,0 days,>28 days,10,Yes,No,No,No,No,Yes,No,No,No,Female,56-60,1061,OVER-FAT,Yes,0.5141356612
+25.82,>28 days,0 days,7,No,No,No,No,No,No,No,No,No,Female,>= 80,1062,OVER-FAT,Yes,0.5303209395
+24.41,0 days,0 days,8,No,No,Yes,No,No,No,No,No,No,Male,<= 40,1063,OVER-FAT,Yes,0.0913630758
+24.03,1-7 days,15-21 days,7,No,No,Yes,No,No,No,No,No,No,Female,46-50,1064,OVER-FAT,Yes,0.1084178263
+23.71,0 days,1-7 days,8,Yes,No,Yes,No,No,No,No,No,No,Male,66-70,1065,NORMAL,Yes,0.4843927205
+20.12,0 days,22-28 days,6,No,No,Yes,No,No,No,No,No,No,Female,<= 40,1066,NORMAL,Yes,0.0914435596
+19.37,>28 days,0 days,7,No,No,Yes,No,No,Yes,No,No,No,Female,71-75,1067,NORMAL,Yes,0.3626758728
+39.47,0 days,1-7 days,9,No,No,Yes,No,No,Yes,No,No,No,Female,56-60,1068,OBESITY,Yes,0.3187276754
+38.09,0 days,0 days,8,Yes,No,No,No,No,No,No,No,No,Female,76-80,1069,OBESITY,Yes,0.676111484
+21.29,0 days,0 days,8,Yes,No,No,No,No,No,No,No,No,Male,76-80,1070,NORMAL,Yes,0.7355023956
+35.44,0 days,0 days,6,Yes,No,Yes,Yes,No,Yes,No,No,No,Male,<= 40,1071,OBESITY,Yes,0.1428773791
+24.8,0 days,0 days,7,Yes,No,Yes,No,No,No,No,Yes,No,Female,41-45,1072,OVER-FAT,Yes,0.0806810342
+42.91,1-7 days,15-21 days,6,No,No,Yes,No,No,Yes,No,No,No,Female,61-65,1073,OBESITY,Yes,0.6663672912
+23.89,0 days,0 days,7,Yes,No,Yes,No,No,No,No,No,No,Female,61-65,1074,NORMAL,Yes,0.2661009153
+29.37,1-7 days,15-21 days,6,Yes,No,Yes,Yes,No,No,No,No,No,Male,46-50,1075,OBESITY,Yes,0.3667102903
+27.46,0 days,0 days,6,No,No,Yes,No,Yes,No,No,No,No,Male,<= 40,1076,OVER-FAT,Yes,0.1720808825
+23.86,0 days,0 days,7,No,No,Yes,No,No,No,No,No,No,Female,61-65,1077,NORMAL,Yes,0.2661009153
+22.32,0 days,>28 days,6,No,No,Yes,No,Yes,No,No,No,No,Male,76-80,1078,NORMAL,Yes,0.8938555896
+22.31,1-7 days,1-7 days,8,Yes,No,Yes,No,No,No,No,No,No,Female,46-50,1079,NORMAL,Yes,0.0539710055
+30.41,0 days,0 days,8,Yes,Yes,No,No,No,No,No,No,No,Male,71-75,1080,OBESITY,Yes,0.9328317632
+27.26,0 days,1-7 days,7,No,No,Yes,No,No,No,No,No,No,Male,46-50,1081,OVER-FAT,Yes,0.1284006656
+23.91,>28 days,0 days,15,No,No,Yes,No,No,No,No,No,No,Female,61-65,1082,NORMAL,Yes,0.3276752949
+23.63,0 days,1-7 days,14,No,Yes,Yes,No,No,No,No,No,No,Female,46-50,1083,NORMAL,Yes,1.8452057E-6
+26.31,0 days,0 days,8,No,No,Yes,No,Yes,No,No,No,No,Female,66-70,1084,OVER-FAT,Yes,0.4630916241
+29.41,1-7 days,0 days,8,Yes,Yes,Yes,No,No,No,No,No,No,Male,61-65,1085,OBESITY,Yes,0.8903697334
+19.94,0 days,0 days,8,No,No,Yes,No,No,No,No,No,No,Male,41-45,1086,NORMAL,Yes,0.1549707762
+20.64,0 days,0 days,7,Yes,No,No,No,No,No,No,Yes,No,Male,61-65,1087,NORMAL,Yes,0.4785385849
+22.46,0 days,1-7 days,6,Yes,No,No,No,No,No,No,No,No,Female,>= 80,1088,NORMAL,Yes,0.5750612533
+21.29,1-7 days,0 days,7,No,No,Yes,No,No,No,No,No,No,Male,<= 40,1089,NORMAL,Yes,0.0558527026
+29.23,>28 days,8-14 days,7,Yes,No,Yes,No,No,No,No,No,No,Female,56-60,1090,OBESITY,Yes,0.2626469655
+28.35,>28 days,0 days,7,Yes,No,Yes,No,No,No,No,No,No,Male,51-55,1091,OBESITY,Yes,0.4052532574
+23.38,0 days,0 days,8,No,No,No,No,No,Yes,No,No,No,Female,51-55,1092,NORMAL,Yes,0.1847610897
+22.22,1-7 days,0 days,7,No,No,Yes,No,No,No,No,No,No,Female,<= 40,1093,NORMAL,Yes,0.0248341522
+31.19,0 days,0 days,6,No,No,Yes,No,No,No,No,No,No,Male,61-65,1094,OBESITY,Yes,0.7035577668
+26.45,0 days,8-14 days,6,No,No,Yes,No,No,No,No,No,No,Male,<= 40,1095,OVER-FAT,Yes,0.1502718496
+26.58,8-14 days,0 days,9,No,No,Yes,No,No,No,No,No,No,Male,51-55,1096,OVER-FAT,Yes,0.4822069408
+33.47,0 days,1-7 days,7,Yes,No,Yes,No,No,No,No,No,No,Male,51-55,1097,OBESITY,Yes,0.4099214814
+24.56,1-7 days,0 days,7,Yes,No,Yes,No,No,No,No,No,No,Female,56-60,1098,OVER-FAT,Yes,0.1726141963
+32.55,0 days,0 days,8,Yes,No,Yes,No,No,Yes,No,No,No,Male,71-75,1099,OBESITY,Yes,0.7402812571
+19.08,0 days,0 days,6,Yes,No,Yes,No,No,No,No,No,No,Male,<= 40,1100,NORMAL,Yes,0.0872523704
+21.7,0 days,0 days,7,No,No,Yes,No,No,No,No,No,No,Female,46-50,1101,NORMAL,Yes,0.0432942709
+25.11,0 days,8-14 days,6,No,No,Yes,No,No,No,No,No,No,Female,51-55,1102,OVER-FAT,Yes,0.3346086689
+39.33,0 days,0 days,8,No,No,No,No,Yes,Yes,Yes,No,No,Male,71-75,1103,OBESITY,Yes,0.8308642033
+23.06,0 days,15-21 days,6,Yes,No,Yes,Yes,No,No,No,No,No,Male,41-45,1104,NORMAL,Yes,0.3190339966
+42.51,0 days,0 days,10,Yes,No,Yes,No,No,No,No,No,No,Female,41-45,1105,OBESITY,Yes,0.2451108375
+21.93,0 days,0 days,8,No,No,Yes,No,No,No,No,No,No,Female,<= 40,1106,NORMAL,Yes,0.030529046
+29.29,0 days,0 days,7,Yes,No,Yes,No,No,No,No,No,No,Male,51-55,1107,OBESITY,Yes,0.4052532574
+31.57,1-7 days,15-21 days,6,No,No,Yes,No,No,No,No,No,No,Female,<= 40,1108,OBESITY,Yes,0.1230249309
+26.54,0 days,0 days,6,No,No,Yes,No,No,No,No,No,No,Female,56-60,1109,OVER-FAT,Yes,0.2521265774
+29.26,0 days,0 days,8,No,No,Yes,No,No,No,No,No,No,Female,71-75,1110,OBESITY,Yes,0.5509741492
+23.01,0 days,1-7 days,7,No,No,No,No,No,No,No,No,No,Male,<= 40,1111,NORMAL,Yes,0.0616611664
+26.57,0 days,8-14 days,6,Yes,No,Yes,No,No,No,No,No,No,Female,51-55,1112,OVER-FAT,Yes,0.3346086689
+31.57,0 days,0 days,7,Yes,No,Yes,No,No,No,No,No,No,Male,<= 40,1113,OBESITY,Yes,0.0935106628
+28.7,1-7 days,8-14 days,7,No,No,No,No,No,Yes,No,No,No,Female,<= 40,1114,OBESITY,Yes,0.0611392361
+28.16,0 days,0 days,9,No,No,No,No,No,No,No,No,No,Male,<= 40,1115,OBESITY,Yes,0.1630929882
+32.5,1-7 days,0 days,7,Yes,No,Yes,No,No,No,No,No,No,Male,66-70,1116,OBESITY,Yes,0.5651184809
+41.2,15-21 days,>28 days,6,Yes,Yes,No,No,No,No,No,No,No,Female,56-60,1117,OBESITY,Yes,0.768853716
+28.41,0 days,1-7 days,8,Yes,No,Yes,No,No,No,No,Yes,No,Female,66-70,1118,OBESITY,Yes,0.4135734252
+23.09,0 days,1-7 days,7,No,No,Yes,No,No,No,No,No,No,Male,61-65,1119,NORMAL,Yes,0.4619887458
+27.37,1-7 days,0 days,8,Yes,No,Yes,No,Yes,No,No,No,No,Male,>= 80,1120,OVER-FAT,Yes,0.8248209232
+29.57,0 days,0 days,8,No,No,Yes,No,No,No,No,Yes,No,Male,61-65,1121,OBESITY,Yes,0.644901832
+24.39,0 days,0 days,8,No,No,Yes,No,Yes,No,No,No,No,Female,51-55,1122,OVER-FAT,Yes,0.3114202643
+23.03,0 days,8-14 days,8,No,No,Yes,No,Yes,No,No,Yes,No,Female,>= 80,1123,NORMAL,Yes,0.6649494652
+29.5,0 days,0 days,6,Yes,No,No,No,No,Yes,No,No,No,Male,>= 80,1124,OBESITY,Yes,0.8431800233
+35.14,0 days,1-7 days,7,Yes,No,Yes,No,No,No,No,No,No,Female,51-55,1125,OBESITY,Yes,0.2302121912
+24.96,0 days,0 days,6,No,No,Yes,No,No,No,No,No,No,Male,56-60,1126,OVER-FAT,Yes,0.439182864
+27.26,1-7 days,0 days,6,Yes,No,Yes,No,No,No,No,No,No,Male,51-55,1127,OVER-FAT,Yes,0.4646515519
+35.43,0 days,0 days,6,No,No,Yes,No,No,Yes,No,No,No,Female,71-75,1128,OBESITY,Yes,0.6159046236
+24.69,0 days,1-7 days,8,No,No,Yes,No,No,No,No,No,No,Female,71-75,1129,OVER-FAT,Yes,0.4965062455
+38.39,1-7 days,0 days,8,Yes,No,Yes,No,No,No,No,No,No,Male,41-45,1130,OBESITY,Yes,0.2423067428
+26.96,0 days,0 days,7,Yes,No,Yes,No,No,No,No,No,No,Male,66-70,1131,OVER-FAT,Yes,0.5060111136
+39.06,0 days,0 days,6,No,No,Yes,No,No,Yes,No,No,No,Female,66-70,1132,OBESITY,Yes,0.474783386
+24.96,1-7 days,0 days,8,No,No,No,No,No,No,No,No,No,Female,<= 40,1133,OVER-FAT,Yes,0.0450384871
+24.78,0 days,0 days,8,No,Yes,Yes,No,No,No,No,No,No,Male,46-50,1134,OVER-FAT,Yes,0.4441410262
+22.3,>28 days,>28 days,8,Yes,No,No,No,Yes,No,No,No,No,Male,71-75,1135,NORMAL,Yes,0.8180731002
+32.45,0 days,1-7 days,5,No,No,Yes,No,No,No,No,No,No,Female,46-50,1136,OBESITY,Yes,0.1088855952
+39.94,8-14 days,0 days,7,Yes,No,No,No,No,Yes,No,No,No,Male,76-80,1137,OBESITY,Yes,0.7968086296
+20.6,0 days,0 days,7,Yes,No,Yes,No,No,No,No,No,No,Female,66-70,1138,NORMAL,Yes,0.2428859035
+26.45,0 days,0 days,6,No,No,Yes,No,Yes,No,No,No,No,Male,<= 40,1139,OVER-FAT,Yes,0.1720808825
+21.02,0 days,0 days,8,Yes,No,Yes,No,No,No,No,No,No,Male,<= 40,1140,NORMAL,Yes,0.0681634781
+25.85,1-7 days,0 days,7,No,No,Yes,No,No,No,No,No,No,Female,<= 40,1141,OVER-FAT,Yes,0.0338217766
+30.27,0 days,0 days,8,No,No,No,No,No,No,No,No,No,Female,<= 40,1142,OBESITY,Yes,0.0564530144
+29.44,0 days,0 days,6,Yes,No,No,Yes,No,No,No,No,No,Female,61-65,1143,OBESITY,Yes,0.526786367
+25.61,0 days,0 days,6,No,No,Yes,No,No,No,No,No,No,Female,56-60,1144,OVER-FAT,Yes,0.2521265774
+22.46,0 days,0 days,7,No,No,Yes,No,No,No,No,No,No,Male,<= 40,1145,NORMAL,Yes,0.0558527026
+22.32,>28 days,8-14 days,4,Yes,Yes,No,No,No,No,Yes,No,No,Male,56-60,1146,NORMAL,Yes,0.9170399523
+25.84,0 days,0 days,6,No,No,No,No,No,No,No,Yes,No,Male,51-55,1147,OVER-FAT,Yes,0.4860396141
+17.22,>28 days,>28 days,3,Yes,No,Yes,No,No,No,No,No,No,Male,41-45,1148,OVER-THIN,Yes,0.1865672442
+26.58,1-7 days,0 days,7,Yes,No,No,No,No,No,No,No,No,Male,61-65,1149,OVER-FAT,Yes,0.5578018894
+25.68,0 days,0 days,8,Yes,No,Yes,No,No,No,No,Yes,No,Male,>= 80,1150,OVER-FAT,Yes,0.7485319635
+23.03,15-21 days,>28 days,9,No,No,Yes,No,No,No,No,No,No,Female,51-55,1151,NORMAL,Yes,0.317664147
+28.13,0 days,0 days,7,No,No,No,No,No,No,No,No,No,Female,56-60,1152,OBESITY,Yes,0.2238235442
+36.49,0 days,1-7 days,8,No,No,Yes,No,No,No,No,No,No,Female,<= 40,1153,OBESITY,Yes,0.0530165252
+35.43,0 days,0 days,8,No,No,No,No,No,No,No,Yes,No,Female,71-75,1154,OBESITY,Yes,0.5720895123
+23.44,1-7 days,0 days,8,No,No,Yes,No,No,No,No,Yes,No,Female,>= 80,1155,NORMAL,Yes,0.4824647543
+23.01,0 days,0 days,9,Yes,No,Yes,No,No,No,No,No,No,Male,<= 40,1156,NORMAL,Yes,0.0930266605
+26.25,1-7 days,0 days,7,No,No,Yes,No,No,No,No,No,No,Male,<= 40,1157,OVER-FAT,Yes,0.0752004379
+24.89,1-7 days,1-7 days,7,No,No,Yes,No,No,No,No,No,No,Female,61-65,1158,OVER-FAT,Yes,0.3369271533
+23.91,0 days,1-7 days,7,Yes,No,Yes,No,No,No,No,No,No,Female,66-70,1159,NORMAL,Yes,0.2464588347
+34.33,0 days,0 days,9,No,No,Yes,No,No,No,No,No,No,Female,<= 40,1160,OBESITY,Yes,0.0714922334
+28.97,0 days,0 days,8,Yes,No,Yes,No,Yes,No,No,No,No,Male,56-60,1161,OBESITY,Yes,0.5459705323
+25.09,0 days,0 days,8,No,No,Yes,No,No,No,No,No,No,Male,61-65,1162,OVER-FAT,Yes,0.5887469274
+31.19,0 days,0 days,8,No,No,Yes,No,Yes,No,No,No,No,Male,61-65,1163,OBESITY,Yes,0.7417843278
+20.34,1-7 days,1-7 days,6,Yes,No,Yes,No,No,No,No,No,No,Male,<= 40,1164,NORMAL,Yes,0.0888044151
+23.63,0 days,0 days,8,Yes,No,Yes,No,No,Yes,No,No,No,Male,66-70,1165,NORMAL,Yes,0.4795656628
+19.94,0 days,0 days,7,Yes,No,Yes,No,No,No,No,Yes,No,Female,>= 80,1166,NORMAL,Yes,0.4298445157
+23.06,1-7 days,15-21 days,8,No,No,Yes,No,No,No,No,No,No,Male,<= 40,1167,NORMAL,Yes,0.1251080821
+24.34,0 days,0 days,8,No,No,Yes,No,No,No,No,No,No,Male,<= 40,1168,OVER-FAT,Yes,0.0913630758
+49.76,1-7 days,0 days,8,No,No,No,No,No,Yes,No,No,No,Female,76-80,1169,OBESITY,Yes,0.676111484
+25.69,0 days,0 days,6,No,No,Yes,No,No,No,No,No,No,Female,<= 40,1170,OVER-FAT,Yes,0.0535382675
+28.9,0 days,0 days,4,No,No,No,No,No,No,No,No,No,Female,66-70,1171,OBESITY,Yes,0.744521549
+22.5,0 days,0 days,6,No,Yes,Yes,No,No,No,No,No,No,Male,71-75,1172,NORMAL,Yes,0.9052340795
+26.63,0 days,0 days,6,No,No,Yes,Yes,No,No,No,No,No,Female,<= 40,1173,OVER-FAT,Yes,0.0535382675
+30.9,0 days,0 days,8,No,No,Yes,No,No,No,No,No,No,Male,<= 40,1174,OBESITY,Yes,0.1131272714
+37.18,0 days,0 days,7,Yes,No,Yes,No,No,Yes,No,No,No,Male,71-75,1175,OBESITY,Yes,0.6974354059
+24.37,1-7 days,1-7 days,6,No,No,Yes,No,No,No,No,No,No,Male,<= 40,1176,OVER-FAT,Yes,0.1181385475
+23.75,1-7 days,0 days,8,Yes,No,Yes,No,No,No,No,No,No,Male,66-70,1177,NORMAL,Yes,0.4795656628
+20.98,0 days,0 days,6,No,No,Yes,No,No,No,No,No,No,Female,>= 80,1178,NORMAL,Yes,0.5491963204
+34.7,0 days,1-7 days,6,No,No,Yes,No,No,No,No,No,No,Female,66-70,1179,OBESITY,Yes,0.4796066674
+32.28,0 days,>28 days,7,Yes,No,No,No,No,No,No,No,No,Female,46-50,1180,OBESITY,Yes,0.1206808687
+25.09,0 days,0 days,6,Yes,No,Yes,No,No,No,No,No,No,Male,71-75,1181,OVER-FAT,Yes,0.7459464078
+20.36,0 days,0 days,8,No,No,Yes,No,No,No,No,No,No,Male,<= 40,1183,NORMAL,Yes,0.0681634781
+26.54,0 days,15-21 days,5,Yes,No,Yes,No,No,No,No,No,No,Male,<= 40,1184,OVER-FAT,Yes,0.1944755149
+22.43,8-14 days,0 days,8,Yes,No,No,No,No,No,No,Yes,No,Male,66-70,1185,NORMAL,Yes,0.5009977744
+30.23,0 days,0 days,8,No,No,Yes,No,No,No,No,No,No,Female,56-60,1186,OBESITY,Yes,0.2465718722
+34.15,0 days,1-7 days,7,No,No,Yes,No,No,No,No,No,No,Male,46-50,1187,OBESITY,Yes,0.1574588842
+22.96,0 days,15-21 days,8,Yes,No,Yes,No,No,No,No,No,No,Female,46-50,1188,NORMAL,Yes,0.098603933
+22.89,1-7 days,>28 days,6,Yes,No,Yes,No,Yes,No,No,No,No,Male,41-45,1189,NORMAL,Yes,0.3769912581
+29.26,0 days,0 days,7,No,No,Yes,No,No,No,No,No,No,Female,56-60,1190,OBESITY,Yes,0.2092758558
+39.06,0 days,0 days,7,Yes,No,Yes,No,No,Yes,No,No,No,Female,66-70,1191,OBESITY,Yes,0.3587343439
+28.89,1-7 days,1-7 days,8,No,Yes,Yes,No,No,No,No,No,No,Male,66-70,1192,OBESITY,Yes,0.8798944019
+23.13,0 days,0 days,7,No,No,Yes,No,No,No,No,No,No,Male,<= 40,1193,NORMAL,Yes,0.0558527026
+31.93,0 days,0 days,7,Yes,No,Yes,No,No,Yes,No,No,No,Female,56-60,1194,OBESITY,Yes,0.2092758558
+25.09,0 days,0 days,8,Yes,No,Yes,No,Yes,No,No,Yes,No,Male,66-70,1195,OVER-FAT,Yes,0.667060719
+22.55,>28 days,>28 days,6,No,No,Yes,No,Yes,Yes,No,No,No,Male,<= 40,1196,NORMAL,Yes,0.1944339966
+30.71,>28 days,0 days,8,No,No,No,No,Yes,No,No,No,No,Male,76-80,1197,OBESITY,Yes,0.8846622975
+22.32,0 days,1-7 days,7,Yes,No,Yes,No,Yes,No,No,No,No,Male,<= 40,1198,NORMAL,Yes,0.0870919074
+29.95,0 days,1-7 days,7,Yes,No,Yes,No,No,No,No,No,No,Female,61-65,1199,OBESITY,Yes,0.3919549796
+20.36,0 days,1-7 days,7,No,No,Yes,No,No,No,No,No,No,Male,<= 40,1200,NORMAL,Yes,0.0568810173
+23.05,0 days,0 days,5,No,No,No,No,No,No,No,Yes,No,Female,>= 80,1201,NORMAL,Yes,0.5550743657
+26.25,1-7 days,8-14 days,7,Yes,No,Yes,Yes,No,No,No,No,No,Male,41-45,1202,OVER-FAT,Yes,0.215300479
+31.75,1-7 days,1-7 days,7,Yes,Yes,No,No,No,Yes,No,No,No,Male,66-70,1203,OBESITY,Yes,0.8658657577
+23.71,0 days,1-7 days,6,Yes,No,No,No,No,No,No,No,No,Male,<= 40,1204,NORMAL,Yes,0.0959942702
+28.59,0 days,0 days,8,No,No,Yes,No,No,No,No,No,No,Male,66-70,1205,OBESITY,Yes,0.6163957004
+26.57,1-7 days,0 days,6,Yes,No,Yes,No,No,No,No,No,No,Female,51-55,1206,OVER-FAT,Yes,0.2720089988
+59.52,8-14 days,>28 days,8,No,No,Yes,No,Yes,No,Yes,No,No,Male,<= 40,1207,OBESITY,Yes,0.2436105224
+29.16,0 days,0 days,6,No,No,Yes,No,No,No,No,No,No,Male,76-80,1208,OBESITY,Yes,0.8532850238
+28.37,>28 days,1-7 days,6,No,No,No,No,No,No,No,No,No,Male,<= 40,1209,OBESITY,Yes,0.1562384301
+17.96,1-7 days,8-14 days,7,Yes,No,Yes,No,No,No,No,No,No,Female,<= 40,1210,OVER-THIN,Yes,0.0246136647
+27.44,0 days,1-7 days,6,No,No,Yes,No,No,No,No,No,No,Female,<= 40,1211,OVER-FAT,Yes,0.0545264316
+21.52,0 days,0 days,6,Yes,No,Yes,No,No,Yes,Yes,No,No,Male,41-45,1212,NORMAL,Yes,0.1933261366
+21.26,0 days,1-7 days,7,No,No,Yes,No,No,No,No,No,No,Female,51-55,1213,NORMAL,Yes,0.1463932732
+32.39,0 days,0 days,7,No,No,Yes,No,No,No,No,Yes,No,Female,66-70,1214,OBESITY,Yes,0.3587343439
+31.87,1-7 days,0 days,8,No,No,Yes,No,Yes,No,No,No,No,Male,<= 40,1215,OBESITY,Yes,0.167893796
+25.7,0 days,1-7 days,5,No,No,Yes,No,No,No,No,No,No,Female,<= 40,1216,OVER-FAT,Yes,0.0514168526
+24.94,0 days,1-7 days,7,No,No,Yes,No,No,No,No,No,No,Female,61-65,1217,OVER-FAT,Yes,0.3369271533
+21.79,0 days,0 days,8,No,No,Yes,No,No,No,No,No,No,Female,61-65,1218,NORMAL,Yes,0.3095593625
+20.12,0 days,0 days,8,Yes,No,No,Yes,No,No,No,No,No,Female,>= 80,1219,NORMAL,Yes,0.5039009818
+29.65,0 days,0 days,7,No,No,Yes,No,No,No,No,No,No,Male,46-50,1220,OBESITY,Yes,0.1549109478
+29.95,0 days,0 days,7,Yes,No,Yes,No,No,No,No,No,No,Male,46-50,1221,OBESITY,Yes,0.1549109478
+24.8,8-14 days,0 days,6,Yes,No,No,No,No,Yes,Yes,No,No,Female,>= 80,1222,OVER-FAT,Yes,0.6459633522
+23.57,0 days,0 days,7,No,No,Yes,No,No,No,No,No,No,Female,56-60,1223,NORMAL,Yes,0.1317748397
+29.53,0 days,0 days,8,No,No,Yes,No,No,No,No,No,No,Male,66-70,1224,OBESITY,Yes,0.6163957004
+25.85,0 days,0 days,6,Yes,No,Yes,No,No,No,No,No,No,Male,<= 40,1225,OVER-FAT,Yes,0.1161391716
+22.67,0 days,0 days,8,Yes,No,Yes,No,No,No,No,No,No,Female,<= 40,1226,NORMAL,Yes,0.030529046
+50.91,1-7 days,0 days,6,No,Yes,Yes,No,No,No,No,No,No,Female,51-55,1227,OBESITY,Yes,0.6794580037
+32.28,0 days,0 days,7,No,No,Yes,No,No,No,No,No,No,Male,66-70,1228,OBESITY,Yes,0.5651184809
+31.09,0 days,0 days,7,No,No,Yes,No,No,No,No,No,No,Female,61-65,1229,OBESITY,Yes,0.3873570474
+26.35,0 days,0 days,8,Yes,No,No,No,Yes,No,No,Yes,No,Male,>= 80,1230,OVER-FAT,Yes,0.8368713986
+20.98,0 days,0 days,7,No,No,Yes,No,Yes,No,No,No,No,Female,41-45,1231,NORMAL,Yes,0.0917281532
+42.51,>28 days,0 days,8,No,No,Yes,No,No,No,No,No,No,Female,56-60,1232,OBESITY,Yes,0.2465718722
+27.26,0 days,0 days,9,Yes,No,Yes,No,No,No,No,No,No,Male,<= 40,1233,OVER-FAT,Yes,0.1235663627
+23.6,0 days,8-14 days,8,Yes,No,Yes,Yes,No,No,No,No,No,Female,<= 40,1234,NORMAL,Yes,0.0406587784
+28.74,15-21 days,15-21 days,5,Yes,No,Yes,No,Yes,No,No,No,No,Female,41-45,1235,OBESITY,Yes,0.3433453906
+27.26,0 days,1-7 days,10,Yes,No,No,No,No,No,No,No,No,Male,71-75,1236,OVER-FAT,Yes,0.8547880878
+26.39,0 days,0 days,8,No,No,Yes,No,No,No,No,No,No,Male,<= 40,1237,OVER-FAT,Yes,0.0913630758
+23.49,0 days,0 days,8,No,No,Yes,No,No,No,No,No,No,Female,41-45,1238,NORMAL,Yes,0.0731717996
+29.76,0 days,1-7 days,8,No,No,Yes,No,No,No,No,No,No,Female,<= 40,1239,OBESITY,Yes,0.0530165252
+24.79,1-7 days,0 days,9,Yes,No,No,No,No,No,No,No,No,Female,71-75,1240,OVER-FAT,Yes,0.5963998848
+33.96,0 days,1-7 days,8,No,No,Yes,Yes,No,No,No,No,No,Female,<= 40,1241,OBESITY,Yes,0.0530165252
+28.25,0 days,0 days,7,No,No,Yes,No,No,No,No,No,No,Male,56-60,1242,OBESITY,Yes,0.3807249252
+25.1,0 days,0 days,8,Yes,Yes,No,No,No,No,No,No,No,Male,61-65,1243,OVER-FAT,Yes,0.8746135044
+18.01,0 days,0 days,9,No,No,Yes,Yes,No,No,No,No,No,Female,<= 40,1244,OVER-THIN,Yes,0.0314855582
+22.81,1-7 days,1-7 days,12,No,No,No,No,Yes,No,No,No,No,Female,51-55,1245,NORMAL,Yes,0.3248286577
+34.95,0 days,15-21 days,6,No,No,No,No,No,No,No,No,No,Female,51-55,1246,OBESITY,Yes,0.5023906789
+50.9,8-14 days,1-7 days,6,Yes,No,Yes,No,No,No,No,No,No,Male,46-50,1247,OBESITY,Yes,0.2319472375
+37.12,8-14 days,15-21 days,7,No,No,Yes,No,No,No,No,No,No,Female,66-70,1248,OBESITY,Yes,0.5223512096
+39.06,22-28 days,>28 days,6,Yes,No,Yes,No,No,Yes,No,No,No,Female,51-55,1249,OBESITY,Yes,0.4307248027
+27.37,0 days,1-7 days,8,Yes,No,No,Yes,No,No,No,No,No,Female,61-65,1250,OVER-FAT,Yes,0.4063853996
+34.7,0 days,0 days,10,Yes,No,Yes,No,No,No,No,No,No,Female,71-75,1251,OBESITY,Yes,0.7431956169
+21.52,0 days,1-7 days,3,Yes,No,No,Yes,No,Yes,No,No,No,Male,71-75,1252,NORMAL,Yes,0.6589643222
+39.58,0 days,15-21 days,8,No,No,No,No,No,Yes,No,No,No,Female,66-70,1253,OBESITY,Yes,0.5956937983
+53.71,>28 days,0 days,5,No,No,No,No,No,Yes,No,No,No,Male,<= 40,1254,OBESITY,Yes,0.1458132314
+33.75,0 days,0 days,6,No,No,Yes,No,No,No,No,No,No,Male,<= 40,1255,OBESITY,Yes,0.1428773791
+25.79,8-14 days,1-7 days,5,Yes,No,Yes,No,No,No,No,No,No,Female,66-70,1256,OVER-FAT,Yes,0.4057560343
+26.58,0 days,0 days,8,Yes,No,Yes,No,No,No,No,No,No,Male,46-50,1257,OVER-FAT,Yes,0.1515890396
+28.34,1-7 days,0 days,4,No,No,No,No,No,No,No,No,No,Female,71-75,1258,OBESITY,Yes,0.8379097416
+27.47,0 days,0 days,5,Yes,No,Yes,No,No,No,No,No,No,Male,<= 40,1259,OVER-FAT,Yes,0.1099244064
+21.89,0 days,0 days,8,Yes,No,Yes,Yes,Yes,No,No,No,No,Female,66-70,1260,NORMAL,Yes,0.3855523302
+20.98,0 days,0 days,6,Yes,No,Yes,Yes,No,No,No,No,No,Female,41-45,1261,NORMAL,Yes,0.0935224852
+28.89,0 days,1-7 days,6,No,No,Yes,No,No,No,No,No,No,Female,<= 40,1262,OBESITY,Yes,0.0681739142
+29.94,0 days,0 days,8,Yes,No,Yes,No,No,No,No,No,No,Female,66-70,1263,OBESITY,Yes,0.4088924313
+28.25,0 days,0 days,5,No,No,Yes,No,No,No,No,No,No,Male,56-60,1264,OBESITY,Yes,0.4828652283
+25.75,0 days,1-7 days,8,No,No,Yes,No,No,No,No,No,No,Female,51-55,1265,OVER-FAT,Yes,0.2257067947
+21.26,0 days,0 days,7,Yes,No,Yes,No,No,No,No,No,No,Female,71-75,1266,NORMAL,Yes,0.3626758728
+26.45,0 days,0 days,8,Yes,No,Yes,No,No,No,No,Yes,No,Female,>= 80,1267,OVER-FAT,Yes,0.5616779047
+32.22,0 days,>28 days,6,Yes,No,No,No,Yes,Yes,No,No,No,Female,51-55,1268,OBESITY,Yes,0.5659728332
+24.21,1-7 days,8-14 days,8,No,No,Yes,No,No,No,No,No,No,Female,66-70,1269,OVER-FAT,Yes,0.4232557871
+23.38,1-7 days,1-7 days,7,Yes,No,Yes,No,No,No,No,No,No,Female,61-65,1270,NORMAL,Yes,0.26989361
+25.84,0 days,0 days,8,No,No,Yes,No,No,Yes,No,No,No,Female,61-65,1271,OVER-FAT,Yes,0.3812995794
+29.41,0 days,>28 days,3,No,No,Yes,No,No,No,No,No,No,Male,<= 40,1272,OBESITY,Yes,0.1780901459
+33.47,1-7 days,>28 days,6,Yes,No,Yes,No,Yes,No,No,No,No,Male,<= 40,1273,OBESITY,Yes,0.2962140545
+27.44,1-7 days,1-7 days,7,Yes,No,Yes,No,No,No,No,No,No,Female,46-50,1274,OVER-FAT,Yes,0.059636554
+31.17,0 days,0 days,5,Yes,No,Yes,No,No,No,No,No,No,Male,41-45,1275,OBESITY,Yes,0.2820160005
+36.31,0 days,0 days,8,No,No,No,No,No,No,No,Yes,No,Female,71-75,1276,OBESITY,Yes,0.5720895123
+26.5,0 days,0 days,8,No,No,Yes,No,No,No,No,No,No,Male,56-60,1277,OVER-FAT,Yes,0.3747077367
+32.55,0 days,0 days,7,Yes,No,Yes,No,No,No,No,No,No,Male,51-55,1278,OBESITY,Yes,0.4052532574
+27.71,0 days,0 days,7,Yes,No,Yes,No,No,No,No,No,No,Male,66-70,1279,OVER-FAT,Yes,0.5060111136
+20.8,0 days,1-7 days,8,Yes,No,Yes,No,No,No,No,Yes,No,Female,>= 80,1280,NORMAL,Yes,0.4872936701
+27.98,0 days,0 days,6,No,No,Yes,No,No,Yes,No,No,No,Female,>= 80,1281,OVER-FAT,Yes,0.6261109122
+28.29,0 days,0 days,7,No,No,Yes,No,No,No,No,No,No,Female,>= 80,1282,OBESITY,Yes,0.5679703329
+28.32,0 days,0 days,7,Yes,No,Yes,No,No,No,No,Yes,No,Female,71-75,1283,OBESITY,Yes,0.4980729198
+28.34,0 days,0 days,7,No,No,Yes,No,No,No,No,No,No,Female,51-55,1284,OBESITY,Yes,0.2268038984
+28.89,0 days,0 days,8,No,No,Yes,Yes,Yes,No,No,Yes,No,Male,66-70,1285,OBESITY,Yes,0.7176505197
+26.39,0 days,0 days,7,No,No,No,No,No,No,No,No,No,Male,56-60,1286,OVER-FAT,Yes,0.3455597792
+32.92,0 days,0 days,7,Yes,No,No,No,No,No,No,No,No,Female,71-75,1287,OBESITY,Yes,0.5195065059
+23.63,0 days,1-7 days,7,No,No,Yes,Yes,No,No,No,No,No,Female,<= 40,1288,NORMAL,Yes,0.0253066858
+20.81,1-7 days,>28 days,7,Yes,No,Yes,No,No,No,No,No,No,Male,<= 40,1289,NORMAL,Yes,0.0862803828
+36.61,0 days,8-14 days,6,No,No,Yes,No,No,No,No,No,No,Female,41-45,1290,OBESITY,Yes,0.1949338846
+30,0 days,0 days,9,No,No,No,No,No,No,No,No,No,Female,41-45,1291,OBESITY,Yes,0.1737755291
+21.48,15-21 days,0 days,5,Yes,No,Yes,No,No,No,Yes,No,No,Female,>= 80,1292,NORMAL,Yes,0.5338035905
+25.83,0 days,0 days,7,No,No,Yes,No,No,No,No,No,No,Male,<= 40,1293,OVER-FAT,Yes,0.0752004379
+30.41,0 days,0 days,8,Yes,No,Yes,Yes,Yes,No,No,No,No,Male,71-75,1294,OBESITY,Yes,0.81846623
+28.59,8-14 days,0 days,7,Yes,No,No,No,No,No,No,No,No,Male,61-65,1295,OBESITY,Yes,0.6154221083
+21.29,0 days,15-21 days,6,Yes,No,Yes,No,No,No,No,No,No,Female,51-55,1296,NORMAL,Yes,0.3469956167
+38.65,0 days,0 days,8,No,No,Yes,No,No,No,No,No,No,Male,<= 40,1297,OBESITY,Yes,0.1131272714
+22.43,0 days,0 days,7,No,No,Yes,No,No,No,No,No,No,Male,<= 40,1298,NORMAL,Yes,0.0558527026
+28.59,0 days,0 days,8,No,No,No,No,No,No,No,No,No,Male,66-70,1299,OBESITY,Yes,0.636464475
+29.84,0 days,0 days,7,Yes,No,Yes,No,No,No,No,No,No,Male,56-60,1300,OBESITY,Yes,0.3807249252
+23.6,0 days,0 days,7,No,No,Yes,No,No,No,No,No,No,Male,56-60,1301,NORMAL,Yes,0.260661564
+18.79,1-7 days,1-7 days,7,No,No,Yes,No,Yes,No,No,No,No,Female,<= 40,1302,NORMAL,Yes,0.0394491389
+33.72,0 days,0 days,6,No,No,Yes,No,No,No,No,No,No,Male,<= 40,1303,OBESITY,Yes,0.1428773791
+21.83,1-7 days,1-7 days,7,No,No,Yes,No,No,No,No,No,No,Male,<= 40,1304,NORMAL,Yes,0.0568810173
+29.12,0 days,0 days,8,No,No,Yes,No,Yes,No,No,No,No,Male,<= 40,1305,OBESITY,Yes,0.167893796
+23.71,0 days,0 days,6,No,No,Yes,No,No,No,No,No,No,Male,<= 40,1306,NORMAL,Yes,0.0872523704
+19.94,0 days,1-7 days,7,No,No,Yes,Yes,No,No,No,No,No,Male,<= 40,1307,NORMAL,Yes,0.0568810173
+23.03,0 days,0 days,6,No,No,Yes,No,No,No,No,No,No,Female,66-70,1308,NORMAL,Yes,0.3414110122
+24.39,0 days,0 days,7,No,No,Yes,No,No,No,No,No,No,Male,<= 40,1309,OVER-FAT,Yes,0.0752004379
+22.46,0 days,1-7 days,8,No,No,Yes,No,No,No,No,No,No,Female,71-75,1310,NORMAL,Yes,0.4177249934
+31.19,1-7 days,1-7 days,7,No,No,Yes,No,No,No,No,No,No,Male,56-60,1311,OBESITY,Yes,0.3852936435
+28.53,0 days,0 days,7,Yes,No,No,No,No,No,No,No,No,Female,56-60,1312,OBESITY,Yes,0.2238235442
+28.13,0 days,0 days,4,No,No,Yes,No,No,No,No,No,No,Male,<= 40,1313,OBESITY,Yes,0.3303035688
+22.86,0 days,0 days,8,Yes,Yes,Yes,No,No,No,No,No,No,Female,>= 80,1314,NORMAL,Yes,0.8065348522
+21.01,0 days,0 days,8,No,No,Yes,No,Yes,No,No,No,No,Female,<= 40,1315,NORMAL,Yes,0.0474479053
+40.62,0 days,8-14 days,4,No,No,No,No,Yes,No,No,No,No,Female,46-50,1316,OBESITY,Yes,0.466711762
+30.29,0 days,1-7 days,5,Yes,No,Yes,No,No,No,No,No,No,Female,51-55,1317,OBESITY,Yes,0.3123389758
+23.49,0 days,0 days,10,No,No,Yes,No,No,No,No,No,No,Male,61-65,1318,NORMAL,Yes,0.7106782831
+26.64,1-7 days,1-7 days,9,No,No,Yes,No,No,No,Yes,No,No,Female,>= 80,1319,OVER-FAT,Yes,0.6468746843
+29.03,1-7 days,1-7 days,6,No,No,Yes,No,No,Yes,No,No,No,Male,66-70,1320,OBESITY,Yes,0.6816152652
+27.44,0 days,0 days,8,Yes,No,Yes,No,No,No,No,No,No,Male,61-65,1321,OVER-FAT,Yes,0.5887469274
+20.09,0 days,1-7 days,6,No,No,Yes,No,No,No,No,No,No,Male,41-45,1322,NORMAL,Yes,0.1963591055
+21.61,0 days,0 days,8,Yes,No,Yes,No,No,No,No,No,No,Female,46-50,1323,NORMAL,Yes,0.052992343
+27.12,0 days,0 days,6,No,No,No,No,No,No,No,No,No,Female,56-60,1324,OVER-FAT,Yes,0.268641009
+36.58,0 days,0 days,8,No,No,Yes,No,No,No,Yes,No,No,Female,76-80,1325,OBESITY,Yes,0.6570520618
+17.95,0 days,1-7 days,8,No,No,Yes,No,No,No,No,No,No,Female,<= 40,1326,OVER-THIN,Yes,0.0230916337
+26.96,0 days,1-7 days,6,Yes,No,Yes,No,No,No,No,No,No,Male,<= 40,1327,OVER-FAT,Yes,0.1181385475
+26.79,>28 days,>28 days,5,Yes,Yes,Yes,No,Yes,No,No,No,No,Female,61-65,1328,OVER-FAT,Yes,0.8952547104
+19.14,>28 days,>28 days,6,Yes,No,No,No,No,No,No,No,No,Male,46-50,1329,NORMAL,Yes,0.2280551355
+22.45,0 days,0 days,7,No,No,Yes,No,No,Yes,No,No,No,Male,76-80,1330,NORMAL,Yes,0.6736261562
+32.71,1-7 days,1-7 days,7,No,No,No,No,No,Yes,No,Yes,No,Male,66-70,1331,OBESITY,Yes,0.5907506252
+26.54,>28 days,1-7 days,12,Yes,No,No,No,No,No,Yes,No,No,Male,76-80,1332,OVER-FAT,Yes,0.8368609928
+29.66,0 days,0 days,8,No,No,Yes,No,No,No,No,No,No,Female,71-75,1333,OBESITY,Yes,0.5509741492
+23.06,0 days,0 days,7,No,No,Yes,No,No,No,No,No,No,Male,51-55,1334,NORMAL,Yes,0.2809641873
+35.52,0 days,0 days,7,No,No,Yes,No,No,No,No,No,No,Female,56-60,1335,OBESITY,Yes,0.2092758558
+41.57,15-21 days,8-14 days,5,No,No,No,No,No,No,No,No,No,Female,>= 80,1336,OBESITY,Yes,0.7454129082
+27.37,0 days,8-14 days,6,No,No,Yes,No,No,No,No,No,No,Male,<= 40,1337,OVER-FAT,Yes,0.1502718496
+24.56,0 days,0 days,6,No,No,Yes,No,No,No,No,Yes,No,Female,71-75,1338,OVER-FAT,Yes,0.5583048125
+31,0 days,0 days,7,No,No,Yes,No,No,No,No,No,No,Female,<= 40,1339,OBESITY,Yes,0.0425201226
+36.96,0 days,1-7 days,8,No,No,Yes,No,No,No,No,No,No,Male,41-45,1340,OBESITY,Yes,0.2458739211
+31.32,1-7 days,1-7 days,6,No,Yes,Yes,No,Yes,No,Yes,No,No,Female,56-60,1341,OBESITY,Yes,0.7551602762
+26.57,0 days,1-7 days,8,Yes,No,Yes,No,No,No,No,No,No,Female,56-60,1342,OVER-FAT,Yes,0.2082407041
+47.99,0 days,0 days,8,No,No,Yes,No,No,No,No,No,No,Female,61-65,1343,OBESITY,Yes,0.4387788159
+29.71,0 days,8-14 days,5,No,No,Yes,No,No,No,No,No,No,Male,51-55,1344,OBESITY,Yes,0.5820812275
+24.41,0 days,0 days,10,No,No,Yes,No,No,No,No,No,No,Female,61-65,1345,OVER-FAT,Yes,0.5924255027
+25.84,1-7 days,0 days,7,No,No,Yes,No,No,No,No,No,No,Male,71-75,1346,OVER-FAT,Yes,0.6450152066
+31.18,0 days,1-7 days,8,No,No,Yes,No,No,No,Yes,No,No,Female,51-55,1347,OBESITY,Yes,0.2699654924
+30.9,0 days,1-7 days,6,Yes,No,Yes,No,No,No,No,No,No,Female,56-60,1348,OBESITY,Yes,0.3036339014
+20.18,0 days,0 days,7,No,No,Yes,No,No,No,No,No,No,Female,46-50,1349,NORMAL,Yes,0.0432942709
+28.19,0 days,0 days,8,Yes,No,Yes,No,No,No,No,No,No,Female,56-60,1350,OBESITY,Yes,0.2465718722
+26.95,0 days,1-7 days,8,Yes,No,Yes,No,No,No,No,No,No,Female,41-45,1351,OVER-FAT,Yes,0.0996176343
+20.66,0 days,1-7 days,7,No,No,Yes,No,No,No,No,No,No,Female,<= 40,1352,NORMAL,Yes,0.0253066858
+23.75,0 days,>28 days,8,No,No,Yes,No,Yes,No,No,No,No,Male,41-45,1353,NORMAL,Yes,0.3164937423
+31.57,1-7 days,0 days,8,No,No,Yes,No,No,No,No,No,No,Male,56-60,1354,OBESITY,Yes,0.431886933
+22.81,0 days,0 days,7,Yes,No,Yes,No,Yes,No,No,Yes,No,Female,41-45,1355,NORMAL,Yes,0.0917281532
+20.07,0 days,1-7 days,7,Yes,No,Yes,No,No,No,No,No,No,Male,<= 40,1356,NORMAL,Yes,0.0568810173
+17.97,0 days,0 days,7,No,No,Yes,No,No,No,Yes,No,No,Female,66-70,1357,OVER-THIN,Yes,0.1910647988
+30.27,1-7 days,0 days,9,No,No,Yes,No,No,No,No,No,No,Male,<= 40,1358,OBESITY,Yes,0.1517209781
+31.25,1-7 days,0 days,9,Yes,No,No,No,Yes,Yes,No,No,No,Female,>= 80,1359,OBESITY,Yes,0.7970965902
+22.31,1-7 days,0 days,5,Yes,No,No,No,No,No,No,No,No,Male,>= 80,1360,NORMAL,Yes,0.7434577203
+29.95,>28 days,0 days,6,No,No,Yes,No,Yes,No,No,No,No,Female,61-65,1361,OBESITY,Yes,0.6177558281
+24.46,0 days,0 days,6,No,No,Yes,No,No,No,No,No,No,Female,71-75,1362,OVER-FAT,Yes,0.5583048125
+24.03,0 days,0 days,8,No,No,Yes,No,No,No,No,No,No,Female,61-65,1363,OVER-FAT,Yes,0.3812995794
+38.01,0 days,0 days,7,Yes,No,Yes,No,No,No,No,No,No,Female,>= 80,1364,OBESITY,Yes,0.5679703329
+29.18,0 days,0 days,8,No,No,No,No,No,No,No,No,No,Female,66-70,1365,OBESITY,Yes,0.4297743415
+23.3,1-7 days,1-7 days,8,No,Yes,No,No,No,No,No,No,No,Female,61-65,1366,NORMAL,Yes,0.6901342204
+25.85,0 days,1-7 days,7,No,No,Yes,No,No,No,No,No,No,Female,<= 40,1367,OVER-FAT,Yes,0.0344592798
+27.12,0 days,0 days,7,Yes,No,Yes,No,No,No,No,No,No,Male,<= 40,1368,OVER-FAT,Yes,0.0752004379
+32.61,0 days,0 days,7,No,No,Yes,No,No,No,No,No,No,Female,71-75,1369,OBESITY,Yes,0.4980729198
+38.97,0 days,0 days,6,No,No,No,No,No,No,No,No,No,Female,46-50,1370,OBESITY,Yes,0.1219886542
+27.79,>28 days,>28 days,8,Yes,No,Yes,No,Yes,No,No,No,No,Female,51-55,1371,OVER-FAT,Yes,0.4192519367
+23.03,0 days,0 days,8,No,No,Yes,No,No,No,No,No,No,Female,<= 40,1372,NORMAL,Yes,0.030529046
+31.75,1-7 days,>28 days,6,No,No,No,No,No,No,No,No,No,Female,46-50,1373,OBESITY,Yes,0.1815191711
+42.57,>28 days,0 days,8,No,No,Yes,No,Yes,Yes,No,Yes,No,Male,66-70,1374,OBESITY,Yes,0.7176505197
+27.71,0 days,0 days,8,No,No,Yes,Yes,No,No,No,No,No,Male,<= 40,1375,OVER-FAT,Yes,0.0913630758
+38.26,0 days,1-7 days,7,Yes,No,Yes,No,No,No,No,No,No,Male,<= 40,1376,OBESITY,Yes,0.0951624235
+29.84,1-7 days,0 days,8,No,No,Yes,No,No,No,No,No,No,Male,46-50,1377,OBESITY,Yes,0.184782454
+41.6,0 days,1-7 days,6,No,No,No,No,No,Yes,No,No,No,Female,>= 80,1378,OBESITY,Yes,0.7023664004
+27.32,1-7 days,0 days,8,Yes,No,No,No,No,No,No,No,No,Male,51-55,1379,OVER-FAT,Yes,0.4198352235
+19.02,0 days,0 days,8,Yes,No,Yes,No,No,No,No,No,No,Female,>= 80,1380,NORMAL,Yes,0.4824647543
+20.48,0 days,0 days,8,No,No,Yes,No,No,No,No,No,No,Female,46-50,1381,NORMAL,Yes,0.052992343
+23.49,0 days,0 days,6,Yes,No,Yes,No,Yes,No,No,No,No,Male,<= 40,1382,NORMAL,Yes,0.1313476735
+25.06,0 days,0 days,5,Yes,No,Yes,No,No,No,No,No,No,Male,66-70,1383,OVER-FAT,Yes,0.6087240793
+23.62,0 days,>28 days,5,No,No,Yes,No,No,No,No,No,No,Female,<= 40,1384,NORMAL,Yes,0.0581489958
+34.87,8-14 days,1-7 days,8,Yes,No,Yes,No,No,No,No,No,No,Male,41-45,1385,OBESITY,Yes,0.2458739211
+43.05,0 days,0 days,9,Yes,No,Yes,No,No,No,No,No,No,Female,46-50,1386,OBESITY,Yes,0.1203544698
+31.25,1-7 days,1-7 days,7,Yes,No,Yes,No,Yes,No,No,No,No,Female,56-60,1387,OBESITY,Yes,0.2991386573
+24.28,0 days,0 days,8,Yes,No,Yes,Yes,Yes,No,No,No,No,Female,61-65,1388,OVER-FAT,Yes,0.4936312741
+25.97,0 days,1-7 days,6,No,No,Yes,No,No,No,No,No,No,Female,61-65,1389,OVER-FAT,Yes,0.4508817913
+21.26,0 days,0 days,7,No,No,Yes,No,No,No,No,No,No,Female,51-55,1390,NORMAL,Yes,0.1439937942
+25.84,0 days,0 days,6,No,No,Yes,Yes,No,No,No,No,No,Female,56-60,1391,OVER-FAT,Yes,0.2521265774
+18.89,15-21 days,1-7 days,5,Yes,No,No,No,No,No,No,No,No,Female,<= 40,1392,NORMAL,Yes,0.0411948843
+18.13,0 days,0 days,3,Yes,No,No,Yes,No,No,No,No,No,Male,<= 40,1393,OVER-THIN,Yes,0.0587756358
+35.75,>28 days,>28 days,5,Yes,No,No,No,No,No,Yes,No,No,Female,71-75,1394,OBESITY,Yes,0.723844986
+30.41,0 days,0 days,7,Yes,No,Yes,No,No,No,No,No,No,Female,46-50,1395,OBESITY,Yes,0.0731408174
+20.18,0 days,1-7 days,7,No,No,Yes,No,No,No,No,No,No,Female,51-55,1396,NORMAL,Yes,0.1463932732
+32.28,0 days,0 days,7,No,No,Yes,No,Yes,No,No,No,No,Female,<= 40,1397,OBESITY,Yes,0.0656344071
+34.08,1-7 days,0 days,6,No,No,Yes,No,Yes,No,No,No,No,Male,51-55,1398,OBESITY,Yes,0.6352590851
+27.34,0 days,0 days,8,No,No,Yes,No,No,No,No,No,No,Male,41-45,1399,OVER-FAT,Yes,0.2013319527
+32.08,0 days,1-7 days,7,No,No,Yes,No,Yes,No,Yes,No,No,Male,46-50,1400,OBESITY,Yes,0.2281655618
+28.25,1-7 days,0 days,8,No,No,Yes,No,No,No,No,No,No,Male,56-60,1401,OBESITY,Yes,0.431886933
+25.1,1-7 days,0 days,6,No,No,Yes,No,No,No,No,No,No,Male,56-60,1402,OVER-FAT,Yes,0.439182864
+21.63,1-7 days,1-7 days,8,Yes,No,Yes,Yes,No,No,No,No,No,Female,<= 40,1403,NORMAL,Yes,0.0311064831
+20.98,0 days,1-7 days,8,No,No,Yes,No,No,No,No,No,No,Female,41-45,1404,NORMAL,Yes,0.0744938208
+21.79,0 days,0 days,7,No,No,Yes,No,No,No,No,No,No,Female,56-60,1405,NORMAL,Yes,0.1317748397
+29.16,0 days,1-7 days,7,Yes,No,Yes,Yes,Yes,No,No,No,No,Male,<= 40,1406,OBESITY,Yes,0.1426306035
+25.82,0 days,0 days,6,Yes,No,Yes,No,No,No,No,No,No,Male,>= 80,1407,OVER-FAT,Yes,0.7954981998
+23.96,0 days,0 days,8,Yes,No,No,No,Yes,No,No,No,No,Female,76-80,1408,NORMAL,Yes,0.6544047313
+26.58,0 days,>28 days,8,No,No,Yes,No,Yes,No,No,No,No,Female,<= 40,1409,OVER-FAT,Yes,0.0985247023
+23.49,0 days,0 days,6,Yes,No,Yes,No,No,No,No,No,No,Male,<= 40,1410,NORMAL,Yes,0.0872523704
+24.86,1-7 days,15-21 days,4,Yes,No,No,No,No,Yes,No,No,No,Female,56-60,1411,OVER-FAT,Yes,0.6799581523
+23.62,0 days,0 days,5,No,No,No,No,Yes,No,No,No,No,Female,<= 40,1412,NORMAL,Yes,0.0624942865
+27.1,0 days,1-7 days,8,Yes,No,Yes,No,No,No,No,No,No,Female,<= 40,1413,OVER-FAT,Yes,0.0422657143
+25.09,0 days,0 days,9,No,No,No,No,No,No,No,No,No,Female,<= 40,1414,OVER-FAT,Yes,0.0620281226
+25.68,0 days,0 days,7,Yes,No,Yes,No,No,No,No,No,No,Male,76-80,1415,OVER-FAT,Yes,0.7393853037
+40.72,0 days,>28 days,4,Yes,No,Yes,No,No,No,No,No,No,Male,56-60,1416,OBESITY,Yes,0.8243152375
+22.81,1-7 days,>28 days,7,Yes,No,Yes,No,No,No,No,No,No,Male,<= 40,1417,NORMAL,Yes,0.0862803828
+27.89,0 days,0 days,10,No,No,Yes,No,Yes,No,No,No,No,Male,<= 40,1418,OVER-FAT,Yes,0.2727911113
+41.63,0 days,0 days,8,No,No,Yes,No,No,No,No,No,No,Female,56-60,1419,OBESITY,Yes,0.2465718722
+20.66,0 days,1-7 days,8,No,No,Yes,No,No,No,No,No,No,Male,<= 40,1420,NORMAL,Yes,0.0694017879
+26.94,0 days,0 days,8,No,No,Yes,No,No,No,No,Yes,No,Male,76-80,1421,OVER-FAT,Yes,0.7781800494
+28.7,0 days,0 days,8,No,No,Yes,No,No,No,No,No,No,Male,61-65,1422,OBESITY,Yes,0.644901832
+32.5,0 days,1-7 days,6,Yes,No,Yes,Yes,Yes,No,No,No,No,Male,46-50,1423,OBESITY,Yes,0.3232690186
+23.05,0 days,0 days,7,No,No,Yes,No,No,No,No,Yes,No,Female,66-70,1424,NORMAL,Yes,0.2428859035
+40.1,>28 days,0 days,5,Yes,Yes,Yes,No,No,No,No,No,No,Female,46-50,1425,OBESITY,Yes,0.3489428936
+26.75,0 days,0 days,9,Yes,No,No,No,Yes,No,No,No,No,Female,<= 40,1426,OVER-FAT,Yes,0.0946982702
+21.46,0 days,0 days,8,Yes,No,No,No,No,No,No,No,No,Female,61-65,1427,NORMAL,Yes,0.3281848703
+41.45,0 days,15-21 days,8,No,No,No,No,No,No,No,No,No,Female,76-80,1428,OBESITY,Yes,0.8031792911
+32.28,0 days,0 days,8,No,No,Yes,No,No,No,Yes,Yes,No,Male,71-75,1429,OBESITY,Yes,0.7402812571
+28.35,0 days,>28 days,7,No,No,Yes,No,No,No,No,No,No,Female,<= 40,1430,OBESITY,Yes,0.0661936531
+25.25,1-7 days,1-7 days,7,No,No,Yes,No,No,No,No,No,No,Female,51-55,1431,OVER-FAT,Yes,0.1907676908
+32.78,>28 days,0 days,6,Yes,No,Yes,No,No,No,No,No,No,Male,61-65,1432,OBESITY,Yes,0.7035577668
+37.59,1-7 days,15-21 days,7,Yes,No,Yes,No,Yes,No,No,No,No,Female,41-45,1433,OBESITY,Yes,0.2561020714
+29.05,8-14 days,0 days,5,No,No,Yes,No,Yes,No,No,No,No,Female,<= 40,1434,OBESITY,Yes,0.0964016848
+23.06,0 days,0 days,8,Yes,No,No,No,No,No,No,No,No,Male,>= 80,1435,NORMAL,Yes,0.7023320544
+27.26,0 days,0 days,7,Yes,No,Yes,No,No,No,No,No,No,Male,46-50,1436,OVER-FAT,Yes,0.1262524782
+32.89,0 days,0 days,8,No,No,Yes,No,No,No,No,No,No,Male,<= 40,1437,OBESITY,Yes,0.1131272714
+24.21,1-7 days,0 days,7,No,No,No,No,No,No,No,No,No,Male,61-65,1438,OVER-FAT,Yes,0.5578018894
+27.98,0 days,15-21 days,9,Yes,No,No,No,No,No,No,Yes,No,Male,76-80,1439,OVER-FAT,Yes,0.9128717008
+34.7,0 days,1-7 days,7,Yes,No,Yes,No,No,No,No,No,No,Male,46-50,1440,OBESITY,Yes,0.1574588842
+23.73,1-7 days,8-14 days,6,No,No,Yes,No,No,No,No,No,No,Male,<= 40,1441,NORMAL,Yes,0.1139902743
+20.54,>28 days,>28 days,5,Yes,No,Yes,No,Yes,No,No,No,No,Male,<= 40,1442,NORMAL,Yes,0.1849060575
+23.49,0 days,0 days,8,No,No,Yes,No,No,No,No,No,No,Female,71-75,1443,NORMAL,Yes,0.4130301055
+31.19,0 days,0 days,7,No,No,Yes,No,No,No,No,No,No,Male,41-45,1444,OBESITY,Yes,0.2054799164
+24.94,0 days,1-7 days,9,Yes,No,Yes,No,No,No,No,No,No,Female,56-60,1445,OVER-FAT,Yes,0.269425119
+23.57,0 days,1-7 days,7,No,No,Yes,No,No,No,No,Yes,No,Female,51-55,1446,NORMAL,Yes,0.1463932732
+30.41,0 days,1-7 days,6,No,No,Yes,No,No,No,No,Yes,No,Female,46-50,1447,OBESITY,Yes,0.1150492208
+26.58,0 days,0 days,7,Yes,No,No,No,No,No,No,No,No,Male,41-45,1448,OVER-FAT,Yes,0.1817505448
+22.6,0 days,0 days,7,No,No,No,No,No,No,No,No,No,Female,<= 40,1449,NORMAL,Yes,0.0269982523
+27.32,0 days,0 days,7,No,No,Yes,No,No,No,No,No,No,Male,76-80,1450,OVER-FAT,Yes,0.7393853037
+27.2,0 days,0 days,8,Yes,No,Yes,No,No,No,No,No,No,Male,61-65,1451,OVER-FAT,Yes,0.5887469274
+22.04,1-7 days,0 days,7,No,Yes,Yes,No,No,No,No,No,No,Male,>= 80,1452,NORMAL,Yes,0.8867692882
+36.26,0 days,0 days,9,No,No,No,No,No,No,No,No,No,Male,56-60,1453,OBESITY,Yes,0.5373400803
+20.18,0 days,1-7 days,6,Yes,No,No,No,No,No,No,No,No,Male,<= 40,1454,NORMAL,Yes,0.0959942702
+21.11,0 days,0 days,8,Yes,No,No,No,No,No,No,No,No,Male,<= 40,1455,NORMAL,Yes,0.0738175676
+28.13,0 days,8-14 days,6,No,No,Yes,Yes,No,No,No,No,No,Female,<= 40,1456,OBESITY,Yes,0.0880742961
+25.1,8-14 days,0 days,7,Yes,No,No,No,No,Yes,No,No,No,Male,71-75,1457,OVER-FAT,Yes,0.6644019044
+25.1,0 days,>28 days,7,No,No,Yes,No,Yes,No,No,No,No,Male,<= 40,1458,OVER-FAT,Yes,0.1703402656
+26.07,0 days,0 days,8,Yes,No,Yes,No,No,No,No,No,No,Female,<= 40,1459,OVER-FAT,Yes,0.0414899964
+29.18,0 days,0 days,7,Yes,No,No,No,No,Yes,No,No,No,Female,56-60,1460,OBESITY,Yes,0.2238235442
+19.05,0 days,0 days,7,Yes,No,Yes,Yes,No,No,Yes,No,No,Female,<= 40,1461,NORMAL,Yes,0.0248341522
+24.93,>28 days,15-21 days,7,Yes,No,Yes,No,Yes,No,No,No,No,Male,<= 40,1462,OVER-FAT,Yes,0.2009232051
+19.05,0 days,0 days,6,Yes,No,Yes,No,No,No,No,No,No,Female,>= 80,1463,NORMAL,Yes,0.5491963204
+22.63,0 days,1-7 days,7,Yes,No,Yes,No,No,No,No,No,No,Female,<= 40,1464,NORMAL,Yes,0.0253066858
+21.03,0 days,0 days,7,Yes,No,Yes,Yes,No,No,No,No,No,Female,71-75,1465,NORMAL,Yes,0.3626758728
+33.2,0 days,0 days,8,Yes,No,No,No,Yes,Yes,No,No,No,Female,66-70,1466,OBESITY,Yes,0.5438340922
+27.46,>28 days,0 days,7,No,No,No,No,No,No,No,No,No,Female,>= 80,1467,OVER-FAT,Yes,0.5303209395
+17.71,0 days,0 days,9,No,No,No,No,No,No,No,No,No,Female,<= 40,1468,OVER-THIN,Yes,0.0342089427
+22.46,0 days,0 days,7,No,No,Yes,No,No,Yes,No,No,No,Female,76-80,1469,NORMAL,Yes,0.470486433
+32.55,0 days,0 days,6,No,No,Yes,No,No,No,No,No,No,Male,61-65,1470,OBESITY,Yes,0.7035577668
+27.28,0 days,0 days,6,Yes,No,Yes,No,No,No,No,No,No,Female,<= 40,1471,OVER-FAT,Yes,0.0535382675
+23.76,8-14 days,8-14 days,7,No,No,Yes,No,No,No,No,No,No,Female,>= 80,1472,NORMAL,Yes,0.5036385226
+27.41,0 days,0 days,5,Yes,No,Yes,No,No,No,No,No,No,Female,61-65,1473,OVER-FAT,Yes,0.4308350168
+21.61,0 days,0 days,8,No,No,No,No,No,No,No,No,No,Female,56-60,1474,NORMAL,Yes,0.1697688175
+24.55,0 days,0 days,7,No,No,Yes,No,No,No,No,No,No,Female,41-45,1475,OVER-FAT,Yes,0.0806810342
+24.03,1-7 days,0 days,6,Yes,No,Yes,No,No,No,No,No,No,Female,<= 40,1476,OVER-FAT,Yes,0.0535382675
+33.64,0 days,22-28 days,7,No,No,Yes,No,No,Yes,No,No,No,Male,41-45,1477,OBESITY,Yes,0.3874492644
+32.81,0 days,0 days,9,No,No,Yes,No,No,No,No,No,No,Male,56-60,1478,OBESITY,Yes,0.5159608046
+37.3,1-7 days,1-7 days,6,No,No,Yes,No,No,No,No,No,No,Male,<= 40,1479,OBESITY,Yes,0.1452614115
+25.15,0 days,15-21 days,7,Yes,No,Yes,No,No,No,No,No,No,Female,66-70,1480,OVER-FAT,Yes,0.4629550802
+24.41,0 days,0 days,7,No,No,Yes,No,No,No,No,No,No,Male,<= 40,1481,OVER-FAT,Yes,0.0752004379
+21.87,0 days,>28 days,6,No,No,Yes,No,No,No,No,Yes,No,Female,>= 80,1482,NORMAL,Yes,0.6603976554
+26.63,15-21 days,1-7 days,7,No,No,Yes,Yes,Yes,No,No,Yes,No,Female,56-60,1483,OVER-FAT,Yes,0.2517465296
+20.12,0 days,0 days,12,No,No,Yes,No,Yes,No,No,No,No,Female,<= 40,1484,NORMAL,Yes,0.0615340158
+23.06,0 days,0 days,7,No,No,No,No,No,No,No,No,No,Male,66-70,1485,NORMAL,Yes,0.4481063708
+40.43,0 days,0 days,7,No,No,Yes,No,No,No,No,No,No,Female,71-75,1486,OBESITY,Yes,0.4980729198
+27.16,15-21 days,0 days,12,No,No,Yes,No,No,No,No,No,No,Male,66-70,1487,OVER-FAT,Yes,0.6250918032
+18.3,0 days,1-7 days,5,No,No,No,No,Yes,No,No,Yes,No,Female,66-70,1488,OVER-THIN,Yes,0.3866222977
+18.89,0 days,0 days,5,Yes,No,Yes,No,No,No,No,No,No,Female,61-65,1489,NORMAL,Yes,0.3551243666
+23.63,1-7 days,8-14 days,8,Yes,No,Yes,No,No,No,No,No,No,Female,41-45,1490,NORMAL,Yes,0.0960488656
+28.89,1-7 days,0 days,8,No,No,Yes,No,No,No,No,No,No,Female,61-65,1491,OBESITY,Yes,0.4387788159
+32.98,0 days,0 days,8,No,No,Yes,No,No,No,No,No,No,Male,66-70,1492,OBESITY,Yes,0.6163957004
+37.73,0 days,0 days,8,No,No,Yes,No,No,No,No,No,No,Male,66-70,1493,OBESITY,Yes,0.6163957004
+28.7,1-7 days,1-7 days,7,No,No,Yes,No,Yes,No,No,No,No,Male,46-50,1494,OBESITY,Yes,0.2281655618
+39.33,15-21 days,1-7 days,6,No,No,Yes,No,No,No,No,No,No,Male,61-65,1495,OBESITY,Yes,0.7075741111
+29.86,0 days,1-7 days,6,Yes,No,No,No,No,No,No,No,No,Male,46-50,1496,OBESITY,Yes,0.2475774684
+26.45,15-21 days,0 days,9,No,No,No,No,No,No,No,No,No,Female,76-80,1497,OVER-FAT,Yes,0.6976355996
+30.23,0 days,0 days,8,No,No,Yes,No,No,No,No,No,No,Female,46-50,1498,OBESITY,Yes,0.0889033412
+35.96,1-7 days,15-21 days,6,Yes,No,Yes,No,No,No,No,No,No,Female,46-50,1499,OBESITY,Yes,0.1995388045
+21.58,0 days,0 days,8,No,No,No,No,No,No,No,No,No,Female,51-55,1500,NORMAL,Yes,0.1847610897

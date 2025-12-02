@@ -1,13 +1,11 @@
-LIBNAME lib "/home/u64324048/Group_Project/Code/CommonFactors/lib";
+LIBNAME lib "/home/u64324048/Group_Project/git/Code/CommonFactors/lib";
+ODS POWERPOINT FILE = '/home/u64324048/Group_Project/git/Code/CommonFactors/visualize.pptx';
+ODS GRAPHICS / WIDTH=20cm HEIGHT=20cm;
 
-DATA analysis_data;
+DATA visualize_data;
 	SET lib.all;
 RUN;
 
-DATA analysis_CardioBehavior;
-	SET lib.cardiobehavior;
-RUN;
-
-PROC FREQ DATA=analysis_CardioBehavior;
-	TABLES Age_Range * HasCardioDisease;
+PROC SGPLOT DATA=visualize_data;
+	VBAR GENDER / GROUP=HavingCVD groupdisplay=cluster;
 RUN;
