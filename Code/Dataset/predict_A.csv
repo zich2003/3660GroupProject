@@ -1,4 +1,4 @@
-BMI,PhysicalHealth,MentalHealth,SleepTime,SmokingStatus,Stroke,PhysicalActivity,AlcoholDrinking,Asthma,Diabetes,KidneyDisease,Skin_Cancer,HavingCVD,GENDER,Age_Range,Index,BMI_Class,_LEVEL_,pred_prob
+BMI,PhysicalHealth,MentalHealth,SleepTime,SmokingStatus,Stroke,Exercise,AlcoholDrinking,Asthma,Diabetes,KidneyDisease,Skin_Cancer,HavingCVD,GENDER,Age_Range,Index,BMI_Class,_LEVEL_,pred_prob
 27.37,0 days,0 days,8,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Male,71-75,1,OVER-FAT,Yes,0.6920060867
 17.14,1-7 days,1-7 days,9,Yes,Yes,No,No,No,No,No,No,Yes,Female,>= 80,2,OVER-THIN,Yes,0.8270116829
 26.63,>28 days,0 days,6,Yes,No,No,No,No,No,No,No,Yes,Male,71-75,3,OVER-FAT,Yes,0.76185609

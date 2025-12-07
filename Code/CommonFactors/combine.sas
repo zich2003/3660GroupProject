@@ -22,5 +22,5 @@ DATA lib.DatasetAB;
 	;
 RUN;
 
-PROC PRINT DATA=lib.DatasetAD;
+PROC PRINT DATA=lib.ALL;
 RUN;

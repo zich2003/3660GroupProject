@@ -8,6 +8,31 @@ DATA analysis_data;
 	BMI = BMI/5; **1 unit = 5kg/m^2;
 RUN;
 
+PROC ANOVA DATA=lib.labelling_data;
+	CLASS cholesterol;
+	MODEL Age = cholesterol;
+	MEANS cholesterol / TUKEY;
+RUN;
+
+PROC ANOVA DATA=lib.labelling_data;
+	CLASS gluc;
+	MODEL Age = gluc;
+	MEANS gluc / TUKEY;
+RUN;
+
+PROC ANOVA DATA=lib.labelling_data;
+	CLASS cholesterol;
+	MODEL SBP = cholesterol;
+	MEANS cholesterol / TUKEY;
+RUN;
+
+PROC ANOVA DATA=lib.labelling_data;
+	CLASS gluc;
+	MODEL SBP = gluc;
+	MEANS gluc / TUKEY;
+RUN;
+
+
 PROC FREQ DATA=lib.labelling_data;
 	TABLES HavingCVD*(cholesterol gluc active) /CHISQ;
 RUN;
@@ -29,7 +54,6 @@ PROC LOGISTIC DATA=analysis_data;
 		SmokingStatus (param = ref ref = 'No')
 		Gender (param = ref ref = 'Female')
 		AlcoholDrinking (param = ref ref = 'No')
-		Age_Range (param = ref ref = "<= 40")
 		Active (param = ref ref = 'No')
 	;
 	

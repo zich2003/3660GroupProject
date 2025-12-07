@@ -1,1501 +1,1501 @@
-BMI,Alcohol_Consumption,Exercise,Skin_Cancer,Other_Cancer,Depression,Diabetes,Arthritis,SmokingStatus,HavingCVD,GENDER,Age_Range,Index,BMI_Class
-32.96,0 days,No,No,No,Yes,No,Yes,Yes,Yes,Male,41-45,1,OBESITY
-37.31,8-14 days,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Male,76-80,2,OBESITY
-30.18,1-7 days,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Female,66-70,3,OBESITY
-25.68,0 days,Yes,No,No,No,No,Yes,No,Yes,Male,71-75,4,OVER-FAT
-25.1,22-28 days,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Male,66-70,5,OVER-FAT
-28.06,0 days,Yes,No,Yes,No,No,No,No,Yes,Male,71-75,6,OBESITY
-30.87,0 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,51-55,7,OBESITY
-25.73,1-7 days,Yes,Yes,Yes,No,No,No,Yes,Yes,Male,71-75,8,OVER-FAT
-27.44,0 days,Yes,Yes,No,No,No,Yes,Yes,Yes,Female,>= 80,9,OVER-FAT
-28.7,0 days,Yes,No,No,Yes,No,Yes,Yes,Yes,Male,76-80,10,OBESITY
-25.63,0 days,Yes,No,No,No,Yes,No,No,Yes,Male,71-75,11,OVER-FAT
-26.78,1-7 days,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Male,61-65,12,OVER-FAT
-36.31,1-7 days,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Female,71-75,13,OBESITY
-31.18,0 days,No,No,Yes,No,Yes,Yes,No,Yes,Female,>= 80,14,OBESITY
-26.95,1-7 days,Yes,No,No,No,No,Yes,Yes,Yes,Female,71-75,15,OVER-FAT
-25.24,0 days,Yes,No,No,No,Yes,No,Yes,Yes,Female,61-65,16,OVER-FAT
-25.39,8-14 days,Yes,No,No,No,No,No,No,Yes,Male,61-65,17,OVER-FAT
-31.46,0 days,Yes,No,No,No,No,No,No,Yes,Male,61-65,18,OBESITY
-37.93,1-7 days,No,No,No,Yes,Yes,Yes,No,Yes,Female,61-65,19,OBESITY
-29.29,0 days,No,No,No,Yes,No,Yes,No,Yes,Female,76-80,20,OBESITY
-24.63,0 days,Yes,Yes,Yes,No,No,No,Yes,Yes,Female,76-80,21,OVER-FAT
-32.11,0 days,No,No,No,No,No,No,No,Yes,Female,51-55,22,OBESITY
-28.89,0 days,Yes,No,Yes,Yes,Yes,No,No,Yes,Male,66-70,23,OBESITY
-35.35,0 days,No,No,No,No,No,Yes,Yes,Yes,Female,>= 80,24,OBESITY
-21.97,0 days,Yes,No,No,No,Yes,Yes,Yes,Yes,Female,56-60,25,NORMAL
-22.11,0 days,Yes,No,No,No,No,Yes,No,Yes,Female,>= 80,26,NORMAL
-30.54,0 days,No,No,No,No,Yes,No,Yes,Yes,Male,61-65,27,OBESITY
-21.63,1-7 days,Yes,No,Yes,No,No,Yes,Yes,Yes,Female,>= 80,28,NORMAL
-40.01,0 days,Yes,No,No,No,No,No,No,Yes,Male,61-65,29,OBESITY
-32.93,0 days,Yes,No,No,No,No,No,No,Yes,Male,66-70,30,OBESITY
-32.46,0 days,No,No,No,Yes,Yes,Yes,Yes,Yes,Female,61-65,31,OBESITY
-30.52,1-7 days,Yes,No,No,No,No,No,No,Yes,Male,<= 40,32,OBESITY
-22.99,8-14 days,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Female,>= 80,33,NORMAL
-27.84,1-7 days,Yes,No,Yes,No,No,No,Yes,Yes,Male,71-75,34,OVER-FAT
-36.02,0 days,No,No,No,No,Yes,No,No,Yes,Male,>= 80,35,OBESITY
-19.8,0 days,No,No,No,No,No,No,Yes,Yes,Male,>= 80,36,NORMAL
-31.32,0 days,Yes,No,No,No,No,Yes,Yes,Yes,Female,76-80,37,OBESITY
-31.75,0 days,Yes,No,No,No,No,Yes,Yes,Yes,Female,76-80,38,OBESITY
-23.24,>28 days,Yes,No,Yes,No,No,Yes,Yes,Yes,Male,>= 80,39,NORMAL
-29.53,0 days,No,No,No,No,No,Yes,No,Yes,Male,>= 80,40,OBESITY
-29.84,1-7 days,Yes,No,No,No,Yes,Yes,Yes,Yes,Male,56-60,41,OBESITY
-33.36,0 days,Yes,Yes,No,No,No,Yes,No,Yes,Male,>= 80,42,OBESITY
-38.74,0 days,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Male,61-65,43,OBESITY
-32.92,0 days,Yes,No,Yes,No,No,Yes,Yes,Yes,Female,71-75,44,OBESITY
-26.54,0 days,Yes,No,No,No,No,No,No,Yes,Male,66-70,45,OVER-FAT
-24.37,0 days,Yes,Yes,Yes,No,No,No,No,Yes,Female,>= 80,46,OVER-FAT
-33.96,1-7 days,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Male,61-65,47,OBESITY
-22.15,15-21 days,Yes,No,No,No,No,No,Yes,Yes,Male,66-70,48,NORMAL
-17.16,0 days,No,No,Yes,Yes,No,Yes,Yes,Yes,Female,71-75,49,OVER-THIN
-20.81,1-7 days,Yes,Yes,No,Yes,Yes,No,No,Yes,Male,71-75,50,NORMAL
-24.81,0 days,No,No,No,No,Yes,Yes,Yes,Yes,Female,>= 80,51,OVER-FAT
-30.85,>28 days,Yes,Yes,No,No,No,No,Yes,Yes,Male,66-70,52,OBESITY
-38.02,0 days,No,No,No,Yes,Yes,Yes,No,Yes,Male,61-65,53,OBESITY
-57.46,0 days,No,No,No,Yes,No,Yes,No,Yes,Female,61-65,54,OBESITY
-32.32,0 days,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Male,71-75,55,OBESITY
-26.43,1-7 days,Yes,Yes,No,No,No,No,No,Yes,Female,56-60,56,OVER-FAT
-36.91,0 days,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Female,71-75,57,OBESITY
-24.8,15-21 days,No,No,No,No,No,Yes,Yes,Yes,Female,>= 80,58,OVER-FAT
-24.22,0 days,Yes,No,Yes,No,No,Yes,No,Yes,Male,>= 80,59,OVER-FAT
-35.12,0 days,Yes,No,No,Yes,Yes,Yes,No,Yes,Female,66-70,60,OBESITY
-30.52,0 days,No,No,Yes,No,No,No,No,Yes,Male,76-80,61,OBESITY
-30.67,1-7 days,Yes,No,No,No,Yes,No,Yes,Yes,Male,66-70,62,OBESITY
-29.18,8-14 days,Yes,Yes,Yes,No,No,Yes,No,Yes,Female,>= 80,63,OBESITY
-25.15,0 days,Yes,Yes,No,No,Yes,Yes,No,Yes,Female,76-80,64,OVER-FAT
-29.7,0 days,No,No,No,No,No,Yes,Yes,Yes,Female,66-70,65,OBESITY
-24.89,0 days,Yes,Yes,No,No,No,Yes,No,Yes,Female,>= 80,66,OVER-FAT
-31.62,22-28 days,Yes,No,No,No,No,Yes,Yes,Yes,Female,76-80,67,OBESITY
-28.7,1-7 days,No,No,No,No,No,No,No,Yes,Male,76-80,68,OBESITY
-31,0 days,Yes,No,No,Yes,No,Yes,Yes,Yes,Female,66-70,69,OBESITY
-31.93,1-7 days,No,Yes,Yes,No,Yes,No,Yes,Yes,Male,>= 80,70,OBESITY
-30.79,0 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,61-65,71,OBESITY
-50.84,0 days,Yes,No,Yes,No,Yes,No,Yes,Yes,Female,41-45,72,OBESITY
-38.74,1-7 days,Yes,No,No,No,No,No,Yes,Yes,Male,61-65,73,OBESITY
-27.46,0 days,Yes,Yes,No,No,No,Yes,No,Yes,Female,71-75,74,OVER-FAT
-24.82,0 days,No,No,Yes,No,Yes,No,Yes,Yes,Male,56-60,75,OVER-FAT
-29.03,1-7 days,No,Yes,No,No,Yes,Yes,Yes,Yes,Male,>= 80,76,OBESITY
-21.93,15-21 days,Yes,No,Yes,No,No,Yes,Yes,Yes,Female,>= 80,77,NORMAL
-45.23,0 days,No,No,No,Yes,Yes,No,No,Yes,Female,51-55,78,OBESITY
-29.84,0 days,Yes,No,No,No,Yes,No,No,Yes,Male,76-80,79,OBESITY
-25.06,22-28 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,>= 80,80,OVER-FAT
-31.87,1-7 days,Yes,Yes,Yes,No,No,No,Yes,Yes,Male,>= 80,81,OBESITY
-34.22,8-14 days,Yes,No,No,No,Yes,No,Yes,Yes,Male,51-55,82,OBESITY
-31.8,1-7 days,Yes,No,No,No,No,No,Yes,Yes,Male,76-80,83,OBESITY
-25,0 days,No,No,Yes,No,Yes,Yes,Yes,Yes,Female,71-75,84,OVER-FAT
-38.74,0 days,No,Yes,No,No,Yes,Yes,No,Yes,Male,76-80,85,OBESITY
-21.97,0 days,Yes,No,No,No,No,Yes,No,Yes,Female,76-80,86,NORMAL
-25.7,0 days,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Male,76-80,87,OVER-FAT
-26.58,15-21 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,>= 80,88,OVER-FAT
-32.72,0 days,Yes,No,No,No,Yes,No,Yes,Yes,Male,66-70,89,OBESITY
-42.57,1-7 days,No,No,No,Yes,Yes,Yes,No,Yes,Male,61-65,90,OBESITY
-29.84,8-14 days,Yes,No,No,No,No,Yes,No,Yes,Female,61-65,91,OBESITY
-29.09,8-14 days,Yes,No,No,No,No,No,No,Yes,Male,71-75,92,OBESITY
-36.62,0 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,66-70,93,OBESITY
-26.52,1-7 days,No,No,No,Yes,No,Yes,Yes,Yes,Female,41-45,94,OVER-FAT
-37.12,1-7 days,No,No,Yes,No,No,No,Yes,Yes,Female,66-70,95,OBESITY
-32.14,0 days,No,No,No,No,No,No,No,Yes,Male,66-70,96,OBESITY
-23.67,0 days,No,No,No,No,No,Yes,Yes,Yes,Male,61-65,97,NORMAL
-25.8,0 days,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Male,76-80,98,OVER-FAT
-21.31,0 days,No,Yes,Yes,No,No,No,Yes,Yes,Male,>= 80,99,NORMAL
-26.63,0 days,Yes,Yes,No,Yes,Yes,No,No,Yes,Male,51-55,100,OVER-FAT
-17.38,0 days,Yes,No,No,Yes,No,Yes,Yes,Yes,Female,56-60,101,OVER-THIN
-34.7,0 days,Yes,No,No,No,Yes,Yes,Yes,Yes,Male,61-65,102,OBESITY
-34.46,8-14 days,No,No,No,No,Yes,Yes,No,Yes,Male,66-70,103,OBESITY
-32.11,>28 days,Yes,No,No,No,Yes,Yes,Yes,Yes,Male,76-80,104,OBESITY
-34.51,1-7 days,Yes,No,No,Yes,No,Yes,No,Yes,Female,56-60,105,OBESITY
-27.46,0 days,Yes,No,No,No,Yes,No,No,Yes,Female,>= 80,106,OVER-FAT
-34.95,0 days,Yes,No,No,No,No,No,No,Yes,Female,61-65,107,OBESITY
-20.66,0 days,Yes,No,No,Yes,No,Yes,Yes,Yes,Female,51-55,108,NORMAL
-27.32,0 days,Yes,No,No,Yes,No,Yes,Yes,Yes,Male,61-65,109,OVER-FAT
-28.63,0 days,No,No,No,Yes,Yes,No,Yes,Yes,Male,66-70,110,OBESITY
-59.72,1-7 days,Yes,No,No,Yes,No,No,No,Yes,Female,46-50,111,OBESITY
-32.78,0 days,Yes,No,No,No,No,Yes,No,Yes,Male,71-75,112,OBESITY
-32.45,0 days,Yes,No,No,No,No,Yes,No,Yes,Female,66-70,113,OBESITY
-31.89,0 days,No,No,Yes,No,No,Yes,No,Yes,Female,71-75,114,OBESITY
-32.12,1-7 days,No,No,No,No,No,Yes,No,Yes,Female,71-75,115,OBESITY
-36.49,0 days,Yes,No,No,No,No,Yes,No,Yes,Male,56-60,116,OBESITY
-32.98,22-28 days,No,Yes,No,Yes,No,Yes,No,Yes,Male,66-70,117,OBESITY
-20.34,8-14 days,Yes,No,No,No,No,No,Yes,Yes,Male,<= 40,118,NORMAL
-29.97,>28 days,Yes,No,No,No,Yes,No,Yes,Yes,Male,41-45,119,OBESITY
-23.44,0 days,No,No,No,No,Yes,Yes,Yes,Yes,Female,76-80,120,NORMAL
-46.03,8-14 days,Yes,Yes,No,No,No,Yes,No,Yes,Male,66-70,121,OBESITY
-20.92,>28 days,Yes,No,No,No,No,Yes,No,Yes,Male,56-60,122,NORMAL
-24.39,0 days,Yes,No,No,No,No,No,Yes,Yes,Male,51-55,123,OVER-FAT
-19.14,0 days,Yes,No,Yes,No,No,Yes,No,Yes,Female,66-70,124,NORMAL
-25.54,0 days,No,No,Yes,No,No,No,Yes,Yes,Male,>= 80,125,OVER-FAT
-27.41,1-7 days,Yes,No,No,No,No,No,No,Yes,Male,61-65,126,OVER-FAT
-21.89,0 days,Yes,No,No,No,Yes,Yes,No,Yes,Female,76-80,127,NORMAL
-27.91,0 days,No,No,Yes,No,Yes,No,Yes,Yes,Female,71-75,128,OVER-FAT
-38.77,1-7 days,No,No,Yes,Yes,Yes,Yes,No,Yes,Female,61-65,129,OBESITY
-24.37,0 days,Yes,No,No,No,No,No,Yes,Yes,Female,61-65,130,OVER-FAT
-33.38,1-7 days,Yes,No,No,No,Yes,No,No,Yes,Male,66-70,131,OBESITY
-24.03,1-7 days,Yes,No,No,No,No,Yes,No,Yes,Female,>= 80,132,OVER-FAT
-28.34,1-7 days,Yes,No,No,No,No,No,Yes,Yes,Female,61-65,133,OBESITY
-26.58,0 days,No,No,No,No,No,No,No,Yes,Male,71-75,134,OVER-FAT
-25.39,8-14 days,Yes,No,No,No,No,No,No,Yes,Female,66-70,135,OVER-FAT
-29.03,0 days,No,Yes,No,No,Yes,Yes,No,Yes,Male,56-60,136,OBESITY
-40.74,1-7 days,Yes,No,No,No,No,Yes,Yes,Yes,Female,56-60,137,OBESITY
-40.17,0 days,No,No,No,No,Yes,Yes,No,Yes,Male,61-65,138,OBESITY
-42.68,1-7 days,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Male,61-65,139,OBESITY
-33.29,1-7 days,No,No,No,No,No,Yes,Yes,Yes,Male,71-75,140,OBESITY
-45.91,0 days,Yes,Yes,No,No,No,Yes,No,Yes,Female,71-75,141,OBESITY
-53.22,22-28 days,No,No,No,No,No,Yes,No,Yes,Male,66-70,142,OBESITY
-20.8,22-28 days,Yes,No,No,Yes,No,No,Yes,Yes,Male,<= 40,143,NORMAL
-31.19,1-7 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,66-70,144,OBESITY
-26.57,0 days,Yes,No,No,No,No,No,No,Yes,Female,61-65,145,OVER-FAT
-38.01,1-7 days,No,No,No,No,Yes,No,Yes,Yes,Male,66-70,146,OBESITY
-30.71,0 days,No,No,No,No,No,Yes,Yes,Yes,Male,71-75,147,OBESITY
-28.34,1-7 days,Yes,No,No,No,No,No,No,Yes,Female,46-50,148,OBESITY
-38.92,0 days,No,No,No,No,No,Yes,No,Yes,Female,71-75,149,OBESITY
-43.75,0 days,No,No,No,Yes,Yes,Yes,No,Yes,Male,71-75,150,OBESITY
-23.05,0 days,Yes,No,No,No,No,No,No,Yes,Female,76-80,151,NORMAL
-22.96,15-21 days,Yes,No,No,No,No,No,No,Yes,Male,76-80,152,NORMAL
-22.32,22-28 days,Yes,No,No,No,No,No,Yes,Yes,Male,>= 80,153,NORMAL
-32.28,0 days,Yes,Yes,No,No,No,Yes,Yes,Yes,Male,66-70,154,OBESITY
-47.19,0 days,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Female,61-65,155,OBESITY
-24.37,0 days,Yes,No,Yes,Yes,No,Yes,No,Yes,Male,76-80,156,OVER-FAT
-22.86,15-21 days,No,No,No,Yes,No,Yes,Yes,Yes,Female,66-70,157,NORMAL
-25.86,1-7 days,Yes,Yes,No,No,No,Yes,No,Yes,Female,>= 80,158,OVER-FAT
-27.82,0 days,No,No,No,Yes,Yes,Yes,Yes,Yes,Female,>= 80,159,OVER-FAT
-34.08,0 days,Yes,Yes,No,No,No,Yes,No,Yes,Male,61-65,160,OBESITY
-26.94,0 days,No,Yes,No,No,Yes,Yes,Yes,Yes,Male,71-75,161,OVER-FAT
-30.09,0 days,No,No,No,Yes,Yes,No,No,Yes,Female,61-65,162,OBESITY
-33.23,1-7 days,Yes,No,No,Yes,Yes,No,Yes,Yes,Male,41-45,163,OBESITY
-46.59,1-7 days,Yes,No,No,Yes,No,Yes,Yes,Yes,Female,51-55,164,OBESITY
-28.35,0 days,Yes,No,Yes,No,Yes,Yes,No,Yes,Female,61-65,165,OBESITY
-22.31,0 days,No,No,Yes,No,No,Yes,Yes,Yes,Female,>= 80,166,NORMAL
-30.82,0 days,No,No,No,No,Yes,Yes,Yes,Yes,Female,71-75,167,OBESITY
-40.35,0 days,No,No,No,No,No,Yes,No,Yes,Female,66-70,168,OBESITY
-28.12,0 days,Yes,No,No,No,Yes,No,No,Yes,Male,71-75,169,OBESITY
-28.21,8-14 days,Yes,No,No,No,Yes,Yes,No,Yes,Female,61-65,170,OBESITY
-34.67,0 days,No,No,No,No,No,Yes,Yes,Yes,Male,61-65,171,OBESITY
-24.28,0 days,Yes,No,No,Yes,No,No,No,Yes,Female,61-65,172,OVER-FAT
-21.29,1-7 days,Yes,No,No,No,No,No,No,Yes,Male,>= 80,173,NORMAL
-25.99,15-21 days,Yes,No,No,No,Yes,No,Yes,Yes,Male,76-80,174,OVER-FAT
-33.75,1-7 days,Yes,No,No,No,No,No,No,Yes,Male,56-60,175,OBESITY
-23.06,0 days,Yes,Yes,No,No,No,Yes,Yes,Yes,Male,76-80,176,NORMAL
-26.63,0 days,Yes,No,Yes,No,No,No,No,Yes,Female,66-70,177,OVER-FAT
-30.18,0 days,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Female,61-65,178,OBESITY
-26.05,0 days,No,No,Yes,No,No,No,No,Yes,Female,>= 80,179,OVER-FAT
-24.8,0 days,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Female,>= 80,180,OVER-FAT
-29.26,0 days,No,Yes,No,No,Yes,Yes,No,Yes,Female,66-70,181,OBESITY
-24.21,1-7 days,Yes,No,No,Yes,No,Yes,Yes,Yes,Female,56-60,182,OVER-FAT
-24.21,0 days,Yes,No,No,No,No,Yes,Yes,Yes,Female,56-60,183,OVER-FAT
-26.57,0 days,No,No,No,Yes,No,No,Yes,Yes,Female,56-60,184,OVER-FAT
-31.32,0 days,No,Yes,No,Yes,Yes,Yes,No,Yes,Female,>= 80,185,OBESITY
-35.25,0 days,Yes,No,Yes,No,Yes,Yes,No,Yes,Female,61-65,186,OBESITY
-33.28,22-28 days,Yes,No,No,Yes,Yes,No,Yes,Yes,Female,66-70,187,OBESITY
-20.54,0 days,No,No,No,No,No,No,Yes,Yes,Male,41-45,188,NORMAL
-22.47,0 days,Yes,No,No,No,No,No,Yes,Yes,Male,66-70,189,NORMAL
-25.1,1-7 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,66-70,190,OVER-FAT
-20.8,0 days,No,Yes,No,No,Yes,Yes,No,Yes,Female,>= 80,191,NORMAL
-19.94,8-14 days,No,Yes,Yes,No,Yes,No,Yes,Yes,Male,76-80,192,NORMAL
-22.65,0 days,No,No,No,No,Yes,Yes,Yes,Yes,Female,76-80,193,NORMAL
-19.66,0 days,Yes,No,Yes,No,Yes,No,Yes,Yes,Male,71-75,194,NORMAL
-27.8,0 days,Yes,No,No,No,No,Yes,No,Yes,Female,>= 80,195,OVER-FAT
-32.34,0 days,No,Yes,No,No,Yes,Yes,Yes,Yes,Male,66-70,196,OBESITY
-29.05,8-14 days,No,No,Yes,No,No,Yes,Yes,Yes,Male,66-70,197,OBESITY
-26.52,0 days,Yes,No,No,No,No,No,No,Yes,Female,66-70,198,OVER-FAT
-48.81,>28 days,No,No,No,No,No,Yes,No,Yes,Male,66-70,199,OBESITY
-37.2,0 days,No,No,No,Yes,No,Yes,Yes,Yes,Female,61-65,200,OBESITY
-35.15,0 days,No,No,No,No,Yes,Yes,Yes,Yes,Male,76-80,201,OBESITY
-30.34,8-14 days,Yes,No,No,No,No,No,Yes,Yes,Male,61-65,202,OBESITY
-25.82,1-7 days,Yes,No,No,No,No,Yes,No,Yes,Female,61-65,203,OVER-FAT
-26.45,0 days,Yes,No,No,No,No,Yes,No,Yes,Male,>= 80,204,OVER-FAT
-18.99,0 days,Yes,No,No,Yes,No,Yes,Yes,Yes,Male,51-55,205,NORMAL
-24.34,0 days,Yes,No,No,Yes,No,Yes,Yes,Yes,Male,66-70,206,OVER-FAT
-25.75,0 days,Yes,No,No,No,No,No,No,Yes,Female,>= 80,207,OVER-FAT
-22.89,0 days,Yes,No,No,No,No,No,No,Yes,Male,66-70,208,NORMAL
-28.37,1-7 days,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Male,76-80,209,OBESITY
-31.64,0 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,<= 40,210,OBESITY
-27.2,0 days,Yes,No,No,No,Yes,Yes,Yes,Yes,Male,76-80,211,OVER-FAT
-28.13,0 days,No,No,No,Yes,Yes,Yes,Yes,Yes,Female,66-70,212,OBESITY
-24.33,0 days,No,No,No,Yes,Yes,Yes,No,Yes,Female,>= 80,213,OVER-FAT
-33.67,8-14 days,No,No,No,Yes,Yes,No,Yes,Yes,Female,66-70,214,OBESITY
-25.07,1-7 days,No,No,No,No,No,No,Yes,Yes,Male,76-80,215,OVER-FAT
-27.12,0 days,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Male,71-75,216,OVER-FAT
-28.7,22-28 days,No,No,No,No,No,Yes,Yes,Yes,Male,>= 80,217,OBESITY
-27.12,1-7 days,No,No,No,No,No,Yes,Yes,Yes,Male,76-80,218,OVER-FAT
-28.94,0 days,Yes,No,No,No,Yes,No,Yes,Yes,Male,66-70,219,OBESITY
-21.29,0 days,Yes,Yes,No,No,No,Yes,No,Yes,Male,>= 80,220,NORMAL
-32.55,0 days,No,No,No,No,Yes,Yes,No,Yes,Male,>= 80,221,OBESITY
-34.44,0 days,No,No,No,No,Yes,Yes,Yes,Yes,Male,>= 80,222,OBESITY
-31.31,0 days,No,No,No,No,Yes,No,Yes,Yes,Male,>= 80,223,OBESITY
-29.99,0 days,Yes,Yes,Yes,No,No,No,No,Yes,Male,76-80,224,OBESITY
-38.52,1-7 days,Yes,No,No,No,Yes,Yes,Yes,Yes,Male,51-55,225,OBESITY
-27.46,0 days,Yes,Yes,No,No,No,No,No,Yes,Female,76-80,226,OVER-FAT
-29.76,0 days,No,No,No,No,Yes,Yes,No,Yes,Male,71-75,227,OBESITY
-27.41,0 days,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Female,56-60,228,OVER-FAT
-26.31,0 days,Yes,No,No,No,Yes,No,Yes,Yes,Male,66-70,229,OVER-FAT
-24.89,15-21 days,Yes,No,Yes,No,No,No,No,Yes,Male,76-80,230,OVER-FAT
-25.97,0 days,No,No,Yes,No,No,Yes,No,Yes,Male,>= 80,231,OVER-FAT
-23.78,0 days,Yes,No,No,No,No,No,No,Yes,Female,61-65,232,NORMAL
-27.89,0 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,71-75,233,OVER-FAT
-27.89,0 days,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Male,>= 80,234,OVER-FAT
-33.89,1-7 days,Yes,No,No,No,Yes,No,No,Yes,Male,71-75,235,OBESITY
-52.51,0 days,No,No,No,Yes,Yes,Yes,Yes,Yes,Female,66-70,236,OBESITY
-18.64,1-7 days,No,No,No,Yes,Yes,Yes,Yes,Yes,Female,46-50,237,NORMAL
-26.63,15-21 days,Yes,No,No,No,Yes,Yes,Yes,Yes,Female,66-70,238,OVER-FAT
-20.92,0 days,Yes,No,No,No,Yes,Yes,Yes,Yes,Male,61-65,239,NORMAL
-32.01,0 days,Yes,No,No,Yes,No,No,No,Yes,Female,<= 40,240,OBESITY
-23.13,0 days,Yes,No,Yes,No,No,No,No,Yes,Female,>= 80,241,NORMAL
-27.37,>28 days,No,No,No,No,No,No,Yes,Yes,Male,76-80,242,OVER-FAT
-22.96,1-7 days,Yes,No,Yes,No,No,Yes,Yes,Yes,Male,>= 80,243,NORMAL
-21.4,1-7 days,No,No,No,No,No,No,Yes,Yes,Female,71-75,244,NORMAL
-29.03,0 days,Yes,No,No,Yes,Yes,Yes,No,Yes,Male,61-65,245,OBESITY
-22.81,0 days,No,No,No,No,Yes,Yes,Yes,Yes,Male,>= 80,246,NORMAL
-29.66,1-7 days,Yes,No,Yes,No,No,Yes,Yes,Yes,Male,66-70,247,OBESITY
-31.16,8-14 days,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Male,>= 80,248,OBESITY
-25.85,22-28 days,Yes,No,Yes,No,No,No,Yes,Yes,Male,66-70,249,OVER-FAT
-44.63,1-7 days,No,No,No,Yes,No,Yes,No,Yes,Male,56-60,250,OBESITY
-27.25,1-7 days,Yes,No,No,Yes,Yes,No,No,Yes,Female,61-65,251,OVER-FAT
-27.12,22-28 days,No,No,No,No,No,No,Yes,Yes,Male,61-65,252,OVER-FAT
-29.16,0 days,Yes,No,No,No,No,No,Yes,Yes,Male,61-65,253,OBESITY
-28.7,0 days,No,No,No,No,No,No,Yes,Yes,Male,76-80,254,OBESITY
-23.01,22-28 days,Yes,No,No,No,No,No,Yes,Yes,Male,71-75,255,NORMAL
-24.68,0 days,Yes,No,No,Yes,No,No,No,Yes,Male,71-75,256,OVER-FAT
-29.29,1-7 days,No,No,No,No,No,Yes,Yes,Yes,Male,66-70,257,OBESITY
-28.48,0 days,Yes,No,No,No,No,Yes,No,Yes,Male,66-70,258,OBESITY
-21.77,1-7 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,>= 80,259,NORMAL
-25,1-7 days,Yes,No,No,No,No,No,Yes,Yes,Male,76-80,260,OVER-FAT
-19.2,0 days,Yes,No,Yes,No,No,No,No,Yes,Female,>= 80,261,NORMAL
-38.84,0 days,No,No,No,No,Yes,No,No,Yes,Male,61-65,262,OBESITY
-22.3,0 days,No,Yes,No,Yes,No,Yes,Yes,Yes,Female,56-60,263,NORMAL
-20.36,0 days,No,Yes,No,No,No,Yes,No,Yes,Female,>= 80,264,NORMAL
-26.26,0 days,Yes,No,Yes,No,Yes,No,Yes,Yes,Female,76-80,265,OVER-FAT
-26.97,1-7 days,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Male,76-80,266,OVER-FAT
-27.41,0 days,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Male,76-80,267,OVER-FAT
-34.17,0 days,No,No,No,Yes,Yes,No,Yes,Yes,Male,71-75,268,OBESITY
-25.09,0 days,No,No,No,No,No,Yes,Yes,Yes,Male,66-70,269,OVER-FAT
-25.63,0 days,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Female,51-55,270,OVER-FAT
-42.91,0 days,No,No,No,Yes,No,Yes,Yes,Yes,Female,61-65,271,OBESITY
-27.06,0 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,56-60,272,OVER-FAT
-29.53,0 days,No,No,No,Yes,No,Yes,Yes,Yes,Male,66-70,273,OBESITY
-28.8,22-28 days,No,Yes,No,No,No,No,Yes,Yes,Male,>= 80,274,OBESITY
-34.7,0 days,No,No,No,Yes,Yes,Yes,No,Yes,Male,56-60,275,OBESITY
-24.39,1-7 days,Yes,No,Yes,No,No,Yes,No,Yes,Male,71-75,276,OVER-FAT
-28.89,0 days,Yes,No,No,No,No,Yes,Yes,Yes,Female,46-50,277,OBESITY
-40.45,0 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,66-70,278,OBESITY
-24.41,0 days,Yes,No,No,No,Yes,No,Yes,Yes,Male,>= 80,279,OVER-FAT
-38.25,0 days,No,No,No,Yes,No,No,Yes,Yes,Male,<= 40,280,OBESITY
-22.53,0 days,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Male,71-75,281,NORMAL
-32.89,0 days,No,No,No,Yes,No,Yes,No,Yes,Male,66-70,282,OBESITY
-49.42,1-7 days,Yes,No,No,Yes,Yes,Yes,No,Yes,Female,51-55,283,OBESITY
-28.52,0 days,No,No,No,No,No,Yes,Yes,Yes,Female,66-70,284,OBESITY
-28.12,8-14 days,No,Yes,No,No,Yes,No,Yes,Yes,Male,76-80,285,OBESITY
-20.36,0 days,Yes,No,No,No,No,No,No,Yes,Female,>= 80,286,NORMAL
-30.13,0 days,No,No,No,Yes,No,Yes,Yes,Yes,Male,61-65,287,OBESITY
-27.26,0 days,Yes,Yes,No,No,No,No,Yes,Yes,Male,76-80,288,OVER-FAT
-28.21,0 days,No,No,Yes,No,Yes,Yes,Yes,Yes,Male,>= 80,289,OBESITY
-35.51,0 days,No,No,No,No,No,No,Yes,Yes,Male,66-70,290,OBESITY
-21.21,0 days,Yes,No,Yes,No,No,Yes,Yes,Yes,Female,>= 80,291,NORMAL
-39.94,0 days,Yes,No,No,Yes,Yes,Yes,No,Yes,Female,46-50,292,OBESITY
-37.3,0 days,Yes,No,No,No,Yes,No,No,Yes,Female,76-80,293,OBESITY
-18.55,0 days,Yes,No,No,No,Yes,Yes,No,Yes,Female,61-65,294,NORMAL
-29.29,0 days,Yes,No,No,No,No,Yes,No,Yes,Male,<= 40,295,OBESITY
-20.67,22-28 days,Yes,No,No,No,No,No,Yes,Yes,Male,71-75,296,NORMAL
-20.98,1-7 days,Yes,No,No,No,No,Yes,Yes,Yes,Female,66-70,297,NORMAL
-20.67,0 days,No,No,No,Yes,No,Yes,Yes,Yes,Male,66-70,298,NORMAL
-28.89,8-14 days,Yes,No,No,No,No,No,Yes,Yes,Male,56-60,299,OBESITY
-35.43,0 days,Yes,No,No,No,No,Yes,Yes,Yes,Female,>= 80,300,OBESITY
-28.15,0 days,No,No,No,Yes,No,Yes,No,Yes,Female,>= 80,301,OBESITY
-39.54,0 days,Yes,No,No,No,Yes,Yes,Yes,Yes,Male,76-80,302,OBESITY
-22.5,8-14 days,Yes,No,Yes,Yes,No,No,No,Yes,Female,>= 80,303,NORMAL
-29.18,0 days,No,No,No,No,No,Yes,Yes,Yes,Female,56-60,304,OBESITY
-21.48,0 days,No,No,No,No,No,Yes,Yes,Yes,Male,61-65,305,NORMAL
-27.41,0 days,Yes,No,No,No,No,No,Yes,Yes,Male,>= 80,306,OVER-FAT
-19.74,22-28 days,No,Yes,Yes,No,No,Yes,Yes,Yes,Female,>= 80,307,NORMAL
-20.81,0 days,Yes,No,No,No,No,No,No,Yes,Female,56-60,308,NORMAL
-32.82,0 days,Yes,Yes,No,No,Yes,No,No,Yes,Male,66-70,309,OBESITY
-24.21,>28 days,No,No,No,No,No,No,Yes,Yes,Male,>= 80,310,OVER-FAT
-25.69,1-7 days,Yes,No,Yes,No,No,Yes,Yes,Yes,Male,76-80,311,OVER-FAT
-34.21,1-7 days,Yes,No,Yes,No,Yes,Yes,No,Yes,Male,61-65,312,OBESITY
-19.58,0 days,Yes,No,No,No,Yes,No,Yes,Yes,Male,66-70,313,NORMAL
-28.8,0 days,Yes,Yes,No,No,No,Yes,No,Yes,Male,>= 80,314,OBESITY
-19.79,1-7 days,Yes,No,No,No,No,Yes,No,Yes,Female,>= 80,315,NORMAL
-27.05,0 days,Yes,No,No,No,Yes,No,No,Yes,Male,46-50,316,OVER-FAT
-35.26,1-7 days,Yes,No,No,No,No,Yes,No,Yes,Male,51-55,317,OBESITY
-19.97,0 days,Yes,No,No,Yes,No,No,Yes,Yes,Female,66-70,318,NORMAL
-38.47,0 days,Yes,No,No,No,Yes,Yes,No,Yes,Female,56-60,319,OBESITY
-23.44,0 days,No,Yes,No,No,No,Yes,No,Yes,Female,>= 80,320,NORMAL
-31.87,1-7 days,Yes,No,No,Yes,Yes,Yes,No,Yes,Male,71-75,321,OBESITY
-26.63,0 days,Yes,No,No,No,No,Yes,Yes,Yes,Female,71-75,322,OVER-FAT
-26.63,1-7 days,Yes,No,No,No,No,No,No,Yes,Male,71-75,323,OVER-FAT
-31.62,1-7 days,Yes,No,No,No,No,Yes,Yes,Yes,Female,51-55,324,OBESITY
-26.37,15-21 days,Yes,Yes,No,No,No,Yes,Yes,Yes,Female,76-80,325,OVER-FAT
-26.45,0 days,Yes,No,No,No,No,No,Yes,Yes,Male,61-65,326,OVER-FAT
-32.49,1-7 days,Yes,No,No,No,Yes,Yes,Yes,Yes,Female,56-60,327,OBESITY
-29.53,1-7 days,Yes,No,No,Yes,Yes,No,Yes,Yes,Male,76-80,328,OBESITY
-22.96,0 days,No,No,No,No,Yes,No,Yes,Yes,Male,76-80,329,NORMAL
-23.03,1-7 days,Yes,No,No,Yes,No,No,Yes,Yes,Female,61-65,330,NORMAL
-29.76,0 days,Yes,No,No,No,No,Yes,No,Yes,Female,61-65,331,OBESITY
-21.7,0 days,No,No,No,No,No,Yes,Yes,Yes,Female,>= 80,332,NORMAL
-34.95,1-7 days,Yes,No,No,No,No,Yes,No,Yes,Male,76-80,333,OBESITY
-27.71,1-7 days,Yes,No,Yes,No,No,Yes,No,Yes,Male,76-80,334,OVER-FAT
-31.09,0 days,Yes,No,No,No,Yes,Yes,No,Yes,Female,66-70,335,OBESITY
-25.51,0 days,Yes,No,No,Yes,Yes,No,Yes,Yes,Female,56-60,336,OVER-FAT
-33.47,0 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,>= 80,337,OBESITY
-19.77,0 days,Yes,No,Yes,No,No,Yes,No,Yes,Male,>= 80,338,NORMAL
-22.49,>28 days,Yes,No,No,No,No,No,Yes,Yes,Female,66-70,339,NORMAL
-25.22,0 days,Yes,No,Yes,No,Yes,Yes,No,Yes,Male,76-80,340,OVER-FAT
-25.77,15-21 days,Yes,No,No,No,No,No,Yes,Yes,Male,66-70,341,OVER-FAT
-30.92,8-14 days,Yes,Yes,No,No,Yes,No,No,Yes,Male,61-65,342,OBESITY
-32.77,0 days,No,No,No,Yes,Yes,Yes,Yes,Yes,Female,66-70,343,OBESITY
-20.67,8-14 days,No,Yes,No,Yes,No,Yes,Yes,Yes,Female,76-80,344,NORMAL
-25.54,0 days,Yes,No,Yes,No,Yes,Yes,No,Yes,Male,>= 80,345,OVER-FAT
-24.1,1-7 days,Yes,Yes,No,No,No,Yes,No,Yes,Male,>= 80,346,OVER-FAT
-25.84,8-14 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,66-70,347,OVER-FAT
-27.44,0 days,Yes,Yes,No,No,Yes,No,No,Yes,Male,71-75,348,OVER-FAT
-38.27,0 days,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Female,71-75,349,OBESITY
-19.94,0 days,Yes,No,Yes,No,No,Yes,Yes,Yes,Male,<= 40,350,NORMAL
-26.95,0 days,Yes,No,No,Yes,Yes,No,No,Yes,Male,66-70,351,OVER-FAT
-37.76,0 days,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Female,66-70,352,OBESITY
-23.01,8-14 days,Yes,No,No,No,Yes,No,Yes,Yes,Male,61-65,353,NORMAL
-29.88,0 days,Yes,No,No,Yes,Yes,Yes,No,Yes,Female,76-80,354,OBESITY
-30.57,1-7 days,Yes,Yes,No,Yes,No,Yes,No,Yes,Male,>= 80,355,OBESITY
-22.31,0 days,No,No,Yes,No,Yes,Yes,Yes,Yes,Female,51-55,356,NORMAL
-31.71,0 days,Yes,No,No,No,No,Yes,Yes,Yes,Female,56-60,357,OBESITY
-29.26,0 days,Yes,No,No,No,No,No,Yes,Yes,Female,76-80,358,OBESITY
-24.41,>28 days,Yes,No,No,No,No,No,No,Yes,Male,41-45,359,OVER-FAT
-26.4,>28 days,Yes,No,No,No,Yes,No,No,Yes,Male,>= 80,360,OVER-FAT
-24.41,>28 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,>= 80,361,OVER-FAT
-23.78,0 days,No,Yes,Yes,No,Yes,Yes,No,Yes,Female,>= 80,362,NORMAL
-23.85,0 days,Yes,No,No,No,No,Yes,No,Yes,Male,76-80,363,NORMAL
-29.84,0 days,No,No,No,No,Yes,No,Yes,Yes,Male,76-80,364,OBESITY
-21.41,0 days,No,No,Yes,No,Yes,Yes,No,Yes,Female,71-75,365,NORMAL
-21.26,0 days,Yes,No,Yes,No,Yes,No,Yes,Yes,Female,76-80,366,NORMAL
-20.81,1-7 days,Yes,No,No,No,No,No,No,Yes,Male,66-70,367,NORMAL
-36.13,0 days,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Female,71-75,368,OBESITY
-27.89,1-7 days,Yes,No,No,No,Yes,No,Yes,Yes,Male,61-65,369,OVER-FAT
-48.73,0 days,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Male,61-65,370,OBESITY
-29.76,0 days,No,No,No,No,No,No,Yes,Yes,Male,76-80,371,OBESITY
-23.6,0 days,Yes,No,No,Yes,No,Yes,Yes,Yes,Female,61-65,372,NORMAL
-20.78,22-28 days,Yes,Yes,No,No,No,Yes,Yes,Yes,Female,71-75,373,NORMAL
-22.92,0 days,Yes,Yes,No,No,No,No,Yes,Yes,Female,66-70,374,NORMAL
-36.58,0 days,Yes,No,No,No,No,Yes,No,Yes,Female,76-80,375,OBESITY
-26.54,8-14 days,No,No,No,No,Yes,No,Yes,Yes,Male,76-80,376,OVER-FAT
-26.5,0 days,Yes,Yes,Yes,No,No,No,Yes,Yes,Male,>= 80,377,OVER-FAT
-24.37,0 days,Yes,No,No,No,No,No,No,Yes,Male,61-65,378,OVER-FAT
-31.47,0 days,No,No,No,No,No,Yes,Yes,Yes,Female,76-80,379,OBESITY
-25.4,0 days,No,No,No,No,No,No,Yes,Yes,Female,41-45,380,OVER-FAT
-34.46,1-7 days,No,No,No,No,Yes,No,Yes,Yes,Male,51-55,381,OBESITY
-23.78,0 days,No,No,No,Yes,Yes,No,Yes,Yes,Female,66-70,382,NORMAL
-25.1,15-21 days,Yes,Yes,No,No,No,No,No,Yes,Female,51-55,383,OVER-FAT
-25.54,1-7 days,Yes,No,Yes,No,No,No,Yes,Yes,Male,71-75,384,OVER-FAT
-22.81,1-7 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,66-70,385,NORMAL
-39.86,0 days,No,No,No,No,No,Yes,No,Yes,Female,>= 80,386,OBESITY
-38.39,0 days,Yes,No,No,Yes,No,Yes,No,Yes,Female,66-70,387,OBESITY
-19.49,1-7 days,Yes,Yes,No,No,No,No,No,Yes,Female,61-65,388,NORMAL
-29.53,0 days,Yes,No,No,No,No,No,Yes,Yes,Male,61-65,389,OBESITY
-22.89,0 days,No,No,No,No,No,No,Yes,Yes,Female,71-75,390,NORMAL
-31.75,0 days,Yes,Yes,No,No,No,Yes,Yes,Yes,Male,76-80,391,OBESITY
-37.44,1-7 days,No,No,No,Yes,Yes,Yes,Yes,Yes,Female,56-60,392,OBESITY
-22.31,1-7 days,No,No,No,No,No,Yes,Yes,Yes,Female,76-80,393,NORMAL
-36.49,1-7 days,Yes,No,No,No,Yes,Yes,Yes,Yes,Male,66-70,394,OBESITY
-21.16,0 days,No,No,No,No,Yes,Yes,Yes,Yes,Male,66-70,395,NORMAL
-29.29,1-7 days,Yes,No,No,No,Yes,No,Yes,Yes,Male,76-80,396,OBESITY
-35.51,0 days,Yes,No,No,No,No,No,Yes,Yes,Male,66-70,397,OBESITY
-31.64,15-21 days,Yes,No,No,Yes,No,Yes,No,Yes,Female,56-60,398,OBESITY
-28.25,1-7 days,No,Yes,No,No,Yes,Yes,Yes,Yes,Male,66-70,399,OBESITY
-25.39,0 days,No,No,No,Yes,No,Yes,Yes,Yes,Female,>= 80,400,OVER-FAT
-29.86,0 days,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Female,71-75,401,OBESITY
-29.26,0 days,No,No,No,No,No,Yes,Yes,Yes,Female,>= 80,402,OBESITY
-39.33,0 days,Yes,No,No,No,Yes,No,No,Yes,Male,71-75,403,OBESITY
-25.51,0 days,Yes,No,No,No,No,Yes,Yes,Yes,Female,76-80,404,OVER-FAT
-33.45,0 days,Yes,No,No,Yes,No,Yes,No,Yes,Male,61-65,405,OBESITY
-29.53,0 days,No,No,No,No,No,Yes,Yes,Yes,Male,61-65,406,OBESITY
-29.18,1-7 days,No,Yes,No,Yes,No,Yes,No,Yes,Female,61-65,407,OBESITY
-22.43,0 days,Yes,Yes,No,No,No,No,Yes,Yes,Male,>= 80,408,NORMAL
-34.72,0 days,No,No,Yes,No,No,No,No,Yes,Female,<= 40,409,OBESITY
-38.74,0 days,Yes,No,No,No,Yes,Yes,No,Yes,Female,71-75,410,OBESITY
-25.59,8-14 days,No,No,No,No,No,No,Yes,Yes,Male,56-60,411,OVER-FAT
-28.7,1-7 days,Yes,No,No,No,No,No,No,Yes,Male,66-70,412,OBESITY
-27.25,1-7 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,66-70,413,OVER-FAT
-29.76,8-14 days,No,No,No,Yes,No,Yes,No,Yes,Female,46-50,414,OBESITY
-27.98,1-7 days,Yes,No,No,Yes,No,Yes,Yes,Yes,Male,56-60,415,OVER-FAT
-34.7,0 days,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Male,71-75,416,OBESITY
-27.89,0 days,Yes,No,Yes,No,No,Yes,Yes,Yes,Male,66-70,417,OVER-FAT
-31.16,0 days,Yes,No,No,No,Yes,No,Yes,Yes,Male,61-65,418,OBESITY
-22.67,0 days,No,No,Yes,No,No,Yes,No,Yes,Male,>= 80,419,NORMAL
-34.33,0 days,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Female,>= 80,420,OBESITY
-32.45,1-7 days,Yes,No,No,No,No,No,Yes,Yes,Male,56-60,421,OBESITY
-29.6,0 days,Yes,No,Yes,No,No,Yes,No,Yes,Female,71-75,422,OBESITY
-22.81,1-7 days,No,Yes,No,No,Yes,Yes,No,Yes,Male,76-80,423,NORMAL
-26.87,>28 days,Yes,No,No,No,No,Yes,No,Yes,Female,>= 80,424,OVER-FAT
-25.61,0 days,Yes,No,Yes,No,Yes,Yes,No,Yes,Female,76-80,425,OVER-FAT
-27.89,0 days,Yes,No,No,No,Yes,Yes,Yes,Yes,Male,71-75,426,OVER-FAT
-24.96,0 days,No,Yes,No,No,Yes,Yes,Yes,Yes,Female,66-70,427,OVER-FAT
-25.8,0 days,No,No,Yes,Yes,Yes,Yes,No,Yes,Male,66-70,428,OVER-FAT
-24.89,0 days,Yes,No,No,No,No,Yes,Yes,Yes,Female,71-75,429,OVER-FAT
-25.97,0 days,No,No,No,No,No,No,Yes,Yes,Female,>= 80,430,OVER-FAT
-31.01,0 days,No,Yes,No,No,No,Yes,Yes,Yes,Male,71-75,431,OBESITY
-27.32,0 days,Yes,No,Yes,No,No,No,Yes,Yes,Male,>= 80,432,OVER-FAT
-43.58,0 days,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Female,71-75,433,OBESITY
-21.9,22-28 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,>= 80,434,NORMAL
-38.59,0 days,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Female,76-80,435,OBESITY
-33.09,8-14 days,No,No,No,Yes,Yes,Yes,Yes,Yes,Female,61-65,436,OBESITY
-30.18,0 days,No,Yes,No,No,Yes,Yes,Yes,Yes,Female,76-80,437,OBESITY
-27.75,22-28 days,Yes,No,No,No,No,No,Yes,Yes,Male,>= 80,438,OVER-FAT
-30.62,1-7 days,Yes,No,No,No,Yes,Yes,No,Yes,Male,71-75,439,OBESITY
-27.37,0 days,No,No,Yes,No,No,Yes,No,Yes,Female,>= 80,440,OVER-FAT
-33.36,0 days,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Female,71-75,441,OBESITY
-39.16,0 days,No,No,No,Yes,No,Yes,Yes,Yes,Female,61-65,442,OBESITY
-27.62,1-7 days,Yes,Yes,Yes,No,No,No,Yes,Yes,Male,66-70,443,OVER-FAT
-25.82,22-28 days,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Female,>= 80,444,OVER-FAT
-25.02,1-7 days,No,No,No,No,No,No,No,Yes,Female,>= 80,445,OVER-FAT
-28.13,1-7 days,Yes,Yes,No,No,No,No,No,Yes,Female,>= 80,446,OBESITY
-29.53,0 days,No,No,No,Yes,No,Yes,No,Yes,Male,66-70,447,OBESITY
-27.26,1-7 days,No,No,No,No,No,Yes,Yes,Yes,Male,51-55,448,OVER-FAT
-35.24,22-28 days,Yes,Yes,No,No,No,No,Yes,Yes,Female,61-65,449,OBESITY
-33.91,1-7 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,61-65,450,OBESITY
-31.66,0 days,No,No,No,No,Yes,Yes,No,Yes,Male,71-75,451,OBESITY
-29.53,0 days,Yes,No,No,No,Yes,No,No,Yes,Male,71-75,452,OBESITY
-29.29,0 days,No,No,Yes,No,No,Yes,Yes,Yes,Female,>= 80,453,OBESITY
-25.1,22-28 days,Yes,No,No,Yes,No,No,Yes,Yes,Male,61-65,454,OVER-FAT
-24.89,0 days,No,No,No,No,No,Yes,Yes,Yes,Female,76-80,455,OVER-FAT
-35.96,0 days,Yes,No,No,No,No,Yes,Yes,Yes,Female,71-75,456,OBESITY
-26.52,1-7 days,Yes,No,No,No,No,Yes,No,Yes,Male,61-65,457,OVER-FAT
-23.39,0 days,Yes,No,No,No,No,No,No,Yes,Male,61-65,458,NORMAL
-27.89,0 days,Yes,Yes,No,No,No,No,No,Yes,Male,76-80,459,OVER-FAT
-40.24,8-14 days,Yes,No,No,No,No,Yes,No,Yes,Female,76-80,460,OBESITY
-24.56,0 days,Yes,No,No,No,No,No,Yes,Yes,Female,>= 80,461,OVER-FAT
-26.29,0 days,Yes,No,No,No,No,No,No,Yes,Male,>= 80,462,OVER-FAT
-24.14,1-7 days,Yes,No,No,No,Yes,No,Yes,Yes,Male,66-70,463,OVER-FAT
-33,0 days,Yes,No,No,No,No,No,Yes,Yes,Male,61-65,464,OBESITY
-25.09,1-7 days,No,No,Yes,No,Yes,Yes,Yes,Yes,Male,76-80,465,OVER-FAT
-27.1,1-7 days,No,No,Yes,No,No,No,No,Yes,Male,>= 80,466,OVER-FAT
-25.68,0 days,Yes,No,No,No,Yes,Yes,Yes,Yes,Male,>= 80,467,OVER-FAT
-25.39,0 days,Yes,No,Yes,No,No,No,No,Yes,Female,76-80,468,OVER-FAT
-30.7,8-14 days,No,No,No,Yes,Yes,No,Yes,Yes,Male,71-75,469,OBESITY
-30.54,1-7 days,No,No,No,No,No,No,No,Yes,Male,51-55,470,OBESITY
-37.77,1-7 days,Yes,No,No,No,Yes,Yes,No,Yes,Male,66-70,471,OBESITY
-28.87,8-14 days,Yes,No,No,No,No,No,Yes,Yes,Male,76-80,472,OBESITY
-46.34,0 days,No,No,No,No,Yes,No,No,Yes,Male,71-75,473,OBESITY
-25.85,8-14 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,76-80,474,OVER-FAT
-16.12,0 days,No,No,Yes,No,No,Yes,Yes,Yes,Female,>= 80,475,OVER-THIN
-24.02,0 days,No,No,No,No,No,Yes,No,Yes,Female,>= 80,476,OVER-FAT
-20.64,0 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,71-75,477,NORMAL
-28.89,0 days,Yes,No,Yes,No,No,No,No,Yes,Male,>= 80,478,OBESITY
-32.55,1-7 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,>= 80,479,OBESITY
-24.59,0 days,Yes,No,Yes,Yes,No,No,Yes,Yes,Female,61-65,480,OVER-FAT
-19.13,0 days,Yes,No,No,Yes,Yes,Yes,No,Yes,Female,66-70,481,NORMAL
-30.43,1-7 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,66-70,482,OBESITY
-17.27,1-7 days,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Female,61-65,483,OVER-THIN
-28.19,0 days,No,No,Yes,No,Yes,Yes,No,Yes,Male,76-80,484,OBESITY
-40.69,1-7 days,No,Yes,No,No,No,No,Yes,Yes,Male,61-65,485,OBESITY
-21.62,15-21 days,Yes,No,No,No,No,No,No,Yes,Male,66-70,486,NORMAL
-30.73,0 days,No,No,No,Yes,No,Yes,No,Yes,Female,61-65,487,OBESITY
-28.73,15-21 days,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Male,61-65,488,OBESITY
-28.25,0 days,No,No,No,No,Yes,No,No,Yes,Male,66-70,489,OBESITY
-25.1,0 days,Yes,No,No,No,No,No,Yes,Yes,Male,66-70,490,OVER-FAT
-32.28,0 days,No,No,No,Yes,No,Yes,Yes,Yes,Female,76-80,491,OBESITY
-29.41,15-21 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,66-70,492,OBESITY
-28.48,0 days,Yes,No,No,No,No,No,Yes,Yes,Male,66-70,493,OBESITY
-23.11,1-7 days,Yes,No,No,Yes,No,Yes,Yes,Yes,Male,61-65,494,NORMAL
-24.41,>28 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,71-75,495,OVER-FAT
-22.83,0 days,No,Yes,Yes,No,Yes,No,No,Yes,Male,76-80,496,NORMAL
-27.37,0 days,Yes,Yes,No,No,Yes,No,No,Yes,Male,66-70,497,OVER-FAT
-29.41,0 days,No,No,No,Yes,No,Yes,Yes,Yes,Male,66-70,498,OBESITY
-32.28,22-28 days,Yes,No,No,No,No,Yes,Yes,Yes,Female,66-70,499,OBESITY
-30.85,1-7 days,Yes,No,No,No,No,No,No,Yes,Male,46-50,500,OBESITY
-26.63,0 days,Yes,No,No,No,No,Yes,No,Yes,Male,>= 80,501,OVER-FAT
-43.75,15-21 days,Yes,No,No,Yes,No,Yes,No,Yes,Male,66-70,502,OBESITY
-29.44,0 days,No,No,No,No,Yes,No,No,Yes,Male,71-75,503,OBESITY
-21.93,1-7 days,No,No,Yes,No,No,Yes,No,Yes,Female,76-80,504,NORMAL
-32.28,0 days,Yes,No,No,No,No,No,Yes,Yes,Male,46-50,505,OBESITY
-25.09,0 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,71-75,506,OVER-FAT
-27.89,0 days,Yes,No,No,No,Yes,Yes,Yes,Yes,Male,76-80,507,OVER-FAT
-27.06,1-7 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,>= 80,508,OVER-FAT
-21.63,0 days,Yes,No,No,Yes,No,Yes,Yes,Yes,Female,41-45,509,NORMAL
-23.3,0 days,No,No,No,No,Yes,Yes,No,Yes,Female,71-75,510,NORMAL
-23.44,0 days,Yes,No,No,No,Yes,Yes,Yes,Yes,Female,>= 80,511,NORMAL
-26.94,1-7 days,No,No,No,Yes,No,No,No,Yes,Male,51-55,512,OVER-FAT
-26.39,0 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,>= 80,513,OVER-FAT
-35,8-14 days,No,Yes,No,No,No,Yes,Yes,Yes,Male,61-65,514,OBESITY
-29.26,0 days,No,No,No,Yes,Yes,No,Yes,Yes,Female,>= 80,515,OBESITY
-23.67,8-14 days,Yes,No,No,No,No,No,No,Yes,Male,>= 80,516,NORMAL
-25.39,0 days,Yes,No,No,No,Yes,Yes,No,Yes,Female,71-75,517,OVER-FAT
-32.12,0 days,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Female,71-75,518,OBESITY
-20.98,8-14 days,No,No,No,Yes,No,Yes,No,Yes,Male,61-65,519,NORMAL
-39.53,0 days,Yes,No,No,Yes,No,Yes,Yes,Yes,Male,71-75,520,OBESITY
-26.5,0 days,No,No,No,No,No,Yes,No,Yes,Male,51-55,521,OVER-FAT
-22.6,1-7 days,Yes,No,Yes,No,No,Yes,No,Yes,Female,>= 80,522,NORMAL
-29.97,1-7 days,Yes,Yes,No,No,No,Yes,Yes,Yes,Male,76-80,523,OBESITY
-27.64,0 days,Yes,No,Yes,Yes,No,No,Yes,Yes,Female,51-55,524,OVER-FAT
-32.92,8-14 days,Yes,No,No,No,Yes,No,No,Yes,Female,51-55,525,OBESITY
-30.82,0 days,Yes,No,No,No,Yes,Yes,Yes,Yes,Female,66-70,526,OBESITY
-25.68,22-28 days,Yes,Yes,No,No,No,Yes,No,Yes,Male,>= 80,527,OVER-FAT
-26.72,1-7 days,Yes,No,No,No,Yes,No,Yes,Yes,Male,71-75,528,OVER-FAT
-23.63,15-21 days,No,No,No,No,No,Yes,Yes,Yes,Male,76-80,529,NORMAL
-33.13,0 days,Yes,No,No,Yes,No,No,No,Yes,Female,61-65,530,OBESITY
-28.45,0 days,No,No,No,Yes,No,No,Yes,Yes,Male,76-80,531,OBESITY
-29.95,22-28 days,No,Yes,Yes,Yes,No,Yes,No,Yes,Male,76-80,532,OBESITY
-35,0 days,Yes,Yes,No,No,No,Yes,No,Yes,Male,66-70,533,OBESITY
-27.2,15-21 days,Yes,No,Yes,No,No,No,Yes,Yes,Male,>= 80,534,OVER-FAT
-26.78,0 days,Yes,No,No,No,No,Yes,No,Yes,Male,>= 80,535,OVER-FAT
-21.09,0 days,Yes,No,Yes,Yes,No,Yes,No,Yes,Female,71-75,536,NORMAL
-25.02,1-7 days,Yes,No,No,Yes,No,No,Yes,Yes,Male,51-55,537,OVER-FAT
-34.7,0 days,No,Yes,Yes,No,No,No,Yes,Yes,Male,>= 80,538,OBESITY
-34.87,0 days,Yes,No,No,No,Yes,Yes,Yes,Yes,Male,51-55,539,OBESITY
-29.53,0 days,Yes,No,No,No,Yes,Yes,No,Yes,Male,71-75,540,OBESITY
-25.68,1-7 days,Yes,No,No,Yes,No,No,Yes,Yes,Male,<= 40,541,OVER-FAT
-25.09,8-14 days,Yes,No,No,No,No,No,Yes,Yes,Male,66-70,542,OVER-FAT
-23.71,1-7 days,Yes,No,No,No,No,No,Yes,Yes,Male,<= 40,543,NORMAL
-41.2,0 days,Yes,No,No,No,Yes,Yes,No,Yes,Female,71-75,544,OBESITY
-31.35,0 days,No,No,Yes,No,Yes,Yes,Yes,Yes,Female,>= 80,545,OBESITY
-21.13,1-7 days,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Female,66-70,546,NORMAL
-25.06,0 days,No,Yes,No,No,No,Yes,Yes,Yes,Female,>= 80,547,OVER-FAT
-30.8,1-7 days,No,Yes,No,No,Yes,Yes,Yes,Yes,Male,>= 80,548,OBESITY
-35.43,1-7 days,No,No,No,Yes,Yes,Yes,No,Yes,Female,76-80,549,OBESITY
-35.87,0 days,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Male,>= 80,550,OBESITY
-27.05,1-7 days,Yes,Yes,No,No,Yes,No,Yes,Yes,Male,66-70,551,OVER-FAT
-22.89,0 days,No,No,No,No,Yes,Yes,Yes,Yes,Male,46-50,552,NORMAL
-30.96,1-7 days,No,No,No,Yes,No,No,No,Yes,Female,<= 40,553,OBESITY
-31.47,0 days,No,No,No,No,No,Yes,No,Yes,Female,71-75,554,OBESITY
-35.31,0 days,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Male,71-75,555,OBESITY
-40.37,>28 days,Yes,Yes,No,Yes,No,Yes,No,Yes,Male,71-75,556,OBESITY
-25.09,0 days,No,No,No,No,Yes,Yes,Yes,Yes,Male,66-70,557,OVER-FAT
-30.41,8-14 days,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Male,71-75,558,OBESITY
-38.37,1-7 days,Yes,No,No,Yes,Yes,No,No,Yes,Male,66-70,559,OBESITY
-44.29,0 days,No,No,No,No,No,Yes,Yes,Yes,Female,71-75,560,OBESITY
-31,1-7 days,Yes,No,No,No,Yes,Yes,Yes,Yes,Male,46-50,561,OBESITY
-27.82,0 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,56-60,562,OVER-FAT
-39.06,0 days,Yes,No,Yes,No,No,Yes,Yes,Yes,Female,71-75,563,OBESITY
-33.07,0 days,Yes,No,Yes,No,No,Yes,No,Yes,Female,76-80,564,OBESITY
-21.11,0 days,Yes,No,No,No,No,No,Yes,Yes,Female,66-70,565,NORMAL
-26.37,1-7 days,No,No,No,No,Yes,No,No,Yes,Male,61-65,566,OVER-FAT
-29.26,0 days,No,No,No,No,Yes,Yes,No,Yes,Female,>= 80,567,OBESITY
-27.8,0 days,Yes,No,No,No,No,No,No,Yes,Male,66-70,568,OVER-FAT
-29.29,0 days,No,No,No,No,Yes,No,Yes,Yes,Male,>= 80,569,OBESITY
-30.9,8-14 days,Yes,Yes,No,No,No,Yes,Yes,Yes,Male,76-80,570,OBESITY
-37.5,1-7 days,No,No,No,Yes,Yes,Yes,Yes,Yes,Male,51-55,571,OBESITY
-23.43,0 days,No,Yes,No,No,Yes,No,No,Yes,Male,>= 80,572,NORMAL
-25.61,0 days,No,No,No,No,No,No,No,Yes,Female,>= 80,573,OVER-FAT
-22.5,0 days,No,No,No,No,No,No,Yes,Yes,Male,>= 80,574,NORMAL
-33.66,>28 days,Yes,No,No,No,Yes,Yes,Yes,Yes,Female,>= 80,575,OBESITY
-25.39,0 days,Yes,No,No,Yes,No,Yes,Yes,Yes,Female,71-75,576,OVER-FAT
-26.76,0 days,Yes,No,No,No,Yes,No,No,Yes,Female,>= 80,577,OVER-FAT
-25.75,8-14 days,Yes,No,No,No,No,No,No,Yes,Female,51-55,578,OVER-FAT
-47.26,0 days,No,No,Yes,No,Yes,No,Yes,Yes,Male,66-70,579,OBESITY
-25.85,0 days,No,No,No,No,Yes,No,Yes,Yes,Female,41-45,580,OVER-FAT
-33.47,0 days,Yes,Yes,No,No,No,Yes,Yes,Yes,Male,71-75,581,OBESITY
-39.05,1-7 days,Yes,No,No,Yes,Yes,Yes,No,Yes,Male,71-75,582,OBESITY
-42.51,1-7 days,No,Yes,Yes,No,No,Yes,No,Yes,Female,76-80,583,OBESITY
-36.18,0 days,Yes,No,No,No,Yes,No,Yes,Yes,Male,71-75,584,OBESITY
-22.05,0 days,No,No,Yes,No,Yes,No,No,Yes,Male,>= 80,585,NORMAL
-33.45,0 days,Yes,No,Yes,No,No,Yes,Yes,Yes,Female,>= 80,586,OBESITY
-26.61,1-7 days,No,Yes,No,No,No,Yes,Yes,Yes,Female,>= 80,587,OVER-FAT
-29.53,0 days,Yes,No,No,No,Yes,Yes,Yes,Yes,Male,56-60,588,OBESITY
-43.27,0 days,Yes,No,Yes,Yes,No,No,No,Yes,Female,51-55,589,OBESITY
-38.53,0 days,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Female,51-55,590,OBESITY
-30.57,8-14 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,66-70,591,OBESITY
-27.12,0 days,No,No,No,Yes,No,No,Yes,Yes,Female,66-70,592,OVER-FAT
-36.02,0 days,Yes,No,No,No,No,No,No,Yes,Male,>= 80,593,OBESITY
-28.7,1-7 days,Yes,No,No,No,No,No,Yes,Yes,Male,>= 80,594,OBESITY
-29.53,8-14 days,Yes,No,No,No,No,No,No,Yes,Male,41-45,595,OBESITY
-25.06,0 days,Yes,No,No,No,Yes,No,Yes,Yes,Female,>= 80,596,OVER-FAT
-32.12,0 days,No,No,No,No,Yes,Yes,No,Yes,Female,71-75,597,OBESITY
-24.37,0 days,Yes,No,Yes,No,No,No,No,Yes,Female,76-80,598,OVER-FAT
-28.34,22-28 days,No,No,No,No,Yes,Yes,Yes,Yes,Female,76-80,599,OBESITY
-30.47,0 days,No,No,No,No,Yes,Yes,No,Yes,Female,66-70,600,OBESITY
-27.8,0 days,Yes,No,No,No,Yes,Yes,Yes,Yes,Male,76-80,601,OVER-FAT
-54.91,1-7 days,Yes,No,No,Yes,Yes,No,Yes,Yes,Female,61-65,602,OBESITY
-34.58,0 days,No,Yes,No,Yes,Yes,No,Yes,Yes,Male,66-70,603,OBESITY
-25.75,15-21 days,Yes,No,No,Yes,No,Yes,Yes,Yes,Female,>= 80,604,OVER-FAT
-32.89,0 days,Yes,Yes,No,No,Yes,No,No,Yes,Male,76-80,605,OBESITY
-25.18,0 days,No,No,Yes,No,No,No,No,Yes,Male,>= 80,606,OVER-FAT
-32.49,1-7 days,Yes,Yes,No,No,No,Yes,Yes,Yes,Male,71-75,607,OBESITY
-27.57,0 days,Yes,No,No,No,No,No,No,Yes,Male,<= 40,608,OVER-FAT
-35.87,8-14 days,Yes,No,No,No,No,Yes,No,Yes,Male,56-60,609,OBESITY
-22.89,8-14 days,No,No,No,No,No,No,Yes,Yes,Male,>= 80,610,NORMAL
-35.57,0 days,Yes,Yes,No,No,No,Yes,No,Yes,Male,66-70,611,OBESITY
-22.31,0 days,Yes,No,No,Yes,No,No,Yes,Yes,Female,66-70,612,NORMAL
-21.26,0 days,No,No,No,No,No,Yes,Yes,Yes,Female,>= 80,613,NORMAL
-32.87,1-7 days,Yes,No,No,Yes,No,No,Yes,Yes,Male,46-50,614,OBESITY
-21.11,0 days,No,No,No,Yes,Yes,Yes,Yes,Yes,Male,66-70,615,NORMAL
-25.08,0 days,No,No,No,No,No,Yes,No,Yes,Female,>= 80,616,OVER-FAT
-28.65,15-21 days,Yes,No,No,Yes,No,Yes,Yes,Yes,Male,>= 80,617,OBESITY
-30.41,0 days,Yes,No,No,No,No,Yes,No,Yes,Male,66-70,618,OBESITY
-26.32,0 days,No,No,No,Yes,Yes,Yes,Yes,Yes,Male,56-60,619,OVER-FAT
-25.77,0 days,Yes,No,No,No,No,No,Yes,Yes,Male,46-50,620,OVER-FAT
-26.26,1-7 days,No,No,No,No,No,Yes,No,Yes,Female,>= 80,621,OVER-FAT
-31.57,0 days,No,No,No,No,Yes,No,Yes,Yes,Male,61-65,622,OBESITY
-27.44,0 days,Yes,No,No,No,No,No,Yes,Yes,Male,61-65,623,OVER-FAT
-42.29,1-7 days,Yes,No,Yes,No,Yes,No,Yes,Yes,Male,61-65,624,OBESITY
-24.72,0 days,Yes,No,No,No,Yes,Yes,No,Yes,Male,51-55,625,OVER-FAT
-41.84,0 days,No,No,No,Yes,Yes,No,Yes,Yes,Male,66-70,626,OBESITY
-38.39,1-7 days,No,No,No,No,No,Yes,No,Yes,Male,51-55,627,OBESITY
-21.92,0 days,Yes,Yes,No,No,No,Yes,No,Yes,Female,76-80,628,NORMAL
-25.09,0 days,Yes,Yes,No,No,No,Yes,Yes,Yes,Male,71-75,629,OVER-FAT
-27.21,0 days,No,No,Yes,Yes,Yes,No,Yes,Yes,Female,61-65,630,OVER-FAT
-30.81,0 days,Yes,No,No,No,Yes,Yes,Yes,Yes,Male,56-60,631,OBESITY
-25.84,0 days,No,No,No,No,Yes,No,No,Yes,Male,66-70,632,OVER-FAT
-31.46,1-7 days,No,No,No,No,No,No,Yes,Yes,Male,56-60,633,OBESITY
-32.77,1-7 days,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Female,71-75,634,OBESITY
-30.52,1-7 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,41-45,635,OBESITY
-26.26,8-14 days,No,No,No,Yes,No,No,No,Yes,Female,56-60,636,OVER-FAT
-29.7,0 days,Yes,No,No,No,No,No,Yes,Yes,Female,76-80,637,OBESITY
-53.31,0 days,No,No,No,No,Yes,Yes,Yes,Yes,Female,56-60,638,OBESITY
-18.89,0 days,Yes,Yes,Yes,No,No,Yes,No,Yes,Female,66-70,639,NORMAL
-23.17,1-7 days,Yes,No,No,No,No,Yes,Yes,Yes,Female,61-65,640,NORMAL
-23.33,0 days,No,No,No,No,Yes,No,Yes,Yes,Male,71-75,641,NORMAL
-15.98,0 days,No,No,No,No,No,Yes,No,Yes,Female,61-65,642,OVER-THIN
-25.51,0 days,No,No,No,No,Yes,No,Yes,Yes,Female,71-75,643,OVER-FAT
-27.89,0 days,Yes,No,No,No,No,No,No,Yes,Male,71-75,644,OVER-FAT
-30.68,0 days,Yes,No,No,No,No,No,No,Yes,Male,66-70,645,OBESITY
-31.55,0 days,No,No,No,No,Yes,Yes,No,Yes,Female,>= 80,646,OBESITY
-36.05,0 days,Yes,Yes,Yes,No,No,No,No,Yes,Female,76-80,647,OBESITY
-24.39,0 days,Yes,No,No,No,No,No,Yes,Yes,Male,66-70,648,OVER-FAT
-22.78,0 days,No,No,Yes,No,Yes,Yes,No,Yes,Male,61-65,649,NORMAL
-33,0 days,No,No,No,Yes,No,No,Yes,Yes,Male,71-75,650,OBESITY
-38.62,0 days,No,No,No,No,No,Yes,Yes,Yes,Female,76-80,651,OBESITY
-36.58,0 days,No,No,Yes,Yes,No,Yes,Yes,Yes,Female,56-60,652,OBESITY
-24.46,15-21 days,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Male,<= 40,653,OVER-FAT
-43.05,8-14 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,46-50,654,OBESITY
-38.92,0 days,No,Yes,No,No,No,Yes,No,Yes,Male,>= 80,655,OBESITY
-25.75,1-7 days,No,No,Yes,No,No,No,No,Yes,Male,71-75,656,OVER-FAT
-23.49,1-7 days,Yes,No,No,Yes,No,Yes,Yes,Yes,Male,66-70,657,NORMAL
-28.19,0 days,No,No,No,No,Yes,No,Yes,Yes,Male,>= 80,658,OBESITY
-27.46,1-7 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,61-65,659,OVER-FAT
-31.01,1-7 days,No,No,Yes,No,No,Yes,No,Yes,Male,>= 80,660,OBESITY
-25.82,0 days,No,No,No,Yes,No,No,No,Yes,Male,46-50,661,OVER-FAT
-38.62,0 days,No,No,No,Yes,Yes,No,Yes,Yes,Female,46-50,662,OBESITY
-33.23,0 days,No,No,No,Yes,Yes,Yes,No,Yes,Male,61-65,663,OBESITY
-33.67,0 days,Yes,No,No,No,Yes,No,Yes,Yes,Male,71-75,664,OBESITY
-28.48,0 days,No,No,Yes,No,Yes,No,Yes,Yes,Male,76-80,665,OBESITY
-25.1,0 days,Yes,No,No,No,Yes,No,Yes,Yes,Male,71-75,666,OVER-FAT
-40.18,0 days,No,No,No,No,Yes,Yes,Yes,Yes,Male,61-65,667,OBESITY
-25.85,1-7 days,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Male,66-70,668,OVER-FAT
-19.22,0 days,No,No,No,No,No,Yes,No,Yes,Female,76-80,669,NORMAL
-28.25,0 days,Yes,No,No,No,Yes,No,Yes,Yes,Male,76-80,670,OBESITY
-40.45,0 days,Yes,No,No,Yes,No,Yes,Yes,Yes,Male,41-45,671,OBESITY
-25.85,0 days,Yes,No,No,No,No,Yes,No,Yes,Male,71-75,672,OVER-FAT
-31.31,0 days,Yes,No,No,No,No,Yes,No,Yes,Male,66-70,673,OBESITY
-44.3,0 days,No,No,No,No,Yes,No,Yes,Yes,Male,71-75,674,OBESITY
-30,>28 days,No,No,No,No,No,No,Yes,Yes,Male,61-65,675,OBESITY
-23.09,0 days,Yes,No,No,No,No,No,Yes,Yes,Male,71-75,676,NORMAL
-20.97,0 days,Yes,Yes,No,No,No,Yes,Yes,Yes,Female,66-70,677,NORMAL
-33.96,0 days,Yes,Yes,No,Yes,No,Yes,No,Yes,Male,61-65,678,OBESITY
-37.79,0 days,No,Yes,No,No,Yes,No,Yes,Yes,Female,>= 80,679,OBESITY
-28.12,1-7 days,No,No,No,No,No,Yes,No,Yes,Female,>= 80,680,OBESITY
-33.96,0 days,Yes,Yes,No,No,No,Yes,No,Yes,Male,66-70,681,OBESITY
-42.51,0 days,No,Yes,Yes,No,No,Yes,Yes,Yes,Female,71-75,682,OBESITY
-25.54,1-7 days,Yes,No,No,No,Yes,No,Yes,Yes,Male,76-80,683,OVER-FAT
-27.37,1-7 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,66-70,684,OVER-FAT
-26.63,0 days,Yes,No,No,No,Yes,Yes,No,Yes,Female,76-80,685,OVER-FAT
-25.66,1-7 days,Yes,No,No,No,Yes,No,Yes,Yes,Male,71-75,686,OVER-FAT
-30.62,0 days,Yes,No,No,Yes,No,No,Yes,Yes,Female,51-55,687,OBESITY
-31.42,8-14 days,Yes,No,No,No,No,No,No,Yes,Male,71-75,688,OBESITY
-21.16,1-7 days,Yes,No,No,No,Yes,Yes,No,Yes,Male,56-60,689,NORMAL
-33.91,0 days,Yes,No,No,No,No,No,No,Yes,Male,51-55,690,OBESITY
-27.41,0 days,Yes,No,Yes,No,Yes,No,No,Yes,Male,66-70,691,OVER-FAT
-33.47,0 days,No,No,Yes,No,No,Yes,Yes,Yes,Male,46-50,692,OBESITY
-29.27,0 days,Yes,No,No,No,No,Yes,Yes,Yes,Female,<= 40,693,OBESITY
-28.34,0 days,No,No,No,Yes,No,Yes,Yes,Yes,Female,51-55,694,OBESITY
-29.29,1-7 days,Yes,Yes,No,No,Yes,Yes,No,Yes,Male,>= 80,695,OBESITY
-18.88,0 days,Yes,No,No,No,No,No,No,Yes,Male,61-65,696,NORMAL
-26.46,0 days,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Male,76-80,697,OVER-FAT
-22.32,0 days,Yes,No,No,No,Yes,Yes,No,Yes,Male,>= 80,698,NORMAL
-27.32,15-21 days,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Male,>= 80,699,OVER-FAT
-34.13,0 days,No,No,No,No,No,Yes,Yes,Yes,Female,76-80,700,OBESITY
-33.45,8-14 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,71-75,701,OBESITY
-30.11,0 days,No,Yes,No,No,Yes,Yes,Yes,Yes,Female,71-75,702,OBESITY
-18.29,0 days,No,No,Yes,No,No,Yes,Yes,Yes,Female,66-70,703,OVER-THIN
-29.53,0 days,No,No,No,No,Yes,No,Yes,Yes,Male,71-75,704,OBESITY
-29.41,0 days,Yes,No,No,No,No,No,No,Yes,Male,71-75,705,OBESITY
-35.44,8-14 days,No,No,No,No,No,Yes,Yes,Yes,Male,41-45,706,OBESITY
-35.43,1-7 days,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Female,66-70,707,OBESITY
-27.46,1-7 days,No,No,No,No,No,Yes,Yes,Yes,Female,61-65,708,OVER-FAT
-27.55,1-7 days,Yes,No,No,No,Yes,No,Yes,Yes,Male,76-80,709,OVER-FAT
-33.96,0 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,66-70,710,OBESITY
-29.18,0 days,No,No,No,No,No,No,No,Yes,Male,66-70,711,OBESITY
-28,8-14 days,No,No,No,No,No,Yes,No,Yes,Male,76-80,712,OVER-FAT
-30.72,1-7 days,Yes,No,No,No,Yes,No,Yes,Yes,Female,76-80,713,OBESITY
-28.73,0 days,Yes,No,No,Yes,No,Yes,Yes,Yes,Male,71-75,714,OBESITY
-28.13,22-28 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,>= 80,715,OBESITY
-20.36,0 days,Yes,No,Yes,No,No,No,No,Yes,Male,76-80,716,NORMAL
-25.09,8-14 days,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Female,46-50,717,OVER-FAT
-36.28,0 days,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Female,66-70,718,OBESITY
-28.59,0 days,Yes,No,No,No,Yes,Yes,Yes,Yes,Male,66-70,719,OBESITY
-25.33,0 days,No,Yes,No,No,Yes,Yes,Yes,Yes,Female,76-80,720,OVER-FAT
-44.85,0 days,Yes,No,No,No,No,Yes,No,Yes,Female,66-70,721,OBESITY
-28.19,0 days,Yes,No,No,Yes,No,Yes,Yes,Yes,Female,46-50,722,OBESITY
-27.06,1-7 days,Yes,Yes,Yes,No,No,Yes,No,Yes,Male,>= 80,723,OVER-FAT
-28.13,1-7 days,Yes,No,No,No,Yes,No,Yes,Yes,Male,66-70,724,OBESITY
-36.15,0 days,No,No,No,Yes,No,Yes,Yes,Yes,Female,56-60,725,OBESITY
-26.96,8-14 days,Yes,No,No,Yes,No,No,Yes,Yes,Male,56-60,726,OVER-FAT
-26.26,0 days,Yes,No,No,No,Yes,No,No,Yes,Female,76-80,727,OVER-FAT
-27.89,0 days,No,No,No,No,No,No,Yes,Yes,Male,56-60,728,OVER-FAT
-20.12,0 days,Yes,No,No,Yes,No,Yes,No,Yes,Female,>= 80,729,NORMAL
-25.1,0 days,Yes,Yes,Yes,No,No,Yes,No,Yes,Female,51-55,730,OVER-FAT
-26.12,1-7 days,Yes,Yes,No,No,No,No,No,Yes,Female,61-65,731,OVER-FAT
-39.33,0 days,No,No,No,No,Yes,No,Yes,Yes,Male,66-70,732,OBESITY
-32.28,0 days,No,No,No,No,No,No,Yes,Yes,Male,66-70,733,OBESITY
-40.24,0 days,No,No,Yes,No,Yes,Yes,Yes,Yes,Female,66-70,734,OBESITY
-28.41,0 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,76-80,735,OBESITY
-27.89,0 days,Yes,No,No,No,No,No,Yes,Yes,Male,51-55,736,OVER-FAT
-21.87,8-14 days,Yes,No,No,No,No,No,No,Yes,Male,<= 40,737,NORMAL
-26.54,1-7 days,Yes,No,No,No,No,No,No,Yes,Male,71-75,738,OVER-FAT
-25.86,>28 days,No,No,No,Yes,Yes,Yes,Yes,Yes,Female,66-70,739,OVER-FAT
-28.89,8-14 days,Yes,No,No,No,No,No,No,Yes,Male,76-80,740,OBESITY
-43.76,1-7 days,No,No,Yes,No,Yes,Yes,Yes,Yes,Male,66-70,741,OBESITY
-24.41,1-7 days,Yes,Yes,No,No,No,Yes,No,Yes,Male,>= 80,742,OVER-FAT
-27.34,0 days,No,No,No,Yes,Yes,No,No,Yes,Female,71-75,743,OVER-FAT
-27.46,0 days,No,No,No,No,No,No,No,Yes,Male,46-50,744,OVER-FAT
-27.35,0 days,No,No,No,Yes,No,Yes,Yes,Yes,Male,71-75,745,OVER-FAT
-29.75,8-14 days,No,No,No,No,Yes,Yes,No,Yes,Male,76-80,746,OBESITY
-30.23,0 days,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Female,46-50,747,OBESITY
-23.1,0 days,No,Yes,No,No,No,Yes,Yes,Yes,Male,76-80,748,NORMAL
-28.25,22-28 days,Yes,Yes,Yes,No,No,Yes,No,Yes,Female,>= 80,749,OBESITY
-28.43,1-7 days,No,No,No,No,No,No,No,Yes,Male,76-80,750,OBESITY
-23.63,8-14 days,Yes,No,No,No,No,No,Yes,No,Male,46-50,751,NORMAL
-23.11,1-7 days,Yes,No,No,Yes,No,No,No,No,Male,41-45,752,NORMAL
-22.32,15-21 days,Yes,Yes,No,No,No,No,No,No,Male,>= 80,753,NORMAL
-37.79,1-7 days,Yes,No,No,No,No,Yes,Yes,No,Female,56-60,754,OBESITY
-37.76,1-7 days,Yes,Yes,No,Yes,No,No,No,No,Female,61-65,755,OBESITY
-34.54,1-7 days,Yes,No,No,No,No,No,Yes,No,Female,61-65,756,OBESITY
-23.71,15-21 days,Yes,No,No,Yes,No,No,No,No,Male,41-45,757,NORMAL
-24.43,0 days,Yes,No,No,No,No,No,No,No,Female,>= 80,758,OVER-FAT
-29.66,0 days,No,No,No,Yes,Yes,Yes,Yes,No,Female,<= 40,759,OBESITY
-30.67,0 days,Yes,No,No,No,No,Yes,No,No,Male,51-55,760,OBESITY
-42.33,1-7 days,Yes,No,No,No,No,No,No,No,Male,<= 40,761,OBESITY
-33.89,0 days,Yes,No,No,No,No,Yes,No,No,Male,71-75,762,OBESITY
-24.97,0 days,Yes,No,No,No,No,No,Yes,No,Male,71-75,763,OVER-FAT
-27.44,0 days,No,No,No,No,No,No,No,No,Male,<= 40,764,OVER-FAT
-30.37,1-7 days,No,No,No,No,No,No,Yes,No,Male,51-55,765,OBESITY
-30.81,1-7 days,Yes,No,No,No,No,No,Yes,No,Male,<= 40,766,OBESITY
-23.03,8-14 days,Yes,No,No,Yes,No,No,Yes,No,Female,41-45,767,NORMAL
-27.46,0 days,No,No,No,Yes,No,No,No,No,Female,71-75,768,OVER-FAT
-32.92,0 days,Yes,No,No,Yes,No,No,No,No,Female,41-45,769,OBESITY
-24.41,0 days,Yes,No,No,No,No,No,No,No,Female,>= 80,770,OVER-FAT
-19.64,8-14 days,Yes,No,No,No,No,No,No,No,Female,61-65,771,NORMAL
-46.59,1-7 days,Yes,Yes,No,Yes,No,Yes,No,No,Female,66-70,772,OBESITY
-25.06,1-7 days,Yes,No,No,Yes,No,No,Yes,No,Female,41-45,773,OVER-FAT
-35.67,1-7 days,Yes,No,No,Yes,No,No,No,No,Female,56-60,774,OBESITY
-40.61,1-7 days,Yes,No,No,Yes,No,Yes,Yes,No,Male,<= 40,775,OBESITY
-31.63,1-7 days,Yes,No,No,No,No,Yes,No,No,Female,61-65,776,OBESITY
-23.8,8-14 days,Yes,No,No,Yes,No,No,No,No,Female,61-65,777,NORMAL
-32.28,1-7 days,Yes,No,No,No,No,Yes,No,No,Female,76-80,778,OBESITY
-30.23,0 days,Yes,No,No,No,No,No,No,No,Female,41-45,779,OBESITY
-21.18,8-14 days,Yes,No,No,No,No,No,Yes,No,Male,<= 40,780,NORMAL
-32.69,1-7 days,Yes,No,No,No,No,No,No,No,Male,46-50,781,OBESITY
-27.62,8-14 days,Yes,No,No,Yes,No,No,Yes,No,Male,56-60,782,OVER-FAT
-25.11,8-14 days,Yes,No,No,No,No,No,Yes,No,Male,71-75,783,OVER-FAT
-21.46,>28 days,Yes,No,No,No,No,No,Yes,No,Female,<= 40,784,NORMAL
-29.16,1-7 days,Yes,No,No,No,No,No,No,No,Male,56-60,785,OBESITY
-22.46,1-7 days,Yes,No,No,No,No,No,No,No,Male,<= 40,786,NORMAL
-25.82,0 days,Yes,No,No,No,No,No,No,No,Female,66-70,787,OVER-FAT
-24.03,0 days,No,No,No,No,No,Yes,No,No,Female,76-80,788,OVER-FAT
-26.61,0 days,No,No,No,No,No,No,No,No,Female,41-45,789,OVER-FAT
-27.34,1-7 days,Yes,No,No,No,No,No,No,No,Female,46-50,790,OVER-FAT
-26.63,0 days,No,No,No,No,No,No,Yes,No,Female,<= 40,791,OVER-FAT
-29.12,0 days,Yes,No,No,No,Yes,No,No,No,Male,71-75,792,OBESITY
-32.73,1-7 days,Yes,No,No,No,No,Yes,Yes,No,Female,56-60,793,OBESITY
-25.75,0 days,Yes,No,No,No,No,Yes,Yes,No,Female,71-75,794,OVER-FAT
-31.57,0 days,Yes,No,No,Yes,Yes,No,Yes,No,Male,56-60,795,OBESITY
-25.61,0 days,Yes,No,No,No,No,Yes,No,No,Female,46-50,796,OVER-FAT
-28.89,1-7 days,Yes,No,No,No,No,No,No,No,Male,<= 40,797,OBESITY
-27.46,0 days,Yes,No,No,No,No,No,No,No,Female,<= 40,798,OVER-FAT
-36.28,1-7 days,Yes,No,No,No,No,No,No,No,Male,56-60,799,OBESITY
-30.81,1-7 days,Yes,Yes,No,No,No,Yes,Yes,No,Male,46-50,800,OBESITY
-19.22,>28 days,Yes,No,No,No,No,Yes,No,No,Female,71-75,801,NORMAL
-32.49,1-7 days,Yes,No,No,No,Yes,No,No,No,Male,41-45,802,OBESITY
-27.12,1-7 days,Yes,No,No,Yes,No,No,Yes,No,Female,<= 40,803,OVER-FAT
-32.28,1-7 days,Yes,No,No,No,No,No,No,No,Female,61-65,804,OBESITY
-28.89,15-21 days,Yes,No,No,No,No,No,Yes,No,Female,61-65,805,OBESITY
-33.28,0 days,Yes,No,No,No,No,No,No,No,Female,66-70,806,OBESITY
-26.5,0 days,Yes,No,No,No,No,No,Yes,No,Male,41-45,807,OVER-FAT
-26.97,15-21 days,Yes,No,No,No,No,No,Yes,No,Male,51-55,808,OVER-FAT
-21.28,0 days,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Female,66-70,809,NORMAL
-29.81,0 days,No,No,No,No,No,Yes,Yes,No,Female,66-70,810,OBESITY
-26.58,0 days,Yes,No,No,No,No,No,Yes,No,Male,66-70,811,OVER-FAT
-23.4,0 days,Yes,No,No,No,No,No,No,No,Male,56-60,812,NORMAL
-25.82,0 days,No,No,No,No,Yes,Yes,Yes,No,Female,76-80,813,OVER-FAT
-24.13,1-7 days,Yes,No,No,No,No,No,No,No,Female,<= 40,814,OVER-FAT
-30.9,1-7 days,Yes,No,No,No,No,No,No,No,Male,66-70,815,OBESITY
-31.47,15-21 days,Yes,No,No,No,No,No,Yes,No,Male,56-60,816,OBESITY
-40.24,1-7 days,Yes,No,No,No,Yes,No,No,No,Female,51-55,817,OBESITY
-26.57,0 days,Yes,No,No,No,No,No,No,No,Female,<= 40,818,OVER-FAT
-19.65,1-7 days,Yes,No,No,No,No,No,No,No,Male,<= 40,819,NORMAL
-26.52,1-7 days,Yes,No,No,No,No,Yes,Yes,No,Female,51-55,820,OVER-FAT
-35.43,0 days,No,No,Yes,No,No,No,No,No,Female,46-50,821,OBESITY
-26.99,0 days,Yes,No,No,No,No,No,No,No,Male,51-55,822,OVER-FAT
-22.11,1-7 days,No,No,No,Yes,No,No,Yes,No,Female,<= 40,823,NORMAL
-47.37,0 days,No,No,Yes,No,No,Yes,No,No,Female,51-55,824,OBESITY
-32.89,1-7 days,No,No,No,No,No,No,Yes,No,Male,<= 40,825,OBESITY
-31,0 days,Yes,No,No,Yes,No,No,Yes,No,Male,<= 40,826,OBESITY
-25.75,0 days,Yes,No,No,No,No,No,Yes,No,Female,61-65,827,OVER-FAT
-24.41,0 days,Yes,No,No,No,No,No,Yes,No,Male,<= 40,828,OVER-FAT
-39.29,0 days,Yes,Yes,Yes,No,Yes,Yes,No,No,Male,66-70,829,OBESITY
-21.63,1-7 days,Yes,No,No,No,No,No,No,No,Female,56-60,830,NORMAL
-28.19,0 days,Yes,No,No,Yes,No,No,No,No,Female,<= 40,831,OBESITY
-41,1-7 days,No,No,No,Yes,No,Yes,Yes,No,Female,41-45,832,OBESITY
-27.46,15-21 days,Yes,No,No,No,No,Yes,No,No,Female,41-45,833,OVER-FAT
-20.06,0 days,No,No,No,Yes,No,No,Yes,No,Female,<= 40,834,NORMAL
-32.28,0 days,No,No,No,Yes,No,Yes,Yes,No,Male,56-60,835,OBESITY
-33.72,22-28 days,No,No,No,Yes,Yes,Yes,Yes,No,Male,61-65,836,OBESITY
-34.44,0 days,No,No,No,No,No,No,No,No,Male,46-50,837,OBESITY
-22.89,15-21 days,Yes,No,No,No,No,No,No,No,Male,<= 40,838,NORMAL
-32.55,0 days,Yes,No,Yes,No,No,Yes,No,No,Female,41-45,839,OBESITY
-40.72,1-7 days,Yes,No,No,No,No,No,No,No,Female,<= 40,840,OBESITY
-38.74,1-7 days,Yes,No,No,No,No,No,No,No,Male,56-60,841,OBESITY
-31.57,0 days,No,No,No,No,No,No,Yes,No,Male,56-60,842,OBESITY
-44.29,15-21 days,Yes,No,No,No,No,No,Yes,No,Female,41-45,843,OBESITY
-39.05,0 days,Yes,No,No,No,No,Yes,No,No,Male,51-55,844,OBESITY
-27.32,1-7 days,Yes,No,No,No,Yes,No,No,No,Male,56-60,845,OVER-FAT
-32.06,0 days,No,No,No,No,No,Yes,No,No,Female,56-60,846,OBESITY
-23.17,1-7 days,Yes,Yes,Yes,Yes,No,No,Yes,No,Female,41-45,847,NORMAL
-32.28,0 days,Yes,No,No,No,No,Yes,No,No,Female,61-65,848,OBESITY
-22.15,0 days,Yes,Yes,No,No,No,No,No,No,Female,<= 40,849,NORMAL
-16.95,0 days,Yes,No,No,No,No,No,Yes,No,Male,<= 40,850,OVER-THIN
-25.79,8-14 days,Yes,No,No,No,No,No,Yes,No,Female,61-65,851,OVER-FAT
-34.44,1-7 days,Yes,No,No,No,No,No,No,No,Male,56-60,852,OBESITY
-21.29,0 days,No,No,No,No,No,No,Yes,No,Female,<= 40,853,NORMAL
-22.81,22-28 days,Yes,No,No,No,No,Yes,Yes,No,Female,66-70,854,NORMAL
-31.01,>28 days,Yes,No,No,No,No,No,Yes,No,Male,71-75,855,OBESITY
-25.82,0 days,Yes,No,No,No,No,No,No,No,Female,71-75,856,OVER-FAT
-26.63,0 days,No,No,No,No,No,No,No,No,Male,71-75,857,OVER-FAT
-20.34,1-7 days,No,No,No,No,No,No,Yes,No,Male,56-60,858,NORMAL
-24.37,1-7 days,Yes,No,No,No,No,Yes,No,No,Male,66-70,859,OVER-FAT
-36.05,1-7 days,Yes,No,No,No,No,Yes,No,No,Female,46-50,860,OBESITY
-26.39,1-7 days,Yes,No,No,No,No,No,No,No,Male,46-50,861,OVER-FAT
-29.84,0 days,Yes,No,No,No,No,No,Yes,No,Male,51-55,862,OBESITY
-18.65,1-7 days,Yes,No,No,No,No,No,Yes,No,Male,<= 40,863,NORMAL
-26.61,1-7 days,Yes,No,No,No,No,No,No,No,Female,46-50,864,OVER-FAT
-29.86,0 days,Yes,No,Yes,No,No,No,No,No,Female,71-75,865,OBESITY
-24.03,1-7 days,Yes,No,No,No,No,No,Yes,No,Female,66-70,866,OVER-FAT
-20.03,0 days,Yes,No,No,No,No,No,Yes,No,Female,76-80,867,NORMAL
-24.13,1-7 days,Yes,No,No,No,No,Yes,No,No,Female,56-60,868,OVER-FAT
-29.41,0 days,Yes,No,No,No,No,No,Yes,No,Male,>= 80,869,OBESITY
-22.24,15-21 days,Yes,No,No,Yes,No,No,No,No,Male,<= 40,870,NORMAL
-24.37,22-28 days,Yes,Yes,No,No,No,No,Yes,No,Female,66-70,871,OVER-FAT
-22.92,22-28 days,Yes,No,No,No,No,No,No,No,Female,61-65,872,NORMAL
-30.54,1-7 days,No,No,No,No,No,No,No,No,Male,<= 40,873,OBESITY
-26.47,0 days,Yes,No,No,No,No,No,No,No,Female,61-65,874,OVER-FAT
-30.81,22-28 days,Yes,No,No,No,No,No,Yes,No,Male,41-45,875,OBESITY
-20.78,1-7 days,Yes,No,No,No,No,Yes,No,No,Female,>= 80,876,NORMAL
-34.21,0 days,Yes,No,No,No,No,No,No,No,Male,<= 40,877,OBESITY
-25.61,1-7 days,Yes,No,No,No,No,Yes,No,No,Female,66-70,878,OVER-FAT
-21.62,>28 days,No,No,No,No,No,No,Yes,No,Male,51-55,879,NORMAL
-27.12,0 days,Yes,No,No,No,No,No,No,No,Male,<= 40,880,OVER-FAT
-25.68,15-21 days,Yes,No,No,No,No,No,No,No,Male,<= 40,881,OVER-FAT
-30.52,8-14 days,Yes,No,No,No,No,No,No,No,Male,<= 40,882,OBESITY
-34.21,0 days,Yes,No,No,No,No,No,No,No,Male,<= 40,883,OBESITY
-34.44,15-21 days,Yes,No,Yes,No,No,No,Yes,No,Male,46-50,884,OBESITY
-37.76,15-21 days,Yes,No,No,No,No,No,No,No,Female,<= 40,885,OBESITY
-24.8,0 days,Yes,No,No,Yes,No,Yes,Yes,No,Female,41-45,886,OVER-FAT
-33.75,1-7 days,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Male,<= 40,887,OBESITY
-24.87,1-7 days,Yes,No,No,No,No,No,No,No,Female,51-55,888,OVER-FAT
-27.6,15-21 days,Yes,No,No,No,No,No,Yes,No,Male,66-70,889,OVER-FAT
-28.59,1-7 days,Yes,No,No,No,No,Yes,No,No,Male,56-60,890,OBESITY
-24.85,>28 days,Yes,No,No,No,No,No,No,No,Male,46-50,891,OVER-FAT
-28.19,1-7 days,Yes,No,No,Yes,No,No,No,No,Female,<= 40,892,OBESITY
-20.36,1-7 days,No,No,No,No,No,No,No,No,Female,<= 40,893,NORMAL
-27.46,1-7 days,Yes,No,Yes,No,No,Yes,Yes,No,Female,>= 80,894,OVER-FAT
-25.39,>28 days,Yes,No,No,No,No,No,Yes,No,Female,>= 80,895,OVER-FAT
-28.06,1-7 days,Yes,No,No,Yes,No,Yes,No,No,Male,66-70,896,OBESITY
-22.96,0 days,Yes,No,Yes,No,No,No,Yes,No,Male,76-80,897,NORMAL
-25.09,1-7 days,Yes,No,No,No,No,No,Yes,No,Male,41-45,898,OVER-FAT
-31,>28 days,No,No,No,No,No,Yes,Yes,No,Female,>= 80,899,OBESITY
-22.6,1-7 days,Yes,No,No,No,No,No,No,No,Female,51-55,900,NORMAL
-32.61,1-7 days,Yes,No,No,No,No,No,No,No,Female,<= 40,901,OBESITY
-22.92,0 days,Yes,No,No,No,No,No,No,No,Male,<= 40,902,NORMAL
-19.74,1-7 days,Yes,No,No,No,No,No,No,No,Female,<= 40,903,NORMAL
-32.32,15-21 days,Yes,No,No,No,No,No,No,No,Male,51-55,904,OBESITY
-27.41,1-7 days,Yes,No,No,No,No,Yes,Yes,No,Female,41-45,905,OVER-FAT
-27.46,1-7 days,Yes,Yes,No,No,No,No,Yes,No,Female,56-60,906,OVER-FAT
-25.8,1-7 days,Yes,Yes,No,No,No,No,No,No,Male,61-65,907,OVER-FAT
-33.66,0 days,Yes,No,No,Yes,No,No,No,No,Female,41-45,908,OBESITY
-30.68,0 days,No,No,No,Yes,No,No,No,No,Female,<= 40,909,OBESITY
-40.97,0 days,Yes,No,No,No,No,No,No,No,Female,66-70,910,OBESITY
-33.47,0 days,No,No,No,No,No,No,Yes,No,Male,<= 40,911,OBESITY
-23.8,0 days,Yes,No,No,No,No,No,No,No,Female,<= 40,912,NORMAL
-28.59,1-7 days,Yes,No,No,No,No,No,No,No,Male,61-65,913,OBESITY
-33.91,1-7 days,Yes,No,No,No,No,No,No,No,Male,51-55,914,OBESITY
-33.72,1-7 days,Yes,Yes,No,No,No,No,No,No,Male,66-70,915,OBESITY
-32.39,1-7 days,Yes,No,No,No,No,No,Yes,No,Male,51-55,916,OBESITY
-21.48,8-14 days,Yes,No,No,No,No,No,No,No,Female,41-45,917,NORMAL
-25.1,0 days,No,No,Yes,No,No,Yes,Yes,No,Male,76-80,918,OVER-FAT
-21.84,0 days,Yes,No,No,No,No,No,Yes,No,Male,41-45,919,NORMAL
-29.95,1-7 days,No,No,No,Yes,No,No,No,No,Female,<= 40,920,OBESITY
-25.06,8-14 days,Yes,No,No,No,No,No,Yes,No,Male,<= 40,921,OVER-FAT
-30.27,1-7 days,No,Yes,No,No,No,No,No,No,Male,46-50,922,OBESITY
-29.53,1-7 days,Yes,No,No,No,No,No,Yes,No,Male,<= 40,923,OBESITY
-25.75,0 days,Yes,No,No,No,No,No,No,No,Female,61-65,924,OVER-FAT
-21.81,>28 days,Yes,No,No,No,No,Yes,No,No,Male,61-65,925,NORMAL
-22.14,0 days,Yes,No,No,Yes,No,No,Yes,No,Female,<= 40,926,NORMAL
-30.11,0 days,Yes,Yes,No,No,No,No,No,No,Female,>= 80,927,OBESITY
-22.37,1-7 days,Yes,No,No,Yes,No,No,Yes,No,Male,<= 40,928,NORMAL
-20.36,0 days,Yes,No,No,No,Yes,No,Yes,No,Male,61-65,929,NORMAL
-24.37,8-14 days,Yes,No,No,No,No,No,No,No,Male,<= 40,930,OVER-FAT
-19.67,0 days,No,No,No,No,No,No,No,No,Male,<= 40,931,NORMAL
-21.63,>28 days,Yes,No,No,No,No,Yes,Yes,No,Female,<= 40,932,NORMAL
-23.44,1-7 days,Yes,No,No,No,No,No,No,No,Female,>= 80,933,NORMAL
-31.24,0 days,Yes,No,No,No,No,Yes,No,No,Female,56-60,934,OBESITY
-33.45,8-14 days,Yes,No,No,Yes,No,No,Yes,No,Female,<= 40,935,OBESITY
-50.64,0 days,Yes,No,No,Yes,Yes,Yes,No,No,Female,61-65,936,OBESITY
-38.37,8-14 days,No,No,No,No,Yes,No,No,No,Male,41-45,937,OBESITY
-21.56,>28 days,No,Yes,Yes,No,No,No,Yes,No,Male,>= 80,938,NORMAL
-29.18,1-7 days,Yes,Yes,Yes,No,No,No,No,No,Female,71-75,939,OBESITY
-33.96,8-14 days,No,No,No,No,Yes,No,Yes,No,Male,56-60,940,OBESITY
-30.9,>28 days,No,No,No,No,No,No,Yes,No,Female,51-55,941,OBESITY
-26.61,1-7 days,Yes,No,No,No,No,Yes,Yes,No,Female,<= 40,942,OVER-FAT
-26.63,8-14 days,Yes,No,No,Yes,No,No,Yes,No,Male,<= 40,943,OVER-FAT
-36.62,0 days,Yes,No,No,No,No,No,No,No,Male,<= 40,944,OBESITY
-32.89,0 days,No,No,No,No,No,No,No,No,Female,<= 40,945,OBESITY
-25.83,0 days,Yes,No,No,No,Yes,No,Yes,No,Male,61-65,946,OVER-FAT
-30.52,0 days,Yes,No,No,No,No,No,No,No,Male,56-60,947,OBESITY
-26.63,1-7 days,Yes,No,No,Yes,No,Yes,Yes,No,Female,76-80,948,OVER-FAT
-23.57,15-21 days,Yes,No,Yes,No,No,No,No,No,Male,71-75,949,NORMAL
-22.46,0 days,Yes,No,No,No,No,No,No,No,Female,<= 40,950,NORMAL
-21.79,0 days,Yes,No,No,Yes,No,No,No,No,Male,<= 40,951,NORMAL
-28.35,0 days,No,No,Yes,No,No,No,No,No,Female,>= 80,952,OBESITY
-34.33,1-7 days,Yes,Yes,No,Yes,Yes,Yes,No,No,Female,66-70,953,OBESITY
-19.84,0 days,Yes,No,No,No,No,Yes,Yes,No,Female,76-80,954,NORMAL
-28.23,0 days,Yes,Yes,No,No,No,No,No,No,Male,76-80,955,OBESITY
-32.98,1-7 days,No,No,No,No,No,No,No,No,Male,61-65,956,OBESITY
-25.04,>28 days,Yes,No,No,No,No,No,Yes,No,Male,<= 40,957,OVER-FAT
-39.6,22-28 days,No,Yes,No,No,Yes,No,Yes,No,Male,66-70,958,OBESITY
-28.29,0 days,No,No,No,No,No,Yes,Yes,No,Female,71-75,959,OBESITY
-28.91,0 days,Yes,No,Yes,No,No,Yes,Yes,No,Female,66-70,960,OBESITY
-25.56,>28 days,Yes,No,No,No,No,Yes,No,No,Female,71-75,961,OVER-FAT
-30.41,0 days,Yes,No,No,Yes,No,Yes,No,No,Female,<= 40,962,OBESITY
-42.77,8-14 days,No,No,No,No,Yes,Yes,No,No,Male,71-75,963,OBESITY
-29.18,0 days,No,No,No,No,Yes,Yes,No,No,Female,>= 80,964,OBESITY
-29.23,1-7 days,Yes,No,No,No,No,No,No,No,Male,<= 40,965,OBESITY
-24.69,>28 days,Yes,No,No,Yes,No,Yes,Yes,No,Female,<= 40,966,OVER-FAT
-25.84,0 days,Yes,Yes,Yes,No,No,Yes,Yes,No,Male,>= 80,967,OVER-FAT
-24.41,0 days,Yes,No,No,No,No,No,Yes,No,Male,41-45,968,OVER-FAT
-26.63,1-7 days,Yes,No,Yes,No,Yes,Yes,No,No,Female,71-75,969,OVER-FAT
-30.41,0 days,Yes,No,No,No,Yes,Yes,No,No,Female,66-70,970,OBESITY
-23.11,0 days,Yes,Yes,No,No,No,Yes,No,No,Male,61-65,971,NORMAL
-21.09,0 days,Yes,No,No,No,No,No,No,No,Male,46-50,972,NORMAL
-30.73,1-7 days,Yes,No,No,No,Yes,No,No,No,Female,<= 40,973,OBESITY
-22.96,8-14 days,Yes,No,No,No,No,No,Yes,No,Female,61-65,974,NORMAL
-41.6,0 days,No,No,No,No,No,Yes,No,No,Female,46-50,975,OBESITY
-27.37,1-7 days,Yes,No,No,Yes,No,Yes,No,No,Female,41-45,976,OVER-FAT
-25.1,1-7 days,Yes,No,No,No,No,No,No,No,Female,<= 40,977,OVER-FAT
-30.34,1-7 days,Yes,No,No,Yes,No,No,No,No,Male,<= 40,978,OBESITY
-31.19,1-7 days,Yes,Yes,No,Yes,No,Yes,No,No,Male,66-70,979,OBESITY
-25.75,8-14 days,Yes,No,No,No,No,No,No,No,Female,56-60,980,OVER-FAT
-37.49,0 days,Yes,No,No,No,No,Yes,Yes,No,Male,61-65,981,OBESITY
-28.48,1-7 days,No,No,No,No,No,Yes,No,No,Male,66-70,982,OBESITY
-25.13,0 days,No,Yes,No,No,No,Yes,Yes,No,Female,>= 80,983,OVER-FAT
-26.45,>28 days,Yes,No,No,No,No,Yes,Yes,No,Male,71-75,984,OVER-FAT
-22.46,1-7 days,No,No,No,Yes,No,No,Yes,No,Female,<= 40,985,NORMAL
-27.46,1-7 days,No,No,Yes,Yes,No,No,No,No,Female,<= 40,986,OVER-FAT
-34.45,0 days,Yes,No,No,No,Yes,No,No,No,Male,66-70,987,OBESITY
-32.61,0 days,Yes,No,No,No,No,Yes,Yes,No,Female,61-65,988,OBESITY
-22.14,0 days,Yes,No,No,No,Yes,Yes,Yes,No,Female,66-70,989,NORMAL
-27.26,1-7 days,Yes,No,No,No,No,No,No,No,Male,51-55,990,OVER-FAT
-23.11,1-7 days,Yes,No,No,No,No,Yes,No,No,Male,<= 40,991,NORMAL
-17.75,1-7 days,Yes,No,No,No,No,Yes,No,No,Female,66-70,992,OVER-THIN
-26.63,1-7 days,Yes,No,No,Yes,No,No,No,No,Male,<= 40,993,OVER-FAT
-29.23,0 days,No,Yes,No,No,No,No,No,No,Female,>= 80,994,OBESITY
-36.61,15-21 days,No,Yes,No,No,No,Yes,Yes,No,Female,71-75,995,OBESITY
-26.5,>28 days,Yes,No,No,No,No,No,Yes,No,Male,71-75,996,OVER-FAT
-30.54,8-14 days,Yes,No,No,Yes,No,Yes,No,No,Female,71-75,997,OBESITY
-31.93,15-21 days,Yes,No,No,No,No,No,No,No,Male,<= 40,998,OBESITY
-29.84,0 days,Yes,No,No,No,No,Yes,No,No,Male,66-70,999,OBESITY
-23.65,22-28 days,Yes,No,No,No,No,No,No,No,Female,56-60,1000,NORMAL
-21.14,0 days,Yes,No,No,Yes,No,No,Yes,No,Female,61-65,1001,NORMAL
-29.05,0 days,Yes,No,No,No,No,No,No,No,Female,61-65,1002,OBESITY
-33.45,15-21 days,Yes,No,No,No,No,No,No,No,Male,<= 40,1003,OBESITY
-34.97,15-21 days,Yes,No,No,No,No,No,Yes,No,Female,41-45,1004,OBESITY
-19.91,>28 days,No,Yes,No,Yes,No,Yes,Yes,No,Male,76-80,1005,NORMAL
-27.89,15-21 days,Yes,No,No,Yes,No,No,No,No,Female,<= 40,1006,OVER-FAT
-50.93,0 days,Yes,No,No,Yes,No,Yes,Yes,No,Male,46-50,1007,OBESITY
-22.46,1-7 days,No,No,No,No,No,No,Yes,No,Female,41-45,1008,NORMAL
-33,1-7 days,Yes,No,No,No,No,Yes,No,No,Male,66-70,1009,OBESITY
-27.46,0 days,Yes,No,No,No,No,No,No,No,Female,61-65,1010,OVER-FAT
-24.45,1-7 days,No,No,No,Yes,No,No,No,No,Female,66-70,1011,OVER-FAT
-27.46,0 days,No,No,Yes,No,No,Yes,Yes,No,Female,76-80,1012,OVER-FAT
-32.59,1-7 days,No,No,Yes,No,No,No,No,No,Female,61-65,1013,OBESITY
-22.89,8-14 days,Yes,No,No,No,No,Yes,Yes,No,Male,66-70,1014,NORMAL
-32.06,0 days,No,No,No,Yes,No,Yes,Yes,No,Female,>= 80,1015,OBESITY
-23.69,0 days,Yes,Yes,No,No,No,Yes,No,No,Male,71-75,1016,NORMAL
-30.18,1-7 days,Yes,No,No,No,No,No,No,No,Female,51-55,1017,OBESITY
-28.7,0 days,Yes,No,No,No,No,No,Yes,No,Male,66-70,1018,OBESITY
-37.79,0 days,No,No,No,No,No,No,No,No,Female,<= 40,1019,OBESITY
-29.26,0 days,Yes,No,No,No,No,Yes,No,No,Female,71-75,1020,OBESITY
-31.74,8-14 days,Yes,No,Yes,No,No,Yes,Yes,No,Male,61-65,1021,OBESITY
-27.28,0 days,Yes,No,No,No,No,No,Yes,No,Female,51-55,1022,OVER-FAT
-46.06,0 days,No,No,No,Yes,No,Yes,Yes,No,Female,41-45,1023,OBESITY
-26.63,1-7 days,No,No,No,No,No,No,No,No,Female,<= 40,1024,OVER-FAT
-29.24,0 days,Yes,Yes,No,No,Yes,Yes,No,No,Male,71-75,1025,OBESITY
-30.41,0 days,Yes,No,No,Yes,No,Yes,No,No,Female,61-65,1026,OBESITY
-19.77,1-7 days,Yes,No,No,No,No,No,No,No,Female,>= 80,1027,NORMAL
-29.18,>28 days,Yes,No,No,No,No,Yes,No,No,Male,61-65,1028,OBESITY
-27.41,8-14 days,Yes,No,No,No,No,No,No,No,Male,<= 40,1029,OVER-FAT
-37.11,0 days,Yes,No,No,No,No,No,No,No,Female,<= 40,1030,OBESITY
-27.46,0 days,No,No,No,Yes,No,Yes,No,No,Female,41-45,1031,OVER-FAT
-22.89,0 days,Yes,No,Yes,Yes,No,Yes,Yes,No,Female,41-45,1032,NORMAL
-24.89,1-7 days,Yes,No,No,No,No,Yes,Yes,No,Female,76-80,1033,OVER-FAT
-20.98,0 days,Yes,No,No,No,No,No,Yes,No,Female,<= 40,1034,NORMAL
-41.84,0 days,No,No,Yes,No,Yes,Yes,Yes,No,Male,71-75,1035,OBESITY
-45.76,1-7 days,No,No,No,No,Yes,Yes,No,No,Female,66-70,1036,OBESITY
-18.99,1-7 days,Yes,No,No,No,No,No,No,No,Male,<= 40,1037,NORMAL
-35.78,1-7 days,Yes,No,No,No,No,No,No,No,Female,41-45,1038,OBESITY
-19.77,8-14 days,No,No,No,No,No,No,Yes,No,Male,<= 40,1039,NORMAL
-30.7,1-7 days,Yes,No,No,No,Yes,No,No,No,Male,66-70,1040,OBESITY
-42.88,1-7 days,Yes,No,No,No,Yes,Yes,Yes,No,Male,41-45,1041,OBESITY
-26.63,0 days,Yes,No,No,No,Yes,Yes,Yes,No,Female,71-75,1042,OVER-FAT
-26.5,1-7 days,Yes,No,No,Yes,No,No,No,No,Male,41-45,1043,OVER-FAT
-26.63,>28 days,Yes,No,No,No,No,No,Yes,No,Female,<= 40,1044,OVER-FAT
-23.57,8-14 days,Yes,No,No,No,No,No,No,No,Female,56-60,1045,NORMAL
-27.41,0 days,Yes,No,No,No,No,No,No,No,Female,41-45,1046,OVER-FAT
-23.63,1-7 days,Yes,No,No,No,No,No,No,No,Male,46-50,1047,NORMAL
-23.67,0 days,Yes,No,No,No,No,Yes,No,No,Male,61-65,1048,NORMAL
-21.63,8-14 days,Yes,No,No,No,No,No,No,No,Female,<= 40,1049,NORMAL
-23.75,>28 days,Yes,No,No,No,No,Yes,No,No,Male,61-65,1050,NORMAL
-30.82,1-7 days,Yes,No,No,No,Yes,No,No,No,Female,71-75,1051,OBESITY
-20.7,1-7 days,Yes,No,No,Yes,No,No,No,No,Female,56-60,1052,NORMAL
-30.51,>28 days,Yes,No,No,No,No,No,No,No,Male,66-70,1053,OBESITY
-37.2,1-7 days,Yes,Yes,No,No,No,Yes,Yes,No,Female,56-60,1054,OBESITY
-24.39,0 days,No,No,No,Yes,No,No,Yes,No,Male,66-70,1055,OVER-FAT
-22.96,0 days,Yes,No,No,No,Yes,No,No,No,Male,>= 80,1056,NORMAL
-23.01,>28 days,No,No,No,No,No,Yes,Yes,No,Male,61-65,1057,NORMAL
-22.5,0 days,No,No,No,No,No,No,No,No,Male,61-65,1058,NORMAL
-36.58,8-14 days,Yes,No,No,No,No,No,No,No,Female,<= 40,1059,OBESITY
-27.4,1-7 days,No,No,No,Yes,No,No,Yes,No,Female,41-45,1060,OVER-FAT
-30.38,0 days,Yes,No,Yes,Yes,No,Yes,Yes,No,Female,76-80,1061,OBESITY
-23.01,1-7 days,Yes,No,Yes,No,No,No,Yes,No,Female,51-55,1062,NORMAL
-27.44,0 days,No,No,Yes,Yes,No,No,No,No,Female,>= 80,1063,OVER-FAT
-23.03,0 days,Yes,No,No,Yes,No,No,No,No,Female,<= 40,1064,NORMAL
-41.32,0 days,Yes,No,No,No,No,Yes,No,No,Male,61-65,1065,OBESITY
-23.63,8-14 days,Yes,No,No,Yes,No,No,No,No,Male,<= 40,1066,NORMAL
-28.25,8-14 days,No,No,Yes,Yes,Yes,Yes,Yes,No,Female,71-75,1067,OBESITY
-27.27,0 days,Yes,No,No,No,No,No,No,No,Male,<= 40,1068,OVER-FAT
-38.01,0 days,Yes,No,Yes,No,No,No,No,No,Female,51-55,1069,OBESITY
-28.12,0 days,Yes,No,No,No,No,Yes,Yes,No,Male,71-75,1070,OBESITY
-21.62,1-7 days,Yes,No,No,No,No,No,No,No,Female,<= 40,1071,NORMAL
-22.38,22-28 days,Yes,No,No,No,No,No,No,No,Male,<= 40,1072,NORMAL
-20.67,0 days,Yes,No,No,Yes,No,Yes,No,No,Female,46-50,1073,NORMAL
-26.07,0 days,Yes,Yes,No,Yes,No,Yes,Yes,No,Female,66-70,1074,OVER-FAT
-37.31,1-7 days,Yes,Yes,Yes,Yes,No,No,Yes,No,Male,76-80,1075,OBESITY
-27.44,1-7 days,Yes,No,Yes,Yes,No,Yes,Yes,No,Female,61-65,1076,OVER-FAT
-25.89,>28 days,Yes,No,No,No,No,No,No,No,Female,76-80,1077,OVER-FAT
-23.91,0 days,Yes,No,No,No,No,Yes,No,No,Female,66-70,1078,NORMAL
-27.44,22-28 days,Yes,No,No,Yes,No,Yes,Yes,No,Female,66-70,1079,OVER-FAT
-22.32,0 days,Yes,No,No,No,No,No,No,No,Male,<= 40,1080,NORMAL
-31.82,0 days,Yes,No,No,No,No,No,No,No,Female,<= 40,1081,OBESITY
-18.89,1-7 days,Yes,No,No,No,No,No,No,No,Female,<= 40,1082,NORMAL
-31,1-7 days,Yes,No,No,No,No,No,No,No,Male,<= 40,1083,OBESITY
-34.77,0 days,No,No,No,No,No,No,No,No,Male,76-80,1084,OBESITY
-42.13,8-14 days,Yes,No,No,No,No,No,No,No,Female,51-55,1085,OBESITY
-28.25,8-14 days,Yes,No,No,No,No,Yes,No,No,Male,<= 40,1086,OBESITY
-30.13,1-7 days,Yes,No,No,No,No,No,No,No,Male,51-55,1087,OBESITY
-24.94,1-7 days,Yes,No,No,No,No,No,No,No,Female,46-50,1088,OVER-FAT
-26.78,0 days,Yes,Yes,Yes,No,No,No,No,No,Male,76-80,1089,OVER-FAT
-25.09,1-7 days,Yes,No,No,No,No,No,Yes,No,Male,46-50,1090,OVER-FAT
-22.05,1-7 days,Yes,No,No,No,No,No,No,No,Male,<= 40,1091,NORMAL
-23.81,0 days,Yes,No,No,Yes,Yes,Yes,No,No,Female,56-60,1092,NORMAL
-25.51,8-14 days,Yes,No,No,No,No,Yes,Yes,No,Female,<= 40,1093,OVER-FAT
-26.63,8-14 days,Yes,No,No,No,No,No,No,No,Female,66-70,1094,OVER-FAT
-19.22,1-7 days,No,No,No,Yes,No,Yes,Yes,No,Male,76-80,1095,NORMAL
-21.63,1-7 days,Yes,No,No,No,No,No,No,No,Female,46-50,1096,NORMAL
-25.79,0 days,Yes,No,No,No,No,Yes,No,No,Female,71-75,1097,OVER-FAT
-22.81,22-28 days,Yes,No,No,No,No,No,Yes,No,Male,56-60,1098,NORMAL
-19.2,0 days,Yes,No,No,No,No,Yes,No,No,Female,71-75,1099,NORMAL
-24.21,1-7 days,Yes,No,No,No,No,No,No,No,Female,<= 40,1100,OVER-FAT
-32.22,0 days,Yes,No,Yes,No,No,Yes,Yes,No,Female,76-80,1101,OBESITY
-25.52,1-7 days,No,Yes,No,No,No,No,Yes,No,Male,56-60,1102,OVER-FAT
-27.37,1-7 days,Yes,Yes,No,Yes,No,Yes,No,No,Female,61-65,1103,OVER-FAT
-25.85,15-21 days,Yes,No,No,No,No,No,No,No,Male,66-70,1104,OVER-FAT
-35.87,0 days,Yes,No,Yes,No,No,Yes,No,No,Male,76-80,1105,OBESITY
-22.45,22-28 days,Yes,No,No,No,No,No,Yes,No,Male,66-70,1106,NORMAL
-26.63,1-7 days,Yes,No,No,No,No,No,No,No,Female,46-50,1107,OVER-FAT
-27.46,1-7 days,Yes,No,No,No,No,No,Yes,No,Female,66-70,1108,OVER-FAT
-23.92,0 days,Yes,No,Yes,No,No,Yes,Yes,No,Male,56-60,1109,NORMAL
-23.57,15-21 days,Yes,Yes,No,No,No,No,Yes,No,Male,66-70,1110,NORMAL
-22.05,1-7 days,Yes,No,No,No,No,No,No,No,Male,46-50,1111,NORMAL
-20.83,1-7 days,Yes,No,No,Yes,No,No,Yes,No,Female,<= 40,1112,NORMAL
-36.81,15-21 days,Yes,No,Yes,No,No,Yes,Yes,No,Male,61-65,1113,OBESITY
-31.89,1-7 days,No,No,No,No,No,No,No,No,Female,<= 40,1114,OBESITY
-38.59,15-21 days,No,No,No,Yes,No,No,Yes,No,Female,<= 40,1115,OBESITY
-42.77,1-7 days,Yes,No,No,No,No,Yes,No,No,Female,51-55,1116,OBESITY
-21.83,1-7 days,No,No,No,No,Yes,No,Yes,No,Male,>= 80,1117,NORMAL
-28.89,15-21 days,Yes,No,No,No,No,No,Yes,No,Male,<= 40,1118,OBESITY
-21.24,0 days,Yes,No,No,No,No,Yes,No,No,Female,>= 80,1119,NORMAL
-34.97,1-7 days,Yes,No,No,No,No,Yes,No,No,Male,51-55,1120,OBESITY
-27.81,0 days,No,No,No,No,No,No,No,No,Female,61-65,1121,OVER-FAT
-20.37,0 days,Yes,No,No,Yes,No,No,Yes,No,Female,<= 40,1122,NORMAL
-24.14,8-14 days,Yes,Yes,No,No,No,Yes,No,No,Female,66-70,1123,OVER-FAT
-24.69,1-7 days,Yes,No,No,No,No,No,No,No,Female,51-55,1124,OVER-FAT
-24.45,15-21 days,Yes,No,No,No,No,No,No,No,Female,>= 80,1125,OVER-FAT
-21.03,0 days,Yes,No,No,No,No,No,No,No,Female,<= 40,1126,NORMAL
-27.26,15-21 days,Yes,No,No,No,No,No,No,No,Male,51-55,1127,OVER-FAT
-26.45,15-21 days,Yes,No,No,No,No,No,Yes,No,Male,76-80,1128,OVER-FAT
-22.38,0 days,Yes,No,No,No,No,No,No,No,Male,71-75,1129,NORMAL
-27.46,8-14 days,Yes,No,No,Yes,No,Yes,Yes,No,Female,61-65,1130,OVER-FAT
-27.88,8-14 days,Yes,No,No,No,No,Yes,No,No,Male,71-75,1131,OVER-FAT
-37.12,0 days,Yes,No,No,No,No,No,No,No,Female,41-45,1132,OBESITY
-33,8-14 days,Yes,No,No,Yes,No,No,No,No,Male,56-60,1133,OBESITY
-30.38,0 days,No,No,No,No,No,Yes,No,No,Male,61-65,1134,OBESITY
-24.41,0 days,Yes,No,No,No,No,No,No,No,Male,46-50,1135,OVER-FAT
-25.84,8-14 days,Yes,No,Yes,Yes,No,No,Yes,No,Male,56-60,1136,OVER-FAT
-28.19,1-7 days,Yes,No,No,No,No,No,Yes,No,Female,51-55,1137,OBESITY
-23.67,1-7 days,Yes,No,No,No,No,No,No,No,Male,61-65,1138,NORMAL
-40.18,1-7 days,Yes,No,No,Yes,No,No,Yes,No,Male,<= 40,1139,OBESITY
-30.62,22-28 days,No,Yes,Yes,No,No,No,No,No,Female,>= 80,1140,OBESITY
-28.06,0 days,Yes,No,No,No,No,No,Yes,No,Male,71-75,1141,OBESITY
-20.67,>28 days,Yes,No,No,No,No,No,Yes,No,Male,61-65,1142,NORMAL
-30.17,22-28 days,No,No,No,No,No,Yes,No,No,Male,66-70,1143,OBESITY
-19.94,1-7 days,Yes,No,No,No,No,No,No,No,Male,<= 40,1144,NORMAL
-20.12,0 days,Yes,No,No,No,No,Yes,No,No,Female,76-80,1145,NORMAL
-33.09,0 days,Yes,No,No,No,No,No,No,No,Male,<= 40,1146,OBESITY
-25.79,0 days,No,No,No,No,No,No,Yes,No,Male,61-65,1147,OVER-FAT
-21.21,0 days,Yes,No,No,No,No,No,No,No,Female,<= 40,1148,NORMAL
-38.52,0 days,Yes,No,No,No,Yes,No,Yes,No,Male,66-70,1149,OBESITY
-33.73,0 days,Yes,No,No,No,Yes,No,No,No,Female,76-80,1150,OBESITY
-30.43,1-7 days,Yes,No,No,No,Yes,Yes,No,No,Female,51-55,1151,OBESITY
-29.26,0 days,No,No,No,No,No,Yes,Yes,No,Female,71-75,1152,OBESITY
-31.75,0 days,Yes,No,No,No,No,Yes,No,No,Female,71-75,1153,OBESITY
-29.53,0 days,Yes,No,No,No,No,No,No,No,Male,<= 40,1154,OBESITY
-26.36,0 days,Yes,No,No,No,Yes,No,Yes,No,Male,61-65,1155,OVER-FAT
-23.13,0 days,Yes,No,No,No,No,No,No,No,Male,61-65,1156,NORMAL
-28.01,0 days,No,No,No,Yes,No,Yes,Yes,No,Male,46-50,1157,OBESITY
-18.46,0 days,No,No,Yes,Yes,No,Yes,Yes,No,Female,56-60,1158,OVER-THIN
-45.61,8-14 days,Yes,No,No,Yes,Yes,Yes,No,No,Male,56-60,1159,OBESITY
-19.79,1-7 days,Yes,No,No,No,No,Yes,Yes,No,Female,71-75,1160,NORMAL
-26.58,>28 days,Yes,No,No,No,No,No,Yes,No,Male,46-50,1161,OVER-FAT
-35.26,0 days,Yes,No,No,No,Yes,No,No,No,Male,56-60,1162,OBESITY
-26.63,0 days,Yes,No,No,Yes,No,No,No,No,Female,<= 40,1163,OVER-FAT
-30.79,1-7 days,Yes,No,No,Yes,No,No,Yes,No,Female,41-45,1164,OBESITY
-22.15,8-14 days,Yes,No,Yes,No,No,No,No,No,Male,<= 40,1165,NORMAL
-24.13,1-7 days,Yes,No,No,No,No,No,No,No,Female,<= 40,1166,OVER-FAT
-22.71,1-7 days,Yes,No,No,No,No,No,No,No,Female,<= 40,1167,NORMAL
-20.67,0 days,Yes,No,No,No,No,No,No,No,Female,<= 40,1168,NORMAL
-48.47,0 days,Yes,No,No,No,Yes,Yes,No,No,Female,61-65,1169,OBESITY
-19.49,8-14 days,Yes,Yes,No,No,No,No,No,No,Female,76-80,1170,NORMAL
-26.76,0 days,No,No,No,No,No,No,No,No,Male,46-50,1171,OVER-FAT
-22.15,15-21 days,Yes,No,No,No,No,No,No,No,Female,<= 40,1172,NORMAL
-23.67,0 days,Yes,No,No,No,No,No,No,No,Male,<= 40,1173,NORMAL
-34.46,1-7 days,No,No,No,No,No,No,No,No,Female,<= 40,1174,OBESITY
-32.49,15-21 days,No,No,No,No,Yes,No,No,No,Male,61-65,1175,OBESITY
-25.02,15-21 days,Yes,No,No,Yes,No,No,Yes,No,Male,61-65,1176,OVER-FAT
-29.91,1-7 days,No,No,No,Yes,Yes,Yes,No,No,Female,66-70,1177,OBESITY
-27.96,>28 days,No,No,No,Yes,Yes,Yes,Yes,No,Male,66-70,1178,OVER-FAT
-28.57,0 days,No,No,No,No,No,No,No,No,Male,<= 40,1179,OBESITY
-27.44,22-28 days,Yes,No,No,No,No,Yes,Yes,No,Female,66-70,1180,OVER-FAT
-18.33,8-14 days,Yes,No,No,No,No,No,Yes,No,Female,>= 80,1181,OVER-THIN
-29.87,0 days,Yes,Yes,No,No,No,No,No,No,Female,51-55,1182,OBESITY
-23.49,1-7 days,Yes,No,No,No,No,No,No,No,Female,41-45,1183,NORMAL
-30.85,1-7 days,Yes,No,No,No,No,No,No,No,Male,46-50,1184,OBESITY
-17.16,0 days,Yes,No,Yes,No,No,No,No,No,Female,61-65,1185,OVER-THIN
-53.08,0 days,No,No,No,Yes,Yes,Yes,Yes,No,Female,71-75,1186,OBESITY
-33.6,1-7 days,No,No,No,Yes,No,Yes,No,No,Female,71-75,1187,OBESITY
-28.37,0 days,Yes,No,No,No,No,No,No,No,Male,46-50,1188,OBESITY
-20.18,>28 days,Yes,No,No,Yes,No,No,Yes,No,Female,61-65,1189,NORMAL
-51.37,8-14 days,Yes,No,No,No,No,No,Yes,No,Female,<= 40,1190,OBESITY
-28.25,0 days,Yes,No,No,No,No,No,No,No,Female,76-80,1191,OBESITY
-21.11,1-7 days,Yes,No,No,No,No,No,No,No,Female,46-50,1192,NORMAL
-30.9,0 days,No,No,No,No,No,No,No,No,Female,51-55,1193,OBESITY
-39.16,8-14 days,No,No,No,No,No,Yes,Yes,No,Male,71-75,1194,OBESITY
-21.31,8-14 days,Yes,No,Yes,No,No,No,No,No,Female,71-75,1195,NORMAL
-28,0 days,Yes,No,No,No,Yes,Yes,Yes,No,Male,>= 80,1196,OVER-FAT
-26.63,1-7 days,Yes,Yes,No,No,No,No,No,No,Female,>= 80,1197,OVER-FAT
-25.4,1-7 days,Yes,No,No,Yes,No,Yes,No,No,Female,76-80,1198,OVER-FAT
-31.93,1-7 days,Yes,No,No,No,No,Yes,No,No,Male,71-75,1199,OBESITY
-24.86,0 days,No,No,Yes,No,No,No,No,No,Female,76-80,1200,OVER-FAT
-27.4,1-7 days,Yes,No,No,No,No,No,No,No,Female,<= 40,1201,OVER-FAT
-20.6,1-7 days,Yes,No,No,Yes,No,Yes,No,No,Female,56-60,1202,NORMAL
-25.82,15-21 days,Yes,No,Yes,No,No,Yes,Yes,No,Female,71-75,1203,OVER-FAT
-29.76,1-7 days,Yes,No,No,No,No,No,No,No,Male,56-60,1204,OBESITY
-23.3,0 days,No,No,No,No,No,No,No,No,Male,66-70,1205,NORMAL
-31.19,8-14 days,Yes,No,No,Yes,No,No,Yes,No,Male,<= 40,1206,OBESITY
-25.75,0 days,Yes,Yes,Yes,No,No,No,No,No,Female,71-75,1207,OVER-FAT
-25.79,0 days,Yes,No,No,No,No,No,Yes,No,Female,41-45,1208,OVER-FAT
-25.09,8-14 days,Yes,No,Yes,No,No,No,No,No,Male,66-70,1209,OVER-FAT
-26.96,>28 days,Yes,Yes,No,No,No,Yes,Yes,No,Male,61-65,1210,OVER-FAT
-30.04,0 days,No,Yes,No,Yes,No,Yes,No,No,Female,71-75,1211,OBESITY
-23.81,15-21 days,Yes,No,No,Yes,No,Yes,Yes,No,Female,<= 40,1212,NORMAL
-31.32,>28 days,No,No,No,Yes,No,No,Yes,No,Female,<= 40,1213,OBESITY
-28.98,0 days,Yes,No,No,No,No,Yes,No,No,Female,71-75,1214,OBESITY
-27.37,8-14 days,Yes,No,No,No,No,No,No,No,Male,61-65,1215,OVER-FAT
-32.27,1-7 days,Yes,No,No,Yes,No,Yes,No,No,Female,71-75,1216,OBESITY
-25.83,15-21 days,Yes,No,No,No,No,No,Yes,No,Male,66-70,1217,OVER-FAT
-27.12,0 days,Yes,No,No,No,No,No,Yes,No,Male,56-60,1218,OVER-FAT
-52.58,0 days,No,No,No,No,No,Yes,Yes,No,Male,46-50,1219,OBESITY
-31,>28 days,No,No,No,Yes,No,No,No,No,Male,61-65,1220,OBESITY
-23.63,1-7 days,Yes,No,No,No,No,No,No,No,Male,<= 40,1221,NORMAL
-22.67,0 days,Yes,Yes,No,Yes,No,Yes,Yes,No,Female,76-80,1222,NORMAL
-21.95,0 days,Yes,No,No,Yes,Yes,No,Yes,No,Female,66-70,1223,NORMAL
-25.51,0 days,Yes,No,No,No,No,No,No,No,Female,51-55,1224,OVER-FAT
-23.67,1-7 days,Yes,No,No,No,No,No,No,No,Male,<= 40,1225,NORMAL
-32.49,1-7 days,Yes,No,No,No,No,Yes,Yes,No,Male,76-80,1226,OBESITY
-31.93,1-7 days,Yes,No,No,No,No,No,Yes,No,Male,41-45,1227,OBESITY
-29.84,1-7 days,Yes,Yes,Yes,No,Yes,Yes,No,No,Male,76-80,1228,OBESITY
-26.63,1-7 days,No,No,No,No,No,No,Yes,No,Female,51-55,1229,OVER-FAT
-30.73,0 days,Yes,Yes,No,No,No,Yes,No,No,Female,61-65,1230,OBESITY
-33.89,0 days,No,No,No,No,Yes,No,Yes,No,Male,61-65,1231,OBESITY
-24.41,1-7 days,Yes,No,No,No,No,No,Yes,No,Male,<= 40,1232,OVER-FAT
-26.83,0 days,Yes,No,No,No,No,No,Yes,No,Male,51-55,1233,OVER-FAT
-24.86,0 days,Yes,No,No,No,No,No,Yes,No,Male,61-65,1234,OVER-FAT
-34.87,1-7 days,Yes,No,Yes,No,Yes,No,No,No,Male,51-55,1235,OBESITY
-20.45,0 days,No,No,No,Yes,No,Yes,Yes,No,Male,51-55,1236,NORMAL
-31.93,0 days,No,No,No,No,No,Yes,Yes,No,Female,41-45,1237,OBESITY
-23.91,1-7 days,Yes,No,No,No,No,No,No,No,Female,56-60,1238,NORMAL
-32.28,0 days,No,No,No,Yes,No,Yes,Yes,No,Female,61-65,1239,OBESITY
-29.26,0 days,No,No,No,Yes,Yes,Yes,No,No,Female,56-60,1240,OBESITY
-28.84,1-7 days,No,No,No,No,No,No,Yes,No,Female,61-65,1241,OBESITY
-28.34,1-7 days,Yes,Yes,No,No,No,Yes,Yes,No,Female,61-65,1242,OBESITY
-26.57,1-7 days,Yes,No,No,No,No,No,Yes,No,Female,41-45,1243,OVER-FAT
-29.29,1-7 days,Yes,No,No,No,No,No,No,No,Male,<= 40,1244,OBESITY
-37.31,8-14 days,Yes,No,No,No,No,No,Yes,No,Male,71-75,1245,OBESITY
-34.39,0 days,No,No,No,No,No,No,No,No,Male,66-70,1246,OBESITY
-27.29,1-7 days,No,No,No,Yes,No,No,No,No,Male,<= 40,1247,OVER-FAT
-28.84,1-7 days,No,No,No,No,No,No,Yes,No,Male,76-80,1248,OBESITY
-26.5,0 days,Yes,No,No,No,No,No,Yes,No,Male,<= 40,1249,OVER-FAT
-35.15,0 days,Yes,No,No,No,No,No,Yes,No,Male,<= 40,1250,OBESITY
-27.44,1-7 days,No,No,No,No,No,No,Yes,No,Male,41-45,1251,OVER-FAT
-43.05,1-7 days,Yes,No,No,No,No,No,Yes,No,Male,41-45,1252,OBESITY
-30.21,0 days,Yes,No,No,No,No,Yes,Yes,No,Female,<= 40,1253,OBESITY
-29.05,0 days,Yes,No,No,No,Yes,No,No,No,Female,71-75,1254,OBESITY
-31.01,15-21 days,Yes,No,No,No,No,Yes,Yes,No,Male,61-65,1255,OBESITY
-31.38,1-7 days,Yes,No,No,No,No,No,No,No,Male,<= 40,1256,OBESITY
-21.14,1-7 days,Yes,No,No,No,No,No,No,No,Female,51-55,1257,NORMAL
-22.71,>28 days,Yes,No,No,No,No,No,Yes,No,Female,66-70,1258,NORMAL
-25.83,8-14 days,No,No,Yes,No,No,No,Yes,No,Male,71-75,1259,OVER-FAT
-51.21,0 days,No,No,Yes,Yes,No,Yes,Yes,No,Female,76-80,1260,OBESITY
-35.94,0 days,Yes,No,No,No,No,Yes,No,No,Male,71-75,1261,OBESITY
-24.89,1-7 days,Yes,No,No,No,Yes,No,Yes,No,Female,71-75,1262,OVER-FAT
-30.13,1-7 days,Yes,No,No,No,No,No,No,No,Male,41-45,1263,OBESITY
-33.91,1-7 days,Yes,No,No,No,No,No,Yes,No,Male,<= 40,1264,OBESITY
-31.75,1-7 days,Yes,No,No,Yes,No,Yes,No,No,Female,71-75,1265,OBESITY
-26.61,1-7 days,No,No,No,No,No,No,No,No,Female,<= 40,1266,OVER-FAT
-36.02,15-21 days,Yes,No,No,Yes,No,Yes,Yes,No,Male,46-50,1267,OBESITY
-20.18,0 days,Yes,No,No,No,No,No,No,No,Female,41-45,1268,NORMAL
-40.9,0 days,No,No,No,No,No,Yes,No,No,Female,<= 40,1269,OBESITY
-16.5,0 days,Yes,No,No,No,No,Yes,Yes,No,Male,<= 40,1270,OVER-THIN
-25.07,0 days,No,No,No,No,No,No,No,No,Male,<= 40,1271,OVER-FAT
-32,22-28 days,Yes,No,No,No,No,Yes,Yes,No,Male,56-60,1272,OBESITY
-29.82,>28 days,Yes,No,No,Yes,No,Yes,No,No,Male,71-75,1273,OBESITY
-26.11,1-7 days,Yes,No,No,No,No,No,Yes,No,Male,56-60,1274,OVER-FAT
-28.4,0 days,Yes,No,No,No,No,No,Yes,No,Male,<= 40,1275,OBESITY
-29.68,0 days,Yes,No,No,No,No,No,Yes,No,Male,41-45,1276,OBESITY
-32.92,22-28 days,Yes,No,No,Yes,No,No,Yes,No,Female,56-60,1277,OBESITY
-38.04,0 days,Yes,No,No,No,Yes,Yes,Yes,No,Female,76-80,1278,OBESITY
-29.53,1-7 days,Yes,No,No,No,No,No,No,No,Male,<= 40,1279,OBESITY
-24.39,15-21 days,Yes,No,No,No,No,No,Yes,No,Male,>= 80,1280,OVER-FAT
-26.92,>28 days,Yes,No,No,No,No,No,Yes,No,Male,71-75,1281,OVER-FAT
-34.46,15-21 days,Yes,No,No,Yes,No,No,No,No,Female,41-45,1282,OBESITY
-36.58,0 days,Yes,No,No,Yes,No,No,No,No,Female,<= 40,1283,OBESITY
-20.8,0 days,Yes,No,Yes,No,No,No,Yes,No,Female,<= 40,1284,NORMAL
-51.12,0 days,No,No,No,Yes,Yes,Yes,No,No,Male,61-65,1285,OBESITY
-34.19,0 days,No,No,No,Yes,No,Yes,No,No,Female,56-60,1286,OBESITY
-20.45,15-21 days,Yes,No,Yes,No,No,No,Yes,No,Male,51-55,1287,NORMAL
-31.32,0 days,Yes,No,Yes,No,No,No,Yes,No,Female,71-75,1288,OBESITY
-33.23,0 days,Yes,No,No,No,No,No,No,No,Male,56-60,1289,OBESITY
-23.3,8-14 days,No,Yes,No,No,No,Yes,No,No,Female,46-50,1290,NORMAL
-23.67,15-21 days,Yes,No,No,No,No,Yes,Yes,No,Male,61-65,1291,NORMAL
-28.97,1-7 days,No,No,No,No,Yes,No,No,No,Male,76-80,1292,OBESITY
-33.47,0 days,Yes,No,No,No,No,No,No,No,Male,61-65,1293,OBESITY
-25.83,0 days,Yes,No,No,No,No,No,Yes,No,Male,<= 40,1294,OVER-FAT
-25.02,0 days,Yes,No,No,No,No,No,Yes,No,Female,<= 40,1295,OVER-FAT
-33.66,0 days,No,No,No,No,No,No,Yes,No,Female,76-80,1296,OBESITY
-21.29,0 days,No,No,Yes,No,No,No,No,No,Female,71-75,1297,NORMAL
-36.91,0 days,No,No,No,No,No,Yes,No,No,Female,46-50,1298,OBESITY
-31.01,1-7 days,No,No,No,No,No,No,No,No,Female,<= 40,1299,OBESITY
-23.62,0 days,Yes,No,No,No,No,Yes,Yes,No,Male,56-60,1300,NORMAL
-33.2,0 days,Yes,No,No,No,No,No,No,No,Female,56-60,1301,OBESITY
-27.44,1-7 days,Yes,No,No,Yes,No,No,No,No,Female,51-55,1302,OVER-FAT
-26.31,1-7 days,Yes,No,No,No,No,No,No,No,Male,56-60,1303,OVER-FAT
-32.01,0 days,No,No,No,Yes,No,Yes,No,No,Female,>= 80,1304,OBESITY
-20.54,22-28 days,Yes,No,No,No,No,No,Yes,No,Male,<= 40,1305,NORMAL
-43.27,0 days,No,No,Yes,Yes,Yes,No,Yes,No,Female,46-50,1306,OBESITY
-23.63,8-14 days,Yes,No,No,No,No,No,Yes,No,Male,<= 40,1307,NORMAL
-27.12,1-7 days,Yes,No,No,No,No,No,No,No,Male,66-70,1308,OVER-FAT
-34.33,0 days,Yes,No,No,No,No,No,No,No,Female,41-45,1309,OBESITY
-29.81,1-7 days,No,No,Yes,No,Yes,Yes,Yes,No,Female,76-80,1310,OBESITY
-26.39,0 days,No,No,Yes,No,No,Yes,Yes,No,Male,>= 80,1311,OVER-FAT
-24.55,22-28 days,Yes,No,No,Yes,No,No,Yes,No,Male,71-75,1312,OVER-FAT
-23.81,0 days,Yes,No,No,No,No,No,No,No,Male,<= 40,1313,NORMAL
-28.35,0 days,Yes,No,No,No,No,No,No,No,Female,71-75,1314,OBESITY
-21.97,22-28 days,Yes,Yes,No,No,No,Yes,Yes,No,Female,>= 80,1315,NORMAL
-38.41,1-7 days,Yes,No,No,No,Yes,Yes,Yes,No,Female,76-80,1316,OBESITY
-26.63,0 days,Yes,No,No,No,No,No,Yes,No,Male,66-70,1317,OVER-FAT
-34.39,1-7 days,Yes,No,No,Yes,No,Yes,No,No,Female,56-60,1318,OBESITY
-24.96,1-7 days,Yes,Yes,Yes,No,No,Yes,Yes,No,Female,66-70,1319,OVER-FAT
-22.32,0 days,Yes,No,No,Yes,No,No,Yes,No,Male,56-60,1320,NORMAL
-25.34,1-7 days,No,No,No,Yes,No,Yes,No,No,Female,66-70,1321,OVER-FAT
-27.4,0 days,Yes,No,No,No,No,No,No,No,Female,71-75,1322,OVER-FAT
-26.45,8-14 days,Yes,No,No,No,No,No,No,No,Male,51-55,1323,OVER-FAT
-25.54,>28 days,Yes,No,No,No,No,Yes,Yes,No,Male,71-75,1324,OVER-FAT
-34.36,1-7 days,Yes,Yes,No,No,Yes,No,No,No,Male,71-75,1325,OBESITY
-23.4,0 days,Yes,No,No,No,No,No,No,No,Female,56-60,1326,NORMAL
-29.84,8-14 days,Yes,No,No,No,No,No,Yes,No,Male,56-60,1327,OBESITY
-33.2,0 days,No,No,Yes,No,No,Yes,No,No,Female,>= 80,1328,OBESITY
-36.79,0 days,No,No,No,No,No,No,Yes,No,Female,61-65,1329,OBESITY
-26.57,1-7 days,Yes,No,No,No,No,No,No,No,Female,71-75,1330,OVER-FAT
-25.82,8-14 days,Yes,No,No,No,No,No,No,No,Female,61-65,1331,OVER-FAT
-22.6,0 days,Yes,No,No,No,No,Yes,Yes,No,Female,71-75,1332,NORMAL
-20.78,0 days,Yes,No,No,Yes,No,Yes,No,No,Female,76-80,1333,NORMAL
-29.18,8-14 days,Yes,No,No,No,No,No,No,No,Female,46-50,1334,OBESITY
-23.75,1-7 days,No,No,No,No,No,No,No,No,Male,<= 40,1335,NORMAL
-20.18,>28 days,Yes,No,No,Yes,No,No,Yes,No,Female,41-45,1336,NORMAL
-21.29,0 days,Yes,No,No,Yes,No,No,No,No,Male,61-65,1337,NORMAL
-33.91,0 days,No,No,No,No,No,No,No,No,Male,41-45,1338,OBESITY
-27.89,1-7 days,Yes,Yes,No,No,No,Yes,Yes,No,Male,71-75,1339,OVER-FAT
-39.87,0 days,Yes,No,No,Yes,Yes,Yes,Yes,No,Female,66-70,1340,OBESITY
-35.43,1-7 days,No,No,No,No,No,No,Yes,No,Female,>= 80,1341,OBESITY
-34.97,0 days,Yes,No,No,No,No,No,No,No,Female,<= 40,1342,OBESITY
-25.79,0 days,Yes,No,No,Yes,No,Yes,Yes,No,Female,56-60,1343,OVER-FAT
-32.99,1-7 days,No,No,No,No,No,Yes,Yes,No,Male,56-60,1344,OBESITY
-19.37,0 days,No,Yes,No,No,No,No,Yes,No,Male,71-75,1345,NORMAL
-35.44,8-14 days,Yes,No,No,No,No,No,No,No,Male,<= 40,1346,OBESITY
-32.28,0 days,Yes,No,No,No,No,Yes,Yes,No,Female,66-70,1347,OBESITY
-24.39,0 days,No,No,No,No,No,Yes,No,No,Male,46-50,1348,OVER-FAT
-34.01,1-7 days,Yes,No,Yes,Yes,No,No,No,No,Female,<= 40,1349,OBESITY
-30.11,8-14 days,No,No,No,No,No,No,No,No,Female,<= 40,1350,OBESITY
-41.2,0 days,No,No,No,No,No,No,Yes,No,Female,<= 40,1351,OBESITY
-19.79,15-21 days,Yes,No,No,No,No,No,Yes,No,Male,<= 40,1352,NORMAL
-23.17,1-7 days,Yes,Yes,No,Yes,No,Yes,No,No,Female,76-80,1353,NORMAL
-29.03,1-7 days,Yes,No,No,Yes,No,No,No,No,Male,41-45,1354,OBESITY
-18.83,1-7 days,Yes,No,No,No,No,No,No,No,Male,<= 40,1355,NORMAL
-27.98,1-7 days,Yes,No,No,No,No,No,No,No,Male,66-70,1356,OVER-FAT
-27.44,1-7 days,Yes,No,No,No,No,No,No,No,Female,46-50,1357,OVER-FAT
-23.49,22-28 days,Yes,No,No,No,No,No,No,No,Male,56-60,1358,NORMAL
-32.6,1-7 days,Yes,No,No,No,No,Yes,Yes,No,Female,71-75,1359,OBESITY
-27.41,0 days,No,No,No,No,No,No,Yes,No,Male,61-65,1360,OVER-FAT
-31.57,0 days,No,No,No,No,No,Yes,No,No,Male,61-65,1361,OBESITY
-24.9,8-14 days,Yes,No,No,No,No,No,No,No,Male,<= 40,1362,OVER-FAT
-32.1,1-7 days,Yes,No,No,No,No,No,No,No,Male,61-65,1363,OBESITY
-24.11,1-7 days,Yes,No,No,No,No,No,No,No,Male,41-45,1364,OVER-FAT
-26.58,1-7 days,Yes,No,Yes,No,Yes,No,Yes,No,Male,71-75,1365,OVER-FAT
-31.19,1-7 days,Yes,No,Yes,No,No,No,No,No,Male,66-70,1366,OBESITY
-27.46,22-28 days,Yes,No,No,No,No,No,Yes,No,Female,66-70,1367,OVER-FAT
-20.94,1-7 days,Yes,No,No,No,No,Yes,No,No,Female,66-70,1368,NORMAL
-34.77,0 days,Yes,No,No,No,Yes,No,No,No,Male,76-80,1369,OBESITY
-36.59,0 days,Yes,Yes,No,No,Yes,Yes,Yes,No,Male,66-70,1370,OBESITY
-27.71,8-14 days,No,No,No,No,No,No,No,No,Male,<= 40,1371,OVER-FAT
-33.96,1-7 days,Yes,No,No,No,No,Yes,Yes,No,Male,51-55,1372,OBESITY
-31.62,0 days,No,No,No,No,No,No,No,No,Female,46-50,1373,OBESITY
-34.87,0 days,No,No,No,No,Yes,Yes,No,No,Male,61-65,1374,OBESITY
-36.61,1-7 days,No,No,No,No,No,No,No,No,Female,41-45,1375,OBESITY
-29.84,1-7 days,Yes,Yes,No,Yes,No,Yes,No,No,Male,66-70,1376,OBESITY
-23.78,0 days,Yes,No,No,No,No,No,No,No,Female,66-70,1377,NORMAL
-24.8,1-7 days,Yes,No,No,Yes,No,No,No,No,Female,<= 40,1378,OVER-FAT
-25.84,0 days,No,No,No,No,No,Yes,No,No,Male,51-55,1379,OVER-FAT
-27.05,22-28 days,No,No,Yes,No,Yes,Yes,Yes,No,Male,61-65,1380,OVER-FAT
-39.08,0 days,Yes,No,No,No,Yes,Yes,Yes,No,Female,76-80,1381,OBESITY
-27.12,0 days,Yes,No,No,Yes,No,Yes,No,No,Male,51-55,1382,OVER-FAT
-46.2,0 days,Yes,No,No,No,Yes,Yes,No,No,Male,51-55,1383,OBESITY
-43.85,1-7 days,Yes,No,No,Yes,Yes,Yes,No,No,Male,61-65,1384,OBESITY
-30.79,0 days,No,No,No,No,No,No,Yes,No,Female,>= 80,1385,OBESITY
-28.13,15-21 days,Yes,No,No,No,No,No,No,No,Male,<= 40,1386,OBESITY
-28,0 days,Yes,Yes,No,No,No,No,No,No,Male,<= 40,1387,OVER-FAT
-43.4,8-14 days,Yes,No,No,No,No,Yes,No,No,Male,<= 40,1388,OBESITY
-23.49,0 days,No,No,No,No,No,No,No,No,Male,>= 80,1389,NORMAL
-21.41,0 days,Yes,No,No,No,No,No,No,No,Male,46-50,1390,NORMAL
-27.8,>28 days,Yes,No,No,No,No,Yes,No,No,Male,71-75,1391,OVER-FAT
-34.87,0 days,No,No,No,Yes,No,Yes,Yes,No,Male,41-45,1392,OBESITY
-32.55,0 days,No,No,No,No,Yes,Yes,Yes,No,Male,61-65,1393,OBESITY
-25.68,15-21 days,Yes,No,No,No,No,No,Yes,No,Male,66-70,1394,OVER-FAT
-20.18,0 days,Yes,No,No,No,No,No,No,No,Female,56-60,1395,NORMAL
-28.48,15-21 days,Yes,Yes,Yes,No,No,Yes,Yes,No,Male,76-80,1396,OBESITY
-23.43,1-7 days,No,No,No,No,No,No,No,No,Male,<= 40,1397,NORMAL
-32.01,0 days,Yes,Yes,No,No,No,Yes,Yes,No,Female,41-45,1398,OBESITY
-20.36,22-28 days,Yes,No,No,No,No,No,No,No,Female,<= 40,1399,NORMAL
-23.33,0 days,Yes,Yes,No,No,No,No,No,No,Male,56-60,1400,NORMAL
-20.6,0 days,Yes,No,No,No,No,Yes,Yes,No,Female,>= 80,1401,NORMAL
-22.81,0 days,Yes,No,No,No,No,No,No,No,Male,<= 40,1402,NORMAL
-24.63,1-7 days,Yes,No,No,No,No,No,No,No,Male,51-55,1403,OVER-FAT
-29.29,1-7 days,No,No,Yes,Yes,No,No,No,No,Female,51-55,1404,OBESITY
-27.37,0 days,Yes,No,No,Yes,No,No,No,No,Female,61-65,1405,OVER-FAT
-32.78,1-7 days,No,No,No,No,Yes,No,No,No,Male,71-75,1406,OBESITY
-28.76,1-7 days,Yes,No,No,No,No,Yes,Yes,No,Male,71-75,1407,OBESITY
-22.31,8-14 days,Yes,No,No,No,No,No,No,No,Female,<= 40,1408,NORMAL
-30.21,1-7 days,Yes,Yes,No,No,No,No,No,No,Female,41-45,1409,OBESITY
-25,>28 days,Yes,Yes,Yes,No,No,Yes,No,No,Male,76-80,1410,OVER-FAT
-27.46,15-21 days,No,Yes,No,No,Yes,Yes,Yes,No,Male,56-60,1411,OVER-FAT
-24.02,0 days,Yes,No,Yes,No,No,No,Yes,No,Female,71-75,1412,OVER-FAT
-20.92,15-21 days,Yes,No,No,No,No,No,Yes,No,Male,41-45,1413,NORMAL
-39.06,22-28 days,Yes,Yes,No,No,Yes,Yes,Yes,No,Male,66-70,1414,OBESITY
-39.94,0 days,Yes,No,No,No,No,Yes,Yes,No,Female,41-45,1415,OBESITY
-46.99,0 days,Yes,No,No,No,No,Yes,No,No,Male,61-65,1416,OBESITY
-20.67,0 days,Yes,No,No,Yes,No,Yes,Yes,No,Female,41-45,1417,NORMAL
-23.04,0 days,Yes,No,No,No,No,No,No,No,Male,56-60,1418,NORMAL
-27.12,>28 days,Yes,No,No,No,No,Yes,No,No,Female,76-80,1419,OVER-FAT
-28.8,1-7 days,No,No,No,No,No,Yes,No,No,Female,51-55,1420,OBESITY
-27.46,1-7 days,No,No,No,Yes,No,No,No,No,Female,<= 40,1421,OVER-FAT
-23.49,>28 days,Yes,Yes,No,No,No,Yes,Yes,No,Male,>= 80,1422,NORMAL
-34.44,1-7 days,Yes,No,No,Yes,No,Yes,No,No,Male,71-75,1423,OBESITY
-26.63,1-7 days,Yes,No,No,No,No,No,No,No,Female,56-60,1424,OVER-FAT
-24.33,1-7 days,Yes,No,No,No,No,No,No,No,Male,56-60,1425,OVER-FAT
-25.61,0 days,Yes,No,No,No,No,Yes,No,No,Female,56-60,1426,OVER-FAT
-29.76,0 days,Yes,No,No,No,Yes,No,No,No,Male,71-75,1427,OBESITY
-25.1,15-21 days,Yes,No,No,No,No,No,No,No,Male,<= 40,1428,OVER-FAT
-25.77,8-14 days,Yes,Yes,No,No,No,No,No,No,Male,56-60,1429,OVER-FAT
-24.21,8-14 days,Yes,No,No,No,No,Yes,No,No,Female,46-50,1430,OVER-FAT
-32.08,8-14 days,Yes,Yes,No,No,No,Yes,Yes,No,Male,71-75,1431,OBESITY
-25.77,0 days,Yes,No,No,No,No,Yes,Yes,No,Male,56-60,1432,OVER-FAT
-21.93,1-7 days,Yes,No,No,No,No,No,No,No,Male,<= 40,1433,NORMAL
-21.97,0 days,No,No,No,No,No,Yes,Yes,No,Male,61-65,1434,NORMAL
-28.34,1-7 days,Yes,No,No,Yes,No,No,Yes,No,Female,<= 40,1435,OBESITY
-21.41,1-7 days,Yes,No,No,No,No,Yes,No,No,Male,71-75,1436,NORMAL
-33.45,1-7 days,Yes,No,No,No,No,No,Yes,No,Male,56-60,1437,OBESITY
-24.39,8-14 days,Yes,No,No,No,No,No,Yes,No,Male,<= 40,1438,OVER-FAT
-28.37,1-7 days,Yes,No,No,Yes,No,Yes,Yes,No,Male,<= 40,1439,OBESITY
-30.9,1-7 days,Yes,No,No,No,No,Yes,No,No,Female,<= 40,1440,OBESITY
-27.71,0 days,Yes,No,No,No,No,No,No,No,Male,46-50,1441,OVER-FAT
-25.29,1-7 days,Yes,No,No,Yes,No,No,Yes,No,Male,56-60,1442,OVER-FAT
-19.74,>28 days,Yes,No,No,No,No,Yes,Yes,No,Female,71-75,1443,NORMAL
-31.38,8-14 days,Yes,No,No,No,No,No,No,No,Male,<= 40,1444,OBESITY
-27.5,0 days,Yes,No,Yes,No,No,Yes,No,No,Male,61-65,1445,OVER-FAT
-27.12,1-7 days,Yes,No,No,No,No,No,No,No,Male,<= 40,1446,OVER-FAT
-30.9,0 days,No,Yes,No,No,No,Yes,Yes,No,Female,71-75,1447,OBESITY
-25.07,0 days,Yes,No,No,No,No,No,No,No,Male,56-60,1448,OVER-FAT
-23.4,0 days,Yes,No,No,Yes,No,Yes,Yes,No,Female,56-60,1449,NORMAL
-25.61,15-21 days,Yes,No,No,No,No,No,Yes,No,Female,51-55,1450,OVER-FAT
-24.41,0 days,Yes,No,No,No,No,No,No,No,Male,<= 40,1451,OVER-FAT
-36.48,1-7 days,Yes,No,No,No,No,No,No,No,Male,<= 40,1452,OBESITY
-26.39,1-7 days,Yes,No,No,No,No,No,No,No,Male,51-55,1453,OVER-FAT
-18.81,0 days,Yes,No,No,Yes,No,Yes,Yes,No,Female,56-60,1454,NORMAL
-24.39,1-7 days,Yes,No,No,No,No,Yes,Yes,No,Male,<= 40,1455,OVER-FAT
-26.58,15-21 days,Yes,No,No,Yes,No,Yes,Yes,No,Female,<= 40,1456,OVER-FAT
-30.9,15-21 days,Yes,No,No,No,No,No,No,No,Female,51-55,1457,OBESITY
-25.09,8-14 days,Yes,No,No,No,No,Yes,Yes,No,Male,56-60,1458,OVER-FAT
-29.24,1-7 days,Yes,Yes,No,No,No,Yes,No,No,Male,66-70,1459,OBESITY
-28.34,8-14 days,Yes,No,No,No,No,No,No,No,Female,<= 40,1460,OBESITY
-27.26,>28 days,Yes,No,No,No,No,Yes,Yes,No,Male,51-55,1461,OVER-FAT
-35.95,0 days,Yes,No,No,No,No,Yes,Yes,No,Male,61-65,1462,OBESITY
-27.32,8-14 days,Yes,No,No,No,No,No,Yes,No,Male,<= 40,1463,OVER-FAT
-24.14,0 days,Yes,Yes,No,No,No,No,No,No,Male,>= 80,1464,OVER-FAT
-25.77,1-7 days,Yes,No,No,No,No,Yes,No,No,Male,66-70,1465,OVER-FAT
-35.25,0 days,Yes,No,No,No,No,Yes,No,No,Male,<= 40,1466,OBESITY
-20.6,1-7 days,Yes,No,No,Yes,No,No,No,No,Female,<= 40,1467,NORMAL
-30.34,1-7 days,Yes,No,No,No,No,Yes,Yes,No,Male,56-60,1468,OBESITY
-23.11,0 days,Yes,No,No,No,No,Yes,No,No,Male,41-45,1469,NORMAL
-27.46,8-14 days,Yes,No,No,No,Yes,No,No,No,Male,71-75,1470,OVER-FAT
-22.14,8-14 days,Yes,No,No,No,No,No,No,No,Female,71-75,1471,NORMAL
-18.94,0 days,No,No,No,No,No,No,No,No,Female,71-75,1472,NORMAL
-27.46,1-7 days,Yes,No,No,No,No,No,No,No,Female,46-50,1473,OVER-FAT
-22.32,0 days,Yes,No,No,No,No,No,No,No,Male,<= 40,1474,NORMAL
-24.8,0 days,Yes,No,No,No,No,No,Yes,No,Female,41-45,1475,OVER-FAT
-22.38,15-21 days,Yes,No,No,No,No,No,No,No,Male,<= 40,1476,NORMAL
-25.11,1-7 days,Yes,No,No,No,No,No,No,No,Male,56-60,1477,OVER-FAT
-21.43,22-28 days,Yes,No,No,No,No,Yes,Yes,No,Female,66-70,1478,NORMAL
-33.47,22-28 days,Yes,No,No,No,No,No,No,No,Male,61-65,1479,OBESITY
-27.5,0 days,Yes,No,No,No,Yes,No,No,No,Male,56-60,1480,OVER-FAT
-25.83,0 days,No,No,No,No,No,No,No,No,Male,<= 40,1481,OVER-FAT
-22.86,0 days,Yes,No,No,No,No,No,No,No,Female,<= 40,1482,NORMAL
-24.21,0 days,Yes,No,No,No,No,No,No,No,Female,71-75,1483,OVER-FAT
-25.23,0 days,No,No,Yes,No,Yes,Yes,Yes,No,Female,61-65,1484,OVER-FAT
-31.09,22-28 days,No,No,No,No,No,No,No,No,Female,76-80,1485,OBESITY
-25.02,1-7 days,Yes,No,No,No,No,No,No,No,Female,<= 40,1486,OVER-FAT
-24.41,1-7 days,Yes,Yes,No,No,No,No,No,No,Male,51-55,1487,OVER-FAT
-28.7,>28 days,Yes,Yes,Yes,No,No,No,Yes,No,Male,>= 80,1488,OBESITY
-32.74,1-7 days,Yes,No,No,No,No,No,No,No,Male,51-55,1489,OBESITY
-24.33,0 days,Yes,No,No,No,No,Yes,Yes,No,Male,>= 80,1490,OVER-FAT
-33.84,1-7 days,Yes,No,Yes,No,Yes,Yes,No,No,Female,51-55,1491,OBESITY
-30,22-28 days,Yes,No,No,No,No,No,Yes,No,Male,<= 40,1492,OBESITY
-27.71,0 days,Yes,No,No,No,No,No,No,No,Male,71-75,1493,OVER-FAT
-22.6,0 days,No,No,No,Yes,Yes,Yes,Yes,No,Female,76-80,1494,NORMAL
-22.46,1-7 days,Yes,No,No,Yes,No,No,No,No,Female,<= 40,1495,NORMAL
-22.14,22-28 days,Yes,Yes,No,Yes,No,No,Yes,No,Female,66-70,1496,NORMAL
-30.9,0 days,Yes,No,No,No,No,Yes,No,No,Female,61-65,1497,OBESITY
-29.53,8-14 days,Yes,Yes,No,No,No,Yes,No,No,Male,51-55,1498,OBESITY
-27.34,0 days,Yes,No,No,Yes,No,No,No,No,Female,<= 40,1499,OVER-FAT
-28.48,0 days,Yes,No,No,No,No,No,Yes,No,Male,66-70,1500,OBESITY
+BMI,Alcohol_Consumption,Exercise,Skin_Cancer,Other_Cancer,Depression,Diabetes,Arthritis,SmokingStatus,HavingCVD,GENDER,Age_Range,BMI_Class
+32.96,0 days,No,No,No,Yes,No,Yes,Yes,Yes,Male,41-45,OBESITY
+37.31,8-14 days,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Male,76-80,OBESITY
+30.18,1-7 days,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Female,66-70,OBESITY
+25.68,0 days,Yes,No,No,No,No,Yes,No,Yes,Male,71-75,OVER-FAT
+25.1,22-28 days,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Male,66-70,OVER-FAT
+28.06,0 days,Yes,No,Yes,No,No,No,No,Yes,Male,71-75,OBESITY
+30.87,0 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,51-55,OBESITY
+25.73,1-7 days,Yes,Yes,Yes,No,No,No,Yes,Yes,Male,71-75,OVER-FAT
+27.44,0 days,Yes,Yes,No,No,No,Yes,Yes,Yes,Female,>= 80,OVER-FAT
+28.7,0 days,Yes,No,No,Yes,No,Yes,Yes,Yes,Male,76-80,OBESITY
+25.63,0 days,Yes,No,No,No,Yes,No,No,Yes,Male,71-75,OVER-FAT
+26.78,1-7 days,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Male,61-65,OVER-FAT
+36.31,1-7 days,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Female,71-75,OBESITY
+31.18,0 days,No,No,Yes,No,Yes,Yes,No,Yes,Female,>= 80,OBESITY
+26.95,1-7 days,Yes,No,No,No,No,Yes,Yes,Yes,Female,71-75,OVER-FAT
+25.24,0 days,Yes,No,No,No,Yes,No,Yes,Yes,Female,61-65,OVER-FAT
+25.39,8-14 days,Yes,No,No,No,No,No,No,Yes,Male,61-65,OVER-FAT
+31.46,0 days,Yes,No,No,No,No,No,No,Yes,Male,61-65,OBESITY
+37.93,1-7 days,No,No,No,Yes,Yes,Yes,No,Yes,Female,61-65,OBESITY
+29.29,0 days,No,No,No,Yes,No,Yes,No,Yes,Female,76-80,OBESITY
+24.63,0 days,Yes,Yes,Yes,No,No,No,Yes,Yes,Female,76-80,OVER-FAT
+32.11,0 days,No,No,No,No,No,No,No,Yes,Female,51-55,OBESITY
+28.89,0 days,Yes,No,Yes,Yes,Yes,No,No,Yes,Male,66-70,OBESITY
+35.35,0 days,No,No,No,No,No,Yes,Yes,Yes,Female,>= 80,OBESITY
+21.97,0 days,Yes,No,No,No,Yes,Yes,Yes,Yes,Female,56-60,NORMAL
+22.11,0 days,Yes,No,No,No,No,Yes,No,Yes,Female,>= 80,NORMAL
+30.54,0 days,No,No,No,No,Yes,No,Yes,Yes,Male,61-65,OBESITY
+21.63,1-7 days,Yes,No,Yes,No,No,Yes,Yes,Yes,Female,>= 80,NORMAL
+40.01,0 days,Yes,No,No,No,No,No,No,Yes,Male,61-65,OBESITY
+32.93,0 days,Yes,No,No,No,No,No,No,Yes,Male,66-70,OBESITY
+32.46,0 days,No,No,No,Yes,Yes,Yes,Yes,Yes,Female,61-65,OBESITY
+30.52,1-7 days,Yes,No,No,No,No,No,No,Yes,Male,<= 40,OBESITY
+22.99,8-14 days,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Female,>= 80,NORMAL
+27.84,1-7 days,Yes,No,Yes,No,No,No,Yes,Yes,Male,71-75,OVER-FAT
+36.02,0 days,No,No,No,No,Yes,No,No,Yes,Male,>= 80,OBESITY
+19.8,0 days,No,No,No,No,No,No,Yes,Yes,Male,>= 80,NORMAL
+31.32,0 days,Yes,No,No,No,No,Yes,Yes,Yes,Female,76-80,OBESITY
+31.75,0 days,Yes,No,No,No,No,Yes,Yes,Yes,Female,76-80,OBESITY
+23.24,>28 days,Yes,No,Yes,No,No,Yes,Yes,Yes,Male,>= 80,NORMAL
+29.53,0 days,No,No,No,No,No,Yes,No,Yes,Male,>= 80,OBESITY
+29.84,1-7 days,Yes,No,No,No,Yes,Yes,Yes,Yes,Male,56-60,OBESITY
+33.36,0 days,Yes,Yes,No,No,No,Yes,No,Yes,Male,>= 80,OBESITY
+38.74,0 days,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Male,61-65,OBESITY
+32.92,0 days,Yes,No,Yes,No,No,Yes,Yes,Yes,Female,71-75,OBESITY
+26.54,0 days,Yes,No,No,No,No,No,No,Yes,Male,66-70,OVER-FAT
+24.37,0 days,Yes,Yes,Yes,No,No,No,No,Yes,Female,>= 80,OVER-FAT
+33.96,1-7 days,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Male,61-65,OBESITY
+22.15,15-21 days,Yes,No,No,No,No,No,Yes,Yes,Male,66-70,NORMAL
+17.16,0 days,No,No,Yes,Yes,No,Yes,Yes,Yes,Female,71-75,OVER-THIN
+20.81,1-7 days,Yes,Yes,No,Yes,Yes,No,No,Yes,Male,71-75,NORMAL
+24.81,0 days,No,No,No,No,Yes,Yes,Yes,Yes,Female,>= 80,OVER-FAT
+30.85,>28 days,Yes,Yes,No,No,No,No,Yes,Yes,Male,66-70,OBESITY
+38.02,0 days,No,No,No,Yes,Yes,Yes,No,Yes,Male,61-65,OBESITY
+57.46,0 days,No,No,No,Yes,No,Yes,No,Yes,Female,61-65,OBESITY
+32.32,0 days,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Male,71-75,OBESITY
+26.43,1-7 days,Yes,Yes,No,No,No,No,No,Yes,Female,56-60,OVER-FAT
+36.91,0 days,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Female,71-75,OBESITY
+24.8,15-21 days,No,No,No,No,No,Yes,Yes,Yes,Female,>= 80,OVER-FAT
+24.22,0 days,Yes,No,Yes,No,No,Yes,No,Yes,Male,>= 80,OVER-FAT
+35.12,0 days,Yes,No,No,Yes,Yes,Yes,No,Yes,Female,66-70,OBESITY
+30.52,0 days,No,No,Yes,No,No,No,No,Yes,Male,76-80,OBESITY
+30.67,1-7 days,Yes,No,No,No,Yes,No,Yes,Yes,Male,66-70,OBESITY
+29.18,8-14 days,Yes,Yes,Yes,No,No,Yes,No,Yes,Female,>= 80,OBESITY
+25.15,0 days,Yes,Yes,No,No,Yes,Yes,No,Yes,Female,76-80,OVER-FAT
+29.7,0 days,No,No,No,No,No,Yes,Yes,Yes,Female,66-70,OBESITY
+24.89,0 days,Yes,Yes,No,No,No,Yes,No,Yes,Female,>= 80,OVER-FAT
+31.62,22-28 days,Yes,No,No,No,No,Yes,Yes,Yes,Female,76-80,OBESITY
+28.7,1-7 days,No,No,No,No,No,No,No,Yes,Male,76-80,OBESITY
+31,0 days,Yes,No,No,Yes,No,Yes,Yes,Yes,Female,66-70,OBESITY
+31.93,1-7 days,No,Yes,Yes,No,Yes,No,Yes,Yes,Male,>= 80,OBESITY
+30.79,0 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,61-65,OBESITY
+50.84,0 days,Yes,No,Yes,No,Yes,No,Yes,Yes,Female,41-45,OBESITY
+38.74,1-7 days,Yes,No,No,No,No,No,Yes,Yes,Male,61-65,OBESITY
+27.46,0 days,Yes,Yes,No,No,No,Yes,No,Yes,Female,71-75,OVER-FAT
+24.82,0 days,No,No,Yes,No,Yes,No,Yes,Yes,Male,56-60,OVER-FAT
+29.03,1-7 days,No,Yes,No,No,Yes,Yes,Yes,Yes,Male,>= 80,OBESITY
+21.93,15-21 days,Yes,No,Yes,No,No,Yes,Yes,Yes,Female,>= 80,NORMAL
+45.23,0 days,No,No,No,Yes,Yes,No,No,Yes,Female,51-55,OBESITY
+29.84,0 days,Yes,No,No,No,Yes,No,No,Yes,Male,76-80,OBESITY
+25.06,22-28 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,>= 80,OVER-FAT
+31.87,1-7 days,Yes,Yes,Yes,No,No,No,Yes,Yes,Male,>= 80,OBESITY
+34.22,8-14 days,Yes,No,No,No,Yes,No,Yes,Yes,Male,51-55,OBESITY
+31.8,1-7 days,Yes,No,No,No,No,No,Yes,Yes,Male,76-80,OBESITY
+25,0 days,No,No,Yes,No,Yes,Yes,Yes,Yes,Female,71-75,OVER-FAT
+38.74,0 days,No,Yes,No,No,Yes,Yes,No,Yes,Male,76-80,OBESITY
+21.97,0 days,Yes,No,No,No,No,Yes,No,Yes,Female,76-80,NORMAL
+25.7,0 days,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Male,76-80,OVER-FAT
+26.58,15-21 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,>= 80,OVER-FAT
+32.72,0 days,Yes,No,No,No,Yes,No,Yes,Yes,Male,66-70,OBESITY
+42.57,1-7 days,No,No,No,Yes,Yes,Yes,No,Yes,Male,61-65,OBESITY
+29.84,8-14 days,Yes,No,No,No,No,Yes,No,Yes,Female,61-65,OBESITY
+29.09,8-14 days,Yes,No,No,No,No,No,No,Yes,Male,71-75,OBESITY
+36.62,0 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,66-70,OBESITY
+26.52,1-7 days,No,No,No,Yes,No,Yes,Yes,Yes,Female,41-45,OVER-FAT
+37.12,1-7 days,No,No,Yes,No,No,No,Yes,Yes,Female,66-70,OBESITY
+32.14,0 days,No,No,No,No,No,No,No,Yes,Male,66-70,OBESITY
+23.67,0 days,No,No,No,No,No,Yes,Yes,Yes,Male,61-65,NORMAL
+25.8,0 days,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Male,76-80,OVER-FAT
+21.31,0 days,No,Yes,Yes,No,No,No,Yes,Yes,Male,>= 80,NORMAL
+26.63,0 days,Yes,Yes,No,Yes,Yes,No,No,Yes,Male,51-55,OVER-FAT
+17.38,0 days,Yes,No,No,Yes,No,Yes,Yes,Yes,Female,56-60,OVER-THIN
+34.7,0 days,Yes,No,No,No,Yes,Yes,Yes,Yes,Male,61-65,OBESITY
+34.46,8-14 days,No,No,No,No,Yes,Yes,No,Yes,Male,66-70,OBESITY
+32.11,>28 days,Yes,No,No,No,Yes,Yes,Yes,Yes,Male,76-80,OBESITY
+34.51,1-7 days,Yes,No,No,Yes,No,Yes,No,Yes,Female,56-60,OBESITY
+27.46,0 days,Yes,No,No,No,Yes,No,No,Yes,Female,>= 80,OVER-FAT
+34.95,0 days,Yes,No,No,No,No,No,No,Yes,Female,61-65,OBESITY
+20.66,0 days,Yes,No,No,Yes,No,Yes,Yes,Yes,Female,51-55,NORMAL
+27.32,0 days,Yes,No,No,Yes,No,Yes,Yes,Yes,Male,61-65,OVER-FAT
+28.63,0 days,No,No,No,Yes,Yes,No,Yes,Yes,Male,66-70,OBESITY
+59.72,1-7 days,Yes,No,No,Yes,No,No,No,Yes,Female,46-50,OBESITY
+32.78,0 days,Yes,No,No,No,No,Yes,No,Yes,Male,71-75,OBESITY
+32.45,0 days,Yes,No,No,No,No,Yes,No,Yes,Female,66-70,OBESITY
+31.89,0 days,No,No,Yes,No,No,Yes,No,Yes,Female,71-75,OBESITY
+32.12,1-7 days,No,No,No,No,No,Yes,No,Yes,Female,71-75,OBESITY
+36.49,0 days,Yes,No,No,No,No,Yes,No,Yes,Male,56-60,OBESITY
+32.98,22-28 days,No,Yes,No,Yes,No,Yes,No,Yes,Male,66-70,OBESITY
+20.34,8-14 days,Yes,No,No,No,No,No,Yes,Yes,Male,<= 40,NORMAL
+29.97,>28 days,Yes,No,No,No,Yes,No,Yes,Yes,Male,41-45,OBESITY
+23.44,0 days,No,No,No,No,Yes,Yes,Yes,Yes,Female,76-80,NORMAL
+46.03,8-14 days,Yes,Yes,No,No,No,Yes,No,Yes,Male,66-70,OBESITY
+20.92,>28 days,Yes,No,No,No,No,Yes,No,Yes,Male,56-60,NORMAL
+24.39,0 days,Yes,No,No,No,No,No,Yes,Yes,Male,51-55,OVER-FAT
+19.14,0 days,Yes,No,Yes,No,No,Yes,No,Yes,Female,66-70,NORMAL
+25.54,0 days,No,No,Yes,No,No,No,Yes,Yes,Male,>= 80,OVER-FAT
+27.41,1-7 days,Yes,No,No,No,No,No,No,Yes,Male,61-65,OVER-FAT
+21.89,0 days,Yes,No,No,No,Yes,Yes,No,Yes,Female,76-80,NORMAL
+27.91,0 days,No,No,Yes,No,Yes,No,Yes,Yes,Female,71-75,OVER-FAT
+38.77,1-7 days,No,No,Yes,Yes,Yes,Yes,No,Yes,Female,61-65,OBESITY
+24.37,0 days,Yes,No,No,No,No,No,Yes,Yes,Female,61-65,OVER-FAT
+33.38,1-7 days,Yes,No,No,No,Yes,No,No,Yes,Male,66-70,OBESITY
+24.03,1-7 days,Yes,No,No,No,No,Yes,No,Yes,Female,>= 80,OVER-FAT
+28.34,1-7 days,Yes,No,No,No,No,No,Yes,Yes,Female,61-65,OBESITY
+26.58,0 days,No,No,No,No,No,No,No,Yes,Male,71-75,OVER-FAT
+25.39,8-14 days,Yes,No,No,No,No,No,No,Yes,Female,66-70,OVER-FAT
+29.03,0 days,No,Yes,No,No,Yes,Yes,No,Yes,Male,56-60,OBESITY
+40.74,1-7 days,Yes,No,No,No,No,Yes,Yes,Yes,Female,56-60,OBESITY
+40.17,0 days,No,No,No,No,Yes,Yes,No,Yes,Male,61-65,OBESITY
+42.68,1-7 days,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Male,61-65,OBESITY
+33.29,1-7 days,No,No,No,No,No,Yes,Yes,Yes,Male,71-75,OBESITY
+45.91,0 days,Yes,Yes,No,No,No,Yes,No,Yes,Female,71-75,OBESITY
+53.22,22-28 days,No,No,No,No,No,Yes,No,Yes,Male,66-70,OBESITY
+20.8,22-28 days,Yes,No,No,Yes,No,No,Yes,Yes,Male,<= 40,NORMAL
+31.19,1-7 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,66-70,OBESITY
+26.57,0 days,Yes,No,No,No,No,No,No,Yes,Female,61-65,OVER-FAT
+38.01,1-7 days,No,No,No,No,Yes,No,Yes,Yes,Male,66-70,OBESITY
+30.71,0 days,No,No,No,No,No,Yes,Yes,Yes,Male,71-75,OBESITY
+28.34,1-7 days,Yes,No,No,No,No,No,No,Yes,Female,46-50,OBESITY
+38.92,0 days,No,No,No,No,No,Yes,No,Yes,Female,71-75,OBESITY
+43.75,0 days,No,No,No,Yes,Yes,Yes,No,Yes,Male,71-75,OBESITY
+23.05,0 days,Yes,No,No,No,No,No,No,Yes,Female,76-80,NORMAL
+22.96,15-21 days,Yes,No,No,No,No,No,No,Yes,Male,76-80,NORMAL
+22.32,22-28 days,Yes,No,No,No,No,No,Yes,Yes,Male,>= 80,NORMAL
+32.28,0 days,Yes,Yes,No,No,No,Yes,Yes,Yes,Male,66-70,OBESITY
+47.19,0 days,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Female,61-65,OBESITY
+24.37,0 days,Yes,No,Yes,Yes,No,Yes,No,Yes,Male,76-80,OVER-FAT
+22.86,15-21 days,No,No,No,Yes,No,Yes,Yes,Yes,Female,66-70,NORMAL
+25.86,1-7 days,Yes,Yes,No,No,No,Yes,No,Yes,Female,>= 80,OVER-FAT
+27.82,0 days,No,No,No,Yes,Yes,Yes,Yes,Yes,Female,>= 80,OVER-FAT
+34.08,0 days,Yes,Yes,No,No,No,Yes,No,Yes,Male,61-65,OBESITY
+26.94,0 days,No,Yes,No,No,Yes,Yes,Yes,Yes,Male,71-75,OVER-FAT
+30.09,0 days,No,No,No,Yes,Yes,No,No,Yes,Female,61-65,OBESITY
+33.23,1-7 days,Yes,No,No,Yes,Yes,No,Yes,Yes,Male,41-45,OBESITY
+46.59,1-7 days,Yes,No,No,Yes,No,Yes,Yes,Yes,Female,51-55,OBESITY
+28.35,0 days,Yes,No,Yes,No,Yes,Yes,No,Yes,Female,61-65,OBESITY
+22.31,0 days,No,No,Yes,No,No,Yes,Yes,Yes,Female,>= 80,NORMAL
+30.82,0 days,No,No,No,No,Yes,Yes,Yes,Yes,Female,71-75,OBESITY
+40.35,0 days,No,No,No,No,No,Yes,No,Yes,Female,66-70,OBESITY
+28.12,0 days,Yes,No,No,No,Yes,No,No,Yes,Male,71-75,OBESITY
+28.21,8-14 days,Yes,No,No,No,Yes,Yes,No,Yes,Female,61-65,OBESITY
+34.67,0 days,No,No,No,No,No,Yes,Yes,Yes,Male,61-65,OBESITY
+24.28,0 days,Yes,No,No,Yes,No,No,No,Yes,Female,61-65,OVER-FAT
+21.29,1-7 days,Yes,No,No,No,No,No,No,Yes,Male,>= 80,NORMAL
+25.99,15-21 days,Yes,No,No,No,Yes,No,Yes,Yes,Male,76-80,OVER-FAT
+33.75,1-7 days,Yes,No,No,No,No,No,No,Yes,Male,56-60,OBESITY
+23.06,0 days,Yes,Yes,No,No,No,Yes,Yes,Yes,Male,76-80,NORMAL
+26.63,0 days,Yes,No,Yes,No,No,No,No,Yes,Female,66-70,OVER-FAT
+30.18,0 days,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Female,61-65,OBESITY
+26.05,0 days,No,No,Yes,No,No,No,No,Yes,Female,>= 80,OVER-FAT
+24.8,0 days,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Female,>= 80,OVER-FAT
+29.26,0 days,No,Yes,No,No,Yes,Yes,No,Yes,Female,66-70,OBESITY
+24.21,1-7 days,Yes,No,No,Yes,No,Yes,Yes,Yes,Female,56-60,OVER-FAT
+24.21,0 days,Yes,No,No,No,No,Yes,Yes,Yes,Female,56-60,OVER-FAT
+26.57,0 days,No,No,No,Yes,No,No,Yes,Yes,Female,56-60,OVER-FAT
+31.32,0 days,No,Yes,No,Yes,Yes,Yes,No,Yes,Female,>= 80,OBESITY
+35.25,0 days,Yes,No,Yes,No,Yes,Yes,No,Yes,Female,61-65,OBESITY
+33.28,22-28 days,Yes,No,No,Yes,Yes,No,Yes,Yes,Female,66-70,OBESITY
+20.54,0 days,No,No,No,No,No,No,Yes,Yes,Male,41-45,NORMAL
+22.47,0 days,Yes,No,No,No,No,No,Yes,Yes,Male,66-70,NORMAL
+25.1,1-7 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,66-70,OVER-FAT
+20.8,0 days,No,Yes,No,No,Yes,Yes,No,Yes,Female,>= 80,NORMAL
+19.94,8-14 days,No,Yes,Yes,No,Yes,No,Yes,Yes,Male,76-80,NORMAL
+22.65,0 days,No,No,No,No,Yes,Yes,Yes,Yes,Female,76-80,NORMAL
+19.66,0 days,Yes,No,Yes,No,Yes,No,Yes,Yes,Male,71-75,NORMAL
+27.8,0 days,Yes,No,No,No,No,Yes,No,Yes,Female,>= 80,OVER-FAT
+32.34,0 days,No,Yes,No,No,Yes,Yes,Yes,Yes,Male,66-70,OBESITY
+29.05,8-14 days,No,No,Yes,No,No,Yes,Yes,Yes,Male,66-70,OBESITY
+26.52,0 days,Yes,No,No,No,No,No,No,Yes,Female,66-70,OVER-FAT
+48.81,>28 days,No,No,No,No,No,Yes,No,Yes,Male,66-70,OBESITY
+37.2,0 days,No,No,No,Yes,No,Yes,Yes,Yes,Female,61-65,OBESITY
+35.15,0 days,No,No,No,No,Yes,Yes,Yes,Yes,Male,76-80,OBESITY
+30.34,8-14 days,Yes,No,No,No,No,No,Yes,Yes,Male,61-65,OBESITY
+25.82,1-7 days,Yes,No,No,No,No,Yes,No,Yes,Female,61-65,OVER-FAT
+26.45,0 days,Yes,No,No,No,No,Yes,No,Yes,Male,>= 80,OVER-FAT
+18.99,0 days,Yes,No,No,Yes,No,Yes,Yes,Yes,Male,51-55,NORMAL
+24.34,0 days,Yes,No,No,Yes,No,Yes,Yes,Yes,Male,66-70,OVER-FAT
+25.75,0 days,Yes,No,No,No,No,No,No,Yes,Female,>= 80,OVER-FAT
+22.89,0 days,Yes,No,No,No,No,No,No,Yes,Male,66-70,NORMAL
+28.37,1-7 days,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Male,76-80,OBESITY
+31.64,0 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,<= 40,OBESITY
+27.2,0 days,Yes,No,No,No,Yes,Yes,Yes,Yes,Male,76-80,OVER-FAT
+28.13,0 days,No,No,No,Yes,Yes,Yes,Yes,Yes,Female,66-70,OBESITY
+24.33,0 days,No,No,No,Yes,Yes,Yes,No,Yes,Female,>= 80,OVER-FAT
+33.67,8-14 days,No,No,No,Yes,Yes,No,Yes,Yes,Female,66-70,OBESITY
+25.07,1-7 days,No,No,No,No,No,No,Yes,Yes,Male,76-80,OVER-FAT
+27.12,0 days,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Male,71-75,OVER-FAT
+28.7,22-28 days,No,No,No,No,No,Yes,Yes,Yes,Male,>= 80,OBESITY
+27.12,1-7 days,No,No,No,No,No,Yes,Yes,Yes,Male,76-80,OVER-FAT
+28.94,0 days,Yes,No,No,No,Yes,No,Yes,Yes,Male,66-70,OBESITY
+21.29,0 days,Yes,Yes,No,No,No,Yes,No,Yes,Male,>= 80,NORMAL
+32.55,0 days,No,No,No,No,Yes,Yes,No,Yes,Male,>= 80,OBESITY
+34.44,0 days,No,No,No,No,Yes,Yes,Yes,Yes,Male,>= 80,OBESITY
+31.31,0 days,No,No,No,No,Yes,No,Yes,Yes,Male,>= 80,OBESITY
+29.99,0 days,Yes,Yes,Yes,No,No,No,No,Yes,Male,76-80,OBESITY
+38.52,1-7 days,Yes,No,No,No,Yes,Yes,Yes,Yes,Male,51-55,OBESITY
+27.46,0 days,Yes,Yes,No,No,No,No,No,Yes,Female,76-80,OVER-FAT
+29.76,0 days,No,No,No,No,Yes,Yes,No,Yes,Male,71-75,OBESITY
+27.41,0 days,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Female,56-60,OVER-FAT
+26.31,0 days,Yes,No,No,No,Yes,No,Yes,Yes,Male,66-70,OVER-FAT
+24.89,15-21 days,Yes,No,Yes,No,No,No,No,Yes,Male,76-80,OVER-FAT
+25.97,0 days,No,No,Yes,No,No,Yes,No,Yes,Male,>= 80,OVER-FAT
+23.78,0 days,Yes,No,No,No,No,No,No,Yes,Female,61-65,NORMAL
+27.89,0 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,71-75,OVER-FAT
+27.89,0 days,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Male,>= 80,OVER-FAT
+33.89,1-7 days,Yes,No,No,No,Yes,No,No,Yes,Male,71-75,OBESITY
+52.51,0 days,No,No,No,Yes,Yes,Yes,Yes,Yes,Female,66-70,OBESITY
+18.64,1-7 days,No,No,No,Yes,Yes,Yes,Yes,Yes,Female,46-50,NORMAL
+26.63,15-21 days,Yes,No,No,No,Yes,Yes,Yes,Yes,Female,66-70,OVER-FAT
+20.92,0 days,Yes,No,No,No,Yes,Yes,Yes,Yes,Male,61-65,NORMAL
+32.01,0 days,Yes,No,No,Yes,No,No,No,Yes,Female,<= 40,OBESITY
+23.13,0 days,Yes,No,Yes,No,No,No,No,Yes,Female,>= 80,NORMAL
+27.37,>28 days,No,No,No,No,No,No,Yes,Yes,Male,76-80,OVER-FAT
+22.96,1-7 days,Yes,No,Yes,No,No,Yes,Yes,Yes,Male,>= 80,NORMAL
+21.4,1-7 days,No,No,No,No,No,No,Yes,Yes,Female,71-75,NORMAL
+29.03,0 days,Yes,No,No,Yes,Yes,Yes,No,Yes,Male,61-65,OBESITY
+22.81,0 days,No,No,No,No,Yes,Yes,Yes,Yes,Male,>= 80,NORMAL
+29.66,1-7 days,Yes,No,Yes,No,No,Yes,Yes,Yes,Male,66-70,OBESITY
+31.16,8-14 days,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Male,>= 80,OBESITY
+25.85,22-28 days,Yes,No,Yes,No,No,No,Yes,Yes,Male,66-70,OVER-FAT
+44.63,1-7 days,No,No,No,Yes,No,Yes,No,Yes,Male,56-60,OBESITY
+27.25,1-7 days,Yes,No,No,Yes,Yes,No,No,Yes,Female,61-65,OVER-FAT
+27.12,22-28 days,No,No,No,No,No,No,Yes,Yes,Male,61-65,OVER-FAT
+29.16,0 days,Yes,No,No,No,No,No,Yes,Yes,Male,61-65,OBESITY
+28.7,0 days,No,No,No,No,No,No,Yes,Yes,Male,76-80,OBESITY
+23.01,22-28 days,Yes,No,No,No,No,No,Yes,Yes,Male,71-75,NORMAL
+24.68,0 days,Yes,No,No,Yes,No,No,No,Yes,Male,71-75,OVER-FAT
+29.29,1-7 days,No,No,No,No,No,Yes,Yes,Yes,Male,66-70,OBESITY
+28.48,0 days,Yes,No,No,No,No,Yes,No,Yes,Male,66-70,OBESITY
+21.77,1-7 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,>= 80,NORMAL
+25,1-7 days,Yes,No,No,No,No,No,Yes,Yes,Male,76-80,OVER-FAT
+19.2,0 days,Yes,No,Yes,No,No,No,No,Yes,Female,>= 80,NORMAL
+38.84,0 days,No,No,No,No,Yes,No,No,Yes,Male,61-65,OBESITY
+22.3,0 days,No,Yes,No,Yes,No,Yes,Yes,Yes,Female,56-60,NORMAL
+20.36,0 days,No,Yes,No,No,No,Yes,No,Yes,Female,>= 80,NORMAL
+26.26,0 days,Yes,No,Yes,No,Yes,No,Yes,Yes,Female,76-80,OVER-FAT
+26.97,1-7 days,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Male,76-80,OVER-FAT
+27.41,0 days,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Male,76-80,OVER-FAT
+34.17,0 days,No,No,No,Yes,Yes,No,Yes,Yes,Male,71-75,OBESITY
+25.09,0 days,No,No,No,No,No,Yes,Yes,Yes,Male,66-70,OVER-FAT
+25.63,0 days,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Female,51-55,OVER-FAT
+42.91,0 days,No,No,No,Yes,No,Yes,Yes,Yes,Female,61-65,OBESITY
+27.06,0 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,56-60,OVER-FAT
+29.53,0 days,No,No,No,Yes,No,Yes,Yes,Yes,Male,66-70,OBESITY
+28.8,22-28 days,No,Yes,No,No,No,No,Yes,Yes,Male,>= 80,OBESITY
+34.7,0 days,No,No,No,Yes,Yes,Yes,No,Yes,Male,56-60,OBESITY
+24.39,1-7 days,Yes,No,Yes,No,No,Yes,No,Yes,Male,71-75,OVER-FAT
+28.89,0 days,Yes,No,No,No,No,Yes,Yes,Yes,Female,46-50,OBESITY
+40.45,0 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,66-70,OBESITY
+24.41,0 days,Yes,No,No,No,Yes,No,Yes,Yes,Male,>= 80,OVER-FAT
+38.25,0 days,No,No,No,Yes,No,No,Yes,Yes,Male,<= 40,OBESITY
+22.53,0 days,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Male,71-75,NORMAL
+32.89,0 days,No,No,No,Yes,No,Yes,No,Yes,Male,66-70,OBESITY
+49.42,1-7 days,Yes,No,No,Yes,Yes,Yes,No,Yes,Female,51-55,OBESITY
+28.52,0 days,No,No,No,No,No,Yes,Yes,Yes,Female,66-70,OBESITY
+28.12,8-14 days,No,Yes,No,No,Yes,No,Yes,Yes,Male,76-80,OBESITY
+20.36,0 days,Yes,No,No,No,No,No,No,Yes,Female,>= 80,NORMAL
+30.13,0 days,No,No,No,Yes,No,Yes,Yes,Yes,Male,61-65,OBESITY
+27.26,0 days,Yes,Yes,No,No,No,No,Yes,Yes,Male,76-80,OVER-FAT
+28.21,0 days,No,No,Yes,No,Yes,Yes,Yes,Yes,Male,>= 80,OBESITY
+35.51,0 days,No,No,No,No,No,No,Yes,Yes,Male,66-70,OBESITY
+21.21,0 days,Yes,No,Yes,No,No,Yes,Yes,Yes,Female,>= 80,NORMAL
+39.94,0 days,Yes,No,No,Yes,Yes,Yes,No,Yes,Female,46-50,OBESITY
+37.3,0 days,Yes,No,No,No,Yes,No,No,Yes,Female,76-80,OBESITY
+18.55,0 days,Yes,No,No,No,Yes,Yes,No,Yes,Female,61-65,NORMAL
+29.29,0 days,Yes,No,No,No,No,Yes,No,Yes,Male,<= 40,OBESITY
+20.67,22-28 days,Yes,No,No,No,No,No,Yes,Yes,Male,71-75,NORMAL
+20.98,1-7 days,Yes,No,No,No,No,Yes,Yes,Yes,Female,66-70,NORMAL
+20.67,0 days,No,No,No,Yes,No,Yes,Yes,Yes,Male,66-70,NORMAL
+28.89,8-14 days,Yes,No,No,No,No,No,Yes,Yes,Male,56-60,OBESITY
+35.43,0 days,Yes,No,No,No,No,Yes,Yes,Yes,Female,>= 80,OBESITY
+28.15,0 days,No,No,No,Yes,No,Yes,No,Yes,Female,>= 80,OBESITY
+39.54,0 days,Yes,No,No,No,Yes,Yes,Yes,Yes,Male,76-80,OBESITY
+22.5,8-14 days,Yes,No,Yes,Yes,No,No,No,Yes,Female,>= 80,NORMAL
+29.18,0 days,No,No,No,No,No,Yes,Yes,Yes,Female,56-60,OBESITY
+21.48,0 days,No,No,No,No,No,Yes,Yes,Yes,Male,61-65,NORMAL
+27.41,0 days,Yes,No,No,No,No,No,Yes,Yes,Male,>= 80,OVER-FAT
+19.74,22-28 days,No,Yes,Yes,No,No,Yes,Yes,Yes,Female,>= 80,NORMAL
+20.81,0 days,Yes,No,No,No,No,No,No,Yes,Female,56-60,NORMAL
+32.82,0 days,Yes,Yes,No,No,Yes,No,No,Yes,Male,66-70,OBESITY
+24.21,>28 days,No,No,No,No,No,No,Yes,Yes,Male,>= 80,OVER-FAT
+25.69,1-7 days,Yes,No,Yes,No,No,Yes,Yes,Yes,Male,76-80,OVER-FAT
+34.21,1-7 days,Yes,No,Yes,No,Yes,Yes,No,Yes,Male,61-65,OBESITY
+19.58,0 days,Yes,No,No,No,Yes,No,Yes,Yes,Male,66-70,NORMAL
+28.8,0 days,Yes,Yes,No,No,No,Yes,No,Yes,Male,>= 80,OBESITY
+19.79,1-7 days,Yes,No,No,No,No,Yes,No,Yes,Female,>= 80,NORMAL
+27.05,0 days,Yes,No,No,No,Yes,No,No,Yes,Male,46-50,OVER-FAT
+35.26,1-7 days,Yes,No,No,No,No,Yes,No,Yes,Male,51-55,OBESITY
+19.97,0 days,Yes,No,No,Yes,No,No,Yes,Yes,Female,66-70,NORMAL
+38.47,0 days,Yes,No,No,No,Yes,Yes,No,Yes,Female,56-60,OBESITY
+23.44,0 days,No,Yes,No,No,No,Yes,No,Yes,Female,>= 80,NORMAL
+31.87,1-7 days,Yes,No,No,Yes,Yes,Yes,No,Yes,Male,71-75,OBESITY
+26.63,0 days,Yes,No,No,No,No,Yes,Yes,Yes,Female,71-75,OVER-FAT
+26.63,1-7 days,Yes,No,No,No,No,No,No,Yes,Male,71-75,OVER-FAT
+31.62,1-7 days,Yes,No,No,No,No,Yes,Yes,Yes,Female,51-55,OBESITY
+26.37,15-21 days,Yes,Yes,No,No,No,Yes,Yes,Yes,Female,76-80,OVER-FAT
+26.45,0 days,Yes,No,No,No,No,No,Yes,Yes,Male,61-65,OVER-FAT
+32.49,1-7 days,Yes,No,No,No,Yes,Yes,Yes,Yes,Female,56-60,OBESITY
+29.53,1-7 days,Yes,No,No,Yes,Yes,No,Yes,Yes,Male,76-80,OBESITY
+22.96,0 days,No,No,No,No,Yes,No,Yes,Yes,Male,76-80,NORMAL
+23.03,1-7 days,Yes,No,No,Yes,No,No,Yes,Yes,Female,61-65,NORMAL
+29.76,0 days,Yes,No,No,No,No,Yes,No,Yes,Female,61-65,OBESITY
+21.7,0 days,No,No,No,No,No,Yes,Yes,Yes,Female,>= 80,NORMAL
+34.95,1-7 days,Yes,No,No,No,No,Yes,No,Yes,Male,76-80,OBESITY
+27.71,1-7 days,Yes,No,Yes,No,No,Yes,No,Yes,Male,76-80,OVER-FAT
+31.09,0 days,Yes,No,No,No,Yes,Yes,No,Yes,Female,66-70,OBESITY
+25.51,0 days,Yes,No,No,Yes,Yes,No,Yes,Yes,Female,56-60,OVER-FAT
+33.47,0 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,>= 80,OBESITY
+19.77,0 days,Yes,No,Yes,No,No,Yes,No,Yes,Male,>= 80,NORMAL
+22.49,>28 days,Yes,No,No,No,No,No,Yes,Yes,Female,66-70,NORMAL
+25.22,0 days,Yes,No,Yes,No,Yes,Yes,No,Yes,Male,76-80,OVER-FAT
+25.77,15-21 days,Yes,No,No,No,No,No,Yes,Yes,Male,66-70,OVER-FAT
+30.92,8-14 days,Yes,Yes,No,No,Yes,No,No,Yes,Male,61-65,OBESITY
+32.77,0 days,No,No,No,Yes,Yes,Yes,Yes,Yes,Female,66-70,OBESITY
+20.67,8-14 days,No,Yes,No,Yes,No,Yes,Yes,Yes,Female,76-80,NORMAL
+25.54,0 days,Yes,No,Yes,No,Yes,Yes,No,Yes,Male,>= 80,OVER-FAT
+24.1,1-7 days,Yes,Yes,No,No,No,Yes,No,Yes,Male,>= 80,OVER-FAT
+25.84,8-14 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,66-70,OVER-FAT
+27.44,0 days,Yes,Yes,No,No,Yes,No,No,Yes,Male,71-75,OVER-FAT
+38.27,0 days,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Female,71-75,OBESITY
+19.94,0 days,Yes,No,Yes,No,No,Yes,Yes,Yes,Male,<= 40,NORMAL
+26.95,0 days,Yes,No,No,Yes,Yes,No,No,Yes,Male,66-70,OVER-FAT
+37.76,0 days,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Female,66-70,OBESITY
+23.01,8-14 days,Yes,No,No,No,Yes,No,Yes,Yes,Male,61-65,NORMAL
+29.88,0 days,Yes,No,No,Yes,Yes,Yes,No,Yes,Female,76-80,OBESITY
+30.57,1-7 days,Yes,Yes,No,Yes,No,Yes,No,Yes,Male,>= 80,OBESITY
+22.31,0 days,No,No,Yes,No,Yes,Yes,Yes,Yes,Female,51-55,NORMAL
+31.71,0 days,Yes,No,No,No,No,Yes,Yes,Yes,Female,56-60,OBESITY
+29.26,0 days,Yes,No,No,No,No,No,Yes,Yes,Female,76-80,OBESITY
+24.41,>28 days,Yes,No,No,No,No,No,No,Yes,Male,41-45,OVER-FAT
+26.4,>28 days,Yes,No,No,No,Yes,No,No,Yes,Male,>= 80,OVER-FAT
+24.41,>28 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,>= 80,OVER-FAT
+23.78,0 days,No,Yes,Yes,No,Yes,Yes,No,Yes,Female,>= 80,NORMAL
+23.85,0 days,Yes,No,No,No,No,Yes,No,Yes,Male,76-80,NORMAL
+29.84,0 days,No,No,No,No,Yes,No,Yes,Yes,Male,76-80,OBESITY
+21.41,0 days,No,No,Yes,No,Yes,Yes,No,Yes,Female,71-75,NORMAL
+21.26,0 days,Yes,No,Yes,No,Yes,No,Yes,Yes,Female,76-80,NORMAL
+20.81,1-7 days,Yes,No,No,No,No,No,No,Yes,Male,66-70,NORMAL
+36.13,0 days,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Female,71-75,OBESITY
+27.89,1-7 days,Yes,No,No,No,Yes,No,Yes,Yes,Male,61-65,OVER-FAT
+48.73,0 days,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Male,61-65,OBESITY
+29.76,0 days,No,No,No,No,No,No,Yes,Yes,Male,76-80,OBESITY
+23.6,0 days,Yes,No,No,Yes,No,Yes,Yes,Yes,Female,61-65,NORMAL
+20.78,22-28 days,Yes,Yes,No,No,No,Yes,Yes,Yes,Female,71-75,NORMAL
+22.92,0 days,Yes,Yes,No,No,No,No,Yes,Yes,Female,66-70,NORMAL
+36.58,0 days,Yes,No,No,No,No,Yes,No,Yes,Female,76-80,OBESITY
+26.54,8-14 days,No,No,No,No,Yes,No,Yes,Yes,Male,76-80,OVER-FAT
+26.5,0 days,Yes,Yes,Yes,No,No,No,Yes,Yes,Male,>= 80,OVER-FAT
+24.37,0 days,Yes,No,No,No,No,No,No,Yes,Male,61-65,OVER-FAT
+31.47,0 days,No,No,No,No,No,Yes,Yes,Yes,Female,76-80,OBESITY
+25.4,0 days,No,No,No,No,No,No,Yes,Yes,Female,41-45,OVER-FAT
+34.46,1-7 days,No,No,No,No,Yes,No,Yes,Yes,Male,51-55,OBESITY
+23.78,0 days,No,No,No,Yes,Yes,No,Yes,Yes,Female,66-70,NORMAL
+25.1,15-21 days,Yes,Yes,No,No,No,No,No,Yes,Female,51-55,OVER-FAT
+25.54,1-7 days,Yes,No,Yes,No,No,No,Yes,Yes,Male,71-75,OVER-FAT
+22.81,1-7 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,66-70,NORMAL
+39.86,0 days,No,No,No,No,No,Yes,No,Yes,Female,>= 80,OBESITY
+38.39,0 days,Yes,No,No,Yes,No,Yes,No,Yes,Female,66-70,OBESITY
+19.49,1-7 days,Yes,Yes,No,No,No,No,No,Yes,Female,61-65,NORMAL
+29.53,0 days,Yes,No,No,No,No,No,Yes,Yes,Male,61-65,OBESITY
+22.89,0 days,No,No,No,No,No,No,Yes,Yes,Female,71-75,NORMAL
+31.75,0 days,Yes,Yes,No,No,No,Yes,Yes,Yes,Male,76-80,OBESITY
+37.44,1-7 days,No,No,No,Yes,Yes,Yes,Yes,Yes,Female,56-60,OBESITY
+22.31,1-7 days,No,No,No,No,No,Yes,Yes,Yes,Female,76-80,NORMAL
+36.49,1-7 days,Yes,No,No,No,Yes,Yes,Yes,Yes,Male,66-70,OBESITY
+21.16,0 days,No,No,No,No,Yes,Yes,Yes,Yes,Male,66-70,NORMAL
+29.29,1-7 days,Yes,No,No,No,Yes,No,Yes,Yes,Male,76-80,OBESITY
+35.51,0 days,Yes,No,No,No,No,No,Yes,Yes,Male,66-70,OBESITY
+31.64,15-21 days,Yes,No,No,Yes,No,Yes,No,Yes,Female,56-60,OBESITY
+28.25,1-7 days,No,Yes,No,No,Yes,Yes,Yes,Yes,Male,66-70,OBESITY
+25.39,0 days,No,No,No,Yes,No,Yes,Yes,Yes,Female,>= 80,OVER-FAT
+29.86,0 days,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Female,71-75,OBESITY
+29.26,0 days,No,No,No,No,No,Yes,Yes,Yes,Female,>= 80,OBESITY
+39.33,0 days,Yes,No,No,No,Yes,No,No,Yes,Male,71-75,OBESITY
+25.51,0 days,Yes,No,No,No,No,Yes,Yes,Yes,Female,76-80,OVER-FAT
+33.45,0 days,Yes,No,No,Yes,No,Yes,No,Yes,Male,61-65,OBESITY
+29.53,0 days,No,No,No,No,No,Yes,Yes,Yes,Male,61-65,OBESITY
+29.18,1-7 days,No,Yes,No,Yes,No,Yes,No,Yes,Female,61-65,OBESITY
+22.43,0 days,Yes,Yes,No,No,No,No,Yes,Yes,Male,>= 80,NORMAL
+34.72,0 days,No,No,Yes,No,No,No,No,Yes,Female,<= 40,OBESITY
+38.74,0 days,Yes,No,No,No,Yes,Yes,No,Yes,Female,71-75,OBESITY
+25.59,8-14 days,No,No,No,No,No,No,Yes,Yes,Male,56-60,OVER-FAT
+28.7,1-7 days,Yes,No,No,No,No,No,No,Yes,Male,66-70,OBESITY
+27.25,1-7 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,66-70,OVER-FAT
+29.76,8-14 days,No,No,No,Yes,No,Yes,No,Yes,Female,46-50,OBESITY
+27.98,1-7 days,Yes,No,No,Yes,No,Yes,Yes,Yes,Male,56-60,OVER-FAT
+34.7,0 days,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Male,71-75,OBESITY
+27.89,0 days,Yes,No,Yes,No,No,Yes,Yes,Yes,Male,66-70,OVER-FAT
+31.16,0 days,Yes,No,No,No,Yes,No,Yes,Yes,Male,61-65,OBESITY
+22.67,0 days,No,No,Yes,No,No,Yes,No,Yes,Male,>= 80,NORMAL
+34.33,0 days,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Female,>= 80,OBESITY
+32.45,1-7 days,Yes,No,No,No,No,No,Yes,Yes,Male,56-60,OBESITY
+29.6,0 days,Yes,No,Yes,No,No,Yes,No,Yes,Female,71-75,OBESITY
+22.81,1-7 days,No,Yes,No,No,Yes,Yes,No,Yes,Male,76-80,NORMAL
+26.87,>28 days,Yes,No,No,No,No,Yes,No,Yes,Female,>= 80,OVER-FAT
+25.61,0 days,Yes,No,Yes,No,Yes,Yes,No,Yes,Female,76-80,OVER-FAT
+27.89,0 days,Yes,No,No,No,Yes,Yes,Yes,Yes,Male,71-75,OVER-FAT
+24.96,0 days,No,Yes,No,No,Yes,Yes,Yes,Yes,Female,66-70,OVER-FAT
+25.8,0 days,No,No,Yes,Yes,Yes,Yes,No,Yes,Male,66-70,OVER-FAT
+24.89,0 days,Yes,No,No,No,No,Yes,Yes,Yes,Female,71-75,OVER-FAT
+25.97,0 days,No,No,No,No,No,No,Yes,Yes,Female,>= 80,OVER-FAT
+31.01,0 days,No,Yes,No,No,No,Yes,Yes,Yes,Male,71-75,OBESITY
+27.32,0 days,Yes,No,Yes,No,No,No,Yes,Yes,Male,>= 80,OVER-FAT
+43.58,0 days,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Female,71-75,OBESITY
+21.9,22-28 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,>= 80,NORMAL
+38.59,0 days,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Female,76-80,OBESITY
+33.09,8-14 days,No,No,No,Yes,Yes,Yes,Yes,Yes,Female,61-65,OBESITY
+30.18,0 days,No,Yes,No,No,Yes,Yes,Yes,Yes,Female,76-80,OBESITY
+27.75,22-28 days,Yes,No,No,No,No,No,Yes,Yes,Male,>= 80,OVER-FAT
+30.62,1-7 days,Yes,No,No,No,Yes,Yes,No,Yes,Male,71-75,OBESITY
+27.37,0 days,No,No,Yes,No,No,Yes,No,Yes,Female,>= 80,OVER-FAT
+33.36,0 days,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Female,71-75,OBESITY
+39.16,0 days,No,No,No,Yes,No,Yes,Yes,Yes,Female,61-65,OBESITY
+27.62,1-7 days,Yes,Yes,Yes,No,No,No,Yes,Yes,Male,66-70,OVER-FAT
+25.82,22-28 days,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Female,>= 80,OVER-FAT
+25.02,1-7 days,No,No,No,No,No,No,No,Yes,Female,>= 80,OVER-FAT
+28.13,1-7 days,Yes,Yes,No,No,No,No,No,Yes,Female,>= 80,OBESITY
+29.53,0 days,No,No,No,Yes,No,Yes,No,Yes,Male,66-70,OBESITY
+27.26,1-7 days,No,No,No,No,No,Yes,Yes,Yes,Male,51-55,OVER-FAT
+35.24,22-28 days,Yes,Yes,No,No,No,No,Yes,Yes,Female,61-65,OBESITY
+33.91,1-7 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,61-65,OBESITY
+31.66,0 days,No,No,No,No,Yes,Yes,No,Yes,Male,71-75,OBESITY
+29.53,0 days,Yes,No,No,No,Yes,No,No,Yes,Male,71-75,OBESITY
+29.29,0 days,No,No,Yes,No,No,Yes,Yes,Yes,Female,>= 80,OBESITY
+25.1,22-28 days,Yes,No,No,Yes,No,No,Yes,Yes,Male,61-65,OVER-FAT
+24.89,0 days,No,No,No,No,No,Yes,Yes,Yes,Female,76-80,OVER-FAT
+35.96,0 days,Yes,No,No,No,No,Yes,Yes,Yes,Female,71-75,OBESITY
+26.52,1-7 days,Yes,No,No,No,No,Yes,No,Yes,Male,61-65,OVER-FAT
+23.39,0 days,Yes,No,No,No,No,No,No,Yes,Male,61-65,NORMAL
+27.89,0 days,Yes,Yes,No,No,No,No,No,Yes,Male,76-80,OVER-FAT
+40.24,8-14 days,Yes,No,No,No,No,Yes,No,Yes,Female,76-80,OBESITY
+24.56,0 days,Yes,No,No,No,No,No,Yes,Yes,Female,>= 80,OVER-FAT
+26.29,0 days,Yes,No,No,No,No,No,No,Yes,Male,>= 80,OVER-FAT
+24.14,1-7 days,Yes,No,No,No,Yes,No,Yes,Yes,Male,66-70,OVER-FAT
+33,0 days,Yes,No,No,No,No,No,Yes,Yes,Male,61-65,OBESITY
+25.09,1-7 days,No,No,Yes,No,Yes,Yes,Yes,Yes,Male,76-80,OVER-FAT
+27.1,1-7 days,No,No,Yes,No,No,No,No,Yes,Male,>= 80,OVER-FAT
+25.68,0 days,Yes,No,No,No,Yes,Yes,Yes,Yes,Male,>= 80,OVER-FAT
+25.39,0 days,Yes,No,Yes,No,No,No,No,Yes,Female,76-80,OVER-FAT
+30.7,8-14 days,No,No,No,Yes,Yes,No,Yes,Yes,Male,71-75,OBESITY
+30.54,1-7 days,No,No,No,No,No,No,No,Yes,Male,51-55,OBESITY
+37.77,1-7 days,Yes,No,No,No,Yes,Yes,No,Yes,Male,66-70,OBESITY
+28.87,8-14 days,Yes,No,No,No,No,No,Yes,Yes,Male,76-80,OBESITY
+46.34,0 days,No,No,No,No,Yes,No,No,Yes,Male,71-75,OBESITY
+25.85,8-14 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,76-80,OVER-FAT
+16.12,0 days,No,No,Yes,No,No,Yes,Yes,Yes,Female,>= 80,OVER-THIN
+24.02,0 days,No,No,No,No,No,Yes,No,Yes,Female,>= 80,OVER-FAT
+20.64,0 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,71-75,NORMAL
+28.89,0 days,Yes,No,Yes,No,No,No,No,Yes,Male,>= 80,OBESITY
+32.55,1-7 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,>= 80,OBESITY
+24.59,0 days,Yes,No,Yes,Yes,No,No,Yes,Yes,Female,61-65,OVER-FAT
+19.13,0 days,Yes,No,No,Yes,Yes,Yes,No,Yes,Female,66-70,NORMAL
+30.43,1-7 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,66-70,OBESITY
+17.27,1-7 days,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Female,61-65,OVER-THIN
+28.19,0 days,No,No,Yes,No,Yes,Yes,No,Yes,Male,76-80,OBESITY
+40.69,1-7 days,No,Yes,No,No,No,No,Yes,Yes,Male,61-65,OBESITY
+21.62,15-21 days,Yes,No,No,No,No,No,No,Yes,Male,66-70,NORMAL
+30.73,0 days,No,No,No,Yes,No,Yes,No,Yes,Female,61-65,OBESITY
+28.73,15-21 days,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Male,61-65,OBESITY
+28.25,0 days,No,No,No,No,Yes,No,No,Yes,Male,66-70,OBESITY
+25.1,0 days,Yes,No,No,No,No,No,Yes,Yes,Male,66-70,OVER-FAT
+32.28,0 days,No,No,No,Yes,No,Yes,Yes,Yes,Female,76-80,OBESITY
+29.41,15-21 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,66-70,OBESITY
+28.48,0 days,Yes,No,No,No,No,No,Yes,Yes,Male,66-70,OBESITY
+23.11,1-7 days,Yes,No,No,Yes,No,Yes,Yes,Yes,Male,61-65,NORMAL
+24.41,>28 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,71-75,OVER-FAT
+22.83,0 days,No,Yes,Yes,No,Yes,No,No,Yes,Male,76-80,NORMAL
+27.37,0 days,Yes,Yes,No,No,Yes,No,No,Yes,Male,66-70,OVER-FAT
+29.41,0 days,No,No,No,Yes,No,Yes,Yes,Yes,Male,66-70,OBESITY
+32.28,22-28 days,Yes,No,No,No,No,Yes,Yes,Yes,Female,66-70,OBESITY
+30.85,1-7 days,Yes,No,No,No,No,No,No,Yes,Male,46-50,OBESITY
+26.63,0 days,Yes,No,No,No,No,Yes,No,Yes,Male,>= 80,OVER-FAT
+43.75,15-21 days,Yes,No,No,Yes,No,Yes,No,Yes,Male,66-70,OBESITY
+29.44,0 days,No,No,No,No,Yes,No,No,Yes,Male,71-75,OBESITY
+21.93,1-7 days,No,No,Yes,No,No,Yes,No,Yes,Female,76-80,NORMAL
+32.28,0 days,Yes,No,No,No,No,No,Yes,Yes,Male,46-50,OBESITY
+25.09,0 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,71-75,OVER-FAT
+27.89,0 days,Yes,No,No,No,Yes,Yes,Yes,Yes,Male,76-80,OVER-FAT
+27.06,1-7 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,>= 80,OVER-FAT
+21.63,0 days,Yes,No,No,Yes,No,Yes,Yes,Yes,Female,41-45,NORMAL
+23.3,0 days,No,No,No,No,Yes,Yes,No,Yes,Female,71-75,NORMAL
+23.44,0 days,Yes,No,No,No,Yes,Yes,Yes,Yes,Female,>= 80,NORMAL
+26.94,1-7 days,No,No,No,Yes,No,No,No,Yes,Male,51-55,OVER-FAT
+26.39,0 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,>= 80,OVER-FAT
+35,8-14 days,No,Yes,No,No,No,Yes,Yes,Yes,Male,61-65,OBESITY
+29.26,0 days,No,No,No,Yes,Yes,No,Yes,Yes,Female,>= 80,OBESITY
+23.67,8-14 days,Yes,No,No,No,No,No,No,Yes,Male,>= 80,NORMAL
+25.39,0 days,Yes,No,No,No,Yes,Yes,No,Yes,Female,71-75,OVER-FAT
+32.12,0 days,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Female,71-75,OBESITY
+20.98,8-14 days,No,No,No,Yes,No,Yes,No,Yes,Male,61-65,NORMAL
+39.53,0 days,Yes,No,No,Yes,No,Yes,Yes,Yes,Male,71-75,OBESITY
+26.5,0 days,No,No,No,No,No,Yes,No,Yes,Male,51-55,OVER-FAT
+22.6,1-7 days,Yes,No,Yes,No,No,Yes,No,Yes,Female,>= 80,NORMAL
+29.97,1-7 days,Yes,Yes,No,No,No,Yes,Yes,Yes,Male,76-80,OBESITY
+27.64,0 days,Yes,No,Yes,Yes,No,No,Yes,Yes,Female,51-55,OVER-FAT
+32.92,8-14 days,Yes,No,No,No,Yes,No,No,Yes,Female,51-55,OBESITY
+30.82,0 days,Yes,No,No,No,Yes,Yes,Yes,Yes,Female,66-70,OBESITY
+25.68,22-28 days,Yes,Yes,No,No,No,Yes,No,Yes,Male,>= 80,OVER-FAT
+26.72,1-7 days,Yes,No,No,No,Yes,No,Yes,Yes,Male,71-75,OVER-FAT
+23.63,15-21 days,No,No,No,No,No,Yes,Yes,Yes,Male,76-80,NORMAL
+33.13,0 days,Yes,No,No,Yes,No,No,No,Yes,Female,61-65,OBESITY
+28.45,0 days,No,No,No,Yes,No,No,Yes,Yes,Male,76-80,OBESITY
+29.95,22-28 days,No,Yes,Yes,Yes,No,Yes,No,Yes,Male,76-80,OBESITY
+35,0 days,Yes,Yes,No,No,No,Yes,No,Yes,Male,66-70,OBESITY
+27.2,15-21 days,Yes,No,Yes,No,No,No,Yes,Yes,Male,>= 80,OVER-FAT
+26.78,0 days,Yes,No,No,No,No,Yes,No,Yes,Male,>= 80,OVER-FAT
+21.09,0 days,Yes,No,Yes,Yes,No,Yes,No,Yes,Female,71-75,NORMAL
+25.02,1-7 days,Yes,No,No,Yes,No,No,Yes,Yes,Male,51-55,OVER-FAT
+34.7,0 days,No,Yes,Yes,No,No,No,Yes,Yes,Male,>= 80,OBESITY
+34.87,0 days,Yes,No,No,No,Yes,Yes,Yes,Yes,Male,51-55,OBESITY
+29.53,0 days,Yes,No,No,No,Yes,Yes,No,Yes,Male,71-75,OBESITY
+25.68,1-7 days,Yes,No,No,Yes,No,No,Yes,Yes,Male,<= 40,OVER-FAT
+25.09,8-14 days,Yes,No,No,No,No,No,Yes,Yes,Male,66-70,OVER-FAT
+23.71,1-7 days,Yes,No,No,No,No,No,Yes,Yes,Male,<= 40,NORMAL
+41.2,0 days,Yes,No,No,No,Yes,Yes,No,Yes,Female,71-75,OBESITY
+31.35,0 days,No,No,Yes,No,Yes,Yes,Yes,Yes,Female,>= 80,OBESITY
+21.13,1-7 days,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Female,66-70,NORMAL
+25.06,0 days,No,Yes,No,No,No,Yes,Yes,Yes,Female,>= 80,OVER-FAT
+30.8,1-7 days,No,Yes,No,No,Yes,Yes,Yes,Yes,Male,>= 80,OBESITY
+35.43,1-7 days,No,No,No,Yes,Yes,Yes,No,Yes,Female,76-80,OBESITY
+35.87,0 days,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Male,>= 80,OBESITY
+27.05,1-7 days,Yes,Yes,No,No,Yes,No,Yes,Yes,Male,66-70,OVER-FAT
+22.89,0 days,No,No,No,No,Yes,Yes,Yes,Yes,Male,46-50,NORMAL
+30.96,1-7 days,No,No,No,Yes,No,No,No,Yes,Female,<= 40,OBESITY
+31.47,0 days,No,No,No,No,No,Yes,No,Yes,Female,71-75,OBESITY
+35.31,0 days,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Male,71-75,OBESITY
+40.37,>28 days,Yes,Yes,No,Yes,No,Yes,No,Yes,Male,71-75,OBESITY
+25.09,0 days,No,No,No,No,Yes,Yes,Yes,Yes,Male,66-70,OVER-FAT
+30.41,8-14 days,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Male,71-75,OBESITY
+38.37,1-7 days,Yes,No,No,Yes,Yes,No,No,Yes,Male,66-70,OBESITY
+44.29,0 days,No,No,No,No,No,Yes,Yes,Yes,Female,71-75,OBESITY
+31,1-7 days,Yes,No,No,No,Yes,Yes,Yes,Yes,Male,46-50,OBESITY
+27.82,0 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,56-60,OVER-FAT
+39.06,0 days,Yes,No,Yes,No,No,Yes,Yes,Yes,Female,71-75,OBESITY
+33.07,0 days,Yes,No,Yes,No,No,Yes,No,Yes,Female,76-80,OBESITY
+21.11,0 days,Yes,No,No,No,No,No,Yes,Yes,Female,66-70,NORMAL
+26.37,1-7 days,No,No,No,No,Yes,No,No,Yes,Male,61-65,OVER-FAT
+29.26,0 days,No,No,No,No,Yes,Yes,No,Yes,Female,>= 80,OBESITY
+27.8,0 days,Yes,No,No,No,No,No,No,Yes,Male,66-70,OVER-FAT
+29.29,0 days,No,No,No,No,Yes,No,Yes,Yes,Male,>= 80,OBESITY
+30.9,8-14 days,Yes,Yes,No,No,No,Yes,Yes,Yes,Male,76-80,OBESITY
+37.5,1-7 days,No,No,No,Yes,Yes,Yes,Yes,Yes,Male,51-55,OBESITY
+23.43,0 days,No,Yes,No,No,Yes,No,No,Yes,Male,>= 80,NORMAL
+25.61,0 days,No,No,No,No,No,No,No,Yes,Female,>= 80,OVER-FAT
+22.5,0 days,No,No,No,No,No,No,Yes,Yes,Male,>= 80,NORMAL
+33.66,>28 days,Yes,No,No,No,Yes,Yes,Yes,Yes,Female,>= 80,OBESITY
+25.39,0 days,Yes,No,No,Yes,No,Yes,Yes,Yes,Female,71-75,OVER-FAT
+26.76,0 days,Yes,No,No,No,Yes,No,No,Yes,Female,>= 80,OVER-FAT
+25.75,8-14 days,Yes,No,No,No,No,No,No,Yes,Female,51-55,OVER-FAT
+47.26,0 days,No,No,Yes,No,Yes,No,Yes,Yes,Male,66-70,OBESITY
+25.85,0 days,No,No,No,No,Yes,No,Yes,Yes,Female,41-45,OVER-FAT
+33.47,0 days,Yes,Yes,No,No,No,Yes,Yes,Yes,Male,71-75,OBESITY
+39.05,1-7 days,Yes,No,No,Yes,Yes,Yes,No,Yes,Male,71-75,OBESITY
+42.51,1-7 days,No,Yes,Yes,No,No,Yes,No,Yes,Female,76-80,OBESITY
+36.18,0 days,Yes,No,No,No,Yes,No,Yes,Yes,Male,71-75,OBESITY
+22.05,0 days,No,No,Yes,No,Yes,No,No,Yes,Male,>= 80,NORMAL
+33.45,0 days,Yes,No,Yes,No,No,Yes,Yes,Yes,Female,>= 80,OBESITY
+26.61,1-7 days,No,Yes,No,No,No,Yes,Yes,Yes,Female,>= 80,OVER-FAT
+29.53,0 days,Yes,No,No,No,Yes,Yes,Yes,Yes,Male,56-60,OBESITY
+43.27,0 days,Yes,No,Yes,Yes,No,No,No,Yes,Female,51-55,OBESITY
+38.53,0 days,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Female,51-55,OBESITY
+30.57,8-14 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,66-70,OBESITY
+27.12,0 days,No,No,No,Yes,No,No,Yes,Yes,Female,66-70,OVER-FAT
+36.02,0 days,Yes,No,No,No,No,No,No,Yes,Male,>= 80,OBESITY
+28.7,1-7 days,Yes,No,No,No,No,No,Yes,Yes,Male,>= 80,OBESITY
+29.53,8-14 days,Yes,No,No,No,No,No,No,Yes,Male,41-45,OBESITY
+25.06,0 days,Yes,No,No,No,Yes,No,Yes,Yes,Female,>= 80,OVER-FAT
+32.12,0 days,No,No,No,No,Yes,Yes,No,Yes,Female,71-75,OBESITY
+24.37,0 days,Yes,No,Yes,No,No,No,No,Yes,Female,76-80,OVER-FAT
+28.34,22-28 days,No,No,No,No,Yes,Yes,Yes,Yes,Female,76-80,OBESITY
+30.47,0 days,No,No,No,No,Yes,Yes,No,Yes,Female,66-70,OBESITY
+27.8,0 days,Yes,No,No,No,Yes,Yes,Yes,Yes,Male,76-80,OVER-FAT
+54.91,1-7 days,Yes,No,No,Yes,Yes,No,Yes,Yes,Female,61-65,OBESITY
+34.58,0 days,No,Yes,No,Yes,Yes,No,Yes,Yes,Male,66-70,OBESITY
+25.75,15-21 days,Yes,No,No,Yes,No,Yes,Yes,Yes,Female,>= 80,OVER-FAT
+32.89,0 days,Yes,Yes,No,No,Yes,No,No,Yes,Male,76-80,OBESITY
+25.18,0 days,No,No,Yes,No,No,No,No,Yes,Male,>= 80,OVER-FAT
+32.49,1-7 days,Yes,Yes,No,No,No,Yes,Yes,Yes,Male,71-75,OBESITY
+27.57,0 days,Yes,No,No,No,No,No,No,Yes,Male,<= 40,OVER-FAT
+35.87,8-14 days,Yes,No,No,No,No,Yes,No,Yes,Male,56-60,OBESITY
+22.89,8-14 days,No,No,No,No,No,No,Yes,Yes,Male,>= 80,NORMAL
+35.57,0 days,Yes,Yes,No,No,No,Yes,No,Yes,Male,66-70,OBESITY
+22.31,0 days,Yes,No,No,Yes,No,No,Yes,Yes,Female,66-70,NORMAL
+21.26,0 days,No,No,No,No,No,Yes,Yes,Yes,Female,>= 80,NORMAL
+32.87,1-7 days,Yes,No,No,Yes,No,No,Yes,Yes,Male,46-50,OBESITY
+21.11,0 days,No,No,No,Yes,Yes,Yes,Yes,Yes,Male,66-70,NORMAL
+25.08,0 days,No,No,No,No,No,Yes,No,Yes,Female,>= 80,OVER-FAT
+28.65,15-21 days,Yes,No,No,Yes,No,Yes,Yes,Yes,Male,>= 80,OBESITY
+30.41,0 days,Yes,No,No,No,No,Yes,No,Yes,Male,66-70,OBESITY
+26.32,0 days,No,No,No,Yes,Yes,Yes,Yes,Yes,Male,56-60,OVER-FAT
+25.77,0 days,Yes,No,No,No,No,No,Yes,Yes,Male,46-50,OVER-FAT
+26.26,1-7 days,No,No,No,No,No,Yes,No,Yes,Female,>= 80,OVER-FAT
+31.57,0 days,No,No,No,No,Yes,No,Yes,Yes,Male,61-65,OBESITY
+27.44,0 days,Yes,No,No,No,No,No,Yes,Yes,Male,61-65,OVER-FAT
+42.29,1-7 days,Yes,No,Yes,No,Yes,No,Yes,Yes,Male,61-65,OBESITY
+24.72,0 days,Yes,No,No,No,Yes,Yes,No,Yes,Male,51-55,OVER-FAT
+41.84,0 days,No,No,No,Yes,Yes,No,Yes,Yes,Male,66-70,OBESITY
+38.39,1-7 days,No,No,No,No,No,Yes,No,Yes,Male,51-55,OBESITY
+21.92,0 days,Yes,Yes,No,No,No,Yes,No,Yes,Female,76-80,NORMAL
+25.09,0 days,Yes,Yes,No,No,No,Yes,Yes,Yes,Male,71-75,OVER-FAT
+27.21,0 days,No,No,Yes,Yes,Yes,No,Yes,Yes,Female,61-65,OVER-FAT
+30.81,0 days,Yes,No,No,No,Yes,Yes,Yes,Yes,Male,56-60,OBESITY
+25.84,0 days,No,No,No,No,Yes,No,No,Yes,Male,66-70,OVER-FAT
+31.46,1-7 days,No,No,No,No,No,No,Yes,Yes,Male,56-60,OBESITY
+32.77,1-7 days,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Female,71-75,OBESITY
+30.52,1-7 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,41-45,OBESITY
+26.26,8-14 days,No,No,No,Yes,No,No,No,Yes,Female,56-60,OVER-FAT
+29.7,0 days,Yes,No,No,No,No,No,Yes,Yes,Female,76-80,OBESITY
+53.31,0 days,No,No,No,No,Yes,Yes,Yes,Yes,Female,56-60,OBESITY
+18.89,0 days,Yes,Yes,Yes,No,No,Yes,No,Yes,Female,66-70,NORMAL
+23.17,1-7 days,Yes,No,No,No,No,Yes,Yes,Yes,Female,61-65,NORMAL
+23.33,0 days,No,No,No,No,Yes,No,Yes,Yes,Male,71-75,NORMAL
+15.98,0 days,No,No,No,No,No,Yes,No,Yes,Female,61-65,OVER-THIN
+25.51,0 days,No,No,No,No,Yes,No,Yes,Yes,Female,71-75,OVER-FAT
+27.89,0 days,Yes,No,No,No,No,No,No,Yes,Male,71-75,OVER-FAT
+30.68,0 days,Yes,No,No,No,No,No,No,Yes,Male,66-70,OBESITY
+31.55,0 days,No,No,No,No,Yes,Yes,No,Yes,Female,>= 80,OBESITY
+36.05,0 days,Yes,Yes,Yes,No,No,No,No,Yes,Female,76-80,OBESITY
+24.39,0 days,Yes,No,No,No,No,No,Yes,Yes,Male,66-70,OVER-FAT
+22.78,0 days,No,No,Yes,No,Yes,Yes,No,Yes,Male,61-65,NORMAL
+33,0 days,No,No,No,Yes,No,No,Yes,Yes,Male,71-75,OBESITY
+38.62,0 days,No,No,No,No,No,Yes,Yes,Yes,Female,76-80,OBESITY
+36.58,0 days,No,No,Yes,Yes,No,Yes,Yes,Yes,Female,56-60,OBESITY
+24.46,15-21 days,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Male,<= 40,OVER-FAT
+43.05,8-14 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,46-50,OBESITY
+38.92,0 days,No,Yes,No,No,No,Yes,No,Yes,Male,>= 80,OBESITY
+25.75,1-7 days,No,No,Yes,No,No,No,No,Yes,Male,71-75,OVER-FAT
+23.49,1-7 days,Yes,No,No,Yes,No,Yes,Yes,Yes,Male,66-70,NORMAL
+28.19,0 days,No,No,No,No,Yes,No,Yes,Yes,Male,>= 80,OBESITY
+27.46,1-7 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,61-65,OVER-FAT
+31.01,1-7 days,No,No,Yes,No,No,Yes,No,Yes,Male,>= 80,OBESITY
+25.82,0 days,No,No,No,Yes,No,No,No,Yes,Male,46-50,OVER-FAT
+38.62,0 days,No,No,No,Yes,Yes,No,Yes,Yes,Female,46-50,OBESITY
+33.23,0 days,No,No,No,Yes,Yes,Yes,No,Yes,Male,61-65,OBESITY
+33.67,0 days,Yes,No,No,No,Yes,No,Yes,Yes,Male,71-75,OBESITY
+28.48,0 days,No,No,Yes,No,Yes,No,Yes,Yes,Male,76-80,OBESITY
+25.1,0 days,Yes,No,No,No,Yes,No,Yes,Yes,Male,71-75,OVER-FAT
+40.18,0 days,No,No,No,No,Yes,Yes,Yes,Yes,Male,61-65,OBESITY
+25.85,1-7 days,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Male,66-70,OVER-FAT
+19.22,0 days,No,No,No,No,No,Yes,No,Yes,Female,76-80,NORMAL
+28.25,0 days,Yes,No,No,No,Yes,No,Yes,Yes,Male,76-80,OBESITY
+40.45,0 days,Yes,No,No,Yes,No,Yes,Yes,Yes,Male,41-45,OBESITY
+25.85,0 days,Yes,No,No,No,No,Yes,No,Yes,Male,71-75,OVER-FAT
+31.31,0 days,Yes,No,No,No,No,Yes,No,Yes,Male,66-70,OBESITY
+44.3,0 days,No,No,No,No,Yes,No,Yes,Yes,Male,71-75,OBESITY
+30,>28 days,No,No,No,No,No,No,Yes,Yes,Male,61-65,OBESITY
+23.09,0 days,Yes,No,No,No,No,No,Yes,Yes,Male,71-75,NORMAL
+20.97,0 days,Yes,Yes,No,No,No,Yes,Yes,Yes,Female,66-70,NORMAL
+33.96,0 days,Yes,Yes,No,Yes,No,Yes,No,Yes,Male,61-65,OBESITY
+37.79,0 days,No,Yes,No,No,Yes,No,Yes,Yes,Female,>= 80,OBESITY
+28.12,1-7 days,No,No,No,No,No,Yes,No,Yes,Female,>= 80,OBESITY
+33.96,0 days,Yes,Yes,No,No,No,Yes,No,Yes,Male,66-70,OBESITY
+42.51,0 days,No,Yes,Yes,No,No,Yes,Yes,Yes,Female,71-75,OBESITY
+25.54,1-7 days,Yes,No,No,No,Yes,No,Yes,Yes,Male,76-80,OVER-FAT
+27.37,1-7 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,66-70,OVER-FAT
+26.63,0 days,Yes,No,No,No,Yes,Yes,No,Yes,Female,76-80,OVER-FAT
+25.66,1-7 days,Yes,No,No,No,Yes,No,Yes,Yes,Male,71-75,OVER-FAT
+30.62,0 days,Yes,No,No,Yes,No,No,Yes,Yes,Female,51-55,OBESITY
+31.42,8-14 days,Yes,No,No,No,No,No,No,Yes,Male,71-75,OBESITY
+21.16,1-7 days,Yes,No,No,No,Yes,Yes,No,Yes,Male,56-60,NORMAL
+33.91,0 days,Yes,No,No,No,No,No,No,Yes,Male,51-55,OBESITY
+27.41,0 days,Yes,No,Yes,No,Yes,No,No,Yes,Male,66-70,OVER-FAT
+33.47,0 days,No,No,Yes,No,No,Yes,Yes,Yes,Male,46-50,OBESITY
+29.27,0 days,Yes,No,No,No,No,Yes,Yes,Yes,Female,<= 40,OBESITY
+28.34,0 days,No,No,No,Yes,No,Yes,Yes,Yes,Female,51-55,OBESITY
+29.29,1-7 days,Yes,Yes,No,No,Yes,Yes,No,Yes,Male,>= 80,OBESITY
+18.88,0 days,Yes,No,No,No,No,No,No,Yes,Male,61-65,NORMAL
+26.46,0 days,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Male,76-80,OVER-FAT
+22.32,0 days,Yes,No,No,No,Yes,Yes,No,Yes,Male,>= 80,NORMAL
+27.32,15-21 days,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Male,>= 80,OVER-FAT
+34.13,0 days,No,No,No,No,No,Yes,Yes,Yes,Female,76-80,OBESITY
+33.45,8-14 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,71-75,OBESITY
+30.11,0 days,No,Yes,No,No,Yes,Yes,Yes,Yes,Female,71-75,OBESITY
+18.29,0 days,No,No,Yes,No,No,Yes,Yes,Yes,Female,66-70,OVER-THIN
+29.53,0 days,No,No,No,No,Yes,No,Yes,Yes,Male,71-75,OBESITY
+29.41,0 days,Yes,No,No,No,No,No,No,Yes,Male,71-75,OBESITY
+35.44,8-14 days,No,No,No,No,No,Yes,Yes,Yes,Male,41-45,OBESITY
+35.43,1-7 days,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Female,66-70,OBESITY
+27.46,1-7 days,No,No,No,No,No,Yes,Yes,Yes,Female,61-65,OVER-FAT
+27.55,1-7 days,Yes,No,No,No,Yes,No,Yes,Yes,Male,76-80,OVER-FAT
+33.96,0 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,66-70,OBESITY
+29.18,0 days,No,No,No,No,No,No,No,Yes,Male,66-70,OBESITY
+28,8-14 days,No,No,No,No,No,Yes,No,Yes,Male,76-80,OVER-FAT
+30.72,1-7 days,Yes,No,No,No,Yes,No,Yes,Yes,Female,76-80,OBESITY
+28.73,0 days,Yes,No,No,Yes,No,Yes,Yes,Yes,Male,71-75,OBESITY
+28.13,22-28 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,>= 80,OBESITY
+20.36,0 days,Yes,No,Yes,No,No,No,No,Yes,Male,76-80,NORMAL
+25.09,8-14 days,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Female,46-50,OVER-FAT
+36.28,0 days,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Female,66-70,OBESITY
+28.59,0 days,Yes,No,No,No,Yes,Yes,Yes,Yes,Male,66-70,OBESITY
+25.33,0 days,No,Yes,No,No,Yes,Yes,Yes,Yes,Female,76-80,OVER-FAT
+44.85,0 days,Yes,No,No,No,No,Yes,No,Yes,Female,66-70,OBESITY
+28.19,0 days,Yes,No,No,Yes,No,Yes,Yes,Yes,Female,46-50,OBESITY
+27.06,1-7 days,Yes,Yes,Yes,No,No,Yes,No,Yes,Male,>= 80,OVER-FAT
+28.13,1-7 days,Yes,No,No,No,Yes,No,Yes,Yes,Male,66-70,OBESITY
+36.15,0 days,No,No,No,Yes,No,Yes,Yes,Yes,Female,56-60,OBESITY
+26.96,8-14 days,Yes,No,No,Yes,No,No,Yes,Yes,Male,56-60,OVER-FAT
+26.26,0 days,Yes,No,No,No,Yes,No,No,Yes,Female,76-80,OVER-FAT
+27.89,0 days,No,No,No,No,No,No,Yes,Yes,Male,56-60,OVER-FAT
+20.12,0 days,Yes,No,No,Yes,No,Yes,No,Yes,Female,>= 80,NORMAL
+25.1,0 days,Yes,Yes,Yes,No,No,Yes,No,Yes,Female,51-55,OVER-FAT
+26.12,1-7 days,Yes,Yes,No,No,No,No,No,Yes,Female,61-65,OVER-FAT
+39.33,0 days,No,No,No,No,Yes,No,Yes,Yes,Male,66-70,OBESITY
+32.28,0 days,No,No,No,No,No,No,Yes,Yes,Male,66-70,OBESITY
+40.24,0 days,No,No,Yes,No,Yes,Yes,Yes,Yes,Female,66-70,OBESITY
+28.41,0 days,Yes,No,No,No,No,Yes,Yes,Yes,Male,76-80,OBESITY
+27.89,0 days,Yes,No,No,No,No,No,Yes,Yes,Male,51-55,OVER-FAT
+21.87,8-14 days,Yes,No,No,No,No,No,No,Yes,Male,<= 40,NORMAL
+26.54,1-7 days,Yes,No,No,No,No,No,No,Yes,Male,71-75,OVER-FAT
+25.86,>28 days,No,No,No,Yes,Yes,Yes,Yes,Yes,Female,66-70,OVER-FAT
+28.89,8-14 days,Yes,No,No,No,No,No,No,Yes,Male,76-80,OBESITY
+43.76,1-7 days,No,No,Yes,No,Yes,Yes,Yes,Yes,Male,66-70,OBESITY
+24.41,1-7 days,Yes,Yes,No,No,No,Yes,No,Yes,Male,>= 80,OVER-FAT
+27.34,0 days,No,No,No,Yes,Yes,No,No,Yes,Female,71-75,OVER-FAT
+27.46,0 days,No,No,No,No,No,No,No,Yes,Male,46-50,OVER-FAT
+27.35,0 days,No,No,No,Yes,No,Yes,Yes,Yes,Male,71-75,OVER-FAT
+29.75,8-14 days,No,No,No,No,Yes,Yes,No,Yes,Male,76-80,OBESITY
+30.23,0 days,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Female,46-50,OBESITY
+23.1,0 days,No,Yes,No,No,No,Yes,Yes,Yes,Male,76-80,NORMAL
+28.25,22-28 days,Yes,Yes,Yes,No,No,Yes,No,Yes,Female,>= 80,OBESITY
+28.43,1-7 days,No,No,No,No,No,No,No,Yes,Male,76-80,OBESITY
+23.63,8-14 days,Yes,No,No,No,No,No,Yes,No,Male,46-50,NORMAL
+23.11,1-7 days,Yes,No,No,Yes,No,No,No,No,Male,41-45,NORMAL
+22.32,15-21 days,Yes,Yes,No,No,No,No,No,No,Male,>= 80,NORMAL
+37.79,1-7 days,Yes,No,No,No,No,Yes,Yes,No,Female,56-60,OBESITY
+37.76,1-7 days,Yes,Yes,No,Yes,No,No,No,No,Female,61-65,OBESITY
+34.54,1-7 days,Yes,No,No,No,No,No,Yes,No,Female,61-65,OBESITY
+23.71,15-21 days,Yes,No,No,Yes,No,No,No,No,Male,41-45,NORMAL
+24.43,0 days,Yes,No,No,No,No,No,No,No,Female,>= 80,OVER-FAT
+29.66,0 days,No,No,No,Yes,Yes,Yes,Yes,No,Female,<= 40,OBESITY
+30.67,0 days,Yes,No,No,No,No,Yes,No,No,Male,51-55,OBESITY
+42.33,1-7 days,Yes,No,No,No,No,No,No,No,Male,<= 40,OBESITY
+33.89,0 days,Yes,No,No,No,No,Yes,No,No,Male,71-75,OBESITY
+24.97,0 days,Yes,No,No,No,No,No,Yes,No,Male,71-75,OVER-FAT
+27.44,0 days,No,No,No,No,No,No,No,No,Male,<= 40,OVER-FAT
+30.37,1-7 days,No,No,No,No,No,No,Yes,No,Male,51-55,OBESITY
+30.81,1-7 days,Yes,No,No,No,No,No,Yes,No,Male,<= 40,OBESITY
+23.03,8-14 days,Yes,No,No,Yes,No,No,Yes,No,Female,41-45,NORMAL
+27.46,0 days,No,No,No,Yes,No,No,No,No,Female,71-75,OVER-FAT
+32.92,0 days,Yes,No,No,Yes,No,No,No,No,Female,41-45,OBESITY
+24.41,0 days,Yes,No,No,No,No,No,No,No,Female,>= 80,OVER-FAT
+19.64,8-14 days,Yes,No,No,No,No,No,No,No,Female,61-65,NORMAL
+46.59,1-7 days,Yes,Yes,No,Yes,No,Yes,No,No,Female,66-70,OBESITY
+25.06,1-7 days,Yes,No,No,Yes,No,No,Yes,No,Female,41-45,OVER-FAT
+35.67,1-7 days,Yes,No,No,Yes,No,No,No,No,Female,56-60,OBESITY
+40.61,1-7 days,Yes,No,No,Yes,No,Yes,Yes,No,Male,<= 40,OBESITY
+31.63,1-7 days,Yes,No,No,No,No,Yes,No,No,Female,61-65,OBESITY
+23.8,8-14 days,Yes,No,No,Yes,No,No,No,No,Female,61-65,NORMAL
+32.28,1-7 days,Yes,No,No,No,No,Yes,No,No,Female,76-80,OBESITY
+30.23,0 days,Yes,No,No,No,No,No,No,No,Female,41-45,OBESITY
+21.18,8-14 days,Yes,No,No,No,No,No,Yes,No,Male,<= 40,NORMAL
+32.69,1-7 days,Yes,No,No,No,No,No,No,No,Male,46-50,OBESITY
+27.62,8-14 days,Yes,No,No,Yes,No,No,Yes,No,Male,56-60,OVER-FAT
+25.11,8-14 days,Yes,No,No,No,No,No,Yes,No,Male,71-75,OVER-FAT
+21.46,>28 days,Yes,No,No,No,No,No,Yes,No,Female,<= 40,NORMAL
+29.16,1-7 days,Yes,No,No,No,No,No,No,No,Male,56-60,OBESITY
+22.46,1-7 days,Yes,No,No,No,No,No,No,No,Male,<= 40,NORMAL
+25.82,0 days,Yes,No,No,No,No,No,No,No,Female,66-70,OVER-FAT
+24.03,0 days,No,No,No,No,No,Yes,No,No,Female,76-80,OVER-FAT
+26.61,0 days,No,No,No,No,No,No,No,No,Female,41-45,OVER-FAT
+27.34,1-7 days,Yes,No,No,No,No,No,No,No,Female,46-50,OVER-FAT
+26.63,0 days,No,No,No,No,No,No,Yes,No,Female,<= 40,OVER-FAT
+29.12,0 days,Yes,No,No,No,Yes,No,No,No,Male,71-75,OBESITY
+32.73,1-7 days,Yes,No,No,No,No,Yes,Yes,No,Female,56-60,OBESITY
+25.75,0 days,Yes,No,No,No,No,Yes,Yes,No,Female,71-75,OVER-FAT
+31.57,0 days,Yes,No,No,Yes,Yes,No,Yes,No,Male,56-60,OBESITY
+25.61,0 days,Yes,No,No,No,No,Yes,No,No,Female,46-50,OVER-FAT
+28.89,1-7 days,Yes,No,No,No,No,No,No,No,Male,<= 40,OBESITY
+27.46,0 days,Yes,No,No,No,No,No,No,No,Female,<= 40,OVER-FAT
+36.28,1-7 days,Yes,No,No,No,No,No,No,No,Male,56-60,OBESITY
+30.81,1-7 days,Yes,Yes,No,No,No,Yes,Yes,No,Male,46-50,OBESITY
+19.22,>28 days,Yes,No,No,No,No,Yes,No,No,Female,71-75,NORMAL
+32.49,1-7 days,Yes,No,No,No,Yes,No,No,No,Male,41-45,OBESITY
+27.12,1-7 days,Yes,No,No,Yes,No,No,Yes,No,Female,<= 40,OVER-FAT
+32.28,1-7 days,Yes,No,No,No,No,No,No,No,Female,61-65,OBESITY
+28.89,15-21 days,Yes,No,No,No,No,No,Yes,No,Female,61-65,OBESITY
+33.28,0 days,Yes,No,No,No,No,No,No,No,Female,66-70,OBESITY
+26.5,0 days,Yes,No,No,No,No,No,Yes,No,Male,41-45,OVER-FAT
+26.97,15-21 days,Yes,No,No,No,No,No,Yes,No,Male,51-55,OVER-FAT
+21.28,0 days,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Female,66-70,NORMAL
+29.81,0 days,No,No,No,No,No,Yes,Yes,No,Female,66-70,OBESITY
+26.58,0 days,Yes,No,No,No,No,No,Yes,No,Male,66-70,OVER-FAT
+23.4,0 days,Yes,No,No,No,No,No,No,No,Male,56-60,NORMAL
+25.82,0 days,No,No,No,No,Yes,Yes,Yes,No,Female,76-80,OVER-FAT
+24.13,1-7 days,Yes,No,No,No,No,No,No,No,Female,<= 40,OVER-FAT
+30.9,1-7 days,Yes,No,No,No,No,No,No,No,Male,66-70,OBESITY
+31.47,15-21 days,Yes,No,No,No,No,No,Yes,No,Male,56-60,OBESITY
+40.24,1-7 days,Yes,No,No,No,Yes,No,No,No,Female,51-55,OBESITY
+26.57,0 days,Yes,No,No,No,No,No,No,No,Female,<= 40,OVER-FAT
+19.65,1-7 days,Yes,No,No,No,No,No,No,No,Male,<= 40,NORMAL
+26.52,1-7 days,Yes,No,No,No,No,Yes,Yes,No,Female,51-55,OVER-FAT
+35.43,0 days,No,No,Yes,No,No,No,No,No,Female,46-50,OBESITY
+26.99,0 days,Yes,No,No,No,No,No,No,No,Male,51-55,OVER-FAT
+22.11,1-7 days,No,No,No,Yes,No,No,Yes,No,Female,<= 40,NORMAL
+47.37,0 days,No,No,Yes,No,No,Yes,No,No,Female,51-55,OBESITY
+32.89,1-7 days,No,No,No,No,No,No,Yes,No,Male,<= 40,OBESITY
+31,0 days,Yes,No,No,Yes,No,No,Yes,No,Male,<= 40,OBESITY
+25.75,0 days,Yes,No,No,No,No,No,Yes,No,Female,61-65,OVER-FAT
+24.41,0 days,Yes,No,No,No,No,No,Yes,No,Male,<= 40,OVER-FAT
+39.29,0 days,Yes,Yes,Yes,No,Yes,Yes,No,No,Male,66-70,OBESITY
+21.63,1-7 days,Yes,No,No,No,No,No,No,No,Female,56-60,NORMAL
+28.19,0 days,Yes,No,No,Yes,No,No,No,No,Female,<= 40,OBESITY
+41,1-7 days,No,No,No,Yes,No,Yes,Yes,No,Female,41-45,OBESITY
+27.46,15-21 days,Yes,No,No,No,No,Yes,No,No,Female,41-45,OVER-FAT
+20.06,0 days,No,No,No,Yes,No,No,Yes,No,Female,<= 40,NORMAL
+32.28,0 days,No,No,No,Yes,No,Yes,Yes,No,Male,56-60,OBESITY
+33.72,22-28 days,No,No,No,Yes,Yes,Yes,Yes,No,Male,61-65,OBESITY
+34.44,0 days,No,No,No,No,No,No,No,No,Male,46-50,OBESITY
+22.89,15-21 days,Yes,No,No,No,No,No,No,No,Male,<= 40,NORMAL
+32.55,0 days,Yes,No,Yes,No,No,Yes,No,No,Female,41-45,OBESITY
+40.72,1-7 days,Yes,No,No,No,No,No,No,No,Female,<= 40,OBESITY
+38.74,1-7 days,Yes,No,No,No,No,No,No,No,Male,56-60,OBESITY
+31.57,0 days,No,No,No,No,No,No,Yes,No,Male,56-60,OBESITY
+44.29,15-21 days,Yes,No,No,No,No,No,Yes,No,Female,41-45,OBESITY
+39.05,0 days,Yes,No,No,No,No,Yes,No,No,Male,51-55,OBESITY
+27.32,1-7 days,Yes,No,No,No,Yes,No,No,No,Male,56-60,OVER-FAT
+32.06,0 days,No,No,No,No,No,Yes,No,No,Female,56-60,OBESITY
+23.17,1-7 days,Yes,Yes,Yes,Yes,No,No,Yes,No,Female,41-45,NORMAL
+32.28,0 days,Yes,No,No,No,No,Yes,No,No,Female,61-65,OBESITY
+22.15,0 days,Yes,Yes,No,No,No,No,No,No,Female,<= 40,NORMAL
+16.95,0 days,Yes,No,No,No,No,No,Yes,No,Male,<= 40,OVER-THIN
+25.79,8-14 days,Yes,No,No,No,No,No,Yes,No,Female,61-65,OVER-FAT
+34.44,1-7 days,Yes,No,No,No,No,No,No,No,Male,56-60,OBESITY
+21.29,0 days,No,No,No,No,No,No,Yes,No,Female,<= 40,NORMAL
+22.81,22-28 days,Yes,No,No,No,No,Yes,Yes,No,Female,66-70,NORMAL
+31.01,>28 days,Yes,No,No,No,No,No,Yes,No,Male,71-75,OBESITY
+25.82,0 days,Yes,No,No,No,No,No,No,No,Female,71-75,OVER-FAT
+26.63,0 days,No,No,No,No,No,No,No,No,Male,71-75,OVER-FAT
+20.34,1-7 days,No,No,No,No,No,No,Yes,No,Male,56-60,NORMAL
+24.37,1-7 days,Yes,No,No,No,No,Yes,No,No,Male,66-70,OVER-FAT
+36.05,1-7 days,Yes,No,No,No,No,Yes,No,No,Female,46-50,OBESITY
+26.39,1-7 days,Yes,No,No,No,No,No,No,No,Male,46-50,OVER-FAT
+29.84,0 days,Yes,No,No,No,No,No,Yes,No,Male,51-55,OBESITY
+18.65,1-7 days,Yes,No,No,No,No,No,Yes,No,Male,<= 40,NORMAL
+26.61,1-7 days,Yes,No,No,No,No,No,No,No,Female,46-50,OVER-FAT
+29.86,0 days,Yes,No,Yes,No,No,No,No,No,Female,71-75,OBESITY
+24.03,1-7 days,Yes,No,No,No,No,No,Yes,No,Female,66-70,OVER-FAT
+20.03,0 days,Yes,No,No,No,No,No,Yes,No,Female,76-80,NORMAL
+24.13,1-7 days,Yes,No,No,No,No,Yes,No,No,Female,56-60,OVER-FAT
+29.41,0 days,Yes,No,No,No,No,No,Yes,No,Male,>= 80,OBESITY
+22.24,15-21 days,Yes,No,No,Yes,No,No,No,No,Male,<= 40,NORMAL
+24.37,22-28 days,Yes,Yes,No,No,No,No,Yes,No,Female,66-70,OVER-FAT
+22.92,22-28 days,Yes,No,No,No,No,No,No,No,Female,61-65,NORMAL
+30.54,1-7 days,No,No,No,No,No,No,No,No,Male,<= 40,OBESITY
+26.47,0 days,Yes,No,No,No,No,No,No,No,Female,61-65,OVER-FAT
+30.81,22-28 days,Yes,No,No,No,No,No,Yes,No,Male,41-45,OBESITY
+20.78,1-7 days,Yes,No,No,No,No,Yes,No,No,Female,>= 80,NORMAL
+34.21,0 days,Yes,No,No,No,No,No,No,No,Male,<= 40,OBESITY
+25.61,1-7 days,Yes,No,No,No,No,Yes,No,No,Female,66-70,OVER-FAT
+21.62,>28 days,No,No,No,No,No,No,Yes,No,Male,51-55,NORMAL
+27.12,0 days,Yes,No,No,No,No,No,No,No,Male,<= 40,OVER-FAT
+25.68,15-21 days,Yes,No,No,No,No,No,No,No,Male,<= 40,OVER-FAT
+30.52,8-14 days,Yes,No,No,No,No,No,No,No,Male,<= 40,OBESITY
+34.21,0 days,Yes,No,No,No,No,No,No,No,Male,<= 40,OBESITY
+34.44,15-21 days,Yes,No,Yes,No,No,No,Yes,No,Male,46-50,OBESITY
+37.76,15-21 days,Yes,No,No,No,No,No,No,No,Female,<= 40,OBESITY
+24.8,0 days,Yes,No,No,Yes,No,Yes,Yes,No,Female,41-45,OVER-FAT
+33.75,1-7 days,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Male,<= 40,OBESITY
+24.87,1-7 days,Yes,No,No,No,No,No,No,No,Female,51-55,OVER-FAT
+27.6,15-21 days,Yes,No,No,No,No,No,Yes,No,Male,66-70,OVER-FAT
+28.59,1-7 days,Yes,No,No,No,No,Yes,No,No,Male,56-60,OBESITY
+24.85,>28 days,Yes,No,No,No,No,No,No,No,Male,46-50,OVER-FAT
+28.19,1-7 days,Yes,No,No,Yes,No,No,No,No,Female,<= 40,OBESITY
+20.36,1-7 days,No,No,No,No,No,No,No,No,Female,<= 40,NORMAL
+27.46,1-7 days,Yes,No,Yes,No,No,Yes,Yes,No,Female,>= 80,OVER-FAT
+25.39,>28 days,Yes,No,No,No,No,No,Yes,No,Female,>= 80,OVER-FAT
+28.06,1-7 days,Yes,No,No,Yes,No,Yes,No,No,Male,66-70,OBESITY
+22.96,0 days,Yes,No,Yes,No,No,No,Yes,No,Male,76-80,NORMAL
+25.09,1-7 days,Yes,No,No,No,No,No,Yes,No,Male,41-45,OVER-FAT
+31,>28 days,No,No,No,No,No,Yes,Yes,No,Female,>= 80,OBESITY
+22.6,1-7 days,Yes,No,No,No,No,No,No,No,Female,51-55,NORMAL
+32.61,1-7 days,Yes,No,No,No,No,No,No,No,Female,<= 40,OBESITY
+22.92,0 days,Yes,No,No,No,No,No,No,No,Male,<= 40,NORMAL
+19.74,1-7 days,Yes,No,No,No,No,No,No,No,Female,<= 40,NORMAL
+32.32,15-21 days,Yes,No,No,No,No,No,No,No,Male,51-55,OBESITY
+27.41,1-7 days,Yes,No,No,No,No,Yes,Yes,No,Female,41-45,OVER-FAT
+27.46,1-7 days,Yes,Yes,No,No,No,No,Yes,No,Female,56-60,OVER-FAT
+25.8,1-7 days,Yes,Yes,No,No,No,No,No,No,Male,61-65,OVER-FAT
+33.66,0 days,Yes,No,No,Yes,No,No,No,No,Female,41-45,OBESITY
+30.68,0 days,No,No,No,Yes,No,No,No,No,Female,<= 40,OBESITY
+40.97,0 days,Yes,No,No,No,No,No,No,No,Female,66-70,OBESITY
+33.47,0 days,No,No,No,No,No,No,Yes,No,Male,<= 40,OBESITY
+23.8,0 days,Yes,No,No,No,No,No,No,No,Female,<= 40,NORMAL
+28.59,1-7 days,Yes,No,No,No,No,No,No,No,Male,61-65,OBESITY
+33.91,1-7 days,Yes,No,No,No,No,No,No,No,Male,51-55,OBESITY
+33.72,1-7 days,Yes,Yes,No,No,No,No,No,No,Male,66-70,OBESITY
+32.39,1-7 days,Yes,No,No,No,No,No,Yes,No,Male,51-55,OBESITY
+21.48,8-14 days,Yes,No,No,No,No,No,No,No,Female,41-45,NORMAL
+25.1,0 days,No,No,Yes,No,No,Yes,Yes,No,Male,76-80,OVER-FAT
+21.84,0 days,Yes,No,No,No,No,No,Yes,No,Male,41-45,NORMAL
+29.95,1-7 days,No,No,No,Yes,No,No,No,No,Female,<= 40,OBESITY
+25.06,8-14 days,Yes,No,No,No,No,No,Yes,No,Male,<= 40,OVER-FAT
+30.27,1-7 days,No,Yes,No,No,No,No,No,No,Male,46-50,OBESITY
+29.53,1-7 days,Yes,No,No,No,No,No,Yes,No,Male,<= 40,OBESITY
+25.75,0 days,Yes,No,No,No,No,No,No,No,Female,61-65,OVER-FAT
+21.81,>28 days,Yes,No,No,No,No,Yes,No,No,Male,61-65,NORMAL
+22.14,0 days,Yes,No,No,Yes,No,No,Yes,No,Female,<= 40,NORMAL
+30.11,0 days,Yes,Yes,No,No,No,No,No,No,Female,>= 80,OBESITY
+22.37,1-7 days,Yes,No,No,Yes,No,No,Yes,No,Male,<= 40,NORMAL
+20.36,0 days,Yes,No,No,No,Yes,No,Yes,No,Male,61-65,NORMAL
+24.37,8-14 days,Yes,No,No,No,No,No,No,No,Male,<= 40,OVER-FAT
+19.67,0 days,No,No,No,No,No,No,No,No,Male,<= 40,NORMAL
+21.63,>28 days,Yes,No,No,No,No,Yes,Yes,No,Female,<= 40,NORMAL
+23.44,1-7 days,Yes,No,No,No,No,No,No,No,Female,>= 80,NORMAL
+31.24,0 days,Yes,No,No,No,No,Yes,No,No,Female,56-60,OBESITY
+33.45,8-14 days,Yes,No,No,Yes,No,No,Yes,No,Female,<= 40,OBESITY
+50.64,0 days,Yes,No,No,Yes,Yes,Yes,No,No,Female,61-65,OBESITY
+38.37,8-14 days,No,No,No,No,Yes,No,No,No,Male,41-45,OBESITY
+21.56,>28 days,No,Yes,Yes,No,No,No,Yes,No,Male,>= 80,NORMAL
+29.18,1-7 days,Yes,Yes,Yes,No,No,No,No,No,Female,71-75,OBESITY
+33.96,8-14 days,No,No,No,No,Yes,No,Yes,No,Male,56-60,OBESITY
+30.9,>28 days,No,No,No,No,No,No,Yes,No,Female,51-55,OBESITY
+26.61,1-7 days,Yes,No,No,No,No,Yes,Yes,No,Female,<= 40,OVER-FAT
+26.63,8-14 days,Yes,No,No,Yes,No,No,Yes,No,Male,<= 40,OVER-FAT
+36.62,0 days,Yes,No,No,No,No,No,No,No,Male,<= 40,OBESITY
+32.89,0 days,No,No,No,No,No,No,No,No,Female,<= 40,OBESITY
+25.83,0 days,Yes,No,No,No,Yes,No,Yes,No,Male,61-65,OVER-FAT
+30.52,0 days,Yes,No,No,No,No,No,No,No,Male,56-60,OBESITY
+26.63,1-7 days,Yes,No,No,Yes,No,Yes,Yes,No,Female,76-80,OVER-FAT
+23.57,15-21 days,Yes,No,Yes,No,No,No,No,No,Male,71-75,NORMAL
+22.46,0 days,Yes,No,No,No,No,No,No,No,Female,<= 40,NORMAL
+21.79,0 days,Yes,No,No,Yes,No,No,No,No,Male,<= 40,NORMAL
+28.35,0 days,No,No,Yes,No,No,No,No,No,Female,>= 80,OBESITY
+34.33,1-7 days,Yes,Yes,No,Yes,Yes,Yes,No,No,Female,66-70,OBESITY
+19.84,0 days,Yes,No,No,No,No,Yes,Yes,No,Female,76-80,NORMAL
+28.23,0 days,Yes,Yes,No,No,No,No,No,No,Male,76-80,OBESITY
+32.98,1-7 days,No,No,No,No,No,No,No,No,Male,61-65,OBESITY
+25.04,>28 days,Yes,No,No,No,No,No,Yes,No,Male,<= 40,OVER-FAT
+39.6,22-28 days,No,Yes,No,No,Yes,No,Yes,No,Male,66-70,OBESITY
+28.29,0 days,No,No,No,No,No,Yes,Yes,No,Female,71-75,OBESITY
+28.91,0 days,Yes,No,Yes,No,No,Yes,Yes,No,Female,66-70,OBESITY
+25.56,>28 days,Yes,No,No,No,No,Yes,No,No,Female,71-75,OVER-FAT
+30.41,0 days,Yes,No,No,Yes,No,Yes,No,No,Female,<= 40,OBESITY
+42.77,8-14 days,No,No,No,No,Yes,Yes,No,No,Male,71-75,OBESITY
+29.18,0 days,No,No,No,No,Yes,Yes,No,No,Female,>= 80,OBESITY
+29.23,1-7 days,Yes,No,No,No,No,No,No,No,Male,<= 40,OBESITY
+24.69,>28 days,Yes,No,No,Yes,No,Yes,Yes,No,Female,<= 40,OVER-FAT
+25.84,0 days,Yes,Yes,Yes,No,No,Yes,Yes,No,Male,>= 80,OVER-FAT
+24.41,0 days,Yes,No,No,No,No,No,Yes,No,Male,41-45,OVER-FAT
+26.63,1-7 days,Yes,No,Yes,No,Yes,Yes,No,No,Female,71-75,OVER-FAT
+30.41,0 days,Yes,No,No,No,Yes,Yes,No,No,Female,66-70,OBESITY
+23.11,0 days,Yes,Yes,No,No,No,Yes,No,No,Male,61-65,NORMAL
+21.09,0 days,Yes,No,No,No,No,No,No,No,Male,46-50,NORMAL
+30.73,1-7 days,Yes,No,No,No,Yes,No,No,No,Female,<= 40,OBESITY
+22.96,8-14 days,Yes,No,No,No,No,No,Yes,No,Female,61-65,NORMAL
+41.6,0 days,No,No,No,No,No,Yes,No,No,Female,46-50,OBESITY
+27.37,1-7 days,Yes,No,No,Yes,No,Yes,No,No,Female,41-45,OVER-FAT
+25.1,1-7 days,Yes,No,No,No,No,No,No,No,Female,<= 40,OVER-FAT
+30.34,1-7 days,Yes,No,No,Yes,No,No,No,No,Male,<= 40,OBESITY
+31.19,1-7 days,Yes,Yes,No,Yes,No,Yes,No,No,Male,66-70,OBESITY
+25.75,8-14 days,Yes,No,No,No,No,No,No,No,Female,56-60,OVER-FAT
+37.49,0 days,Yes,No,No,No,No,Yes,Yes,No,Male,61-65,OBESITY
+28.48,1-7 days,No,No,No,No,No,Yes,No,No,Male,66-70,OBESITY
+25.13,0 days,No,Yes,No,No,No,Yes,Yes,No,Female,>= 80,OVER-FAT
+26.45,>28 days,Yes,No,No,No,No,Yes,Yes,No,Male,71-75,OVER-FAT
+22.46,1-7 days,No,No,No,Yes,No,No,Yes,No,Female,<= 40,NORMAL
+27.46,1-7 days,No,No,Yes,Yes,No,No,No,No,Female,<= 40,OVER-FAT
+34.45,0 days,Yes,No,No,No,Yes,No,No,No,Male,66-70,OBESITY
+32.61,0 days,Yes,No,No,No,No,Yes,Yes,No,Female,61-65,OBESITY
+22.14,0 days,Yes,No,No,No,Yes,Yes,Yes,No,Female,66-70,NORMAL
+27.26,1-7 days,Yes,No,No,No,No,No,No,No,Male,51-55,OVER-FAT
+23.11,1-7 days,Yes,No,No,No,No,Yes,No,No,Male,<= 40,NORMAL
+17.75,1-7 days,Yes,No,No,No,No,Yes,No,No,Female,66-70,OVER-THIN
+26.63,1-7 days,Yes,No,No,Yes,No,No,No,No,Male,<= 40,OVER-FAT
+29.23,0 days,No,Yes,No,No,No,No,No,No,Female,>= 80,OBESITY
+36.61,15-21 days,No,Yes,No,No,No,Yes,Yes,No,Female,71-75,OBESITY
+26.5,>28 days,Yes,No,No,No,No,No,Yes,No,Male,71-75,OVER-FAT
+30.54,8-14 days,Yes,No,No,Yes,No,Yes,No,No,Female,71-75,OBESITY
+31.93,15-21 days,Yes,No,No,No,No,No,No,No,Male,<= 40,OBESITY
+29.84,0 days,Yes,No,No,No,No,Yes,No,No,Male,66-70,OBESITY
+23.65,22-28 days,Yes,No,No,No,No,No,No,No,Female,56-60,NORMAL
+21.14,0 days,Yes,No,No,Yes,No,No,Yes,No,Female,61-65,NORMAL
+29.05,0 days,Yes,No,No,No,No,No,No,No,Female,61-65,OBESITY
+33.45,15-21 days,Yes,No,No,No,No,No,No,No,Male,<= 40,OBESITY
+34.97,15-21 days,Yes,No,No,No,No,No,Yes,No,Female,41-45,OBESITY
+19.91,>28 days,No,Yes,No,Yes,No,Yes,Yes,No,Male,76-80,NORMAL
+27.89,15-21 days,Yes,No,No,Yes,No,No,No,No,Female,<= 40,OVER-FAT
+50.93,0 days,Yes,No,No,Yes,No,Yes,Yes,No,Male,46-50,OBESITY
+22.46,1-7 days,No,No,No,No,No,No,Yes,No,Female,41-45,NORMAL
+33,1-7 days,Yes,No,No,No,No,Yes,No,No,Male,66-70,OBESITY
+27.46,0 days,Yes,No,No,No,No,No,No,No,Female,61-65,OVER-FAT
+24.45,1-7 days,No,No,No,Yes,No,No,No,No,Female,66-70,OVER-FAT
+27.46,0 days,No,No,Yes,No,No,Yes,Yes,No,Female,76-80,OVER-FAT
+32.59,1-7 days,No,No,Yes,No,No,No,No,No,Female,61-65,OBESITY
+22.89,8-14 days,Yes,No,No,No,No,Yes,Yes,No,Male,66-70,NORMAL
+32.06,0 days,No,No,No,Yes,No,Yes,Yes,No,Female,>= 80,OBESITY
+23.69,0 days,Yes,Yes,No,No,No,Yes,No,No,Male,71-75,NORMAL
+30.18,1-7 days,Yes,No,No,No,No,No,No,No,Female,51-55,OBESITY
+28.7,0 days,Yes,No,No,No,No,No,Yes,No,Male,66-70,OBESITY
+37.79,0 days,No,No,No,No,No,No,No,No,Female,<= 40,OBESITY
+29.26,0 days,Yes,No,No,No,No,Yes,No,No,Female,71-75,OBESITY
+31.74,8-14 days,Yes,No,Yes,No,No,Yes,Yes,No,Male,61-65,OBESITY
+27.28,0 days,Yes,No,No,No,No,No,Yes,No,Female,51-55,OVER-FAT
+46.06,0 days,No,No,No,Yes,No,Yes,Yes,No,Female,41-45,OBESITY
+26.63,1-7 days,No,No,No,No,No,No,No,No,Female,<= 40,OVER-FAT
+29.24,0 days,Yes,Yes,No,No,Yes,Yes,No,No,Male,71-75,OBESITY
+30.41,0 days,Yes,No,No,Yes,No,Yes,No,No,Female,61-65,OBESITY
+19.77,1-7 days,Yes,No,No,No,No,No,No,No,Female,>= 80,NORMAL
+29.18,>28 days,Yes,No,No,No,No,Yes,No,No,Male,61-65,OBESITY
+27.41,8-14 days,Yes,No,No,No,No,No,No,No,Male,<= 40,OVER-FAT
+37.11,0 days,Yes,No,No,No,No,No,No,No,Female,<= 40,OBESITY
+27.46,0 days,No,No,No,Yes,No,Yes,No,No,Female,41-45,OVER-FAT
+22.89,0 days,Yes,No,Yes,Yes,No,Yes,Yes,No,Female,41-45,NORMAL
+24.89,1-7 days,Yes,No,No,No,No,Yes,Yes,No,Female,76-80,OVER-FAT
+20.98,0 days,Yes,No,No,No,No,No,Yes,No,Female,<= 40,NORMAL
+41.84,0 days,No,No,Yes,No,Yes,Yes,Yes,No,Male,71-75,OBESITY
+45.76,1-7 days,No,No,No,No,Yes,Yes,No,No,Female,66-70,OBESITY
+18.99,1-7 days,Yes,No,No,No,No,No,No,No,Male,<= 40,NORMAL
+35.78,1-7 days,Yes,No,No,No,No,No,No,No,Female,41-45,OBESITY
+19.77,8-14 days,No,No,No,No,No,No,Yes,No,Male,<= 40,NORMAL
+30.7,1-7 days,Yes,No,No,No,Yes,No,No,No,Male,66-70,OBESITY
+42.88,1-7 days,Yes,No,No,No,Yes,Yes,Yes,No,Male,41-45,OBESITY
+26.63,0 days,Yes,No,No,No,Yes,Yes,Yes,No,Female,71-75,OVER-FAT
+26.5,1-7 days,Yes,No,No,Yes,No,No,No,No,Male,41-45,OVER-FAT
+26.63,>28 days,Yes,No,No,No,No,No,Yes,No,Female,<= 40,OVER-FAT
+23.57,8-14 days,Yes,No,No,No,No,No,No,No,Female,56-60,NORMAL
+27.41,0 days,Yes,No,No,No,No,No,No,No,Female,41-45,OVER-FAT
+23.63,1-7 days,Yes,No,No,No,No,No,No,No,Male,46-50,NORMAL
+23.67,0 days,Yes,No,No,No,No,Yes,No,No,Male,61-65,NORMAL
+21.63,8-14 days,Yes,No,No,No,No,No,No,No,Female,<= 40,NORMAL
+23.75,>28 days,Yes,No,No,No,No,Yes,No,No,Male,61-65,NORMAL
+30.82,1-7 days,Yes,No,No,No,Yes,No,No,No,Female,71-75,OBESITY
+20.7,1-7 days,Yes,No,No,Yes,No,No,No,No,Female,56-60,NORMAL
+30.51,>28 days,Yes,No,No,No,No,No,No,No,Male,66-70,OBESITY
+37.2,1-7 days,Yes,Yes,No,No,No,Yes,Yes,No,Female,56-60,OBESITY
+24.39,0 days,No,No,No,Yes,No,No,Yes,No,Male,66-70,OVER-FAT
+22.96,0 days,Yes,No,No,No,Yes,No,No,No,Male,>= 80,NORMAL
+23.01,>28 days,No,No,No,No,No,Yes,Yes,No,Male,61-65,NORMAL
+22.5,0 days,No,No,No,No,No,No,No,No,Male,61-65,NORMAL
+36.58,8-14 days,Yes,No,No,No,No,No,No,No,Female,<= 40,OBESITY
+27.4,1-7 days,No,No,No,Yes,No,No,Yes,No,Female,41-45,OVER-FAT
+30.38,0 days,Yes,No,Yes,Yes,No,Yes,Yes,No,Female,76-80,OBESITY
+23.01,1-7 days,Yes,No,Yes,No,No,No,Yes,No,Female,51-55,NORMAL
+27.44,0 days,No,No,Yes,Yes,No,No,No,No,Female,>= 80,OVER-FAT
+23.03,0 days,Yes,No,No,Yes,No,No,No,No,Female,<= 40,NORMAL
+41.32,0 days,Yes,No,No,No,No,Yes,No,No,Male,61-65,OBESITY
+23.63,8-14 days,Yes,No,No,Yes,No,No,No,No,Male,<= 40,NORMAL
+28.25,8-14 days,No,No,Yes,Yes,Yes,Yes,Yes,No,Female,71-75,OBESITY
+27.27,0 days,Yes,No,No,No,No,No,No,No,Male,<= 40,OVER-FAT
+38.01,0 days,Yes,No,Yes,No,No,No,No,No,Female,51-55,OBESITY
+28.12,0 days,Yes,No,No,No,No,Yes,Yes,No,Male,71-75,OBESITY
+21.62,1-7 days,Yes,No,No,No,No,No,No,No,Female,<= 40,NORMAL
+22.38,22-28 days,Yes,No,No,No,No,No,No,No,Male,<= 40,NORMAL
+20.67,0 days,Yes,No,No,Yes,No,Yes,No,No,Female,46-50,NORMAL
+26.07,0 days,Yes,Yes,No,Yes,No,Yes,Yes,No,Female,66-70,OVER-FAT
+37.31,1-7 days,Yes,Yes,Yes,Yes,No,No,Yes,No,Male,76-80,OBESITY
+27.44,1-7 days,Yes,No,Yes,Yes,No,Yes,Yes,No,Female,61-65,OVER-FAT
+25.89,>28 days,Yes,No,No,No,No,No,No,No,Female,76-80,OVER-FAT
+23.91,0 days,Yes,No,No,No,No,Yes,No,No,Female,66-70,NORMAL
+27.44,22-28 days,Yes,No,No,Yes,No,Yes,Yes,No,Female,66-70,OVER-FAT
+22.32,0 days,Yes,No,No,No,No,No,No,No,Male,<= 40,NORMAL
+31.82,0 days,Yes,No,No,No,No,No,No,No,Female,<= 40,OBESITY
+18.89,1-7 days,Yes,No,No,No,No,No,No,No,Female,<= 40,NORMAL
+31,1-7 days,Yes,No,No,No,No,No,No,No,Male,<= 40,OBESITY
+34.77,0 days,No,No,No,No,No,No,No,No,Male,76-80,OBESITY
+42.13,8-14 days,Yes,No,No,No,No,No,No,No,Female,51-55,OBESITY
+28.25,8-14 days,Yes,No,No,No,No,Yes,No,No,Male,<= 40,OBESITY
+30.13,1-7 days,Yes,No,No,No,No,No,No,No,Male,51-55,OBESITY
+24.94,1-7 days,Yes,No,No,No,No,No,No,No,Female,46-50,OVER-FAT
+26.78,0 days,Yes,Yes,Yes,No,No,No,No,No,Male,76-80,OVER-FAT
+25.09,1-7 days,Yes,No,No,No,No,No,Yes,No,Male,46-50,OVER-FAT
+22.05,1-7 days,Yes,No,No,No,No,No,No,No,Male,<= 40,NORMAL
+23.81,0 days,Yes,No,No,Yes,Yes,Yes,No,No,Female,56-60,NORMAL
+25.51,8-14 days,Yes,No,No,No,No,Yes,Yes,No,Female,<= 40,OVER-FAT
+26.63,8-14 days,Yes,No,No,No,No,No,No,No,Female,66-70,OVER-FAT
+19.22,1-7 days,No,No,No,Yes,No,Yes,Yes,No,Male,76-80,NORMAL
+21.63,1-7 days,Yes,No,No,No,No,No,No,No,Female,46-50,NORMAL
+25.79,0 days,Yes,No,No,No,No,Yes,No,No,Female,71-75,OVER-FAT
+22.81,22-28 days,Yes,No,No,No,No,No,Yes,No,Male,56-60,NORMAL
+19.2,0 days,Yes,No,No,No,No,Yes,No,No,Female,71-75,NORMAL
+24.21,1-7 days,Yes,No,No,No,No,No,No,No,Female,<= 40,OVER-FAT
+32.22,0 days,Yes,No,Yes,No,No,Yes,Yes,No,Female,76-80,OBESITY
+25.52,1-7 days,No,Yes,No,No,No,No,Yes,No,Male,56-60,OVER-FAT
+27.37,1-7 days,Yes,Yes,No,Yes,No,Yes,No,No,Female,61-65,OVER-FAT
+25.85,15-21 days,Yes,No,No,No,No,No,No,No,Male,66-70,OVER-FAT
+35.87,0 days,Yes,No,Yes,No,No,Yes,No,No,Male,76-80,OBESITY
+22.45,22-28 days,Yes,No,No,No,No,No,Yes,No,Male,66-70,NORMAL
+26.63,1-7 days,Yes,No,No,No,No,No,No,No,Female,46-50,OVER-FAT
+27.46,1-7 days,Yes,No,No,No,No,No,Yes,No,Female,66-70,OVER-FAT
+23.92,0 days,Yes,No,Yes,No,No,Yes,Yes,No,Male,56-60,NORMAL
+23.57,15-21 days,Yes,Yes,No,No,No,No,Yes,No,Male,66-70,NORMAL
+22.05,1-7 days,Yes,No,No,No,No,No,No,No,Male,46-50,NORMAL
+20.83,1-7 days,Yes,No,No,Yes,No,No,Yes,No,Female,<= 40,NORMAL
+36.81,15-21 days,Yes,No,Yes,No,No,Yes,Yes,No,Male,61-65,OBESITY
+31.89,1-7 days,No,No,No,No,No,No,No,No,Female,<= 40,OBESITY
+38.59,15-21 days,No,No,No,Yes,No,No,Yes,No,Female,<= 40,OBESITY
+42.77,1-7 days,Yes,No,No,No,No,Yes,No,No,Female,51-55,OBESITY
+21.83,1-7 days,No,No,No,No,Yes,No,Yes,No,Male,>= 80,NORMAL
+28.89,15-21 days,Yes,No,No,No,No,No,Yes,No,Male,<= 40,OBESITY
+21.24,0 days,Yes,No,No,No,No,Yes,No,No,Female,>= 80,NORMAL
+34.97,1-7 days,Yes,No,No,No,No,Yes,No,No,Male,51-55,OBESITY
+27.81,0 days,No,No,No,No,No,No,No,No,Female,61-65,OVER-FAT
+20.37,0 days,Yes,No,No,Yes,No,No,Yes,No,Female,<= 40,NORMAL
+24.14,8-14 days,Yes,Yes,No,No,No,Yes,No,No,Female,66-70,OVER-FAT
+24.69,1-7 days,Yes,No,No,No,No,No,No,No,Female,51-55,OVER-FAT
+24.45,15-21 days,Yes,No,No,No,No,No,No,No,Female,>= 80,OVER-FAT
+21.03,0 days,Yes,No,No,No,No,No,No,No,Female,<= 40,NORMAL
+27.26,15-21 days,Yes,No,No,No,No,No,No,No,Male,51-55,OVER-FAT
+26.45,15-21 days,Yes,No,No,No,No,No,Yes,No,Male,76-80,OVER-FAT
+22.38,0 days,Yes,No,No,No,No,No,No,No,Male,71-75,NORMAL
+27.46,8-14 days,Yes,No,No,Yes,No,Yes,Yes,No,Female,61-65,OVER-FAT
+27.88,8-14 days,Yes,No,No,No,No,Yes,No,No,Male,71-75,OVER-FAT
+37.12,0 days,Yes,No,No,No,No,No,No,No,Female,41-45,OBESITY
+33,8-14 days,Yes,No,No,Yes,No,No,No,No,Male,56-60,OBESITY
+30.38,0 days,No,No,No,No,No,Yes,No,No,Male,61-65,OBESITY
+24.41,0 days,Yes,No,No,No,No,No,No,No,Male,46-50,OVER-FAT
+25.84,8-14 days,Yes,No,Yes,Yes,No,No,Yes,No,Male,56-60,OVER-FAT
+28.19,1-7 days,Yes,No,No,No,No,No,Yes,No,Female,51-55,OBESITY
+23.67,1-7 days,Yes,No,No,No,No,No,No,No,Male,61-65,NORMAL
+40.18,1-7 days,Yes,No,No,Yes,No,No,Yes,No,Male,<= 40,OBESITY
+30.62,22-28 days,No,Yes,Yes,No,No,No,No,No,Female,>= 80,OBESITY
+28.06,0 days,Yes,No,No,No,No,No,Yes,No,Male,71-75,OBESITY
+20.67,>28 days,Yes,No,No,No,No,No,Yes,No,Male,61-65,NORMAL
+30.17,22-28 days,No,No,No,No,No,Yes,No,No,Male,66-70,OBESITY
+19.94,1-7 days,Yes,No,No,No,No,No,No,No,Male,<= 40,NORMAL
+20.12,0 days,Yes,No,No,No,No,Yes,No,No,Female,76-80,NORMAL
+33.09,0 days,Yes,No,No,No,No,No,No,No,Male,<= 40,OBESITY
+25.79,0 days,No,No,No,No,No,No,Yes,No,Male,61-65,OVER-FAT
+21.21,0 days,Yes,No,No,No,No,No,No,No,Female,<= 40,NORMAL
+38.52,0 days,Yes,No,No,No,Yes,No,Yes,No,Male,66-70,OBESITY
+33.73,0 days,Yes,No,No,No,Yes,No,No,No,Female,76-80,OBESITY
+30.43,1-7 days,Yes,No,No,No,Yes,Yes,No,No,Female,51-55,OBESITY
+29.26,0 days,No,No,No,No,No,Yes,Yes,No,Female,71-75,OBESITY
+31.75,0 days,Yes,No,No,No,No,Yes,No,No,Female,71-75,OBESITY
+29.53,0 days,Yes,No,No,No,No,No,No,No,Male,<= 40,OBESITY
+26.36,0 days,Yes,No,No,No,Yes,No,Yes,No,Male,61-65,OVER-FAT
+23.13,0 days,Yes,No,No,No,No,No,No,No,Male,61-65,NORMAL
+28.01,0 days,No,No,No,Yes,No,Yes,Yes,No,Male,46-50,OBESITY
+18.46,0 days,No,No,Yes,Yes,No,Yes,Yes,No,Female,56-60,OVER-THIN
+45.61,8-14 days,Yes,No,No,Yes,Yes,Yes,No,No,Male,56-60,OBESITY
+19.79,1-7 days,Yes,No,No,No,No,Yes,Yes,No,Female,71-75,NORMAL
+26.58,>28 days,Yes,No,No,No,No,No,Yes,No,Male,46-50,OVER-FAT
+35.26,0 days,Yes,No,No,No,Yes,No,No,No,Male,56-60,OBESITY
+26.63,0 days,Yes,No,No,Yes,No,No,No,No,Female,<= 40,OVER-FAT
+30.79,1-7 days,Yes,No,No,Yes,No,No,Yes,No,Female,41-45,OBESITY
+22.15,8-14 days,Yes,No,Yes,No,No,No,No,No,Male,<= 40,NORMAL
+24.13,1-7 days,Yes,No,No,No,No,No,No,No,Female,<= 40,OVER-FAT
+22.71,1-7 days,Yes,No,No,No,No,No,No,No,Female,<= 40,NORMAL
+20.67,0 days,Yes,No,No,No,No,No,No,No,Female,<= 40,NORMAL
+48.47,0 days,Yes,No,No,No,Yes,Yes,No,No,Female,61-65,OBESITY
+19.49,8-14 days,Yes,Yes,No,No,No,No,No,No,Female,76-80,NORMAL
+26.76,0 days,No,No,No,No,No,No,No,No,Male,46-50,OVER-FAT
+22.15,15-21 days,Yes,No,No,No,No,No,No,No,Female,<= 40,NORMAL
+23.67,0 days,Yes,No,No,No,No,No,No,No,Male,<= 40,NORMAL
+34.46,1-7 days,No,No,No,No,No,No,No,No,Female,<= 40,OBESITY
+32.49,15-21 days,No,No,No,No,Yes,No,No,No,Male,61-65,OBESITY
+25.02,15-21 days,Yes,No,No,Yes,No,No,Yes,No,Male,61-65,OVER-FAT
+29.91,1-7 days,No,No,No,Yes,Yes,Yes,No,No,Female,66-70,OBESITY
+27.96,>28 days,No,No,No,Yes,Yes,Yes,Yes,No,Male,66-70,OVER-FAT
+28.57,0 days,No,No,No,No,No,No,No,No,Male,<= 40,OBESITY
+27.44,22-28 days,Yes,No,No,No,No,Yes,Yes,No,Female,66-70,OVER-FAT
+18.33,8-14 days,Yes,No,No,No,No,No,Yes,No,Female,>= 80,OVER-THIN
+29.87,0 days,Yes,Yes,No,No,No,No,No,No,Female,51-55,OBESITY
+23.49,1-7 days,Yes,No,No,No,No,No,No,No,Female,41-45,NORMAL
+30.85,1-7 days,Yes,No,No,No,No,No,No,No,Male,46-50,OBESITY
+17.16,0 days,Yes,No,Yes,No,No,No,No,No,Female,61-65,OVER-THIN
+53.08,0 days,No,No,No,Yes,Yes,Yes,Yes,No,Female,71-75,OBESITY
+33.6,1-7 days,No,No,No,Yes,No,Yes,No,No,Female,71-75,OBESITY
+28.37,0 days,Yes,No,No,No,No,No,No,No,Male,46-50,OBESITY
+20.18,>28 days,Yes,No,No,Yes,No,No,Yes,No,Female,61-65,NORMAL
+51.37,8-14 days,Yes,No,No,No,No,No,Yes,No,Female,<= 40,OBESITY
+28.25,0 days,Yes,No,No,No,No,No,No,No,Female,76-80,OBESITY
+21.11,1-7 days,Yes,No,No,No,No,No,No,No,Female,46-50,NORMAL
+30.9,0 days,No,No,No,No,No,No,No,No,Female,51-55,OBESITY
+39.16,8-14 days,No,No,No,No,No,Yes,Yes,No,Male,71-75,OBESITY
+21.31,8-14 days,Yes,No,Yes,No,No,No,No,No,Female,71-75,NORMAL
+28,0 days,Yes,No,No,No,Yes,Yes,Yes,No,Male,>= 80,OVER-FAT
+26.63,1-7 days,Yes,Yes,No,No,No,No,No,No,Female,>= 80,OVER-FAT
+25.4,1-7 days,Yes,No,No,Yes,No,Yes,No,No,Female,76-80,OVER-FAT
+31.93,1-7 days,Yes,No,No,No,No,Yes,No,No,Male,71-75,OBESITY
+24.86,0 days,No,No,Yes,No,No,No,No,No,Female,76-80,OVER-FAT
+27.4,1-7 days,Yes,No,No,No,No,No,No,No,Female,<= 40,OVER-FAT
+20.6,1-7 days,Yes,No,No,Yes,No,Yes,No,No,Female,56-60,NORMAL
+25.82,15-21 days,Yes,No,Yes,No,No,Yes,Yes,No,Female,71-75,OVER-FAT
+29.76,1-7 days,Yes,No,No,No,No,No,No,No,Male,56-60,OBESITY
+23.3,0 days,No,No,No,No,No,No,No,No,Male,66-70,NORMAL
+31.19,8-14 days,Yes,No,No,Yes,No,No,Yes,No,Male,<= 40,OBESITY
+25.75,0 days,Yes,Yes,Yes,No,No,No,No,No,Female,71-75,OVER-FAT
+25.79,0 days,Yes,No,No,No,No,No,Yes,No,Female,41-45,OVER-FAT
+25.09,8-14 days,Yes,No,Yes,No,No,No,No,No,Male,66-70,OVER-FAT
+26.96,>28 days,Yes,Yes,No,No,No,Yes,Yes,No,Male,61-65,OVER-FAT
+30.04,0 days,No,Yes,No,Yes,No,Yes,No,No,Female,71-75,OBESITY
+23.81,15-21 days,Yes,No,No,Yes,No,Yes,Yes,No,Female,<= 40,NORMAL
+31.32,>28 days,No,No,No,Yes,No,No,Yes,No,Female,<= 40,OBESITY
+28.98,0 days,Yes,No,No,No,No,Yes,No,No,Female,71-75,OBESITY
+27.37,8-14 days,Yes,No,No,No,No,No,No,No,Male,61-65,OVER-FAT
+32.27,1-7 days,Yes,No,No,Yes,No,Yes,No,No,Female,71-75,OBESITY
+25.83,15-21 days,Yes,No,No,No,No,No,Yes,No,Male,66-70,OVER-FAT
+27.12,0 days,Yes,No,No,No,No,No,Yes,No,Male,56-60,OVER-FAT
+52.58,0 days,No,No,No,No,No,Yes,Yes,No,Male,46-50,OBESITY
+31,>28 days,No,No,No,Yes,No,No,No,No,Male,61-65,OBESITY
+23.63,1-7 days,Yes,No,No,No,No,No,No,No,Male,<= 40,NORMAL
+22.67,0 days,Yes,Yes,No,Yes,No,Yes,Yes,No,Female,76-80,NORMAL
+21.95,0 days,Yes,No,No,Yes,Yes,No,Yes,No,Female,66-70,NORMAL
+25.51,0 days,Yes,No,No,No,No,No,No,No,Female,51-55,OVER-FAT
+23.67,1-7 days,Yes,No,No,No,No,No,No,No,Male,<= 40,NORMAL
+32.49,1-7 days,Yes,No,No,No,No,Yes,Yes,No,Male,76-80,OBESITY
+31.93,1-7 days,Yes,No,No,No,No,No,Yes,No,Male,41-45,OBESITY
+29.84,1-7 days,Yes,Yes,Yes,No,Yes,Yes,No,No,Male,76-80,OBESITY
+26.63,1-7 days,No,No,No,No,No,No,Yes,No,Female,51-55,OVER-FAT
+30.73,0 days,Yes,Yes,No,No,No,Yes,No,No,Female,61-65,OBESITY
+33.89,0 days,No,No,No,No,Yes,No,Yes,No,Male,61-65,OBESITY
+24.41,1-7 days,Yes,No,No,No,No,No,Yes,No,Male,<= 40,OVER-FAT
+26.83,0 days,Yes,No,No,No,No,No,Yes,No,Male,51-55,OVER-FAT
+24.86,0 days,Yes,No,No,No,No,No,Yes,No,Male,61-65,OVER-FAT
+34.87,1-7 days,Yes,No,Yes,No,Yes,No,No,No,Male,51-55,OBESITY
+20.45,0 days,No,No,No,Yes,No,Yes,Yes,No,Male,51-55,NORMAL
+31.93,0 days,No,No,No,No,No,Yes,Yes,No,Female,41-45,OBESITY
+23.91,1-7 days,Yes,No,No,No,No,No,No,No,Female,56-60,NORMAL
+32.28,0 days,No,No,No,Yes,No,Yes,Yes,No,Female,61-65,OBESITY
+29.26,0 days,No,No,No,Yes,Yes,Yes,No,No,Female,56-60,OBESITY
+28.84,1-7 days,No,No,No,No,No,No,Yes,No,Female,61-65,OBESITY
+28.34,1-7 days,Yes,Yes,No,No,No,Yes,Yes,No,Female,61-65,OBESITY
+26.57,1-7 days,Yes,No,No,No,No,No,Yes,No,Female,41-45,OVER-FAT
+29.29,1-7 days,Yes,No,No,No,No,No,No,No,Male,<= 40,OBESITY
+37.31,8-14 days,Yes,No,No,No,No,No,Yes,No,Male,71-75,OBESITY
+34.39,0 days,No,No,No,No,No,No,No,No,Male,66-70,OBESITY
+27.29,1-7 days,No,No,No,Yes,No,No,No,No,Male,<= 40,OVER-FAT
+28.84,1-7 days,No,No,No,No,No,No,Yes,No,Male,76-80,OBESITY
+26.5,0 days,Yes,No,No,No,No,No,Yes,No,Male,<= 40,OVER-FAT
+35.15,0 days,Yes,No,No,No,No,No,Yes,No,Male,<= 40,OBESITY
+27.44,1-7 days,No,No,No,No,No,No,Yes,No,Male,41-45,OVER-FAT
+43.05,1-7 days,Yes,No,No,No,No,No,Yes,No,Male,41-45,OBESITY
+30.21,0 days,Yes,No,No,No,No,Yes,Yes,No,Female,<= 40,OBESITY
+29.05,0 days,Yes,No,No,No,Yes,No,No,No,Female,71-75,OBESITY
+31.01,15-21 days,Yes,No,No,No,No,Yes,Yes,No,Male,61-65,OBESITY
+31.38,1-7 days,Yes,No,No,No,No,No,No,No,Male,<= 40,OBESITY
+21.14,1-7 days,Yes,No,No,No,No,No,No,No,Female,51-55,NORMAL
+22.71,>28 days,Yes,No,No,No,No,No,Yes,No,Female,66-70,NORMAL
+25.83,8-14 days,No,No,Yes,No,No,No,Yes,No,Male,71-75,OVER-FAT
+51.21,0 days,No,No,Yes,Yes,No,Yes,Yes,No,Female,76-80,OBESITY
+35.94,0 days,Yes,No,No,No,No,Yes,No,No,Male,71-75,OBESITY
+24.89,1-7 days,Yes,No,No,No,Yes,No,Yes,No,Female,71-75,OVER-FAT
+30.13,1-7 days,Yes,No,No,No,No,No,No,No,Male,41-45,OBESITY
+33.91,1-7 days,Yes,No,No,No,No,No,Yes,No,Male,<= 40,OBESITY
+31.75,1-7 days,Yes,No,No,Yes,No,Yes,No,No,Female,71-75,OBESITY
+26.61,1-7 days,No,No,No,No,No,No,No,No,Female,<= 40,OVER-FAT
+36.02,15-21 days,Yes,No,No,Yes,No,Yes,Yes,No,Male,46-50,OBESITY
+20.18,0 days,Yes,No,No,No,No,No,No,No,Female,41-45,NORMAL
+40.9,0 days,No,No,No,No,No,Yes,No,No,Female,<= 40,OBESITY
+16.5,0 days,Yes,No,No,No,No,Yes,Yes,No,Male,<= 40,OVER-THIN
+25.07,0 days,No,No,No,No,No,No,No,No,Male,<= 40,OVER-FAT
+32,22-28 days,Yes,No,No,No,No,Yes,Yes,No,Male,56-60,OBESITY
+29.82,>28 days,Yes,No,No,Yes,No,Yes,No,No,Male,71-75,OBESITY
+26.11,1-7 days,Yes,No,No,No,No,No,Yes,No,Male,56-60,OVER-FAT
+28.4,0 days,Yes,No,No,No,No,No,Yes,No,Male,<= 40,OBESITY
+29.68,0 days,Yes,No,No,No,No,No,Yes,No,Male,41-45,OBESITY
+32.92,22-28 days,Yes,No,No,Yes,No,No,Yes,No,Female,56-60,OBESITY
+38.04,0 days,Yes,No,No,No,Yes,Yes,Yes,No,Female,76-80,OBESITY
+29.53,1-7 days,Yes,No,No,No,No,No,No,No,Male,<= 40,OBESITY
+24.39,15-21 days,Yes,No,No,No,No,No,Yes,No,Male,>= 80,OVER-FAT
+26.92,>28 days,Yes,No,No,No,No,No,Yes,No,Male,71-75,OVER-FAT
+34.46,15-21 days,Yes,No,No,Yes,No,No,No,No,Female,41-45,OBESITY
+36.58,0 days,Yes,No,No,Yes,No,No,No,No,Female,<= 40,OBESITY
+20.8,0 days,Yes,No,Yes,No,No,No,Yes,No,Female,<= 40,NORMAL
+51.12,0 days,No,No,No,Yes,Yes,Yes,No,No,Male,61-65,OBESITY
+34.19,0 days,No,No,No,Yes,No,Yes,No,No,Female,56-60,OBESITY
+20.45,15-21 days,Yes,No,Yes,No,No,No,Yes,No,Male,51-55,NORMAL
+31.32,0 days,Yes,No,Yes,No,No,No,Yes,No,Female,71-75,OBESITY
+33.23,0 days,Yes,No,No,No,No,No,No,No,Male,56-60,OBESITY
+23.3,8-14 days,No,Yes,No,No,No,Yes,No,No,Female,46-50,NORMAL
+23.67,15-21 days,Yes,No,No,No,No,Yes,Yes,No,Male,61-65,NORMAL
+28.97,1-7 days,No,No,No,No,Yes,No,No,No,Male,76-80,OBESITY
+33.47,0 days,Yes,No,No,No,No,No,No,No,Male,61-65,OBESITY
+25.83,0 days,Yes,No,No,No,No,No,Yes,No,Male,<= 40,OVER-FAT
+25.02,0 days,Yes,No,No,No,No,No,Yes,No,Female,<= 40,OVER-FAT
+33.66,0 days,No,No,No,No,No,No,Yes,No,Female,76-80,OBESITY
+21.29,0 days,No,No,Yes,No,No,No,No,No,Female,71-75,NORMAL
+36.91,0 days,No,No,No,No,No,Yes,No,No,Female,46-50,OBESITY
+31.01,1-7 days,No,No,No,No,No,No,No,No,Female,<= 40,OBESITY
+23.62,0 days,Yes,No,No,No,No,Yes,Yes,No,Male,56-60,NORMAL
+33.2,0 days,Yes,No,No,No,No,No,No,No,Female,56-60,OBESITY
+27.44,1-7 days,Yes,No,No,Yes,No,No,No,No,Female,51-55,OVER-FAT
+26.31,1-7 days,Yes,No,No,No,No,No,No,No,Male,56-60,OVER-FAT
+32.01,0 days,No,No,No,Yes,No,Yes,No,No,Female,>= 80,OBESITY
+20.54,22-28 days,Yes,No,No,No,No,No,Yes,No,Male,<= 40,NORMAL
+43.27,0 days,No,No,Yes,Yes,Yes,No,Yes,No,Female,46-50,OBESITY
+23.63,8-14 days,Yes,No,No,No,No,No,Yes,No,Male,<= 40,NORMAL
+27.12,1-7 days,Yes,No,No,No,No,No,No,No,Male,66-70,OVER-FAT
+34.33,0 days,Yes,No,No,No,No,No,No,No,Female,41-45,OBESITY
+29.81,1-7 days,No,No,Yes,No,Yes,Yes,Yes,No,Female,76-80,OBESITY
+26.39,0 days,No,No,Yes,No,No,Yes,Yes,No,Male,>= 80,OVER-FAT
+24.55,22-28 days,Yes,No,No,Yes,No,No,Yes,No,Male,71-75,OVER-FAT
+23.81,0 days,Yes,No,No,No,No,No,No,No,Male,<= 40,NORMAL
+28.35,0 days,Yes,No,No,No,No,No,No,No,Female,71-75,OBESITY
+21.97,22-28 days,Yes,Yes,No,No,No,Yes,Yes,No,Female,>= 80,NORMAL
+38.41,1-7 days,Yes,No,No,No,Yes,Yes,Yes,No,Female,76-80,OBESITY
+26.63,0 days,Yes,No,No,No,No,No,Yes,No,Male,66-70,OVER-FAT
+34.39,1-7 days,Yes,No,No,Yes,No,Yes,No,No,Female,56-60,OBESITY
+24.96,1-7 days,Yes,Yes,Yes,No,No,Yes,Yes,No,Female,66-70,OVER-FAT
+22.32,0 days,Yes,No,No,Yes,No,No,Yes,No,Male,56-60,NORMAL
+25.34,1-7 days,No,No,No,Yes,No,Yes,No,No,Female,66-70,OVER-FAT
+27.4,0 days,Yes,No,No,No,No,No,No,No,Female,71-75,OVER-FAT
+26.45,8-14 days,Yes,No,No,No,No,No,No,No,Male,51-55,OVER-FAT
+25.54,>28 days,Yes,No,No,No,No,Yes,Yes,No,Male,71-75,OVER-FAT
+34.36,1-7 days,Yes,Yes,No,No,Yes,No,No,No,Male,71-75,OBESITY
+23.4,0 days,Yes,No,No,No,No,No,No,No,Female,56-60,NORMAL
+29.84,8-14 days,Yes,No,No,No,No,No,Yes,No,Male,56-60,OBESITY
+33.2,0 days,No,No,Yes,No,No,Yes,No,No,Female,>= 80,OBESITY
+36.79,0 days,No,No,No,No,No,No,Yes,No,Female,61-65,OBESITY
+26.57,1-7 days,Yes,No,No,No,No,No,No,No,Female,71-75,OVER-FAT
+25.82,8-14 days,Yes,No,No,No,No,No,No,No,Female,61-65,OVER-FAT
+22.6,0 days,Yes,No,No,No,No,Yes,Yes,No,Female,71-75,NORMAL
+20.78,0 days,Yes,No,No,Yes,No,Yes,No,No,Female,76-80,NORMAL
+29.18,8-14 days,Yes,No,No,No,No,No,No,No,Female,46-50,OBESITY
+23.75,1-7 days,No,No,No,No,No,No,No,No,Male,<= 40,NORMAL
+20.18,>28 days,Yes,No,No,Yes,No,No,Yes,No,Female,41-45,NORMAL
+21.29,0 days,Yes,No,No,Yes,No,No,No,No,Male,61-65,NORMAL
+33.91,0 days,No,No,No,No,No,No,No,No,Male,41-45,OBESITY
+27.89,1-7 days,Yes,Yes,No,No,No,Yes,Yes,No,Male,71-75,OVER-FAT
+39.87,0 days,Yes,No,No,Yes,Yes,Yes,Yes,No,Female,66-70,OBESITY
+35.43,1-7 days,No,No,No,No,No,No,Yes,No,Female,>= 80,OBESITY
+34.97,0 days,Yes,No,No,No,No,No,No,No,Female,<= 40,OBESITY
+25.79,0 days,Yes,No,No,Yes,No,Yes,Yes,No,Female,56-60,OVER-FAT
+32.99,1-7 days,No,No,No,No,No,Yes,Yes,No,Male,56-60,OBESITY
+19.37,0 days,No,Yes,No,No,No,No,Yes,No,Male,71-75,NORMAL
+35.44,8-14 days,Yes,No,No,No,No,No,No,No,Male,<= 40,OBESITY
+32.28,0 days,Yes,No,No,No,No,Yes,Yes,No,Female,66-70,OBESITY
+24.39,0 days,No,No,No,No,No,Yes,No,No,Male,46-50,OVER-FAT
+34.01,1-7 days,Yes,No,Yes,Yes,No,No,No,No,Female,<= 40,OBESITY
+30.11,8-14 days,No,No,No,No,No,No,No,No,Female,<= 40,OBESITY
+41.2,0 days,No,No,No,No,No,No,Yes,No,Female,<= 40,OBESITY
+19.79,15-21 days,Yes,No,No,No,No,No,Yes,No,Male,<= 40,NORMAL
+23.17,1-7 days,Yes,Yes,No,Yes,No,Yes,No,No,Female,76-80,NORMAL
+29.03,1-7 days,Yes,No,No,Yes,No,No,No,No,Male,41-45,OBESITY
+18.83,1-7 days,Yes,No,No,No,No,No,No,No,Male,<= 40,NORMAL
+27.98,1-7 days,Yes,No,No,No,No,No,No,No,Male,66-70,OVER-FAT
+27.44,1-7 days,Yes,No,No,No,No,No,No,No,Female,46-50,OVER-FAT
+23.49,22-28 days,Yes,No,No,No,No,No,No,No,Male,56-60,NORMAL
+32.6,1-7 days,Yes,No,No,No,No,Yes,Yes,No,Female,71-75,OBESITY
+27.41,0 days,No,No,No,No,No,No,Yes,No,Male,61-65,OVER-FAT
+31.57,0 days,No,No,No,No,No,Yes,No,No,Male,61-65,OBESITY
+24.9,8-14 days,Yes,No,No,No,No,No,No,No,Male,<= 40,OVER-FAT
+32.1,1-7 days,Yes,No,No,No,No,No,No,No,Male,61-65,OBESITY
+24.11,1-7 days,Yes,No,No,No,No,No,No,No,Male,41-45,OVER-FAT
+26.58,1-7 days,Yes,No,Yes,No,Yes,No,Yes,No,Male,71-75,OVER-FAT
+31.19,1-7 days,Yes,No,Yes,No,No,No,No,No,Male,66-70,OBESITY
+27.46,22-28 days,Yes,No,No,No,No,No,Yes,No,Female,66-70,OVER-FAT
+20.94,1-7 days,Yes,No,No,No,No,Yes,No,No,Female,66-70,NORMAL
+34.77,0 days,Yes,No,No,No,Yes,No,No,No,Male,76-80,OBESITY
+36.59,0 days,Yes,Yes,No,No,Yes,Yes,Yes,No,Male,66-70,OBESITY
+27.71,8-14 days,No,No,No,No,No,No,No,No,Male,<= 40,OVER-FAT
+33.96,1-7 days,Yes,No,No,No,No,Yes,Yes,No,Male,51-55,OBESITY
+31.62,0 days,No,No,No,No,No,No,No,No,Female,46-50,OBESITY
+34.87,0 days,No,No,No,No,Yes,Yes,No,No,Male,61-65,OBESITY
+36.61,1-7 days,No,No,No,No,No,No,No,No,Female,41-45,OBESITY
+29.84,1-7 days,Yes,Yes,No,Yes,No,Yes,No,No,Male,66-70,OBESITY
+23.78,0 days,Yes,No,No,No,No,No,No,No,Female,66-70,NORMAL
+24.8,1-7 days,Yes,No,No,Yes,No,No,No,No,Female,<= 40,OVER-FAT
+25.84,0 days,No,No,No,No,No,Yes,No,No,Male,51-55,OVER-FAT
+27.05,22-28 days,No,No,Yes,No,Yes,Yes,Yes,No,Male,61-65,OVER-FAT
+39.08,0 days,Yes,No,No,No,Yes,Yes,Yes,No,Female,76-80,OBESITY
+27.12,0 days,Yes,No,No,Yes,No,Yes,No,No,Male,51-55,OVER-FAT
+46.2,0 days,Yes,No,No,No,Yes,Yes,No,No,Male,51-55,OBESITY
+43.85,1-7 days,Yes,No,No,Yes,Yes,Yes,No,No,Male,61-65,OBESITY
+30.79,0 days,No,No,No,No,No,No,Yes,No,Female,>= 80,OBESITY
+28.13,15-21 days,Yes,No,No,No,No,No,No,No,Male,<= 40,OBESITY
+28,0 days,Yes,Yes,No,No,No,No,No,No,Male,<= 40,OVER-FAT
+43.4,8-14 days,Yes,No,No,No,No,Yes,No,No,Male,<= 40,OBESITY
+23.49,0 days,No,No,No,No,No,No,No,No,Male,>= 80,NORMAL
+21.41,0 days,Yes,No,No,No,No,No,No,No,Male,46-50,NORMAL
+27.8,>28 days,Yes,No,No,No,No,Yes,No,No,Male,71-75,OVER-FAT
+34.87,0 days,No,No,No,Yes,No,Yes,Yes,No,Male,41-45,OBESITY
+32.55,0 days,No,No,No,No,Yes,Yes,Yes,No,Male,61-65,OBESITY
+25.68,15-21 days,Yes,No,No,No,No,No,Yes,No,Male,66-70,OVER-FAT
+20.18,0 days,Yes,No,No,No,No,No,No,No,Female,56-60,NORMAL
+28.48,15-21 days,Yes,Yes,Yes,No,No,Yes,Yes,No,Male,76-80,OBESITY
+23.43,1-7 days,No,No,No,No,No,No,No,No,Male,<= 40,NORMAL
+32.01,0 days,Yes,Yes,No,No,No,Yes,Yes,No,Female,41-45,OBESITY
+20.36,22-28 days,Yes,No,No,No,No,No,No,No,Female,<= 40,NORMAL
+23.33,0 days,Yes,Yes,No,No,No,No,No,No,Male,56-60,NORMAL
+20.6,0 days,Yes,No,No,No,No,Yes,Yes,No,Female,>= 80,NORMAL
+22.81,0 days,Yes,No,No,No,No,No,No,No,Male,<= 40,NORMAL
+24.63,1-7 days,Yes,No,No,No,No,No,No,No,Male,51-55,OVER-FAT
+29.29,1-7 days,No,No,Yes,Yes,No,No,No,No,Female,51-55,OBESITY
+27.37,0 days,Yes,No,No,Yes,No,No,No,No,Female,61-65,OVER-FAT
+32.78,1-7 days,No,No,No,No,Yes,No,No,No,Male,71-75,OBESITY
+28.76,1-7 days,Yes,No,No,No,No,Yes,Yes,No,Male,71-75,OBESITY
+22.31,8-14 days,Yes,No,No,No,No,No,No,No,Female,<= 40,NORMAL
+30.21,1-7 days,Yes,Yes,No,No,No,No,No,No,Female,41-45,OBESITY
+25,>28 days,Yes,Yes,Yes,No,No,Yes,No,No,Male,76-80,OVER-FAT
+27.46,15-21 days,No,Yes,No,No,Yes,Yes,Yes,No,Male,56-60,OVER-FAT
+24.02,0 days,Yes,No,Yes,No,No,No,Yes,No,Female,71-75,OVER-FAT
+20.92,15-21 days,Yes,No,No,No,No,No,Yes,No,Male,41-45,NORMAL
+39.06,22-28 days,Yes,Yes,No,No,Yes,Yes,Yes,No,Male,66-70,OBESITY
+39.94,0 days,Yes,No,No,No,No,Yes,Yes,No,Female,41-45,OBESITY
+46.99,0 days,Yes,No,No,No,No,Yes,No,No,Male,61-65,OBESITY
+20.67,0 days,Yes,No,No,Yes,No,Yes,Yes,No,Female,41-45,NORMAL
+23.04,0 days,Yes,No,No,No,No,No,No,No,Male,56-60,NORMAL
+27.12,>28 days,Yes,No,No,No,No,Yes,No,No,Female,76-80,OVER-FAT
+28.8,1-7 days,No,No,No,No,No,Yes,No,No,Female,51-55,OBESITY
+27.46,1-7 days,No,No,No,Yes,No,No,No,No,Female,<= 40,OVER-FAT
+23.49,>28 days,Yes,Yes,No,No,No,Yes,Yes,No,Male,>= 80,NORMAL
+34.44,1-7 days,Yes,No,No,Yes,No,Yes,No,No,Male,71-75,OBESITY
+26.63,1-7 days,Yes,No,No,No,No,No,No,No,Female,56-60,OVER-FAT
+24.33,1-7 days,Yes,No,No,No,No,No,No,No,Male,56-60,OVER-FAT
+25.61,0 days,Yes,No,No,No,No,Yes,No,No,Female,56-60,OVER-FAT
+29.76,0 days,Yes,No,No,No,Yes,No,No,No,Male,71-75,OBESITY
+25.1,15-21 days,Yes,No,No,No,No,No,No,No,Male,<= 40,OVER-FAT
+25.77,8-14 days,Yes,Yes,No,No,No,No,No,No,Male,56-60,OVER-FAT
+24.21,8-14 days,Yes,No,No,No,No,Yes,No,No,Female,46-50,OVER-FAT
+32.08,8-14 days,Yes,Yes,No,No,No,Yes,Yes,No,Male,71-75,OBESITY
+25.77,0 days,Yes,No,No,No,No,Yes,Yes,No,Male,56-60,OVER-FAT
+21.93,1-7 days,Yes,No,No,No,No,No,No,No,Male,<= 40,NORMAL
+21.97,0 days,No,No,No,No,No,Yes,Yes,No,Male,61-65,NORMAL
+28.34,1-7 days,Yes,No,No,Yes,No,No,Yes,No,Female,<= 40,OBESITY
+21.41,1-7 days,Yes,No,No,No,No,Yes,No,No,Male,71-75,NORMAL
+33.45,1-7 days,Yes,No,No,No,No,No,Yes,No,Male,56-60,OBESITY
+24.39,8-14 days,Yes,No,No,No,No,No,Yes,No,Male,<= 40,OVER-FAT
+28.37,1-7 days,Yes,No,No,Yes,No,Yes,Yes,No,Male,<= 40,OBESITY
+30.9,1-7 days,Yes,No,No,No,No,Yes,No,No,Female,<= 40,OBESITY
+27.71,0 days,Yes,No,No,No,No,No,No,No,Male,46-50,OVER-FAT
+25.29,1-7 days,Yes,No,No,Yes,No,No,Yes,No,Male,56-60,OVER-FAT
+19.74,>28 days,Yes,No,No,No,No,Yes,Yes,No,Female,71-75,NORMAL
+31.38,8-14 days,Yes,No,No,No,No,No,No,No,Male,<= 40,OBESITY
+27.5,0 days,Yes,No,Yes,No,No,Yes,No,No,Male,61-65,OVER-FAT
+27.12,1-7 days,Yes,No,No,No,No,No,No,No,Male,<= 40,OVER-FAT
+30.9,0 days,No,Yes,No,No,No,Yes,Yes,No,Female,71-75,OBESITY
+25.07,0 days,Yes,No,No,No,No,No,No,No,Male,56-60,OVER-FAT
+23.4,0 days,Yes,No,No,Yes,No,Yes,Yes,No,Female,56-60,NORMAL
+25.61,15-21 days,Yes,No,No,No,No,No,Yes,No,Female,51-55,OVER-FAT
+24.41,0 days,Yes,No,No,No,No,No,No,No,Male,<= 40,OVER-FAT
+36.48,1-7 days,Yes,No,No,No,No,No,No,No,Male,<= 40,OBESITY
+26.39,1-7 days,Yes,No,No,No,No,No,No,No,Male,51-55,OVER-FAT
+18.81,0 days,Yes,No,No,Yes,No,Yes,Yes,No,Female,56-60,NORMAL
+24.39,1-7 days,Yes,No,No,No,No,Yes,Yes,No,Male,<= 40,OVER-FAT
+26.58,15-21 days,Yes,No,No,Yes,No,Yes,Yes,No,Female,<= 40,OVER-FAT
+30.9,15-21 days,Yes,No,No,No,No,No,No,No,Female,51-55,OBESITY
+25.09,8-14 days,Yes,No,No,No,No,Yes,Yes,No,Male,56-60,OVER-FAT
+29.24,1-7 days,Yes,Yes,No,No,No,Yes,No,No,Male,66-70,OBESITY
+28.34,8-14 days,Yes,No,No,No,No,No,No,No,Female,<= 40,OBESITY
+27.26,>28 days,Yes,No,No,No,No,Yes,Yes,No,Male,51-55,OVER-FAT
+35.95,0 days,Yes,No,No,No,No,Yes,Yes,No,Male,61-65,OBESITY
+27.32,8-14 days,Yes,No,No,No,No,No,Yes,No,Male,<= 40,OVER-FAT
+24.14,0 days,Yes,Yes,No,No,No,No,No,No,Male,>= 80,OVER-FAT
+25.77,1-7 days,Yes,No,No,No,No,Yes,No,No,Male,66-70,OVER-FAT
+35.25,0 days,Yes,No,No,No,No,Yes,No,No,Male,<= 40,OBESITY
+20.6,1-7 days,Yes,No,No,Yes,No,No,No,No,Female,<= 40,NORMAL
+30.34,1-7 days,Yes,No,No,No,No,Yes,Yes,No,Male,56-60,OBESITY
+23.11,0 days,Yes,No,No,No,No,Yes,No,No,Male,41-45,NORMAL
+27.46,8-14 days,Yes,No,No,No,Yes,No,No,No,Male,71-75,OVER-FAT
+22.14,8-14 days,Yes,No,No,No,No,No,No,No,Female,71-75,NORMAL
+18.94,0 days,No,No,No,No,No,No,No,No,Female,71-75,NORMAL
+27.46,1-7 days,Yes,No,No,No,No,No,No,No,Female,46-50,OVER-FAT
+22.32,0 days,Yes,No,No,No,No,No,No,No,Male,<= 40,NORMAL
+24.8,0 days,Yes,No,No,No,No,No,Yes,No,Female,41-45,OVER-FAT
+22.38,15-21 days,Yes,No,No,No,No,No,No,No,Male,<= 40,NORMAL
+25.11,1-7 days,Yes,No,No,No,No,No,No,No,Male,56-60,OVER-FAT
+21.43,22-28 days,Yes,No,No,No,No,Yes,Yes,No,Female,66-70,NORMAL
+33.47,22-28 days,Yes,No,No,No,No,No,No,No,Male,61-65,OBESITY
+27.5,0 days,Yes,No,No,No,Yes,No,No,No,Male,56-60,OVER-FAT
+25.83,0 days,No,No,No,No,No,No,No,No,Male,<= 40,OVER-FAT
+22.86,0 days,Yes,No,No,No,No,No,No,No,Female,<= 40,NORMAL
+24.21,0 days,Yes,No,No,No,No,No,No,No,Female,71-75,OVER-FAT
+25.23,0 days,No,No,Yes,No,Yes,Yes,Yes,No,Female,61-65,OVER-FAT
+31.09,22-28 days,No,No,No,No,No,No,No,No,Female,76-80,OBESITY
+25.02,1-7 days,Yes,No,No,No,No,No,No,No,Female,<= 40,OVER-FAT
+24.41,1-7 days,Yes,Yes,No,No,No,No,No,No,Male,51-55,OVER-FAT
+28.7,>28 days,Yes,Yes,Yes,No,No,No,Yes,No,Male,>= 80,OBESITY
+32.74,1-7 days,Yes,No,No,No,No,No,No,No,Male,51-55,OBESITY
+24.33,0 days,Yes,No,No,No,No,Yes,Yes,No,Male,>= 80,OVER-FAT
+33.84,1-7 days,Yes,No,Yes,No,Yes,Yes,No,No,Female,51-55,OBESITY
+30,22-28 days,Yes,No,No,No,No,No,Yes,No,Male,<= 40,OBESITY
+27.71,0 days,Yes,No,No,No,No,No,No,No,Male,71-75,OVER-FAT
+22.6,0 days,No,No,No,Yes,Yes,Yes,Yes,No,Female,76-80,NORMAL
+22.46,1-7 days,Yes,No,No,Yes,No,No,No,No,Female,<= 40,NORMAL
+22.14,22-28 days,Yes,Yes,No,Yes,No,No,Yes,No,Female,66-70,NORMAL
+30.9,0 days,Yes,No,No,No,No,Yes,No,No,Female,61-65,OBESITY
+29.53,8-14 days,Yes,Yes,No,No,No,Yes,No,No,Male,51-55,OBESITY
+27.34,0 days,Yes,No,No,Yes,No,No,No,No,Female,<= 40,OVER-FAT
+28.48,0 days,Yes,No,No,No,No,No,Yes,No,Male,66-70,OBESITY

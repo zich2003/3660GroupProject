@@ -1,4 +1,5 @@
 LIBNAME lib "/home/u64324048/Group_Project/git/Code/CommonFactors/lib";
+ODS POWERPOINT FILE = '/home/u64324048/Group_Project/git/Code/CommonFactors/analysis_ab.pptx';
 
 PROC FREQ DATA=lib.datasetab;
 	TABLE HavingCVD*AlcoholDrinking / CHISQ;
@@ -14,7 +15,7 @@ PROC LOGISTIC DATA=lib.datasetab;
 	
 	MODEL HavingCVD (event = 'Yes') =  
 		AlcoholDrinking
-		BMI_Class 
+		BMI
 		Age_Range
 		Gender 
 	/ OUTROC=roc_AB;

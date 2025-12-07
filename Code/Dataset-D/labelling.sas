@@ -68,7 +68,7 @@ DATA lib.labelling_data;
 RUN;
 
 DATA common.datasetD;
-	SET labelling (DROP = Other_Cancer Depression Arthritis 'Index'n );
+	SET labelling (DROP = Other_Cancer Depression Arthritis);
 	FORMAT 
 		BMI_Class bmifmt.
 	;

@@ -1,5 +1,5 @@
 LIBNAME lib "/home/u64324048/Group_Project/git/Code/Dataset-A/lib";
-ODS POWERPOINT FILE = '/home/u64324048/Group_Project/git/Code/Dataset-A/analysisB.pptx';
+ODS POWERPOINT FILE = '/home/u64324048/Group_Project/git/Code/Dataset-A/outputfile/analysis_dataset_A.pptx';
 
 DATA analysis_data;
 	SET lib.labelling_data;
@@ -10,8 +10,13 @@ PROC FREQ DATA=analysis_data;
 RUN;
 
 PROC FREQ DATA=analysis_data;
-	TABLE HavingCVD*PhysicalActivity / CHISQ;
+	TABLE HavingCVD*Exercise/ CHISQ;
 RUN;
+
+PROC FREQ DATA=analysis_data;
+	TABLE HavingCVD*SleepTime/ CHISQ;
+RUN;
+
 
 
 PROC LOGISTIC DATA=analysis_data;
@@ -19,17 +24,18 @@ PROC LOGISTIC DATA=analysis_data;
 		Stroke (param = ref ref = 'No')
 		Asthma (param = ref ref = 'No')
 		Exercise (param = ref ref = 'No')
-		SleepTime (param = ref ref = '4')
 		Gender (param = ref ref = 'Female')
 		Age_Range (param = ref ref = '<= 40')
 		BMI_Class (param = ref ref = 'NORMAL')
 		MentalHealth (param = ref ref = '0 days')
+		SleepTime(param = ref ref = '4')
 	;
 	
 	MODEL HavingCVD (EVENT = 'Yes') = 
-		Stroke Asthma 
+		Stroke 
+		Asthma 
 		Exercise
-		SleepTime 
+		SleepTime
 		Gender 
 		Age_Range 
 		BMI_Class 
@@ -39,9 +45,6 @@ PROC LOGISTIC DATA=analysis_data;
 		
 	OUTPUT OUT=predicted_data PREDICTED=pred_prob;
 	
-RUN;
-
-PROC PRINT DATA=predicted_data;
 RUN;
 
 PROC EXPORT DATA=predicted_data

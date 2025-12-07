@@ -62,6 +62,12 @@ PROC FORMAT;
         10 = ">= 80"  
     ;
     
+    VALUE bpfmt
+      	0 = "Normal"
+      	1 = "HBP"
+      	2 = "Serious SBP"
+    ;
+    
 RUN;
 
 
@@ -78,7 +84,12 @@ DATA labelling_data;
 	    
 	    THEN 
 	    	HBPStatus = 1;
-	    	
+	    
+	    ELSE IF 
+	    	 (SBP > 140) OR
+	    	 (DBP > 120)
+	    THEN 
+	    	HBPStatus = 2;
 	    ELSE IF 
 	    	(SBP< 140 AND DBP < 90)
 	    	

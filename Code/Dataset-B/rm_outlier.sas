@@ -1,4 +1,5 @@
 LIBNAME lib "/home/u64324048/Group_Project/git/Code/Dataset-B/lib";
+ODS POWERPOINT FILE = '/home/u64324048/Group_Project/git/Code/Dataset-B/dataset_B_outliers.pptx';
 
 DATA outliers_data;
 	SET lib.process_data;
@@ -52,7 +53,7 @@ RUN;
 
 DATA outliers;
 	SET outliers_data;
-	
+	LENGTH PotentialOutlierClass $22.;
 	IF HavingCVD = 1 THEN DO;
 		IQR_SBP = &uq_sbp_1 - &lq_sbp_1;
 		IQR_DBP = &uq_dbp_1 - &lq_dbp_1;
@@ -113,6 +114,14 @@ DATA outliers;
 	KEEP Index BMI sbp dbp PotentialOutlierClass;
 RUN;
 
+PROC PRINT DATA=outliers_data;
+	WHERE 
+		(SBP >= 1000 OR SBP <= 12) OR
+		(DBP >= 1000 OR DBP <= 20) 
+	;
+RUN;
+
+
 PROC SORT DATA=outliers OUT=ranked_bmi_outliers;
     WHERE PotentialOutlierClass IN ("BMI (Having CVD)", "BMI (Not Having CVD)");
     BY DESCENDING BMI;
@@ -144,14 +153,13 @@ PROC PRINT DATA=ranked_ap_hi_outliers ;
 	TITLE "Potential Outliers of SBP";
 RUN;
 
-
 DATA filtered_data;
 	**Setting the threshold value of outliers;
 	SET outliers_data;
 	IF 
 		(SBP >= 1000 OR SBP <= 12) OR
 		(DBP >= 1000 OR DBP <= 20) OR 
-		BMI > 46.67
+		BMI > 62.5
 	THEN 
 		DELETE
 	;
@@ -159,9 +167,6 @@ RUN;
 
 DATA lib.rm_outliers;
 	SET filtered_data;
-RUN;
-
-PROC PRINT DATA=lib.rm_outliers;
 RUN;
 
 

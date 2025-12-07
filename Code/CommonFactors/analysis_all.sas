@@ -1,5 +1,6 @@
 LIBNAME lib "/home/u64324048/Group_Project/git/Code/CommonFactors/lib";
-ODS POWERPOINT FILE = '/home/u64324048/Group_Project/git/Code/CommonFactors/analysis.pptx';
+ODS POWERPOINT FILE = '/home/u64324048/Group_Project/git/Code/CommonFactors/outputfile/analysis.pptx';
+ODS GRAPHICS ON / width= 16cm height=12cm;
 
 ** Analysis All;
 DATA analysis_data;
@@ -24,61 +25,104 @@ PROC FREQ DATA = analysis_data;
 	TABLE HavingCVD*Gender/ OUTPCT CHISQ OUT=Gender_analysis;
 	TABLE HavingCVD*Age_Range/OUTPCT CHISQ OUT=Age_Range_analysis;
 	TABLE HavingCVD*BMI_Class / OUTPCT CHISQ OUT=BMI_Class_analysis;
+	
 	TABLE Gender*BMI_Class / OUTPCT OUT=BMI_Class_Gender_analysis;
 	TITLE "The association analysis between Discrete Data and CVD status";
 RUN;
 
+PROC PRINT DATA=Age_Range_analysis;
+RUN;
+
 PROC SGPLOT DATA=Gender_analysis;
-	VBAR Gender / Response=PCT_COL;
+	VBAR Gender / 
+		Response=PCT_COL 	
+		BARWIDTH=1
+	;
+	
 	WHERE HavingCVD = 1;
-	YAXIS MIN = 0 MAX=100;
+	
+	YAXIS 
+		MIN = 0 
+		MAX=100
+		LABEL="Prevalence"
+	;
+	
+	XAXIS 
+		LABEL="Gender"
+	;
+	
 	TITLE "The Prevalence analysis between Gender and CVD status";
 RUN;
 
 PROC SGPLOT DATA=Age_Range_analysis;
-	VBAR Age_Range / Response=PCT_COL;
 	WHERE HavingCVD = 1;
-	YAXIS MIN = 0 MAX=100;
+	SERIES 
+		X = Age_Range
+		Y = PCT_COL
+	/	
+		markers 
+		markerattrs=(symbol=circlefilled size=6)
+        lineattrs=(color=red thickness=2);
+	;
+	
+	YAXIS 
+		MIN = 0 
+		MAX=100
+		LABEL="Prevalence"
+	;
+	
+	XAXIS 
+	  	TYPE=discrete
+		MIN = 0
+		LABEL="Age Range"
+	;
+	
 	TITLE "The Age_Range analysis between Gender and CVD status";
 RUN;
 
 PROC SGPLOT DATA=BMI_Class_analysis;
-	VBAR BMI_Class / Response=PCT_COL;
 	WHERE HavingCVD = 1;
-	YAXIS MIN = 0 MAX=100;
-	TITLE "The BMI_Class analysis between Gender and CVD status";
+	VBAR BMI_CLASS / RESPONSE=PCT_COL BARWIDTH=1
+	;
+	YAXIS 
+		MIN = 0 
+		MAX=100
+		LABEL="Percentage"
+	;
+	
+	XAXIS 
+	  	TYPE=discrete
+		MIN = 0
+		LABEL="BMI_Class"
+	;
+	
+	TITLE "BMI distribution among disease samples";
 RUN;
 
 PROC SGPLOT DATA=BMI_Class_Gender_analysis;;
-	VBAR Gender / Response=PCT_COL Group= BMI_Class GROUPDISPLAY=cluster;
-	YAXIS MIN = 0 MAX=100;
-	TITLE "The BMI_Class analysis between Gender and CVD status";
-RUN;
-
-PROC LOGISTIC DATA=lib.all;
-	CLASS 
-		BMI_Class (param = ref ref = 'NORMAL')
-		Age_Range (param = ref ref = '<= 40')
-		Gender (param = ref ref = 'Female')
+	VBAR Gender / 
+		Response=PCT_COL 
+		Group= BMI_Class 
+		GROUPDISPLAY=cluster 
+	;
+	YAXIS 
+		MIN = 0 
+		MAX=100
+		LABEL="Percentage"
 	;
 	
-	MODEL HavingCVD (event = 'Yes') = BMI_Class Age_Range Gender / OUTROC=roc_data;
-	OUTPUT OUT=predicted_data PREDICTED = pred_prob;
-RUN;
-
-PROC PRINT DATA=roc_data;
+	XAXIS 
+	  	TYPE=discrete
+		MIN = 0
+		LABEL="Gender"
+	;
+	
+	TITLE "BMI distribution between genders";
 RUN;
 
 PROC ANOVA DATA=analysis_data;
 	CLASS Age_Range;
 	MODEL BMI = Age_Range;
 	MEANS Age_Range / tukey;
-RUN;
-
-PROC EXPORT DATA=predicted_data
-	OUTFILE="/home/u64324048/Group_Project/git/Code/Dataset/predict_common_all.csv"
-	DBMS =csv
-	REPLACE
-;
 RUN;
 

@@ -113,7 +113,6 @@ DATA convert_data;
 		i
 		General_Health
 		Checkup
-	    Exercise 
 	    Skin_Cancer 
 	    Other_Cancer 
 	    Depression 
@@ -125,13 +124,13 @@ DATA convert_data;
 	 	'Weight_(kg)'n
 	 	upper
 	 	Age_Category
-	 	dash_pos	
+	 	dash_pos
+	 	Exercise
 	;
 	
-	Index = _N_;
 
 	RENAME 
-	    Exercise_num = PhysicalActivity
+	    Exercise_num = Exercise
 	    Skin_Cancer_num = Skin_Cancer
 	    Other_Cancer_num = Other_Cancer
 	    Depression_num = Depression
@@ -146,7 +145,7 @@ RUN;
 DATA lib.process_data;
 	SET convert_data;
 	FORMAT 
-		PhysicalActivity bool.
+		Exercise bool.
 		Skin_Cancer bool.
 		Other_Cancer bool.
 		Depression bool.

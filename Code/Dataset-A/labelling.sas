@@ -13,6 +13,7 @@ PROC FORMAT;
         28-HIGH = 4
     ;
     
+    
    	VALUE bmifmt
         1 = 'OVER-THIN'       
         2 = 'NORMAL'
@@ -51,8 +52,11 @@ DATA labelling;
     	   
 	BMI_Class = PUT(BMI, bmifmtConvert.);
 	BMI_Class_Num = INPUT(BMI_Class,3.);
+	
 	DROP BMI_Class;
-	RENAME BMI_Class_Num = BMI_Class;
+	RENAME 
+		BMI_Class_Num = BMI_Class
+	;
 		
     FORMAT 
     	Age_Range agefmt. 
@@ -76,13 +80,16 @@ DATA common.DatasetA;
 		Exercise
 	);
 	FORMAT BMI_Class bmifmt.;
+	
 RUN;
 
 DATA lib.labelling_data;
 	SET labelling;
-	FORMAT BMI_Class bmifmt.;
+	FORMAT 
+		BMI_Class bmifmt. 
+	;
 RUN;
 
-PROC PRINT DATA=common.DatasetA;
+PROC PRINT DATA=lib.labelling_data;
 RUN;
 

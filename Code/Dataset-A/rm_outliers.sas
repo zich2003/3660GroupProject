@@ -1,4 +1,5 @@
 LIBNAME lib "/home/u64324048/Group_Project/git/Code/Dataset-A/lib";
+ODS POWERPOINT FILE = '/home/u64324048/Group_Project/git/Code/Dataset-A/dataset_A_outliers.pptx';
 
 DATA outliers_data;
 	SET lib.convert_data;
@@ -104,18 +105,19 @@ RUN;
 
 /*Remove Outliers*/
 **Outliers Summary;
+
+PROC PRINT DATA=ranked_SleepTime_outliers;
+	TITLE "Potential Outliers of SleepTime";
+	WHERE SleepTime >= 16 OR SleepTime <= 2;
+RUN;
+
 PROC PRINT DATA=ranked_bmi_outliers;
 	TITLE "Potential Outliers of BMI";
 RUN;
-PROC PRINT DATA=ranked_SleepTime_outliers;
-	TITLE "Potential Outliers of SleepTime";
-RUN;
+
 
 DATA lib.rm_outliers_data;
 	SET outliers_data;
 	IF SleepTime >= 16 OR SleepTime <= 2 THEN DELETE; **No Outliers Found in BMI;
 	TITLE "Cleaned_Data";
-RUN;
-
-PROC PRINT DATA=lib.rm_outliers_data;
 RUN;

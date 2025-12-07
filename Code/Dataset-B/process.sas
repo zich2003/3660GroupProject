@@ -66,4 +66,5 @@ DATA lib.process_data;
 RUN;
 
 PROC PRINT DATA=lib.process_data;
+	WHERE BMI > 100;
 RUN;

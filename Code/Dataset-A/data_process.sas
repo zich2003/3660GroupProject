@@ -127,7 +127,7 @@ DATA numeric_data;
 	RENAME
 		SmokingStatus_num = SmokingStatus
 		Stroke_num = Stroke
-		PhysicalActivity_num =  Exercise
+		PhysicalActivity_num = Exercise
 		AlcoholDrinking_num = AlcoholDrinking
 		Asthma_num = Asthma 
 		Diabetes_num = Diabetes

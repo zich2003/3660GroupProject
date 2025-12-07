@@ -67,7 +67,7 @@ DATA rm_outliers;
 	END;
 RUN;
 
-/*human justify*/
+/*human justify*
 
 DATA lib.health_statistic;
 	SET outlier_data;
